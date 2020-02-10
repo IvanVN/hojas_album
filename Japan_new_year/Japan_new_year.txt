@@ -25,9 +25,10 @@ ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing fo
 ALBUM_PAGES_TITLE    (TB 16 "Japón - Felicitaciones de año nuevo") #add a title to the top of each page
 
 ROW_ALIGN_MIDDLE
+#STAMP_HEADING_PADDING (-1.0)
 
 # ------------------------------------------------------------------------------
-# 1936 Monte Fuji - 1937 Meoto Iwa, Futami
+# 1936 Monte Fuji - 1937 Meoto Iwa, Futami - 1938 Shimenawa
 # ------------------------------------------------------------------------------
 
 PAGE_START
@@ -46,7 +47,7 @@ ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 # PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  ""    "N38"    "")
+STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  "" "Sn222 Sg280 Mi217 Yt226 N1" "")
 STAMP_HEADING(HN 12 "Monte Fuji \n 01-12-1935")
 
 # 1937 Meoto Iwa, Futami
@@ -61,10 +62,10 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "N38"    "")
+STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "Sn234 Sg292 Mi229 Yt238 N2"    "")
 STAMP_HEADING(HN 12 "Meoto Iwa (rocas casadas), Futami \n 10-12-1936")
 
-# 1938 Meoto Iwa, Futami
+# 1938 Shimenawa
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de tierra")   # draw thetitle text with a negative amount of blank space after it
@@ -76,7 +77,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "N38"    "")
+STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Sn256 Sg339 Mi236 Yt261 N3"    "")
 STAMP_HEADING(HN 12 "Shimenawa, decoracion de año nuevo \n 15-12-1937")
 
 PAGE_TEXT_CENTRE(HN  10 "Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro, que representa al santuario sintoísta.")
@@ -98,12 +99,80 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n38.jpg"  ""    "N38"    "")
+STAMP_ADD_IMG (25.5 29.5  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
 STAMP_HEADING(HN 12 "Perro de juguete \n 01-12-1981")
 
+PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
+
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98.0 76.0  "imagenes/n38a.jpg"  ""    "N38A"    "")
+STAMP_ADD_IMG (98.0 76.0  "imagenes/n38a.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
 STAMP_HEADING(HN 12 "Hoja bloque lotería - Perro de juguete \n 20-01-1982") 
+
+
+# ------------------------------------------------------------------------------
+# 2006 Año del perro - 2 filas
+# ------------------------------------------------------------------------------
+
+#PAGE_START
+
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE (TN 20 "Año del Perro de fuego")   # draw thetitle text with a negative amount of blank space after it
+#PAGE_TEXT_CENTRE (TN 12 "29 de enero de 2006 al 17 de febrero de 2007" -18.0)
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+#ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+#STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
+#ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+#ROW_START_FS (HN 6 0.1 24.0)
+#STAMP_ADD_IMG (26 30  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
+#STAMP_HEADING(HN 10 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
+#STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
+#STAMP_HEADING(HN 10 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+
+#ROW_START_FS (HN 6 0.1 24.0)
+#STAMP_ADD_IMG (30 55  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
+#STAMP_HEADING(HN 10 "\n Akita Inu \n 15-11-2005")
+#STAMP_ADD_IMG (30 55  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
+#STAMP_HEADING(HN 10 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+
+#ROW_START_FS (HN 6 0.1 6.0)
+#STAMP_ADD_IMG (98.0 76.0  "imagenes/n111.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
+#STAMP_HEADING(HN 10 "Hoja bloque lotería - Perro de juguete \n 20-01-1982") 
+
+
+# ------------------------------------------------------------------------------
+# 2006 Año del perro
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Perro de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "29 de enero de 2006 al 17 de febrero de 2007" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
+STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
+STAMP_ADD_IMG (30 55  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
+STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")
+STAMP_ADD_IMG (30 55  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
+STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
+STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98.0 76.0  "imagenes/n111.jpg"  ""    "SgLMS63 MiBL197"    "")
+STAMP_HEADING(HN 12 "Hoja bloque lotería - Akita Inu y perro de porcelana \n 16-01-2006") 
