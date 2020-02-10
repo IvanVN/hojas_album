@@ -28,7 +28,7 @@ ROW_ALIGN_MIDDLE
 #STAMP_HEADING_PADDING (-1.0)
 
 # ------------------------------------------------------------------------------
-# 1936 Monte Fuji - 1937 Meoto Iwa, Futami - 1938 Shimenawa
+# 1936 Monte Fuji - 1937 Meoto Iwa, Futami
 # ------------------------------------------------------------------------------
 
 PAGE_START
@@ -49,10 +49,14 @@ ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  "" "Sn222 Sg280 Mi217 Yt226 N1" "")
 STAMP_HEADING(HN 12 "Monte Fuji \n 01-12-1935")
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+El monte Fuji (Fuji-san), con 3776 metros de altitud, es el pico más alto de la isla de Honshu y de todo Japón. Se encuentra entre las prefecturas de Shizuoka y Yamanashi en el Japón central y justo al oeste de Tokio, desde donde se puede observar en un día despejado. El Fuji es un volcán compuesto y es el símbolo de Japón.\n
+Considerado sagrado desde la Antigüedad, les estaba prohibido a las mujeres llegar a la cima hasta la era Meiji (finales del s. XIX). Actualmente es un conocido destino turístico, así como un destino popular para practicar el alpinismo. La temporada «oficial» para practicar el alpinismo dura desde principios de julio hasta finales de agosto. Son mayoría los que escalan por la noche para apreciar la salida del sol.
+PAGE_TEXT_PARAGRAPH_END
 
 # 1937 Meoto Iwa, Futami
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  50 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Buey de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "11 de febrero de 1937 al 30 de enero de 1938" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -64,6 +68,15 @@ ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "Sn234 Sg292 Mi229 Yt238 N2"    "")
 STAMP_HEADING(HN 12 "Meoto Iwa (rocas casadas), Futami \n 10-12-1936")
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Meoto Iwa (Las rocas casadas) son un par de farallones rocosos en el mar frente a Futami, en la prefectura de Mie. Están unidas por un shimenawa y son consideradas sagradas por los fieles del cercano jinja Futami Okitama. En la creencia Shinto, las rocas representan la unión del creador de kami Izanagi e Izanami. Las rocas por lo tanto, celebran la unión en matrimonio del hombre y la mujer. La cuerda, que pesa más de una tonelada, debe ser sustituida varias veces al año en una ceremonia especial. La roca más grande, que se dice que es masculina, tiene un pequeño torii en su pico.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1938 Shimenawa - 1949 Hanetsuki 
+# ------------------------------------------------------------------------------
+
+PAGE_START
 
 # 1938 Shimenawa
 
@@ -80,7 +93,55 @@ ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Sn256 Sg339 Mi236 Yt261 N3"    "")
 STAMP_HEADING(HN 12 "Shimenawa, decoracion de año nuevo \n 15-12-1937")
 
-PAGE_TEXT_CENTRE(HN  10 "Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro, que representa al santuario sintoísta.")
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro que representa al santuario sintoísta.
+PAGE_TEXT_PARAGRAPH_END  
+
+# 1949 Hanetsuki
+
+PAGE_TEXT_CENTRE(HN  50 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Buey de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "29 de enero de 1948 al 16 de febrero de 1950" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+# PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 40  "imagenes/n4.jpg"  "" "Sn424 Sg516 Mi430 Yt404 N4" "")
+STAMP_HEADING(HN 12 "Niña jungado a Hanetsuki \n 13-12-1948")
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Hanetsuki es un juego tradicional japonés similar a badminton sin red. Se juega con una paleta rectangular de madera llamada hagoita y un volante de colores brillantes. Tradicionalmente jugado por la niñas en año nuevo.
+PAGE_TEXT_PARAGRAPH_END  
+
+
+# ------------------------------------------------------------------------------
+# 1950 Tiger
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "17 de febrero de 1949 al 5 de febrero de 1951" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+# PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n5.jpg"  "" "Sn498 Sg580 Mi499 Yt442 N5" "")
+STAMP_HEADING(HN 12 "'Tigre' por Maruyama Okyo (1733-1795) \n 01-02-1950")
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (108 124  "imagenes/n5a.jpg"  "" "SgLMS1 MiBL32 YtBF26A N5A" "") # Medidas aproximadas
+STAMP_HEADING(HN 12 "Hoja bloque loteria \n 01-02-1950")
 
 
 # ------------------------------------------------------------------------------
