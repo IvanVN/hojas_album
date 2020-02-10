@@ -163,13 +163,13 @@ PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
-STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
+#STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
 STAMP_ADD_IMG (30 55  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
-STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")
+STAMP_HEADING(HN 12 "Akita Inu \n 15-11-2005" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
-STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+STAMP_HEADING(HN 12 "Perro de porcelana (Sadowara) \n 15-11-2005" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
-STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+#STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
 
 PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
 
