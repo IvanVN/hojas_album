@@ -219,7 +219,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n8.jpg"  "" "Mi611 Sn576 Yt531 Sg699 N8" "")
@@ -230,6 +230,8 @@ PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (108 94  "imagenes/n8a.jpg"  "" "MiBL45 YtBF36a SgLMS4 N8A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Bailarín Sanbaso \n 01-01-1953")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
 Sanbaso es un baile auspicioso, a menudo realizado durante la temporada de Año Nuevo. Sus inicios datan del siglo IX como un baile para evitar terremotos. También se realiza durante ceremonias de boda u otros eventos como forma de atraer la buena fortuna. El bailarín se viste con una túnica especial y un gran sombrero eboshi mientras sostiene un abanico y una campana. Al final del baile, el bailarín recita la frase ceremonial: 'Tenemos la fortuna de que esta generación haya obtenido la paz'.
@@ -265,6 +267,39 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Miharu-goma, juguete trad
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
 Los Miharu-goma son caballos de juguete de manera, angulosos y de brillantes colores, que se fabrican en la provincia de Miharu, prefectura de Fukushima. El origen de los juguetes se debe a una leyenda sobre Sakanoue no Tamuramaro (758–811), un general y shogun del periodo Heian (794-1185). Según las distintas versiones de la leyenda, Tamuramaro recibió ayuda de un caballo de madera mágico o fue capaz de ganar una batalla gracias a la oportuna aparición de una manada de caballos salvajes.
 Originariamente los juguetes se tallaban a partir de los sobrantes de imágenes budistas, por los que los Miharu-goma suelen estar vinculados a dierentes supersticiones y se dice que pueden llevar mensajes a los dioses. Aunque generalmente están hechos de madera pintada, en ocasiones también se hacen de paja o incluso de papel. Los Miharu-goma han existido en Japón desde hace siglos.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1955 Cabra
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "24 de enero de 1955 al 11 de febrero de 1956" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n10.jpg"  "" "Mi638 Sn606 Yt561 Sg735 N10" "")
+STAMP_HEADING(HN 12 "Muñeca Kaga Hachiman Okiagari - Kanazawa \n 20-12-1954")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (108 94  "imagenes/n10a.jpg"  "" "MiBL52 Sn606A YtBF40a SgLMS6 N10A" "") # Medidas aproximadas
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Muñeca Kaga Hachiman Okiagari - Kanazawa \n 20-12-1954")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Las muñecas Kaga Hachiman Okiagari (muñecas que se levantan) de la ciudad de Kanazawa (prefectura de Ishikawa) son uno de los juguetes tradicionales más antiguos del norte de Japón. Las muñecas, un tipo de tentetieso, están hechas de papel, con un método parecedo al papel maché. Esta artesanía tradicional se suele regalar a aquellos que están esperando un hijo para desear que crezca saludable, parejas recién casadas o para desear la recuperación de los enfermos. Al levantarse siempre al ser empujadas, estas muñecas simbolizan la capacidad de sobreponerse a las dificultades, recuperarse y crecer fuerte. 
 PAGE_TEXT_PARAGRAPH_END
 
 
