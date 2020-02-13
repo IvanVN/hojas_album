@@ -195,12 +195,44 @@ STAMP_HEADING(HN 12 "Máscara Okina, teatro Noh \n 16-01-1952")
 #PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (107 96  "imagenes/n7a.jpg"  "" "Sn551a SgLMS3 MiBL41 YtBF33a N7A" "") # Medidas aproximadas
+STAMP_ADD_IMG (107 96  "imagenes/n7a.jpg"  "" "Sn551a SgLMS3 MiBL41 YtBF33a N7A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Máscara Okina, teatro Noh\n 20-01-1952")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
 El noh es una de las manifestaciones más destacadas del drama musical japonés que se ha realizado desde el siglo XIV (periodo Muromachi), siendo considerada el arte escénica de mayor antigüedad que se sigue representado. Las representaciones de noh combinan canto, drama, danza y orquestación de tres o cuatro instrumentos y tienen como principio regidor el yugen (elegancia, belleza, misterio). El noh es único por su lentitud, su gracia austera y por el uso distintivo de máscaras, y representa verdaderamente un rasgo específico de la cultura japonesa, que consiste en encontrar la belleza en la sutileza y formalidad.
 El Okina (máscara representando un anciano de barba blanca) es una obra única que combina danza y ritual shinto. En todo rigor, no se trata de nō, pero es una ceremonia religiosa que utiliza el mismo repertorio de técnicas que el noh. Representa la bendición concedida por una divinidad a la asistencia. Estas obras no forman parte de las jornadas de noh y se realizan con motivo del año nuevo o como representaciones especiales, presentándose siempre al principio del programa.
+PAGE_TEXT_PARAGRAPH_END
+
+
+# ------------------------------------------------------------------------------
+# 1953 Serpiente
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "14 de febrero de 1953 al 02 de febrero de 1954" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n8.jpg"  "" "Mi611 Sn576 Yt531 Sg699 N8" "")
+STAMP_HEADING(HN 12 "Bailarín Sanbaso \n 01-01-1953")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (108 94  "imagenes/n8a.jpg"  "" "MiBL45 YtBF36a SgLMS4 N8A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Bailarín Sanbaso \n 01-01-1953")
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Sanbaso es un baile auspicioso, a menudo realizado durante la temporada de Año Nuevo. Sus inicios datan del siglo IX como un baile para evitar terremotos. También se realiza durante ceremonias de boda u otros eventos como forma de atraer la buena fortuna. El bailarín se viste con una túnica especial y un gran sombrero eboshi mientras sostiene un abanico y una campana. Al final del baile, el bailarín recita la frase ceremonial: 'Tenemos la fortuna de que esta generación haya obtenido la paz'.
 PAGE_TEXT_PARAGRAPH_END
 
 
