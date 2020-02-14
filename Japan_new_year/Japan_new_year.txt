@@ -44,7 +44,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-# PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  "" "Mi217 Sn222 Yt226 Sg280 N1" "")
@@ -64,6 +64,8 @@ ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm ap
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "Mi229 Sn234 Yt238 Sg292 N2"    "")
@@ -89,6 +91,8 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3"    "")
 STAMP_HEADING(HN 12 "Shimenawa, decoracion de año nuevo \n 15-12-1937")
@@ -108,7 +112,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-# PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 40  "imagenes/n4.jpg"  "" "Mi430 Sn424 Yt404 Sg516 N4" "")
@@ -133,7 +137,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-# PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n5.jpg"  "" "Mi499 Sn498 Yt442 Sg580 N5" "")
@@ -158,7 +162,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n6.jpg"  "" "Mi513 Sn522 Yt459 Sg604 N6" "")
@@ -186,7 +190,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-#PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n7.jpg"  "" "Mi565 Sn551 Yt500 Sg647 N7" "")
@@ -219,13 +223,13 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n8.jpg"  "" "Mi611 Sn576 Yt531 Sg699 N8" "")
 STAMP_HEADING(HN 12 "Bailarín Sanbaso \n 01-01-1953")
 
-PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (108 94  "imagenes/n8a.jpg"  "" "MiBL45 YtBF36a SgLMS4 N8A" "")
@@ -252,7 +256,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n9.jpg"  "" "Mi628 Sn594 Yt549 Sg722 N9" "")
@@ -284,7 +288,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n10.jpg"  "" "Mi638 Sn606 Yt561 Sg735 N10" "")
@@ -300,6 +304,73 @@ PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
 Las muñecas Kaga Hachiman Okiagari (muñecas que se levantan) de la ciudad de Kanazawa (prefectura de Ishikawa) son uno de los juguetes tradicionales más antiguos del norte de Japón. Las muñecas, un tipo de tentetieso, están hechas de papel, con un método parecedo al papel maché. Esta artesanía tradicional se suele regalar a aquellos que están esperando un hijo para desear que crezca saludable, parejas recién casadas o para desear la recuperación de los enfermos. Al levantarse siempre al ser empujadas, estas muñecas simbolizan la capacidad de sobreponerse a las dificultades, recuperarse y crecer fuerte. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1956 Mono
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Mono de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "12 de febrero de 1956 al 30 de enero de 1957" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n11.jpg"  "" "Mi649 Sn617 Yt572 Sg747 N11" "")
+STAMP_HEADING(HN 12 "Muñecas Kokeshi \n 30-12-1955")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 94  "imagenes/n11a.jpg"  "" "MiBL55 Sn617A YtBF42a SgLMS7 N11A" "") # Medidas aproximadas
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Muñecas Kokeshi \n 30-12-1955")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Las kokeshi son muñecas tradicionales japonesas, originarias de la región de Tohoku en el norte de Japón. Se fabrican a mano utilizando madera como materia prima y se caracterizan por tener un tronco simple y una cabeza redondeada pintada con líneas sencillas para definir el rostro; el cuerpo tiene diseños florales y no poseen brazos ni piernas. El origen de estas figuras se remonta a unos doscientos años, dentro del Periodo Edo (1603-1867). Se piensa que los artesanos especializados en utensilios de madera de la región de Tohoku comenzaron a hacer pequeñas muñecas para venderlas como recuerdo a los turistas que visitaban las aguas termales.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1957 Gallo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "31 de enero de 1957 al 17 de febrero de 1958" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n12.jpg"  "" "Mi666 Sn634 Yt589 Sg763 N12" "")
+STAMP_HEADING(HN 12 "Danjiri de juguete con forma de ballena - Nagasaki \n 20-12-1956")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 94  "imagenes/n12a.jpg"  "" "MiBL57 Sn634B YtBF44 SgLMS8 N12A" "") # Medidas aproximadas
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Danjiri de juguete con forma de ballena - Nagasaki \n 20-12-1956")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+Danjiri Matsuri son un tipo de festival japonés en el que grandes carros se arrastran en procesión. El festival más famoso es el Kishiwada Danjiri Matsuri.
+Los Danjiri son grandes carros de madera (danjiri guruma), generalmente con forma de templo y muy ornamentados. Cada danjiri representa un barrio diferente, con su propia cofradía que se encarga de mantenerlo y conducirlo durante los festivales. Uno de los cofrades va montado sobre el techo del danjiri, guiando su dirección mientras realiza un baile tradicional de abanico.
 PAGE_TEXT_PARAGRAPH_END
 
 
