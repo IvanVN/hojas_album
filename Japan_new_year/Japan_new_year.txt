@@ -358,19 +358,52 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n12.jpg"  "" "Mi666 Sn634 Yt589 Sg763 N12" "")
-STAMP_HEADING(HN 12 "Danjiri de juguete con forma de ballena - Nagasaki \n 20-12-1956")
+STAMP_HEADING(HN 12 "Danjiri de juguete con forma de ballena (Nagasaki) \n 20-12-1956")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 94  "imagenes/n12a.jpg"  "" "MiBL57 Sn634B YtBF44 SgLMS8 N12A" "") # Medidas aproximadas
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Danjiri de juguete con forma de ballena - Nagasaki \n 20-12-1956")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Danjiri de juguete con forma de ballena (Nagasaki) \n 20-12-1956")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
 Danjiri Matsuri son un tipo de festival japonés en el que grandes carros se arrastran en procesión. El festival más famoso es el Kishiwada Danjiri Matsuri.
 Los Danjiri son grandes carros de madera (danjiri guruma), generalmente con forma de templo y muy ornamentados. Cada danjiri representa un barrio diferente, con su propia cofradía que se encarga de mantenerlo y conducirlo durante los festivales. Uno de los cofrades va montado sobre el techo del danjiri, guiando su dirección mientras realiza un baile tradicional de abanico.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1958 Perro
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Perro de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "18 de febrero de 1958 al 7 de febrero de 1959" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n13.jpg"  "" "Mi676 Sn644 Yt599 Sg773 N13" "")
+STAMP_HEADING(HN 12 "Inu-hariko (Saitama) \n 20-12-1957")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 94  "imagenes/n13a.jpg"  "" "    MiBL58 YtBF45 SgLMS9 N13A" "") # Medidas aproximadas
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Inu-hariko (Saitama) \n 20-12-1957")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+El Inu-hariko es un tipo de muñeco tradicional japonés de papel maché con forma de perro. Antiguamente se consideraba un talismán protector contra el mal para los niños, ya que el perro simboliza lealtad y protección y se creía que eran capaces de reconocer a los demonios con forma humana. Hoy en día se vende como souvenir para juguete o decoración.
 PAGE_TEXT_PARAGRAPH_END
 
 
