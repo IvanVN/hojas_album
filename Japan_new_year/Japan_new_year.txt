@@ -49,7 +49,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  "" "Mi217 Sn222 Yt226 Sg280 N1" "")
 STAMP_HEADING(HN 12 "Monte Fuji \n 01-12-1935")
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El monte Fuji (Fuji-san), con 3776 metros de altitud, es el pico más alto de la isla de Honshu y de todo Japón. Se encuentra entre las prefecturas de Shizuoka y Yamanashi en el Japón central y justo al oeste de Tokio, desde donde se puede observar en un día despejado. El Fuji es un volcán compuesto y es el símbolo de Japón.\n
 Considerado sagrado desde la Antigüedad, les estaba prohibido a las mujeres llegar a la cima hasta la era Meiji (finales del s. XIX). Actualmente es un conocido destino turístico, así como un destino popular para practicar el alpinismo. La temporada «oficial» para practicar el alpinismo dura desde principios de julio hasta finales de agosto. Son mayoría los que escalan por la noche para apreciar la salida del sol.
 PAGE_TEXT_PARAGRAPH_END
@@ -70,7 +70,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "Mi229 Sn234 Yt238 Sg292 N2"    "")
 STAMP_HEADING(HN 12 "Meoto Iwa (rocas casadas), Futami \n 10-12-1936")
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Meoto Iwa (Las rocas casadas) son un par de farallones rocosos en el mar frente a Futami, en la prefectura de Mie. Están unidas por un shimenawa y son consideradas sagradas por los fieles del cercano jinja Futami Okitama. En la creencia Shinto, las rocas representan la unión del creador de kami Izanagi e Izanami. Las rocas por lo tanto, celebran la unión en matrimonio del hombre y la mujer. La cuerda, que pesa más de una tonelada, debe ser sustituida varias veces al año en una ceremonia especial. La roca más grande, que se dice que es masculina, tiene un pequeño torii en su pico.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -97,7 +97,7 @@ ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3"    "")
 STAMP_HEADING(HN 12 "Shimenawa, decoracion de año nuevo \n 15-12-1937")
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro que representa al santuario sintoísta.
 PAGE_TEXT_PARAGRAPH_END  
 
@@ -117,7 +117,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 40  "imagenes/n4.jpg"  "" "Mi430 Sn424 Yt404 Sg516 N4" "")
 STAMP_HEADING(HN 12 "Niña jungado a Hanetsuki \n 13-12-1948")
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Hanetsuki es un juego tradicional japonés similar a badminton sin red. Se juega con una paleta rectangular de madera llamada hagoita y un volante de colores brillantes. Tradicionalmente jugado por la niñas en año nuevo.
 PAGE_TEXT_PARAGRAPH_END  
 
@@ -202,7 +202,7 @@ ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (107 96  "imagenes/n7a.jpg"  "" "MiBL41 Sn551a YtBF33a SgLMS3 N7A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Máscara Okina, teatro Noh\n 20-01-1952")
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El noh es una de las manifestaciones más destacadas del drama musical japonés que se ha realizado desde el siglo XIV (periodo Muromachi), siendo considerada el arte escénica de mayor antigüedad que se sigue representado. Las representaciones de noh combinan canto, drama, danza y orquestación de tres o cuatro instrumentos y tienen como principio regidor el yugen (elegancia, belleza, misterio). El noh es único por su lentitud, su gracia austera y por el uso distintivo de máscaras, y representa verdaderamente un rasgo específico de la cultura japonesa, que consiste en encontrar la belleza en la sutileza y formalidad.
 El Okina (máscara representando un anciano de barba blanca) es una obra única que combina danza y ritual shinto. En todo rigor, no se trata de nō, pero es una ceremonia religiosa que utiliza el mismo repertorio de técnicas que el noh. Representa la bendición concedida por una divinidad a la asistencia. Estas obras no forman parte de las jornadas de noh y se realizan con motivo del año nuevo o como representaciones especiales, presentándose siempre al principio del programa.
 PAGE_TEXT_PARAGRAPH_END
@@ -237,7 +237,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Bailarín Sanbaso \n 01-0
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Sanbaso es un baile auspicioso, a menudo realizado durante la temporada de Año Nuevo. Sus inicios datan del siglo IX como un baile para evitar terremotos. También se realiza durante ceremonias de boda u otros eventos como forma de atraer la buena fortuna. El bailarín se viste con una túnica especial y un gran sombrero eboshi mientras sostiene un abanico y una campana. Al final del baile, el bailarín recita la frase ceremonial: 'Tenemos la fortuna de que esta generación haya obtenido la paz'.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -268,7 +268,7 @@ ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (108 94  "imagenes/n9a.jpg"  "" "MiBL49 YtBF39a SgLMS5 N9A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Miharu-goma, juguete tradicional \n 25-12-1953")
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Los Miharu-goma son caballos de juguete de manera, angulosos y de brillantes colores, que se fabrican en la provincia de Miharu, prefectura de Fukushima. El origen de los juguetes se debe a una leyenda sobre Sakanoue no Tamuramaro (758–811), un general y shogun del periodo Heian (794-1185). Según las distintas versiones de la leyenda, Tamuramaro recibió ayuda de un caballo de madera mágico o fue capaz de ganar una batalla gracias a la oportuna aparición de una manada de caballos salvajes.
 Originariamente los juguetes se tallaban a partir de los sobrantes de imágenes budistas, por los que los Miharu-goma suelen estar vinculados a dierentes supersticiones y se dice que pueden llevar mensajes a los dioses. Aunque generalmente están hechos de madera pintada, en ocasiones también se hacen de paja o incluso de papel. Los Miharu-goma han existido en Japón desde hace siglos.
 PAGE_TEXT_PARAGRAPH_END
@@ -302,7 +302,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Muñeca Kaga Hachiman Oki
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Las muñecas Kaga Hachiman Okiagari (muñecas que se levantan) de la ciudad de Kanazawa (prefectura de Ishikawa) son uno de los juguetes tradicionales más antiguos del norte de Japón. Las muñecas, un tipo de tentetieso, están hechas de papel, con un método parecedo al papel maché. Esta artesanía tradicional se suele regalar a aquellos que están esperando un hijo para desear que crezca saludable, parejas recién casadas o para desear la recuperación de los enfermos. Al levantarse siempre al ser empujadas, estas muñecas simbolizan la capacidad de sobreponerse a las dificultades, recuperarse y crecer fuerte. 
 PAGE_TEXT_PARAGRAPH_END
 
@@ -335,7 +335,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Muñecas Kokeshi \n 30-12
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Las kokeshi son muñecas tradicionales japonesas, originarias de la región de Tohoku en el norte de Japón. Se fabrican a mano utilizando madera como materia prima y se caracterizan por tener un tronco simple y una cabeza redondeada pintada con líneas sencillas para definir el rostro; el cuerpo tiene diseños florales y no poseen brazos ni piernas. El origen de estas figuras se remonta a unos doscientos años, dentro del Periodo Edo (1603-1867). Se piensa que los artesanos especializados en utensilios de madera de la región de Tohoku comenzaron a hacer pequeñas muñecas para venderlas como recuerdo a los turistas que visitaban las aguas termales.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -368,7 +368,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Danjiri de juguete con fo
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Danjiri Matsuri son un tipo de festival japonés en el que grandes carros se arrastran en procesión. El festival más famoso es el Kishiwada Danjiri Matsuri.
 Los Danjiri son grandes carros de madera (danjiri guruma), generalmente con forma de templo y muy ornamentados. Cada danjiri representa un barrio diferente, con su propia cofradía que se encarga de mantenerlo y conducirlo durante los festivales. Uno de los cofrades va montado sobre el techo del danjiri, guiando su dirección mientras realiza un baile tradicional de abanico.
 PAGE_TEXT_PARAGRAPH_END
@@ -402,7 +402,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Inu-hariko (Saitama) \n 2
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El Inu-hariko es un tipo de muñeco tradicional japonés de papel maché con forma de perro. Antiguamente se consideraba un talismán protector contra el mal para los niños, ya que el perro simboliza lealtad y protección y se creía que eran capaces de reconocer a los demonios con forma humana. Hoy en día se vende como souvenir para juguete o decoración.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -435,7 +435,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Ebisu no Tai (Takamatsu) 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Ebisu  (también transcrito Yebisu) es el dios japonés de la suerte, los pescadores y los obreros, así como el guardián de la salud de los niños pequeños. Él es uno de los Shichifukujin (Siete Dioses de la Fortuna), y el único de los siete que tiene su origen exclusivamente en Japón sin ninguna influencia hindú o china. Suele representarse vestido con un sobrero alto, una caña de pescar y un besugo (tai).
 PAGE_TEXT_PARAGRAPH_END
 
@@ -468,10 +468,43 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Juguete mecánico 'Komeku
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 20)
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El Komekui Nezumi (rata comiendo arroz) es un juguete mecánico tradicional de madera (karakuri) típico de la ciudad de  Kanazawa (prefectura de Ishikawa). Consiste en un ratón unido a una base por un muelle de bambú. Al presionarlo, el ratón se balancea, subiendo y bajando hacia el pequeño plato, de manera que parece que está comiendo de él. Popularizado durante épocas de escased, simboliza el deseo de disponer de un suministro ilimitado de comida. 
 PAGE_TEXT_PARAGRAPH_END
 
+# ------------------------------------------------------------------------------
+# 1961 Buey
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Buey de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "15 de febrero de 1961 al 4 de febrero de 1962" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n16.jpg"  "" "Mi740 Sn709 Yt661 Sg841 N16" "")
+STAMP_HEADING(HN 12 "Aka-beko (Aizu), Kin no be kokko (Iwate) \n 20-12-1960")
+
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 94  "imagenes/n16a.jpg"  "" "MiBL63 Sn709A YtBF50 SgLMS12 N16A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Becerro rojo de Aizu, becerro dorado de Iwate \n 20-12-1960")
+
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El Aka-beko (becerro rojo) es un juguete tradicional de la región de Aizu. Su origen data de la construcción del templo Kyokyuzo-do en la ciudad de Aizu-Yanazu. Se cuenta que uno de los grandes bueyes rojos empleados en la construccion del templo se negó a abandonarlo, en aparente devoción a Buda. Al poco tiempo, un miembro del clan local uso al buey de modelo para un juguete de papel mache para los niños. Parece ser que en ese tiempo se produjo una plaga de viruela y se descubrió que los niños que tenían la figura del buey no enfermaron. Desde entonces el juguete se volvió muy popular como amuleto contra la enfermedad.\n
+El juguete tradicional Kin no be kokko (también ‘kinbeko’, buey dorado) tiene su origen en la región de Iwate, famosa por su oro y comercio. Antiguamente, los comerciantes locales tenían que transportar sus mercancías a través de las zonas montañosas de Iwate. Los caballos se cansaban fácilmente con la carga y huían al asustarse. Sin embargo, sus begoko ('vaca' en el antiguo dialecto de Iwate) siempre tenían energía y eran difíciles de asustar. Así, las mercancías mas valiosas se confiaban siempre a los begoko y por ello los kinbeko se suelen pintar de dorado y llevan grandes alforjas con la inscripción 'sen-ryo-hako' (1000 ryo).
+PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
 # 1982 Año del perro
