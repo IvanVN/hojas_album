@@ -502,8 +502,41 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Becerro rojo de Aizu, bec
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El Aka-beko (becerro rojo) es un juguete tradicional de la región de Aizu. Su origen data de la construcción del templo Kyokyuzo-do en la ciudad de Aizu-Yanazu. Se cuenta que uno de los grandes bueyes rojos empleados en la construccion del templo se negó a abandonarlo, en aparente devoción a Buda. Al poco tiempo, un miembro del clan local uso al buey de modelo para un juguete de papel mache para los niños. Parece ser que en ese tiempo se produjo una plaga de viruela y se descubrió que los niños que tenían la figura del buey no enfermaron. Desde entonces el juguete se volvió muy popular como amuleto contra la enfermedad.\n
+El Aka-beko (becerro rojo) es un juguete tradicional de la región de Aizu. Su origen data de la construcción del templo Kyokyuzo-do en la ciudad de Aizu-Yanazu. Se cuenta que uno de los grandes bueyes rojos empleados en la construccion del templo se negó a abandonarlo, en aparente devoción a Buda. Al poco tiempo, un miembro del clan local usó al buey de modelo para un juguete de papel maché para los niños. Parece ser que en ese tiempo se produjo una plaga de viruela y se descubrió que los niños que tenían la figura del buey no enfermaron. Desde entonces el juguete se volvió muy popular como amuleto contra la enfermedad.\n
 El juguete tradicional Kin no be kokko (también ‘kinbeko’, buey dorado) tiene su origen en la región de Iwate, famosa por su oro y comercio. Antiguamente, los comerciantes locales tenían que transportar sus mercancías a través de las zonas montañosas de Iwate. Los caballos se cansaban fácilmente con la carga y huían al asustarse. Sin embargo, sus begoko ('vaca' en el antiguo dialecto de Iwate) siempre tenían energía y eran difíciles de asustar. Así, las mercancías mas valiosas se confiaban siempre a los begoko y por ello los kinbeko se suelen pintar de dorado y llevan grandes alforjas con la inscripción 'sen-ryo-hako' (1000 ryo).
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1962 Tigre
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "5 de febrero de 1962 al 24 de enero de 1963" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n17.jpg"  "" "Mi781 Sn740 Yt693 Sg883 N17" "")
+STAMP_HEADING(HN 12 "Hariko no Tora (Izumi) \n 15-12-1961")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 94  "imagenes/n17a.jpg"  "" "MiBL64 YtBF51 SgLMS13 N17A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hariko no Tora (Izumi) \n 15-12-1961")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El Hariko no Tora (literalmente ‘tigre de papel maché’) es un juguete tradicional de cabeza oscilante que representa un tigre. El hariko no tora es un regalo tradicional a los chicos por su Hatsuzekku (primera celebración del Tango no sekku o día del niño varón, el 5 de mayo), como forma de desear que crezca con salud. Son muy populares en la prefectura de Osaka, ya que el cercano templo Chogosonshi-ji cuenta con una leyenda sobre un tigre y en él se entregaban amuletos con forma de tigre a los visitantes. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
