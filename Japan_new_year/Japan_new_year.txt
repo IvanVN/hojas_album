@@ -603,7 +603,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Dragones de juguete (Kai 
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Iwai, en la prefectura de Tottori, es famosa por tener algunos de los 'onsen' (baños de aguas termales) más antiguos de todo Japón, con más de 1200 años de antigüedad. Este pequeño dragón de madera es un ‘omiyage’ (souvenir) típico de la zona, ya que el dragón tradicionalmente se relaciona con el agua.\n
-El 'Kai no fukuryuu' (dragón de la suerte de Kai) es un juguete de madera fabricado en la ciudad de Kofu (prefectura de Yamashi, antigua provincia de Kai) y vinculado a una leyenda local. Antiguamente, la planicie de Kofu era un lago, donde vivía un dragón. Los dioses pidieron al dragón que hiciera un sacrificio para los humanos, secando el lago y dándoles tierras donde poder cultivar. El dragón acepto y seco el lago enviando el agua al cielo en forma de un gigantesco torbellino. El juguete representa al dragón ascendiendo con el torbellino y se considera un amuleto de buena suerte.
+El 'Kai no fukuryuu' (dragón de la suerte de Kai) es un juguete de madera fabricado en la ciudad de Kofu (prefectura de Yamanashi, antigua provincia de Kai) y vinculado a una leyenda local. Antiguamente, la planicie de Kofu era un lago, donde vivía un dragón. Los dioses pidieron al dragón que hiciera un sacrificio para los humanos, secando el lago y dándoles tierras donde poder cultivar. El dragón acepto y seco el lago enviando el agua al cielo en forma de un gigantesco torbellino. El juguete representa al dragón ascendiendo con el torbellino y se considera un amuleto de buena suerte.
 PAGE_TEXT_PARAGRAPH_END
 # https://omamorifromjapan.blogspot.com/2011/09/tatsu-dragon-info.html
 
