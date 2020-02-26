@@ -596,7 +596,7 @@ STAMP_HEADING(HN 12 "Dragones de juguete (Kai e Iwai) \n 16-12-1963")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n19a.jpg"  "" "MiBL66 N19A" "")
+STAMP_ADD_IMG (106 97  "imagenes/n19a.jpg"  "" "MiBL66 N19A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Dragones de juguete (Kai e Iwai) \n 16-12-1963")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -606,6 +606,40 @@ Iwai, en la prefectura de Tottori, es famosa por tener algunos de los 'onsen' (b
 El 'Kai no fukuryuu' (dragón de la suerte de Kai) es un juguete de madera fabricado en la ciudad de Kofu (prefectura de Yamanashi, antigua provincia de Kai) y vinculado a una leyenda local. Antiguamente, la planicie de Kofu era un lago, donde vivía un dragón. Los dioses pidieron al dragón que hiciera un sacrificio para los humanos, secando el lago y dándoles tierras donde poder cultivar. El dragón acepto y seco el lago enviando el agua al cielo en forma de un gigantesco torbellino. El juguete representa al dragón ascendiendo con el torbellino y se considera un amuleto de buena suerte.
 PAGE_TEXT_PARAGRAPH_END
 # https://omamorifromjapan.blogspot.com/2011/09/tatsu-dragon-info.html
+
+# ------------------------------------------------------------------------------
+# 1965 Serpiente
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "2 de febrero de 1965 al 20 de enero de 1966" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n20.jpg"  "" "Mi877 Sn829 Yt791 Sg990 N20" "")
+STAMP_HEADING(HN 12 "Serpiente de paja \n 15-12-1964")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 98  "imagenes/n20a.jpg"  "" "MiBL74 Sn829A SgLMS16 N20A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Serpiente de paja \n 20-01-1965")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Las serpientes de paja son amuletos hechos con paja de arroz que se venden en el templo Asakusa Fuji Sengen, en Tokio, los días 30 de junio y 1 de julio para celebrar la apertura anual del monte Fuji. Estos amuletos datan de 1704, cuando el granjero Kihachi creó esta “serpiente del Fuji” durante una epidemia de cólera en Edo (antigua Tokio) con la esperanza de proteger a sus vecinos de la enfermedad.
+PAGE_TEXT_PARAGRAPH_END
+
 
 # ------------------------------------------------------------------------------
 # 1982 Año del perro
