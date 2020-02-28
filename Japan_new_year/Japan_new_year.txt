@@ -712,6 +712,72 @@ PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El ‘Ittobori’ (literalmente ‘talla con un cuchillo’) es una técnica tradicional japonesa de talla en madera, en las que los motivos son esculpidos de una sola pieza. Una de las escuelas más famosas de ittobori es la de Nara, dónde se empezó a utilizar la técnica hace unos 870 años para esculpir ornamentos para los servicios religiosos. Actualmente, figuras ittobori de los ‘eto’ (animales del zodiaco) se venden como amuletos en los numerosos templos de la ciudad.
 PAGE_TEXT_PARAGRAPH_END
 
+# ------------------------------------------------------------------------------
+# 1968 Mono
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Mono de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "30 de enero de 1968 al 16 de febrero de 1969" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n23.jpg"  "" "Mi982 Sn940 Yt889 Sg1108 N23" "")
+STAMP_HEADING(HN 12 "Nobori-zaru (Miyazaki)\n 11-12-1967")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 97 "imagenes/n23a.jpg"  "" "MiBL77 SgLMS19 N23A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Nobori-zaru (Miyazaki)\n 20-01-1968")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El Nobori-zaru (mono trepador) es un juguete de papel maché tradicional en la prefectura de Miyazaki. Es un regalo tradicional que se hace a los padres de niños recién nacidos para protegerlos de las enfermedades y atraer la buena fortuna, ya que se cree que los monos son animales afortunados. El Nobori-zaru está formado por un mástil del que cuelga una banderola, de la que a su vez cuelga un pequeño mono de papel. Cuando el aire infla la banderola, el mono ‘trepa’ por el mástil. El mono se decora con un pequeño tambor a la espalda y ropa y gorro de vivos colores, como un mono de feria. El tambor se decora con ‘gohei’, tiras blancas y rojas de tela y la banderola se pinta con un ‘hanashobu’, una flor vinculada con los festivales del día del niño.
+PAGE_TEXT_PARAGRAPH_END
+#https://books.google.es/books?id=qdVGCgAAQBAJ&pg=PA195&lpg=PA195&dq=nobori-zaru&source=bl&ots=q7keFmw-iW&sig=ACfU3U2tT4tNo_gFA6Et1AHLaQLSfnw-3g&hl=es&sa=X&ved=2ahUKEwjFjYPd8fPnAhVP1xoKHYHFDIoQ6AEwCnoECAoQAQ#v=onepage&q=nobori-zaru&f=false
+
+# ------------------------------------------------------------------------------
+# 1969 Gallo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "17 de febrero de 1969 al 5 de febrero de 1970" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n24.jpg"  "" "Mi1024 Sn978 Yt929 Sg1147 N24" "")
+STAMP_HEADING(HN 12 "Gallo tallado 'sasano-bori' (Yonezawa)\n 5-12-1968")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 97 "imagenes/n24a.jpg"  "" "MiBL78 Sn978A SgLMS20 N24A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Gallo tallado 'sasano-bori' (Yonezawa)\n 20-01-1969")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El ‘Sasano-bori’ es una técnica tradicional de tallado de figuras de aves en madera, característica por los bucles de madera con el que se tallan las colas y las plumas. Su origen se remonta a la pequeña aldea de Sasano, en Yonezawa, prefectura de Yamagata, donde los granjeros pasaban el largo invierno tallando figuras de aves. Si se usan como regalo, se suele escoger el ave que represente alguna característica de la persona a la que se ofrece, como, por ejemplo, el gallo a la gente madrugadora.
+PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
 # 1982 Año del perro
