@@ -884,6 +884,39 @@ PAGE_TEXT_PARAGRAPH_END
 #https://omamorifromjapan.blogspot.com/2011/11/takarabune-treasure-ship.html
 
 # ------------------------------------------------------------------------------
+# 1973 Buey
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Buey de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "3 de febrero de 1973 al 22 de enero de 1974" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n29.jpg"  "" "Mi1169 Sn1132 Yt1071 Sg1310 N29" "")
+STAMP_HEADING(HN 12 "Plato por Ogata Kenzan (1663-1743)\n 11-12-1972")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n29a.jpg"  "" "MiBL86 Sn1132A SgLMS24 N29A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Plato por Ogata Kenzan (1663-1743)\n 20-01-1973")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Ogata Kenzan (1663–1743), originalmente Ogata Shinsei y también conocido con el seudónimo de Shisui, fue un alfarero y pintor japonés. Hijo de un rico mercader de Kioto, estudió con el famoso alfarero Nonomura Ninnsei hasta que fundó su propio horno. Considerado el mejor ceramista de la era Tokugawa, es reconocido por su distintivo estilo de decoración de cerámicas con motivos de plantas, flores y pájaros y la perfecta relación entre diseño y forma de sus creaciones. A menudo colaboraba en la decoración con su hermano, el también famoso pintor Ogata Korin (1658-1716).
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
 # 1982 Año del perro
 # ------------------------------------------------------------------------------
 
