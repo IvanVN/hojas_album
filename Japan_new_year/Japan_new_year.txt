@@ -780,6 +780,110 @@ El ‘Sasano-bori’ es una técnica tradicional de tallado de figuras de aves e
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 1970 Perro
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Perro de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "6 de febrero de 1970 al 26 de enero de 1971" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34  "imagenes/n25.jpg"  "" "Mi1068 Sn1021 Yt970 Sg1190 N25" "")
+STAMP_HEADING(HN 12 "Hokkeji no mamori inu (Nara)\n 10-12-1969")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 97 "imagenes/n25a.jpg"  "" "MiBL79 Sn1021A SgLMS21 N25A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hokkeji no mamori inu (Nara)\n 10-12-1969")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Estas pequeñas figuras de arcilla, conocidas como 'Hokkeji no mamori inu' (perro protector de Hokkeji) son fabricadas a mano por las monjas del templo Hokkeji-ji, en Nara. Vienen en tres tamaños diferentes y se suelen pintar con brotes jóvenes de pino, tradicionalmente usados en los rituales de fuego Goma (donde las ramas simbolizan los deseos humanos y el fuego purificador la sabiduría de Buda). La ceniza de estos rituales se mezcla con la arcilla para hacer las figuras. En la parte de trasera se pinta el carácter 'yama' (montaña), simbolizando que se han fabricado usando la tierra del templo. También se suelen pintar con 5 puntos rojos simbolizando las cinco partes del cuerpo (hígado, corazón, bazo, pulmones y riñones).
+PAGE_TEXT_PARAGRAPH_END
+#https://darumamuseumgallery.blogspot.com/2010/04/hokkeji-temple-nara.html
+
+# ------------------------------------------------------------------------------
+# 1971 Perro
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "27 de enero de 1971 al 14 de febrero de 1972" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 34.5  "imagenes/n26.jpg"  "" "Mi1097 Sn1050 Yt999 Sg1222 N26" "")
+STAMP_HEADING(HN 12 "Uri no ki no inoshishi (Arai)\n 10-12-1970")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (106 97 "imagenes/n26a.jpg"  "" "MiBL82 Sn1050A SgLMS22 N26A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Uri no ki no inoshishi (Arai)\n 10-12-1970")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Los ‘Uri no ki no inoshishi’ (jabalí de Alangium) es una artesanía tradicional de la antigua ciudad de Arai, actualmente en Kosai, prefectura de Shizuoka. Están fabricados con corteza de Alangium, que se pela del tronco y se deja secar, para luego darle forma de cuerpo atándola con cuerdas de paja de arroz.
+PAGE_TEXT_PARAGRAPH_END
+#https://omamorifromjapan.blogspot.com/2011/07/niigata-folk-toys.html
+
+# ------------------------------------------------------------------------------
+# 1972 Rata
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "15 de febrero de 1972 al 2 de febrero de 1973" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 20.0)
+STAMP_ADD_IMG (26 30  "imagenes/n27.jpg"  "" "Mi1133 Sn1101 Yt1041 Sg1277 N27" "")
+STAMP_HEADING(HN 12 "Takarabune\n 10-12-1971")
+STAMP_ADD_IMG (26 30  "imagenes/n28.jpg"  "" "Mi1134 Sn1102 Yt1042 Sg1278 N28" "")
+STAMP_HEADING(HN 12 "Takarabune\n 11-01-1972")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (97 76 "imagenes/n28a.jpg"  "" "MiBL84 Sn1102A SgLMS23 N28A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Takarabune\n 20-01-1972")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El ‘takarabune’ (barco del tesoro) es una importante tradición japonesa de año nuevo. Dice la leyenda que los ‘shichifukujin’ (siete dioses de la fortuna) llegan a puerto la víspera de año nuevo en el takarabune para traer buena suerte a todo el mundo. Según la tradición, dormir la noche de año nuevo con una imagen del takarabune bajo la almohada asegurará que tu primer sueño del año sea de buena suerte.
+PAGE_TEXT_PARAGRAPH_END
+#https://omamorifromjapan.blogspot.com/2011/11/takarabune-treasure-ship.html
+
+# ------------------------------------------------------------------------------
 # 1982 Año del perro
 # ------------------------------------------------------------------------------
 
