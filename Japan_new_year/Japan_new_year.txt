@@ -917,6 +917,138 @@ Ogata Kenzan (1663–1743), originalmente Ogata Shinsei y también conocido con 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 1974 Tigre
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "23 de enero de 1974 al 10 de febrero de 1975" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n30.jpg"  "" "Mi1196 Sn1155 Yt1098 Sg1337 N30" "")
+STAMP_HEADING(HN 12 "Farol Toro (Chiba)\n 11-12-1973")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n30a.jpg"  "" "MiBL87 Sn1155a YtBF73 SgLMS25 N30A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Farol Toro (Chiba)\n 10-01-1974")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Un ‘Toro’ es un tipo de lámpara o farol japonés tradicional fabricado en piedra, madera o metal. De origen chino, eran utilizadas inicialmente en los templos budistas para iluminar los caminos. Durante el periodo Heian (794-1185) su uso se extendió también a los templos shintoistas y las casas. Hay dos tipos de toro, el ‘tsuri-doro’ (lampara colgante), que normalmente se cuelga de los aleros de los tejados, y el ‘dai-doro’ (lampara plataforma), usada en jardines y en caminos. El toro aquí representado es un tsuri-doro de bronce del siglo XVI encontrado en el templo Sen'yoji de Chiba. Fundido en una sola pieza, está decorado con flores de albaricoque y bambú. Actualmente se conserva en el Museo Nacional de Tokio.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1975 Conejo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "11 de febrero de 1975 al 30 de enero de 1976" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30 26  "imagenes/n31.jpg"  "" "Mi1236 Sn1198 Yt1140 Sg1375 N31" "")
+STAMP_HEADING(HN 12 "Kugikakushi con forma de narciso\n 10-12-1974")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (76 98 "imagenes/n31a.jpg"  "" "MiBL89 Sn1198A SgLMS26 N31A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kugikakushi con forma de narciso\n 20-01-1975")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El ‘kugikakushi’ (ocultador de clavos) es una pieza ornamental de metal o madera utilizada en la arquitectura tradicional japonesa para cubrir las clavijas de madera necesarias para asegurar el cruce del dintel y los postes. También fueron utilizados en las puertas para ocultar las cabezas de clavos grandes. Los diseños más típicos son semiesferas (‘bai’) o flores con cuatro (‘shiyou’), seis (‘rokuyou’) u ocho (‘hachiyou’) pétalos. En este caso, se muestra un kugikakushi con forma de narciso.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1976 Dragon
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "31 de enero de 1976 al 17 de febrero de 1977" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n32.jpg"  "" "Mi1274 Sn1237 Yt1176 Sg1417 N32" "")
+STAMP_HEADING(HN 12 "Tatsu-guruma (Fukushima)\n 13-12-1975")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n32a.jpg"  "" "MiBL93 Sn1237a YtBF79 SgLMS27 N32A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Tatsu-guruma (Fukushima)\n 20-01-1976")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El ‘tatsu-guruma’ es un poco común ‘miharu-hariko’ (juguete de papel maché) rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘gema de la omnipotencia’. En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1977 Serpiente
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "18 de febrero de 1977 al 6 de febrero de 1978" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n33.jpg"  "" "Mi1305 Sn1271 Yt1207 Sg1443 N33" "")
+STAMP_HEADING(HN 12 "Hebi-bue (Tokio)\n 01-12-1976")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n33a.jpg"  "" "MiBL95 Sn1271a SgLMS28 N33A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hebi-bue (Tokio)\n 20-01-1977")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El ‘hebi-bue’ es un juguete con forma de serpiente fabricado uniendo varias secciones de bambú. Es uno de los pocos juguetes tradicionales de la moderna Tokio. El juguete es en realidad un silbato o flauta de tres notas. Al soplar por la cola del juguete, las distintas secciones de la serpiente bailan de un lado a otro por efecto del aire, simulando el movimiento serpenteante del animal.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
 # 1982 Año del perro
 # ------------------------------------------------------------------------------
 
