@@ -1082,6 +1082,39 @@ Las ’Fushimi ningyo’  (muñecos de arcilla de Fushimi) son unas de las figur
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 1979 Cabra
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "28 de enero de 1979 al 15 de febrero de 1980" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n35.jpg"  "" "Mi1375 Sn1351 Sg1516 N35" "")
+STAMP_HEADING(HN 12 "Hitsuji dorei (Kioto)\n 01-12-1978")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n35a.jpg"  "" "MiBL98 SgLMS30 N35A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hitsuji dorei (Kioto)\n 05-02-1979")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Las ‘dorei’ (campanas de arcilla) son una de las artesanías tradicionales más comunes en Japón. Se suelen vender en templos y santuarios por todo el país como amuletos, típicamente con forma de uno de los ‘eto’ (animales del zodiaco chino). El dorei representado aquí, ‘hitsuji-dorei’ (literalmente ‘oveja campana’) viene de la ciudad de Kioto. Uno de los usos tradicionales de los dorei era como amuletos para el crecimiento del gusano de la seda. Los granjeros los colgaban junto a los criaderos, con la esperanza de que su ocasional sonido recordase a los dioses la importancia de los gusanos para ellos y sus familias.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
 # 1982 Año del perro
 # ------------------------------------------------------------------------------
 
