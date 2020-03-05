@@ -1115,6 +1115,40 @@ Las ‘dorei’ (campanas de arcilla) son una de las artesanías tradicionales m
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 1980 Mono
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Mono de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "16 de febrero de 1980 al 4 de febrero de 1981" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n36.jpg"  "" "Mi1413 Sn1387 Yt1315 Sg1554 N36" "")
+STAMP_HEADING(HN 12 "Kiki-saru (Sakai)\n 01-12-1979")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n36A.jpg"  "" "    MiBL100 SgLMS31 N36A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kiki-saru (Sakai)\n 21-01-1980")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Los ‘kumi-saru’ (monos trenzados) es uno de los más famosos ‘Sakai no tsuchi ningyoo’ (figuras de arcilla de Sakai) de la ciudad de Sakai, en la prefectura de Osaka, famosa precisamente por sus figuras de arcilla. Cuando los monos vienen en parejas o tríos se conocen como ‘kiki-saru’ (mono feliz) y simbolizan la familia. Los ‘senbiki saru’ son figuras que amontonan hasta cincuenta monos. La palabra ‘saru’ (mono) significa ‘abandonar’ si se usa como verbo, por lo que se cree que decorar tu casa con un mono hace que las cosas malas la abandonen. Los kumi-saru son un recuerdo típico del templo Sumiyoshi Taisha de Sakai.
+PAGE_TEXT_PARAGRAPH_END
+
+
+# ------------------------------------------------------------------------------
 # 1982 Año del perro
 # ------------------------------------------------------------------------------
 
