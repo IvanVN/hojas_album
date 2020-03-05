@@ -1049,6 +1049,39 @@ El ‘hebi-bue’ es un juguete con forma de serpiente fabricado uniendo varias 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 1978 Caballo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "7 de febrero de 1978 al 27 de enero de 1979" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n34.jpg"  "" "Mi1342 Sn1316 Yt1244 Sg1482 N34" "")
+STAMP_HEADING(HN 12 "Caballo 'Fushimi Ningyo' (Kioto)\n 01-12-1977")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n34a.jpg"  "" "MiBL97 YtBF83 SgLMS29 N34A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Caballo 'Fushimi Ningyo' (Kioto)\n 20-01-1978")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Las ’Fushimi ningyo’  (muñecos de arcilla de Fushimi) son unas de las figuras de arcilla más antiguas de Japón, iniciándose su fabricación en el periodo Momoyama (1573-1615).  Se empezaron a fabricar en la zona de Fushimi (actualmente integrada en Kioto) con arcilla del monte Inari, cerca del famoso templo Fishimi Inari. El método tradicional de fabricación sigue un ciclo anual: en primavera-verano se hacen las figuras, rellenando los moldes con arcilla para luego dejarlos secar durante 10 días antes de meterlas en el horno. Posteriormente, en otoño-invierno las figuras se pintan primero con una base blanca (‘gofun’) para luego pintar los detalles a mano con vivos colores. Se estima que hay más de 2000 moldes, algunos datando del período Momoyama, representando toda clase de figuras. Aunque durante el periodo Edo llegó a haber hasta 60 alfarerías en funcionamiento, hoy en día la única que queda es Tanka (fundada hace 260 años), situada justo a la entrada del templo Fushimi Inari.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
 # 1982 Año del perro
 # ------------------------------------------------------------------------------
 
