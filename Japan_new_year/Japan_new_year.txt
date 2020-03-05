@@ -1138,7 +1138,7 @@ STAMP_HEADING(HN 12 "Kiki-saru (Sakai)\n 01-12-1979")
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n36A.jpg"  "" "    MiBL100 SgLMS31 N36A" "")
+STAMP_ADD_IMG (98 76 "imagenes/n36A.jpg"  "" "MiBL100 SgLMS31 N36A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kiki-saru (Sakai)\n 21-01-1980")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1147,6 +1147,38 @@ PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Los ‘kumi-saru’ (monos trenzados) es uno de los más famosos ‘Sakai no tsuchi ningyoo’ (figuras de arcilla de Sakai) de la ciudad de Sakai, en la prefectura de Osaka, famosa precisamente por sus figuras de arcilla. Cuando los monos vienen en parejas o tríos se conocen como ‘kiki-saru’ (mono feliz) y simbolizan la familia. Los ‘senbiki saru’ son figuras que amontonan hasta cincuenta monos. La palabra ‘saru’ (mono) significa ‘abandonar’ si se usa como verbo, por lo que se cree que decorar tu casa con un mono hace que las cosas malas la abandonen. Los kumi-saru son un recuerdo típico del templo Sumiyoshi Taisha de Sakai.
 PAGE_TEXT_PARAGRAPH_END
 
+# ------------------------------------------------------------------------------
+# 1981 Gallo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "5 de febrero de 1981 al 24 de enero de 1982" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n37.jpg"  "" "Mi1452 Sn1442 Yt1352 Sg1614 N37" "")
+STAMP_HEADING(HN 12 "Gallo de arcilla\n 01-12-1980")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n37A.jpg"  "" "MiBL101 Sn1442a SgLMS32 N37A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Gallo de arcilla\n 21-01-1981")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Diseño de Motoharu Morita, representado un juguete tradicional de arcilla con forma de gallo sobre un saco de arroz.
+PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
 # 1982 Año del perro
@@ -1164,17 +1196,23 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
-STAMP_HEADING(HN 12 "Perro de juguete \n 01-12-1981")
+STAMP_ADD_IMG (26 30  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
+STAMP_HEADING(HN 12 "Perro de arcilla (Yonezawa)\n 01-12-1981")
 
-PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98.0 76.0  "imagenes/n38a.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Perro de juguete\n 20-01-1982") 
+STAMP_ADD_IMG (98 76 "imagenes/n38a.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Perro de arcilla (Yonezawa)\n 20-01-1982") 
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Las figuras de arcilla de Sagara (‘Sagara tsuchi ningyoo’) han sido fabricadas durante 220 años por la familia Sagara, herederos del clan Yonezawa que gobernó la región de Yonezawa (prefectura de Yamagata) durante el periodo Edo (1603-1868). Sagara Seizae-mon Atsutada creó el horno Narushima y comenzó a hacer muñecos con la arcilla de su jardín en 1790, tras retirarse de sus responsabilidades con el clan. Los miembros de la familia Sagara han seguido haciendo muñecos usando la misma arcilla y técnicas. Estas figuras son características por sus ojos de forma triangular. Se las considera uno de los tres estilos principales de figuras de la región de Tohoku, junto las Hanamaki y las Tsutsumi.
+PAGE_TEXT_PARAGRAPH_END
 
 
 # ------------------------------------------------------------------------------
