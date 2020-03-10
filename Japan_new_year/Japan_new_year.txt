@@ -1251,6 +1251,43 @@ PAGE_TEXT_PARAGRAPH_END
 #http://koharu2009.blogspot.com/2018/03/blog-post_20.html
 
 # ------------------------------------------------------------------------------
+# 1984 Rata
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "2 de febrero de 1984 al 19 de febrero de 1985" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n40.jpg"  ""    "Mi1573 Sn1557 Yt1474 Sg1726 N40"    "")
+STAMP_HEADING(HN 12 "Kozuchi nori nezumi (Obata)\n01-12-1983")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n40A.jpg"  ""    "MiBL104 SgLMS35 N40A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kozuchi nori nezumi (Obata)\n20-01-1984") 
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Las ’Obata tsuchi-ningyo’ es otra de las escuelas de ‘ningyo’ (figuras de arcillas tradicionales) de Japón. También se conocen como ‘Obata deko’ (‘deko’ es figura en el dialecto local). Se fabrican en Obata, una pequeña aldea de la antigua ciudad de Gokasho (actualmente integrada en Higashiomi), prefectura de Shiga.\n
+Actualmente, el artesano Hosoi Gengo es la novena generación fabricándolas, siguiendo una tradición de más de 300 años. Esta fue iniciada por Hosoi Yasubei, un correo que hacía la ruta Nakasendo (una de las grandes rutas de comunicaciones del periodo Edo, uniendo Kioto con Edo). Cansado de tanto viaje, estudió la fabricación de figuras en Fushimi y se asentó en Obata, en la ruta Nakasendo, para vender figuras como souvenir a los viajeros. Hoy en día se fabrican más de 400 modelos diferentes.\n
+El ejemplar mostrado, ‘Kozuchi nori nezumi’ (ratón montando martillo) muestra a un ratón sobre el ‘Uchide-no-Kozuchi’, un legendario martillo del folklore japonés que se cree que hace aparecer aquello que se desea al golpear con él.
+PAGE_TEXT_PARAGRAPH_END
+
+
+# ------------------------------------------------------------------------------
 # 2006 Año del perro
 # ------------------------------------------------------------------------------
 
