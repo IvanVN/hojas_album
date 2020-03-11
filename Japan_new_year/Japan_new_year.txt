@@ -1286,6 +1286,41 @@ Actualmente, el artesano Hosoi Gengo es la novena generación fabricándolas, si
 El ejemplar mostrado, ‘Kozuchi nori nezumi’ (ratón montando martillo) muestra a un ratón sobre el ‘Uchide-no-Kozuchi’, un legendario martillo del folklore japonés que se cree que hace aparecer aquello que se desea al golpear con él.
 PAGE_TEXT_PARAGRAPH_END
 
+# ------------------------------------------------------------------------------
+# 1985 Buey
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Buey de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "20 de febrero de 1985 al 8 de febrero de 1986" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n41.jpg"  ""    "Mi1613 Sn1621 Yt1514 Sg1766 N41"    "")
+STAMP_HEADING(HN 12 "Sakushu-ushi (Okayama)\n01-12-1984")
+
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (76 98 "imagenes/n41A.jpg"  "" "MiBL105 SgLMS36 N41A" "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Sakushu-ushi (Okayama)\n 21-01-1985")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+La antigua provincia de Sakushu (actualmente integrada en la prefectura de Okayama) es famosa por la cría de una raza de vacas negras llamada Kibi-ushi. Estas vacas son el motivo de este juguete tradicional de la región, una figura de bambú de cabeza oscilante y pintada de color oscuro, como el animal que representa. Fue creado en 1957 por el artesano local Yasushi Shiraishi en la ciudad de Tsuyama, haciéndose muy popular desde entonces.
+PAGE_TEXT_PARAGRAPH_END
+#https://www.e-tsuyama.com/report/2014/04/post-640.html
 
 # ------------------------------------------------------------------------------
 # 2006 Año del perro
