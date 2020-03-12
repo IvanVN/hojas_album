@@ -1323,6 +1323,40 @@ PAGE_TEXT_PARAGRAPH_END
 #https://www.e-tsuyama.com/report/2014/04/post-640.html
 
 # ------------------------------------------------------------------------------
+# 1986 Tigre
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "9 de febrero de 1986 al 28 de enero de 1987" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n42.jpg"  ""    "Mi1671 Sn1666 Yt1569 Sg1824 N42"    "")
+STAMP_HEADING(HN 12 "Shinno no tora (Osaka)\n02-12-1985")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n42A.jpg"  ""    "MiBL108 SgLMS37 N42A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Shinno no tora (Osaka)\n20-01-1986") 
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Los ‘Hariko-no-Tora’ (tigres de papel maché) son una artesanía tradicional japonesa muy popular y presente en muchas regiones. El hariko ‘Shinno no tora’ es un amuleto representativo del templo Sukunahikona, situado en pleno centro de Osaka y dedicado a Shinno y Sukunahikona-no-mikoto, dioses chino y japonés de la medicina. Como tal, se dice que el amuleto previene las enfermedades. De forma similar a otros lugares, esta tradición se popularizó durante una epidemia de cólera en Osaka a comienzos del siglo XIX.
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
 # 2006 Año del perro
 # ------------------------------------------------------------------------------
 
