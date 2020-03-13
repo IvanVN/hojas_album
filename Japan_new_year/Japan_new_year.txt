@@ -1357,6 +1357,43 @@ Los ‘Hariko-no-Tora’ (tigres de papel maché) son una artesanía tradicional
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 1987 Conejo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "29 de enero de 1987 al 16 de febrero de 1988" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n43.jpg"  ""    "Mi1711 Sn1708 Yt1609 Sg1867 N43"    "")
+STAMP_HEADING(HN 12 "Fufu momochimotsuki usagi\n01-12-1986")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n43A.jpg"  ""    "MiBL111 Sn1708a SgLMS39 N43A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Orizuru y Fufu momochimotsuki usagi\n20-01-1987") 
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
+Moler arroz (‘mochi tsuki’) para hacer ‘dumplings’ de pasta de arroz durante los días siguientes al año nuevo es una tradición muy popular en Japón. La forma tradicional de moler el arroz es golpeandolo en un gran cuenco bajo de madera o piedra con un martillo largo de madera. La imagen del mochi tsuki está muy relacionada con los conejos, ya que según el folklore japonés, los cráteres de la Luna forman la figura de un conejo moliendo arroz, el ‘mochi tsuki usagi’. En este sello se muestra la figura llamada ‘Fufu momochimotsuki usagi’ (matrimonio de conejos moliendo arroz) del artesano Sueyoshi Noda.\n\n
+El 'orizuru' ('grulla plegada') se considera el diseño más clásico del origami japonés. Tradicionalmente se ha regalado como deseo de salud, bienestar, felicidad y prosperidad. El orizuru se hizo mundialmente famoso gracias a la historia de Sadako Sasaki (1943-1955), víctima de la radiación del bombardeo atómico de Hiroshima. Mientras estaba convaleciente, su amiga Chizuko le contó la leyenda de las 'Senbazuru' (mil grullas), según la cual los dioses concederían un deseo a quien hiciese mil orizuru. Deseando curarse y que no hubiese más guerras, decidió hacer las mil grullas. Sin embargo, murió cuando llevaba solamente 644. Chizuko y otros amigos continuaron su trabajo hasta alcanzar las mil, convirtiéndose en un símbolo de paz en todo el mundo.
+PAGE_TEXT_PARAGRAPH_END
+#http://blog.nihondorei.com/?eid=33
+#https://worldkigodatabase.blogspot.com/2006/04/pounding-rice-mochi-tsuki.html
+
+# ------------------------------------------------------------------------------
 # 2006 Año del perro
 # ------------------------------------------------------------------------------
 
