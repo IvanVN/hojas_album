@@ -1394,6 +1394,41 @@ PAGE_TEXT_PARAGRAPH_END
 #https://worldkigodatabase.blogspot.com/2006/04/pounding-rice-mochi-tsuki.html
 
 # ------------------------------------------------------------------------------
+# 1988 Dragon
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Dragon de tierra")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "17 de febrero de 1988 al 5 de febrero de 1989" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (26 30  "imagenes/n44.jpg"  ""    "Mi1764, Sn1765 Yt1660 Sg1923 N44"    "")
+STAMP_HEADING(HN 12 "Tatsu no hariko (Kurashiki)\n01-12-1987")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n44A.jpg"  ""    "MiBL114 Sn1765a SgLMS41 N44A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Orizuru y tatsu no hariko (Kurashiki)\n20-01-1988") 
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+El ‘Kurashiki no hariko’ (hariko de Kurasaki) es otra escuela tradicional de hariko (figuras de papel maché). Fue creada en 1869 por el artesano Tashiro Ikumizu en la ciudad de Kurashiki, prefectura de Okayama. Actualmente la quinta generación de artesanos los sigue fabricando usando las mismas técnicas artesanales. Como otras escuelas de hariko, hay múltiples diseños de figuras, pero entre los Kurashiki no hariko es especialmente popular el tigre. Los Kurashiki no hariko han aparecido dos veces en los sellos de año nuevo. En este, con un 'tatsu' (dragón), y en 2017 con un gallo.
+PAGE_TEXT_PARAGRAPH_END
+#https://www.kurashiki-shigen.jp/web/index.cgi?c=product-2&pk=89
+
+# ------------------------------------------------------------------------------
 # 2006 Año del perro
 # ------------------------------------------------------------------------------
 
