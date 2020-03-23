@@ -1560,13 +1560,87 @@ STAMP_ADD_IMG (30 55  "imagenes/n53.jpg"  ""    "Mi2085 Sn2129 Yt1969 Sg2177 N53
 STAMP_HEADING(HN 12 "Paper-mache Monkey\n02-12-1991" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n54.jpg"  ""    "Mi2086 Sn2130 Yt1970 Sg2178 N54"    "")
 STAMP_HEADING(HN 12 "Obata Clay Doll - Monkey\n02-12-1991" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n52.jpg"  ""    "Mi2084 Sn2128 Yt1968 Sg2176 N52"    "")
+STAMP_ADD_IMG (30 34  "imagenes/n52.jpg"  ""    "Mi2084 Sn2128 Yt1968 Sg2176 N52"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n51A.jpg"  ""    "MiBL157 Sn2127a SgLMS49 N51A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Paper-mache Monkey\n16-01-1992") 
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1993 Gallo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "23 de enero de 1993 al 9 de febrero de 1994" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n55.jpg"  ""    "Mi2131 Sn2150 Yt2015 Sg2211 N55"    "")
+STAMP_ADD_IMG (30 55  "imagenes/n57.jpg"  ""    "Mi2133 Sn2152 Yt2017 Sg2213 N57"    "")
+STAMP_HEADING(HN 12 "Paper-mache Cock\n16-11-1992" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n58.jpg"  ""    "Mi2134 Sn2153 Yt2018 Sg2214 N58"    "")
+STAMP_HEADING(HN 12 "Tsuyazaki Clay Cock on Drum\n16-11-1992" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n56.jpg"  ""    "Mi2132 Sn2151 Yt2016 Sg2212 N56"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n56A.jpg"  ""    "MiBL162 Sn2151a SgLMS50 N56A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Paper-mache and Clay Cocks\n18-01-1993") 
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 1994 Perro
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Perro de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "10 de febrero de 1994 al 30 de enero de 1995" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n59.jpg"  ""    "Mi2191 Sn2221 Yt2072 Sg2280 N59"    "")
+STAMP_ADD_IMG (30 55  "imagenes/n61.jpg"  ""    "Mi2193 Sn2223 Yt2074 Sg2282 N61"    "")
+STAMP_HEADING(HN 12 "Paper-mache Dog\n15-11-1993" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n62.jpg"  ""    "Mi2194 Sn2224 Yt2075 Sg2283 N62"    "")
+STAMP_HEADING(HN 12 "Paper-mache Dog\n15-11-1993" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n60.jpg"  ""    "Mi2192 Sn2222 Yt2073 Sg2281 N60"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n60A.jpg"  ""    "MiBL168 SgLMS51 N60A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Paper-mache Dog\n17-01-1994") 
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
