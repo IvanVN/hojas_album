@@ -1945,6 +1945,46 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
+# 2003 Cabra
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "1 de febrero de 2003 al 21 de enero de 2004" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n95.jpg"  ""    "Mi3435 Sn2842 Yt3307 Sg3078 N95"    "")
+STAMP_HEADING(HN 12 "Sheep Clay Bell by Hashimoto Norihiko - Sapporo\n15-11-2002")
+STAMP_ADD_IMG (30 55  "imagenes/n97.jpg"  ""    "Mi3437 Sn2844 Yt3309 Sg3081 N97"    "")
+STAMP_HEADING(HN 12 "Sheep Holding Fan (Clay Doll) by Aoyagi Morihiko\n15-11-2002")
+STAMP_ADD_IMG (30 55  "imagenes/n98.jpg"  ""    "Mi3438 Sn2845 Yt3310 Sg3082 N98"    "")
+STAMP_HEADING(HN 12 "Oku Paper-mache Sheep by Takehisa Mamoru\n15-11-2002")
+STAMP_ADD_IMG (26 30  "imagenes/n96.jpg"  ""    "Mi3436 Sn2843 Yt3308 Sg3079 N96"    "")
+STAMP_HEADING(HN 12 "Edo Small Toy: Sheep Carrying Jewel by Nakamise Sukeroku\n15-11-2002")
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n96A.jpg"  ""    "MiBL191 SgLMS60 N96A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nSheep Clay Bell by Hashimoto Norihiko - Sapporo & Edo Small Toy: Sheep Carrying Jewel by Nakamise Sukeroku\n20-01-2003") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
 # 2006 Año del perro
 # ------------------------------------------------------------------------------
 
