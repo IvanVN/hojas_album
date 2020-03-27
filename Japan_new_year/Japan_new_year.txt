@@ -1985,7 +1985,86 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
-# 2006 Año del perro
+# 2004 Mono
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Mono de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "22 de enero de 2004 al 8 de febrero de 2005" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n99.jpg"  ""    "Mi3589 Sn2871 Yt3451 Sg3188 N99"    "")
+STAMP_HEADING(HN 12 "Wooden Monkey Monkey Performing the Sanbaso Dance\n14-11-2003")
+STAMP_ADD_IMG (30 55  "imagenes/n101.jpg"  ""    "Mi3591 Sn2873 Yt3453 Sg3191 N101"    "")
+STAMP_HEADING(HN 12 "Wooden Monkey Monkey Performing the Sanbaso Dance\n14-11-2003")
+STAMP_ADD_IMG (30 55  "imagenes/n102.jpg"  ""    "Mi3592 Sn2874 Yt3454 Sg3192 N102"    "")
+STAMP_HEADING(HN 12 "Himeji Papier-mache Successful Monkey by Matsuo Takashi IV\n14-11-2003")
+STAMP_ADD_IMG (26 30  "imagenes/n100.jpg"  ""    "Mi3590 Sn2872 Yt3452 Sg3189 N100"    "")
+STAMP_HEADING(HN 12 "Himeji Papier-mache Successful Monkey by Matsuo Takashi IV\n14-11-2003")
+
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n100A.jpg"  ""    "MiBL193 SgLMS61 N100A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nWooden and paper-mache monkeys\n19-01-2004") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2005 Gallo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "9 de febrero de 2005 al 28 de enero de 2006" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n103.jpg"  ""    "Mi3747 Sn2910 Yt3600 Sg3281 N103"    "")
+STAMP_HEADING(HN 12 "Clay-Bell (Hita Dorei) Cock - Ōita Prefecture\n15-11-2004")
+STAMP_ADD_IMG (30 55  "imagenes/n105.jpg"  ""    "Mi3749 Sn2912 Yt3602 Sg3284 N105"    "")
+STAMP_HEADING(HN 12 "Clay-Bell (Hita Dorei) Cock - Ōita Prefecture\n15-11-2004")
+STAMP_ADD_IMG (30 55  "imagenes/n106.jpg"  ""    "Mi3750 Sn2913 Yt3603 Sg3285 N106"    "")
+STAMP_HEADING(HN 12 "Shimotsuke Clay-Bell Cock - Tochigi Prefecture\n15-11-2004")
+STAMP_ADD_IMG (26 30  "imagenes/n104.jpg"  ""    "Mi3748 Sn2911 Yt3601 Sg3282 N104"    "")
+STAMP_HEADING(HN 12 "Shimotsuke Clay-Bell Cock - Tochigi Prefecture\n15-11-2004")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76 "imagenes/n104A.jpg"  ""    "MiBL195 SgLMS62 N104A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Rooster\n17-01-2005") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2006 Perro
 # ------------------------------------------------------------------------------
 
 PAGE_START
@@ -1999,7 +2078,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
-PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
@@ -2011,8 +2090,57 @@ STAMP_HEADING(HN 12 "Perro de porcelana (Sadowara) \n 15-11-2005" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
 #STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
 
-PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98.0 76.0  "imagenes/n111.jpg"  ""    "SgLMS63 MiBL197"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Akita Inu y perro de porcelana\n 16-01-2006") 
+STAMP_ADD_IMG (98.0 76.0  "imagenes/n108A.jpg"  ""    "SgLMS63 MiBL197"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nAkita Inu y perro de porcelana\n 16-01-2006") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2007 Cerdo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de fuego")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "18 de enero de 2007 al 6 de febrero de 2008" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n111.jpg"  ""    "Mi4119 Sn2971 Yt3961 Sg3491 N111"    "")
+#STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
+STAMP_ADD_IMG (30 55  "imagenes/n113.jpg"  ""    "Mi4123 Sn2973 Yt3963 Sg3494 N113"    "")
+STAMP_HEADING(HN 12 "Treasured Boar - Small Toy from Edo period\n01-11-2006" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n114.jpg"  ""    "Mi4124 Sn2974 Yt3964 Sg3495 N114"    "")
+STAMP_HEADING(HN 12 "Toyama Clay Boar Doll - Folk Toy\n01-11-2006" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n112.jpg"  ""    "Mi4120 Sn2972 Yt3962 Sg3492 N112"    "")
+#STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
+
+#ROW_START_FS (HN 6 0.1 12.0)
+#STAMP_ADD_IMG (48 56  "imagenes/n115.jpg"  ""    "Sn2974c N115"    "")
+#STAMP_HEADING(HN 12 "New Year's Greetings 2007 - Year of the Pig\n01-11-2006" -21)
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98.0 76.0  "imagenes/n112A.jpg"  ""    "MiBL198 Sn2972a SgLMS64 N112A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Pig (Boar) Lottery S/S\n15-01-2007") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
