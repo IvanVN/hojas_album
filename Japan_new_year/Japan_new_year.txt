@@ -2263,3 +2263,151 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Tiger Lottery 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
 PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2011 Conejo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de metal")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "3 de febrero de 2011 al 22 de enero de 2012" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n131.jpg"  ""    "Mi5474 Sn3272 Yt5273 Sg4540 N131"    "")
+STAMP_ADD_IMG (30 55  "imagenes/n133.jpg"  ""    "Mi5476 Sn3274 Yt5274 Sg4542 N133"    "")
+STAMP_HEADING(HN 12 "Papier-mache Toy Rabbit - Nishi-Aizu, Fukushima Pref.\n10-11-2010" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n134.jpg"  ""    "Mi5477 Sn3275 Yt5276 Sg4543 N134"    "")
+STAMP_HEADING(HN 12 "Rabbit Clay Bell, Folk Toy of Tamba - Hyōgo Prefecture\n10-11-2010" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n132.jpg"  ""    "Mi5475 Sn3273 Yt5275 Sg4541 N132"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76  "imagenes/n132A.jpg"  ""    "MiBL216 Sn3273a N132A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Rabbit Lottery S/S\n24-01-2011") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2012 Dragón
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "23 de enero de 2012 al 9 de febrero de 2013" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n135.jpg"  ""    "Mi5835 Sn3388 Yt5631 Sg4957 N135"    "")
+STAMP_ADD_IMG (30 55  "imagenes/n137.jpg"  ""    "Mi5837 Sn3390 Yt5633 Sg4959 N137"    "")
+STAMP_HEADING(HN 12 "Toy Dragon (New Year's 2012)\n11-11-2011" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n138.jpg"  ""    "Mi5838 Sn3391 Yt5634 Sg4960 N138"    "")
+STAMP_HEADING(HN 12 "Toy Dragon (New Year's 2012)\n11-11-2011" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n136.jpg"  ""    "Mi5836 Sn3389 Yt5632 Sg4958 N136"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76  "imagenes/n136A.jpg"  ""    "MiBL224 N136A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nLottery Souvenir Sheet: Year of the Dragon\nXX-01-2012") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2013 Serpiente
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de agua")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "10 de febrero de 2013 al 30 de enero de 2014" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n139.jpg"  ""    "Mi6203 Sn3488 Yt5997 Sg5311 N139"    "")
+STAMP_ADD_IMG (30 55  "imagenes/n141.jpg"  ""    "Mi6205 Sn3490 Yt5999 Sg5312a N141"    "")
+STAMP_HEADING(HN 12 "New Year's Stamps for 2013\n12-11-2012" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n142.jpg"  ""    "Mi6206 Sn3491 Yt6000 Sg5312b N142"    "")
+STAMP_HEADING(HN 12 "New Year's Stamps for 2013\n12-11-2012" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n140.jpg"  ""    "Mi6204 Sn3489 Yt5998 Sg5312 N140"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76  "imagenes/n140A.jpg"  ""    "MiBL231 Sn3491a N140A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Snake Lottery S/S\n21-01-2013") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
+
+# ------------------------------------------------------------------------------
+# 2014 Caballo
+# ------------------------------------------------------------------------------
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de madera")   # draw thetitle text with a negative amount of blank space after it
+PAGE_TEXT_CENTRE (TN 12 "31 de enero de 2014 al 18 de febrero de 2015" -18.0)
+ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
+STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
+ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 12.0)
+STAMP_ADD_IMG (26 30  "imagenes/n143.jpg"  ""    "Mi6603 Sn3611 Yt6392 Sg5646 N143"    "")
+STAMP_ADD_IMG (30 55  "imagenes/n145.jpg"  ""    "Mi6605 Sn3613 Yt6394 Sg5648 N145"    "")
+STAMP_HEADING(HN 12 "Nakayama Doll (Earthenware Bell) 'Dorei-Harukoma' & Nogomi Horse Doll (Earthenware) 'Inarigoma'\n01-11-2013" -21)
+STAMP_ADD_IMG (30 55  "imagenes/n146.jpg"  ""    "Mi6606 Sn3614 Yt6395 Sg5649 N146"    "")
+STAMP_HEADING(HN 12 "Folk Toy Horse (Ryukyu Hariko 'Chinchin-Uma')\n01-11-2013" 21)
+STAMP_ADD_IMG (26 30  "imagenes/n144.jpg"  ""    "Mi6604 Sn3612 Yt6393 Sg5647 N144"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76  "imagenes/n144A.jpg"  ""    "MiBL239 SgMS5716a N144A"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nNew Year's Greetings 2014 - Year of the Horse\nXX-01-2014") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_END
