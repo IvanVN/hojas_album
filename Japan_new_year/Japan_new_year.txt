@@ -330,18 +330,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n11.jpg"  "" "Mi649 Sn617 Yt572 Sg747 N11" "")
-STAMP_HEADING(HN 12 "Muñecas Kokeshi \n 30-12-1955")
+STAMP_HEADING(HN 12 "Muñeca Kokeshi y Ejiko \n 30-12-1955")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 94  "imagenes/n11a.jpg"  "" "MiBL55 Sn617A YtBF42a SgLMS7 N11A" "") # Medidas aproximadas
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Muñecas Kokeshi \n 30-12-1955")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Muñeca Kokeshi y Ejiko \n 30-12-1955")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las kokeshi son muñecas tradicionales japonesas, originarias de la región de Tohoku en el norte de Japón. Se fabrican a mano utilizando madera como materia prima y se caracterizan por tener un tronco simple y una cabeza redondeada pintada con líneas sencillas para definir el rostro; el cuerpo tiene diseños florales y no poseen brazos ni piernas. El origen de estas figuras se remonta a unos doscientos años, dentro del Periodo Edo (1603-1867). Se piensa que los artesanos especializados en utensilios de madera de la región de Tohoku comenzaron a hacer pequeñas muñecas para venderlas como recuerdo a los turistas que visitaban las aguas termales.
+Las kokeshi son muñecas tradicionales japonesas, originarias de la región de Tohoku en el norte de Japón. Se fabrican a mano utilizando madera como materia prima y se caracterizan por tener un tronco simple y una cabeza redondeada pintada con líneas sencillas para definir el rostro; el cuerpo tiene diseños florales y no poseen brazos ni piernas. El origen de estas figuras se remonta a unos doscientos años, dentro del Periodo Edo (1603-1867). Se piensa que los artesanos especializados en utensilios de madera de la región de Tohoku comenzaron a hacer pequeñas muñecas para venderlas como recuerdo a los turistas que visitaban las aguas termales. La kokeshi viene acompañada de una figura de un 'ejiko', una cuna portátil hecha de paja tradicional de la region.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -363,19 +363,19 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n12.jpg"  "" "Mi666 Sn634 Yt589 Sg763 N12" "")
-STAMP_HEADING(HN 12 "Danjiri de juguete con forma de ballena (Nagasaki) \n 20-12-1956")
+STAMP_HEADING(HN 12 "Kujira no danjiri (Nagasaki) \n 20-12-1956")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 94  "imagenes/n12a.jpg"  "" "MiBL57 Sn634B YtBF44 SgLMS8 N12A" "") # Medidas aproximadas
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Danjiri de juguete con forma de ballena (Nagasaki) \n 20-12-1956")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kujira no danjiri (Nagasaki) \n 20-12-1956")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Danjiri Matsuri son un tipo de festival japonés en el que grandes carros se arrastran en procesión. El festival más famoso es el Kishiwada Danjiri Matsuri.
-Los Danjiri son grandes carros de madera (danjiri guruma), generalmente con forma de templo y muy ornamentados. Cada danjiri representa un barrio diferente, con su propia cofradía que se encarga de mantenerlo y conducirlo durante los festivales. Uno de los cofrades va montado sobre el techo del danjiri, guiando su dirección mientras realiza un baile tradicional de abanico.
+Los Danjiri son grandes carros de madera (danjiri guruma), generalmente con forma de templo y muy ornamentados. Cada danjiri representa un barrio diferente, con su propia cofradía que se encarga de mantenerlo y conducirlo durante los festivales. Uno de los cofrades va montado sobre el techo del danjiri, guiando su dirección mientras realiza un baile tradicional de abanico.\nEsta imagen muestra un juguete basado en el 'Kujira no danjiri' ('danjiri ballena') del festival del templo Suwa, en Nagasaki.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -408,7 +408,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Inu-hariko (Saitama) \n 2
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El Inu-hariko es un tipo de muñeco tradicional japonés de papel maché con forma de perro. Antiguamente se consideraba un talismán protector contra el mal para los niños, ya que el perro simboliza lealtad y protección y se creía que eran capaces de reconocer a los demonios con forma humana. Hoy en día se vende como souvenir para juguete o decoración.
+El Inu-hariko es un tipo de muñeco tradicional japonés de papel maché con forma de perro. Antiguamente se consideraba un talismán protector contra el mal para los niños, ya que el perro simboliza lealtad y protección y se creía que eran capaces de reconocer a los demonios con forma humana. Hoy en día se vende como souvenir para juguete o decoración.\nEl sello de este año representa un inu-hariko de la escuela de Edo llamado ‘Azuma inu’ (‘perro del este’) de la provincia de Saitama, al norte de Tokio. La figura se complementa con diversos amuletos y representaciones de juguetes.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -441,7 +441,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Ebisu no Tai (Takamatsu) 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Ebisu  (también transcrito Yebisu) es el dios japonés de la suerte, los pescadores y los obreros, así como el guardián de la salud de los niños pequeños. Él es uno de los Shichifukujin (Siete Dioses de la Fortuna), y el único de los siete que tiene su origen exclusivamente en Japón sin ninguna influencia hindú o china. Suele representarse vestido con un sobrero alto, una caña de pescar y un besugo (tai).
+Ebisu  (también transcrito Yebisu) es el dios japonés de la suerte, los pescadores y los obreros, así como el guardián de la salud de los niños pequeños. Él es uno de los Shichifukujin (Siete Dioses de la Fortuna), y el único de los siete que tiene su origen exclusivamente en Japón sin ninguna influencia hindú o china. Suele representarse vestido con un sobrero alto, una caña de pescar y un besugo (tai).\nLa imagen muestra un hariko de la escuela de Takamatsu, en la prefectura de Kagawa.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -979,7 +979,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kugikakushi con forma de 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘kugikakushi’ (ocultador de clavos) es una pieza ornamental de metal o madera utilizada en la arquitectura tradicional japonesa para cubrir las clavijas de madera necesarias para asegurar el cruce del dintel y los postes. También fueron utilizados en las puertas para ocultar las cabezas de clavos grandes. Los diseños más típicos son semiesferas (‘bai’) o flores con cuatro (‘shiyou’), seis (‘rokuyou’) u ocho (‘hachiyou’) pétalos. En este caso, se muestra un kugikakushi con forma de narciso.
+El ‘kugikakushi’ (ocultador de clavos) es una pieza ornamental de metal o madera utilizada en la arquitectura tradicional japonesa para cubrir las clavijas de madera necesarias para asegurar el cruce del dintel y los postes. También fueron utilizados en las puertas para ocultar las cabezas de clavos grandes. Los diseños más típicos son semiesferas (‘bai’) o flores con cuatro (‘shiyou’), seis (‘rokuyou’) u ocho (‘hachiyou’) pétalos. En este caso, se muestra un kugikakushi con forma de narciso utilizado en el palacio imperial Katsura, en la ciudad de Kioto.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
