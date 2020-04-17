@@ -563,18 +563,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n18.jpg"  "" "Mi812 Sn773 Yt728 Sg914 N18" "")
-STAMP_HEADING(HN 12 "Campana dorei conejo (Nogomi) \n 15-12-1962")
+STAMP_HEADING(HN 12 "Usagi suzu (Kashima) \n 15-12-1962")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 94  "imagenes/n18a.jpg"  "" "MiBL65 SgLMS14 N18A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Campana dorei conejo (Nogomi) \n 15-12-1962")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Usagi suzu (Kashima) \n 15-12-1962")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las campanas de barro 'dorei' con forma de 'eto' (animales del zodiaco) son un amuleto tradicional, ya que se cree que su sonido aleja a los malos espíritus y atrae la buena suerte. Se suelen comprar y regalar durante el periodo de fin de año y año nuevo. El diseño de las campanas suele cambiar con la región, teniendo cada una el suyo particular. Este dorei forma parte de la colección de los 12 etos que fabrica la compañía Nogomi Clay-Bell Toys de Nogomi, prefectura de Saga.
+Las campanas de barro 'dorei' con forma de 'eto' (animales del zodiaco) son un amuleto tradicional, ya que se cree que su sonido aleja a los malos espíritus y atrae la buena suerte. Se suelen comprar y regalar durante el periodo de fin de año y año nuevo. El diseño de las campanas suele cambiar con la región, teniendo cada una el suyo particular. Este dorei forma parte de la colección de los 12 etos que fabrica la compañía Nogomi Clay-Bell Toys de Kashima, prefectura de Saga. El estilo de las Nogomi Ningyo es conocido for sus formas simples y redondeadas y han aparecido en los sellos de 1963 y 1991.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1524,24 +1524,27 @@ ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
-ROW_START_FS (HN 6 0.1 20.0)
+ROW_START_FS (HN 6 0.1 25.0)
 STAMP_ADD_IMG (26 30  "imagenes/n48.jpg"  ""    "Mi2012 Sn2074 Yt1896 Sg2127 N48"    "")
-STAMP_HEADING(HN 12 "Clay Bell Sheep\n03-12-1990")
+STAMP_HEADING(HN 12 "Nogomi ningyo (Kashima)\n03-12-1990")
 STAMP_ADD_IMG (30 55  "imagenes/n49.jpg"  ""    "Mi2013 Sn2075 Yt1897 Sg2128 N49"    "")
-STAMP_HEADING(HN 12 "Sheep Bell\n03-12-1990")
+STAMP_HEADING(HN 12 "Kazumi ningyo (Kochi)\n03-12-1990")
 STAMP_ADD_IMG (30 55  "imagenes/n50.jpg"  ""    "Mi2014 Sn2076 Yt1898 Sg2129 N50"    "")
-STAMP_HEADING(HN 12 "Paper-mache Sheep\n03-12-1990")
+STAMP_HEADING(HN 12 "Tsuneishi hariko (Fukuyama)\n03-12-1990")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n48A.jpg"  ""    "MiBL149 SgLMS48 N48A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Clay Bell Sheep\n20-01-1991") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Nogomi ningyo (Kashima)\n20-01-1991") 
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Se muestras tres figuras con forma de oveja de diferentes estilos.\n
+Las Nogomi Ningyo, de la ciudad de Kashima (prefetura de Saga) se fabricadan desde 1945 por el artesano Teruji Suzuta. Originalmente se vendían en el templo Yutoku Inari, y hoy se vende como artesanía tradicional de la ciudad.\n
+Las Kazumi Ningyo toman el nombre de su creadora, la pintora Kazumi Yamamoto. Comenzó a hacer figuras tras la guerra en Koshi, prefectura de Shiga, hasta su muerte en 1963, continuando la fabricación su hija Nobuko y después su hermano Sadahiko. A la muerte de este en 1991, las Kazumi Ningyo se dejaron de fabricar.\n
+Las Tsuneishi hariko de Fukuyama, prefectura de Hiroshima, fueron creadas hacia 1887 por Miyamoto Kyuhei. Originalmente un artesano de figuras de arcilla, cambió a figuras de papel maché cansado de que las figuras se rompieran durante el transporte antes de venderlas.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
