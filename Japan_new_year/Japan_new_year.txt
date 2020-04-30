@@ -1643,21 +1643,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n59.jpg"  ""    "Mi2191 Sn2221 Yt2072 Sg2280 N59"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n61.jpg"  ""    "Mi2193 Sn2223 Yt2074 Sg2282 N61"    "")
-STAMP_HEADING(HN 12 "Paper-mache Dog\n15-11-1993" -21)
+STAMP_HEADING(HN 12 "Eto no inu (Shibahara)\n15-11-1993" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n62.jpg"  ""    "Mi2194 Sn2224 Yt2075 Sg2283 N62"    "")
-STAMP_HEADING(HN 12 "Paper-mache Dog\n15-11-1993" 21)
+STAMP_HEADING(HN 12 "Tosa ken (Kochi)\n15-11-1993" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n60.jpg"  ""    "Mi2192 Sn2222 Yt2073 Sg2281 N60"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n60A.jpg"  ""    "MiBL168 SgLMS51 N60A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Paper-mache Dog\n17-01-1994") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - 'Eto no inu' y 'Tosa ken'\n17-01-1994") 
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Este “Eto no inu” (Perro zodiacal) es un Shibahara ningyo fabricado en Shibahara, prefectura de Chiba. Estas figuras tienen una pequeña bola de arcilla dentro que suena al ser agitadas. La escuela Shibahara tiene su origen en las figuras Imado del periodo Edo y fue iniciada por Tanaka Kinzo a finales de la era Meiji. Fueron fabricadas durante tres generaciones por la familia Tanaka hasta que su nieto Kenji murió sin tener heredero, retomando otro miembro del clan, Shoji Chiba, la fabricación a partir de 1971. Actualmente hay unos 130 modelos diferentes, siendo 70 diseños originales de Kinzo y otros 45 diseños Imado.\n\n
+“Tosa ken” (perro de Tosa) es un Tosa tsuchi ningyo, fabricado Kochi (antigua Tosa), prefectura de Kochi. El Tosa ken (también “Tosa inu”) es una raza de perro autóctona de la región, parecido a un mastín y usado tradicionalmente para peleas de perros.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1680,21 +1681,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n63.jpg"  ""    "Mi2273 Sn2443 Yt2152 Sg2335 N63"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n65.jpg"  ""    "Mi2275 Sn2445 Yt2154 Sg2337 N65"    "")
-STAMP_HEADING(HN 12 "Wild Boar Toy\n15-11-1994" -21)
+STAMP_HEADING(HN 12 "Hariko no i (Izumo)\n15-11-1994" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n66.jpg"  ""    "Mi2276 Sn2446 Yt2155 Sg2338 N66"    "")
-STAMP_HEADING(HN 12 "Wild Boar Toy\n15-11-1994" 21)
+STAMP_HEADING(HN 12 "Nuigurumi no i (Takayama)\n15-11-1994" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n64.jpg"  ""    "Mi2274 Sn2444 Yt2153 Sg2336 N64"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n64A.jpg"  ""    "MiBL170 YtBF151 SgLMS52 N64A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Wild Boar Toy\n17-01-1995") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-1995") 
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Este “Hariko no i” (12º signo zodiacal de papel maché) es un Izumo hariko de la ciudad del mismo nombre, prefectura de Shimane. La figura larga y estilizada representa la valentía del jabalí.\n\n
+El segundo motivo representa un “nuigurumi” (animal de peluche) fabricado en Takayama, prefectura de Gifu. Estos peluches se pintan usando la técnica tradicional “mokuhan” de impresión manual sobre tela de algodón con molde de madera. Una vez decorada la tela, el muñeco se cose, rellenándolo de hollejos de arroz.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
