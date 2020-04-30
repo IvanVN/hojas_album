@@ -1196,7 +1196,7 @@ PAGE_TEXT_CENTRE (TN 20 "Año del perro de agua")   # draw thetitle text with a 
 PAGE_TEXT_CENTRE (TN 12 "25 de enero de 1982 al 12 de febrero de 1983" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
-STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
@@ -2088,7 +2088,7 @@ PAGE_TEXT_CENTRE (TN 20 "Año del Perro de fuego")   # draw thetitle text with a
 PAGE_TEXT_CENTRE (TN 12 "29 de enero de 2006 al 17 de febrero de 2007" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
-STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.jpg"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 
