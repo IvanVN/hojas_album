@@ -1719,21 +1719,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n67.jpg"  ""    "Mi2356x Sn2506 Yt2238 Sg2396 N67"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n69.jpg"  ""    "Mi2358 Sn2508 Yt2240 Sg2398 N69"    "")
-STAMP_HEADING(HN 12 "Tsutsumi Clay Rat on Cayenne Pepper / Turnip\n15-11-1995" -21)
+STAMP_HEADING(HN 12 "'Togarashi-nori nezumi' y 'Kabura-nori nezumi'\n(Sendai)\n15-11-1995" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n70.jpg"  ""    "Mi2359 Sn2509 Sg2399 N70"    "")
-STAMP_HEADING(HN 12 "Satsuma Paper-mache Rat in Rice Store\n15-11-1995" 21)
+STAMP_HEADING(HN 12 "Yonekura nezumi\n(Hayato)\n15-11-1995" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n68.jpg"  ""    "Mi2357x Sn2507 Yt2239 Sg2397 N68"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n68A.jpg"  ""    "MiBL172 Sn2507a YtBF153 SgLMS53 N68A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nTsutsumi Clay Rat on Cayenne Pepper & Satsuma Paper-mache Rat in Rice Store\n16-01-1996") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1996") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+“Togarashi-nori nezumi” (ratón sobre una guindilla) y “Kabura-nori nezumi” (ratón sobre nabo) son Tsutsumi ningyo de la ciudad de Sendai, prefectura de Miyagi. Ambas figuras son variaciones de un motivo de ratón blanco sobre fruto rojo. Como amuleto de buena suerte, simbolizan la fertilidad de las ratas y de los frutos.\n\n
+“Yonekura nezumi” (ratón en almacén de arroz) es un Satsuma kubi ningyo (muñeco de cabeza oscilante) de la ciudad de Hayato (actualmente integrada en la ciudad de Kirishima, prefectura de Kagoshima. Los Satsuma ningyo se fabrican con amasado papel con pegamento a mano, por lo que cada uno es único. La cabeza del ratón se une a un trozo de bambú que hace de muelle y simula al ratón entrando y saliendo del almacén. Fueron creados por el artesano Takashi Kashima, ya fallecido, por lo que ya no se fabrican.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1756,22 +1757,24 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n71.jpg"  ""    "Mi2428x Sn2550 Yt2306 Sg2445 N71"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n73.jpg"  ""    "Mi2430 Sn2552 Yt2308 Sg2447 N73"    "")
-STAMP_HEADING(HN 12 "Okinawa Papier-mache Fighting Bull\n15-11-1996" -21)
+STAMP_HEADING(HN 12 "Togyu (Naha)\n15-11-1996" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n74.jpg"  ""    "Mi2431 Sn2553 Yt2309 Sg2448 N74"    "")
-STAMP_HEADING(HN 12 "Child on Bull (Takamatsu Wedding Doll)\n15-11-1996" 21)
+STAMP_HEADING(HN 12 "Ushi-nori kodomo (Takamatsu)\n15-11-1996" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n72.jpg"  ""    "Mi2429x Sn2551 Yt2307 Sg2446 N72"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n72A.jpg"  ""    "MiBL174 YtBF156 SgLMS54 N72A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nOkinawa Papier-mache Fighting Bull & Child on Bull (Takamatsu Wedding Doll)\n16-01-1997") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1997") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+El “Togyu” (también conocido como ‘ushi-zumo’ o sumo de toros) es una forma de tauromaquia de las islas Ryukyu, en las prefecturas de Okinawa y Kagoshima. El togyu enfrenta a una pareja de toros que entrelazarán sus cuernos intentando derribarse mutuamente. Aunque popular en todas las islas Ryukyo, está especialmente arraigado en la isla de Tokunoshima, donde el toro togyu es el símbolo local. Los sellos muestran ejemplos de harikos inspirados en el togyu de la ciudad de Naha, prefectura de Okinawa.\n\n
+La figura “Ushi-nori kodomo” (niño montando buey) es un Takamatsu Yomeiri (novia que se casa) ningyo de la ciudad e Takamatsu, prefectura de Kagawa, donde tienen una larga tradición datando del periodo Edo. Las novias, antes de casarse y pasar a la familia del marido, repartían entre los niños del vecindario o su familia estas figuras de arcilla con motivos de fertilidad y matrimonios felices y duraderos.
 PAGE_TEXT_PARAGRAPH_END
+#https://www.mingei-wasabidou.com/items/993718/Takamatsu-Yomeiri-Ningyo-Clay-Bridal-Trousseau-Dolls
 
 # ------------------------------------------------------------------------------
 # 1998 Tigre
