@@ -1796,22 +1796,25 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n75.jpg"  ""    "Mi2500 Sn2591 Yt2383 Sg2487 N75"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n77.jpg"  ""    "Mi2502 Sn2593 Yt2385 Sg2489 N77"    "")
-STAMP_HEADING(HN 12 "Papier-mache Tiger from Miharu, Fukushima Pref.\n14-11-1997" -21)
+STAMP_HEADING(HN 12 "Koshidakatora (Koriyama)\n14-11-1997" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n78.jpg"  ""    "Mi2503 Sn2594 Yt2386 Sg2490 N78"    "")
-STAMP_HEADING(HN 12 "Papier-mache Tiger from Hakata, Fukuoka Pref.\n14-11-1997" 21)
+STAMP_HEADING(HN 12 "Kubi furi tora (Fukuoka)\n14-11-1997" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n76.jpg"  ""    "Mi2501x Sn2592 Yt2384 Sg2488 N76"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n76A.jpg"  ""    "MiBL176 Sn2592a SgLMS55 N76A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nPapier-mache Tiger from Miharu, Fukushima Pref. & Papier-mache Tiger from Hakata, Fukuoka Pref.\n16-01-1998") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1998") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Como representación del año del tigre se presentan dos “hariko no tora” (tigres de papel maché) de dos de las escuelas más importantes, Miharu y Hakata.\n\n
+Los Miharu hariko se producen en la aldea de Dekoyashiki, cerca de la ciudad de Koriyama, prefectura de Fukushima, desde hace más de 300 años. Toman su nombre de la antigua denominación del señorío feudal de Miharu-han durante el periodo Edo. El sello muestra la figura “Koshidakatora” (tigre de cadera alta), uno de los Miharu hariko más famosos.\n\n
+Los Hakata hariko se fabrican en el barrio de Hakata de la ciudad de Fukuoka, prefectura de Fukuoka. El estilo llegó a la ciudad a mediados del periodo Edo de la mano de artesanos venidos de la región de Kansai. Los motivos más populares entre los Hakata hariko son los darumas y los tigres, como el “kubi furi tora” (tigre de cabeza oscilante) mostrado.
 PAGE_TEXT_PARAGRAPH_END
+#https://cooljapan.es/miharu-hariko-testigo-directo-la-historia-moderna-del-japon/
 
 # ------------------------------------------------------------------------------
 # 1999 Conejo
