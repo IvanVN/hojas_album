@@ -776,7 +776,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Gallo tallado 'sasano-bor
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘Sasano-bori’ es una técnica tradicional de tallado de figuras de aves en madera, característica por los bucles de madera con el que se tallan las colas y las plumas. Su origen se remonta a la pequeña aldea de Sasano, en Yonezawa, prefectura de Yamagata, donde los granjeros pasaban el largo invierno tallando figuras de aves. Si se usan como regalo, se suele escoger el ave que represente alguna característica de la persona a la que se ofrece, como, por ejemplo, el gallo a la gente madrugadora.
+El ‘Sasano-bori’ es una técnica tradicional de tallado de figuras en madera. Los motivos principales son las aves, que se caracterizan por los bucles de madera con el que se tallan las colas y las plumas. Su origen se remonta a la pequeña aldea de Sasano, en Yonezawa, prefectura de Yamagata, donde los granjeros pasaban el largo invierno tallando figuras de aves. Si se usan como regalo, se suele escoger el ave que represente alguna característica de la persona a la que se ofrece, como, por ejemplo, el gallo a la gente madrugadora.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1912,21 +1912,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n87.jpg"  ""    "Mi3071x Sn2750 Yt2942 Sg2845 N87"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n89.jpg"  ""    "Mi3073 Sn2752 Yt2944 Sg2847 N89"    "")
-STAMP_HEADING(HN 12 "Coiled Snake of Jindaiji Temple (Unglazed Clay Bell)\n15-11-2000" -21)
+STAMP_HEADING(HN 12 "Uzumaki mi (Chofu)\n15-11-2000" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n90.jpg"  ""    "Mi3074 Sn2753 Yt2945 Sg2848 N90"    "")
-STAMP_HEADING(HN 12 "Snake of Sasanobori (Carved Wooden Toy Snake)\n15-11-2000" 21)
+STAMP_HEADING(HN 12 "Sasanobori mi (Yonezawa)\n15-11-2000" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n88.jpg"  ""    "Mi3072x Sn2751 Yt2943 Sg2846 N88"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n88A.jpg"  ""    "MiBL186 SgLMS58 N88A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nCoiled Snake of Jindaiji Temple (Unglazed Clay Bell) & Snake of Sasanobori (Carved Wooden Toy Snake)\n10-01-2001") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-01-2001") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los dos primeros sellos muestran dos Jidaiji dorei con variaciones del motivo ‘Uzumaki mi’ (serpiente enrollada). Fundado en el año 733, el templo Jindaiji de la ciudad de Chofu es el segundo templo más antiguo de la región de Tokio, después del archiconocido templo Sensoji de Asakura, en el mismo Tokio. Las Jindaiji dorei se caracterizan por sus formas y colores inocentes y alegres. Son fabricadas en el horno Musashino Jindaiji, fundado en 1957 por Minoru Yoshida y Nobuko Baba.\n\n
+Los siguientes sellos muestran dos variaciones del eto ‘mi’ (serpiente) creados con la técnica del Sasanobori de la ciudad de Yonezawa, prefectura de Yamagata. Las tallas Sasanobori aparecieron también en el sello de 1969.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
