@@ -1950,22 +1950,24 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n91.jpg"  ""    "Mi3287 Sn2801 Yt3159 Sg2980 N91"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n93.jpg"  ""    "Mi3289 Sn2803 Yt3161 Sg2982 N93"    "")
-STAMP_HEADING(HN 12 "Sedge Horse Loaded with Rice - Niigata Pref.\n15-11-2001" -21)
+STAMP_HEADING(HN 12 "Ine-ba (Myoko)\n15-11-2001" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n94.jpg"  ""    "Mi3290 Sn2804 Yt3162 Sg2983 N94"    "")
-STAMP_HEADING(HN 12 "Red Horse of Kira, Amulette - Aichi Prefecture\n15-11-2001" 21)
+STAMP_HEADING(HN 12 "Kira no Akauma to hakuba (Nishio)\n15-11-2001" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n92.jpg"  ""    "Mi3288 Sn2802 Yt3160 Sg2981 N92"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n92A.jpg"  ""    "MiBL189 SgLMS59 N92A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nSedge Horse Loaded with Rice - Niigata Pref. & Red Horse of Kira, Amulette - Aichi Prefecture\n08-01-2002") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n08-01-2002") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los ‘Joetsu Hiramaru’ son unos muñecos fabricados con la técnica del ‘suge-zaiku’ (tejido de paja) típicos de la ciudad de Myoko, prefectura de Niigata. Se empezaron a confeccionar hacia 1958 en el distrito de Hiramaru como una forma de ingresos para los agricultores durante los inviernos. Los últimos artesanos se retiraron en 2018, pero una sociedad  de preservación se encarga de mantener viva la tradición. Los sellos de 50 yenes de este año muestran el diseño ‘Ine-ba’ (caballo portador de arroz).\n
+‘Kira no akauma’ (el caballo rojo de Kira) es una figura artesanal de Nishio, prefectura de Aichi. Están fabricados con una mezcla de arcilla y virutas de madera prensada con un molde de madera. El caballo rojo representa la montura con la que se dice que Kira Kozukenosuke, un señor local famoso por ser el villano del Chūshingura (la leyenda de los 47 Ronin), patrullaba la zona. Se acompaña en pareja con el ‘hakuba’ (caballo blanco) o una figura de Kira. Actualmente los fabrica el artesano de octava generación Inoue Hiromi.
 PAGE_TEXT_PARAGRAPH_END
+# https://www.yukiguni-journey.jp/en/458/
 
 # ------------------------------------------------------------------------------
 # 2003 Cabra
