@@ -144,7 +144,7 @@ STAMP_ADD_IMG (30 34  "imagenes/n5.jpg"  "" "Mi499 Sn498 Yt442 Sg580 N5" "")
 STAMP_HEADING(HN 12 "'Tigre' por Maruyama Okyo (1733-1795) \n 01-02-1950")
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 132  "imagenes/n5a.jpg"  "" "MiBL32 YtBF26A SgLMS1 N5A" "") # Medidas aproximadas
+STAMP_ADD_IMG (94.5 131.3  "imagenes/n5a.jpg"  "" "MiBL32 YtBF26A SgLMS1 N5A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Tigre\n 01-02-1950")
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
