@@ -2109,24 +2109,24 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
-#STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
+STAMP_HEADING(HN 12 "Akita Inu\n 15-11-2005")
 STAMP_ADD_IMG (30 55  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
-STAMP_HEADING(HN 12 "Akita Inu \n 15-11-2005" -21)
+STAMP_HEADING(HN 12 "Shiba Inu\n 15-11-2005")
 STAMP_ADD_IMG (30 55  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
-STAMP_HEADING(HN 12 "Perro de porcelana (Sadowara) \n 15-11-2005" 21)
+STAMP_HEADING(HN 12 "Sadowara Ningyo inu (Miyazaki) \n 15-11-2005" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
-#STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98.0 76.0  "imagenes/n108A.jpg"  ""    "SgLMS63 MiBL197"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nAkita Inu y perro de porcelana\n 16-01-2006") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n 16-01-2006") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
+Para el año del perro, los sellos de 50 yenes muestras dos de las seis razas de perros autóctonas de Japón. El Akita Inu, proveniente de la norteña prefectura de Akita, era originalmente un perro de caza mayor y de ataque. La raza es mundialmente conocida gracias al famoso perro Hachiko. El Shiba Inu es una de las razas de perros más antiguas del mundo, registrándose los primeros indicios de su llegada a Japón hacia el 2.000 a.C. Es de apariencia similar al Akita Inu, pero de mucha menos envergadura. Se ha utilizado tradicionalmente para la caza en las zonas boscosas y montañosas del centro del país.\n\n
+Los sellos de 80 yenes muestran un Sadowara ningyo con motivo de un perro con un collar de hojas de roble. Estas figuras se fabrican en la aldea de Sadowara, hoy integrada en la ciudad de Miyazaki, desde hace 400 años. Son especialmente conocidos por el ‘Manju Kui Ningyo’ (muñeco comiendo bollo), basado en una leyenda local. Tras haber estado al borde de desaparecer, actualmente cuentan con una nueva generación de artesanos que mantienen viva la tradición. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
