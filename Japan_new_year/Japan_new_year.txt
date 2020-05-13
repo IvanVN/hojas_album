@@ -2071,24 +2071,23 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n103.jpg"  ""    "Mi3747 Sn2910 Yt3600 Sg3281 N103"    "")
-STAMP_HEADING(HN 12 "Clay-Bell (Hita Dorei) Cock - Ōita Prefecture\n15-11-2004")
 STAMP_ADD_IMG (30 55  "imagenes/n105.jpg"  ""    "Mi3749 Sn2912 Yt3602 Sg3284 N105"    "")
-STAMP_HEADING(HN 12 "Clay-Bell (Hita Dorei) Cock - Ōita Prefecture\n15-11-2004")
+STAMP_HEADING(HN 12 "Junishi no tori (Hita)\n15-11-2004" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n106.jpg"  ""    "Mi3750 Sn2913 Yt3603 Sg3285 N106"    "")
-STAMP_HEADING(HN 12 "Shimotsuke Clay-Bell Cock - Tochigi Prefecture\n15-11-2004")
+STAMP_HEADING(HN 12 "Junishi no tori (Utsunomiya)\n15-11-2004" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n104.jpg"  ""    "Mi3748 Sn2911 Yt3601 Sg3282 N104"    "")
-STAMP_HEADING(HN 12 "Shimotsuke Clay-Bell Cock - Tochigi Prefecture\n15-11-2004")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n104A.jpg"  ""    "MiBL195 SgLMS62 N104A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Rooster\n17-01-2005") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-2005") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 50 yenes muestras dos Hita dorei con variaciones del motivo ‘Junishi no tori’ (gallo del zodíaco). Estos dorei se fabrican en la ciudad de Hita, prefectura de Oita y se caracterizan por estar cubiertas de ‘washi’ pintado a mano. Durante el Shogunato, Hita era considerada ‘Tenryo’ (tierras propiedad del Shogun) y ha intentado conservar esa esencia en su arquitectura y cultura tradicionales.\n\n
+Los sellos de 80 yenes muestran un Shimono dorei con el mismo motivo del gallo del zodiaco, fabricados en la ciudad de Utsonomiya, prefectura de Tochigi. La región es famosa por sus artesanías en arcilla, fabricándose con el mismo material estas dorei, las tejas de Tochigi y las cerámicas de la aldea Mashiko. Además de los ‘eto’, estas dorei suelen tener motivos basados en las leyendas locales.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
