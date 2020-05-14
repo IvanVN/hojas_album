@@ -2010,7 +2010,7 @@ Se muestras cuatro artesanías tradicionales con el motivo del eto ‘mi’ (cab
 El sello de 50 yenes muestra un dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
 El semi-postal de 50 yenes muestra la Yukawa ningyo ‘Ogi-mochi mi’ (cabra con abanico) creada por Aoyagi Morihiko, de Aizuwakamatsu (Fukushima). Originario de Asakusa (Tokio), empezó a crear figuras en 1982. En 1984 se mudó a Aizuwakamatsu, donde abrió un horno y empezó a hacer figuras, inicialmente haciendo copias de las figuras Tsuruoka y más adelante sus propios diseños.\n
 El semi-postal de 80 yenes muestra un Oku hariko creado por Takehisa Mamoru, de Setouchi (Okayama). Los Oku hariko se llevan fabricando desde el periodo Edo.\n
-El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja llevando joya), creado por Nakamise Sukeroku en la popular calle comercial Taito-ku de Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
+El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja llevando joya), creado vendido en la tieda Sukeroku de la popular calle comercial Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2148,13 +2148,11 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n111.jpg"  ""    "Mi4119 Sn2971 Yt3961 Sg3491 N111"    "")
-#STAMP_HEADING(HN 12 "\n Akita Inu \n 15-11-2005")	# Hack to fix aligment as ROW_ALIGN_MIDDLE doesn't seem to work
 STAMP_ADD_IMG (30 55  "imagenes/n113.jpg"  ""    "Mi4123 Sn2973 Yt3963 Sg3494 N113"    "")
-STAMP_HEADING(HN 12 "Treasured Boar - Small Toy from Edo period\n01-11-2006" -21)
+STAMP_HEADING(HN 12 "Hoju no inoshishi (Tokio)\n01-11-2006" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n114.jpg"  ""    "Mi4124 Sn2974 Yt3964 Sg3495 N114"    "")
-STAMP_HEADING(HN 12 "Toyama Clay Boar Doll - Folk Toy\n01-11-2006" 21)
+STAMP_HEADING(HN 12 "Eto inoshishi (Toyama)\n01-11-2006" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n112.jpg"  ""    "Mi4120 Sn2972 Yt3962 Sg3492 N112"    "")
-#STAMP_HEADING(HN 12 "Perro de porcelana \n (Sadowara) \n 15-11-2005")
 
 #ROW_START_FS (HN 6 0.1 12.0)
 #STAMP_ADD_IMG (48 56  "imagenes/n115.jpg"  ""    "Sn2974c N115"    "")
@@ -2164,12 +2162,13 @@ PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98.0 76.0  "imagenes/n112A.jpg"  ""    "MiBL198 Sn2972a SgLMS64 N112A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Pig (Boar) Lottery S/S\n15-01-2007") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-01-2007") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 50 yenes muestran un juguete de estilo Edo ‘Hoju no inoshishi’ (el jabalí de la joya). Los juguetes de estilo Edo son uno de los productos más populares a la venta en la famosa calle Nakamise que da acceso al templo Senso-ji, en Asakusa (Tokio) y han aparecido anteriormente en el sello del año 2003.\n\n
+Los sellos de 80 yenes muestran un Toyama tsuchi ningyo con un motivo del ‘eto’ jabalí. Las figuras de arcilla de Toyama se fabrican en la ciudad homónima desde finales del período Edo, cuando Maeda Toshiyasu, décimo Daimyo del feudo Toyama, invitó a artesanos de Nagoya a instalarse en la región. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2201,11 +2200,11 @@ STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N1
 #STAMP_ADD_IMG (56 56  "imagenes/n120.jpg"  ""    "Mi:JP 4411-4412, Sn:JP 3010r, Sg:JP 3660a, Sak:JP N120"    "")
 #STAMP_HEADING(HN 12 "New Year's Greetings 2008 - Year of the Rat\n01-11-2007")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (100 98  "imagenes/n121.jpg"  ""    "MiBL199 Sn3015 N121"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the rat\n28-01-2008") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n28-01-2008") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
