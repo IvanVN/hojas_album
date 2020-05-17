@@ -2191,9 +2191,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n116.jpg"  ""    "Mi4409 Sn3007 Yt4236 Sg3656 N116"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n118.jpg"  ""    "Mi4413 Sn3009 Yt4238 Sg3658 N118"    "")
-STAMP_HEADING(HN 12 "Mouse & Rat Clay Toy - Fukutoku-ji Temple, Nara Pref.\n01-11-2007" -21)
+STAMP_HEADING(HN 12 "Junishi nezumi (Nagano)\n01-11-2007" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n119.jpg"  ""    "Mi4414 Sn3010 Yt4239 Sg3659 N119"    "")
-STAMP_HEADING(HN 12 "Kōfu Doll Bell 'Rat' - Yamanashi Pref\n01-11-2007" 21)
+STAMP_HEADING(HN 12 "Junishi ko (Kofu)\n01-11-2007" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N117"    "")
 
 #ROW_START_FS (HN 6 0.1 12.0)
@@ -2208,8 +2208,9 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n28-01-2008")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
+Los sellos de 50 yenes muestras un Fukutoku dorei con el motivo 'junishi nezumi' (ratón del zodiaco), en la que los ratones van vestidos con un 'chanchanko', una chaqueta tradicional acolchada y sin mangas. Estas campanas son un recuerdo típico del templo Fukutoku-ji en Nagano, prefectura homónima.\n
+Los sellos de 80 yenes muestran un Kofu dorei con el motivo 'junishi ko' (símbolo 'rata' del zodiaco). Estos doreis se fabrican en Kofu, prefectura de Yamanashi. Fueron originalmente creados por Gakunan Saito, un coleccionista y estudioso de los juguetes tradicionales que empezó a fabricar los suyos propios. Perdidos durante mucho tiempo tras la guerra, actualmente han sido recuperados por una segunda generación de artesanos.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
