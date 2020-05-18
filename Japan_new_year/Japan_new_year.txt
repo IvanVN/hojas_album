@@ -35,7 +35,7 @@ PAGE_START
 
 # 1936 Monte Fuji
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "24 de enero de 1936 al 10 de febrero de 1937" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -82,7 +82,7 @@ PAGE_START
 
 # 1938 Shimenawa
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "31 de enero de 1938 al 18 de febrero de 1939" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -128,7 +128,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "17 de febrero de 1949 al 5 de febrero de 1951" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -158,7 +158,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "6 de febrero de 1951 al 26 de enero de 1952" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -186,7 +186,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Niña y conejo\n 01-01-19
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "27 de enero de 1952 al 13 de febrero de 1953" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -219,7 +219,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "14 de febrero de 1953 al 02 de febrero de 1954" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -252,7 +252,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "3 de febrero de 1954 al 23 de enero de 1955" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -284,7 +284,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "24 de enero de 1955 al 11 de febrero de 1956" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -317,7 +317,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Mono de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "12 de febrero de 1956 al 30 de enero de 1957" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -350,7 +350,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "31 de enero de 1957 al 17 de febrero de 1958" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -384,7 +384,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Perro de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "18 de febrero de 1958 al 7 de febrero de 1959" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -417,7 +417,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "8 de febrero de 1959 al 27 de enero de 1960" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -441,7 +441,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Ebisu no Tai (Takamatsu) 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Ebisu  (también transcrito Yebisu) es el dios japonés de la suerte, los pescadores y los obreros, así como el guardián de la salud de los niños pequeños. Él es uno de los Shichifukujin (Siete Dioses de la Fortuna), y el único de los siete que tiene su origen exclusivamente en Japón sin ninguna influencia hindú o china. Suele representarse vestido con un sobrero alto, una caña de pescar y un besugo (tai).\nLa imagen muestra un hariko de la escuela de Takamatsu, en la prefectura de Kagawa.
+Ebisu  (también transcrito Yebisu) es el dios japonés de la suerte, los pescadores y los obreros, así como el guardián de la salud de los niños pequeños. Él es uno de los Shichifukujin (Siete Dioses de la Fortuna), y el único de los siete que tiene su origen exclusivamente en Japón sin ninguna influencia hindú o china. Suele representarse vestido con un sobrero alto, una caña de pescar y un besugo (tai).\n\nLa imagen muestra un hariko de la escuela de Takamatsu, en la prefectura de Kagawa.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -450,7 +450,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "28 de enero de 1960 al 14 de febrero de 1961" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -483,7 +483,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Buey de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "15 de febrero de 1961 al 4 de febrero de 1962" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -507,7 +507,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Becerro rojo de Aizu, bec
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El Aka-beko (becerro rojo) es un juguete tradicional de la región de Aizu. Su origen data de la construcción del templo Kyokyuzo-do en la ciudad de Aizu-Yanazu. Se cuenta que uno de los grandes bueyes rojos empleados en la construccion del templo se negó a abandonarlo, en aparente devoción a Buda. Al poco tiempo, un miembro del clan local usó al buey de modelo para un juguete de papel maché para los niños. Parece ser que en ese tiempo se produjo una plaga de viruela y se descubrió que los niños que tenían la figura del buey no enfermaron. Desde entonces el juguete se volvió muy popular como amuleto contra la enfermedad.\n
+El Aka-beko (becerro rojo) es un juguete tradicional de la región de Aizu. Su origen data de la construcción del templo Kyokyuzo-do en la ciudad de Aizu-Yanazu. Se cuenta que uno de los grandes bueyes rojos empleados en la construccion del templo se negó a abandonarlo, en aparente devoción a Buda. Al poco tiempo, un miembro del clan local usó al buey de modelo para un juguete de papel maché para los niños. Parece ser que en ese tiempo se produjo una plaga de viruela y se descubrió que los niños que tenían la figura del buey no enfermaron. Desde entonces el juguete se volvió muy popular como amuleto contra la enfermedad.\n\n
 El juguete tradicional Kin no be kokko (también ‘kinbeko’, buey dorado) tiene su origen en la región de Iwate, famosa por su oro y comercio. Antiguamente, los comerciantes locales tenían que transportar sus mercancías a través de las zonas montañosas de Iwate. Los caballos se cansaban fácilmente con la carga y huían al asustarse. Sin embargo, sus begoko ('vaca' en el antiguo dialecto de Iwate) siempre tenían energía y eran difíciles de asustar. Así, las mercancías mas valiosas se confiaban siempre a los begoko y por ello los kinbeko se suelen pintar de dorado y llevan grandes alforjas con la inscripción 'sen-ryo-hako' (1000 ryo).
 PAGE_TEXT_PARAGRAPH_END
 
@@ -517,7 +517,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "5 de febrero de 1962 al 24 de enero de 1963" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -550,7 +550,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "25 de enero de 1963 al 12 de febrero de 1964" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -583,7 +583,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "13 de febrero de 1964 al 1 de febrero de 1965" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -598,7 +598,7 @@ ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n19.jpg"  "" "Mi851 Sn805 Yt765 Sg954 N19" "")
 STAMP_HEADING(HN 12 "Dragones de juguete (Kai e Iwai) \n 16-12-1963")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 97  "imagenes/n19a.jpg"  "" "MiBL66 N19A" "")
@@ -607,7 +607,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Dragones de juguete (Kai 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Iwai, en la prefectura de Tottori, es famosa por tener algunos de los 'onsen' (baños de aguas termales) más antiguos de todo Japón, con más de 1200 años de antigüedad. Este pequeño dragón de madera es un ‘omiyage’ (souvenir) típico de la zona, ya que el dragón tradicionalmente se relaciona con el agua.\n
+Iwai, en la prefectura de Tottori, es famosa por tener algunos de los 'onsen' (baños de aguas termales) más antiguos de todo Japón, con más de 1200 años de antigüedad. Este pequeño dragón de madera es un ‘omiyage’ (souvenir) típico de la zona, ya que el dragón tradicionalmente se relaciona con el agua.\n\n
 El 'Kai no fukuryuu' (dragón de la suerte de Kai) es un juguete de madera fabricado en la ciudad de Kofu (prefectura de Yamanashi, antigua provincia de Kai) y vinculado a una leyenda local. Antiguamente, la planicie de Kofu era un lago, donde vivía un dragón. Los dioses pidieron al dragón que hiciera un sacrificio para los humanos, secando el lago y dándoles tierras donde poder cultivar. El dragón acepto y seco el lago enviando el agua al cielo en forma de un gigantesco torbellino. El juguete representa al dragón ascendiendo con el torbellino y se considera un amuleto de buena suerte.
 PAGE_TEXT_PARAGRAPH_END
 # https://omamorifromjapan.blogspot.com/2011/09/tatsu-dragon-info.html
@@ -618,7 +618,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "2 de febrero de 1965 al 20 de enero de 1966" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -651,7 +651,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "21 de enero de 1966 al 8 de febrero de 1967" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -685,7 +685,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "9 de febrero de 1967 al 29 de enero de 1968" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -718,7 +718,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Mono de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "30 de enero de 1968 al 16 de febrero de 1969" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -752,7 +752,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "17 de febrero de 1969 al 5 de febrero de 1970" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -785,7 +785,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Perro de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "6 de febrero de 1970 al 26 de enero de 1971" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -819,7 +819,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "27 de enero de 1971 al 14 de febrero de 1972" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -853,7 +853,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "15 de febrero de 1972 al 2 de febrero de 1973" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -889,7 +889,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Buey de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "3 de febrero de 1973 al 22 de enero de 1974" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -922,7 +922,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "23 de enero de 1974 al 10 de febrero de 1975" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -955,7 +955,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "11 de febrero de 1975 al 30 de enero de 1976" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -988,7 +988,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "31 de enero de 1976 al 17 de febrero de 1977" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1021,7 +1021,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "18 de febrero de 1977 al 6 de febrero de 1978" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1045,7 +1045,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Oyama no takehebi (Isehar
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘Oyama no takehebi’ (serpiente de bambú de Oyama) es un juguete tradicional vendido como souvenir en el templo Oyama Afuri, en la ciudad de Isehara, prefectura de Kanagawa. El templo, con 2200 años de historia, está situado en el monte Oyama a 1252 metros de altura y se accede gracias a un famoso funicular.\n
+El ‘Oyama no takehebi’ (serpiente de bambú de Oyama) es un juguete tradicional vendido como souvenir en el templo Oyama Afuri, en la ciudad de Isehara, prefectura de Kanagawa. El templo, con 2200 años de historia, está situado en el monte Oyama a 1252 metros de altura y se accede gracias a un famoso funicular.\n\n
 La serpiente está formada por trozos de bambú de unos 3 centímetros y unidos entre si por un alambre que hace de eje entre las piezas. El juguete es en realidad un silbato o flauta de dos o tres notas. Al soplar por la cola del juguete, el músico mueve la cabeza de izquierda a derecha, de manera que las distintas secciones de la serpiente bailan de un lado a otro, simulando el movimiento serpenteante del animal.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1055,7 +1055,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "7 de febrero de 1978 al 27 de enero de 1979" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1088,7 +1088,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "28 de enero de 1979 al 15 de febrero de 1980" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1112,7 +1112,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Oveja campana 'Nakayama n
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las ‘dorei’ (campanas de arcilla) son una de las artesanías tradicionales más comunes en Japón. Se suelen vender en templos y santuarios por todo el país como amuletos, típicamente con forma de uno de los ‘eto’ (animales del zodiaco chino). Uno de los usos tradicionales de los dorei era como amuletos para el crecimiento del gusano de la seda. Los granjeros los colgaban junto a los criaderos, con la esperanza de que su ocasional sonido recordase a los dioses la importancia de los gusanos para ellos y sus familias.\n
+Las ‘dorei’ (campanas de arcilla) son una de las artesanías tradicionales más comunes en Japón. Se suelen vender en templos y santuarios por todo el país como amuletos, típicamente con forma de uno de los ‘eto’ (animales del zodiaco chino). Uno de los usos tradicionales de los dorei era como amuletos para el crecimiento del gusano de la seda. Los granjeros los colgaban junto a los criaderos, con la esperanza de que su ocasional sonido recordase a los dioses la importancia de los gusanos para ellos y sus familias.\n\n
 El dorei representado aquí, ‘hitsuji-suzu’ (literalmente ‘oveja campana’) Es una muestra de la escuela ‘Nakayama ningyo’, de la ciudad de Yokote, prefectura de Akita. Esta escuela fue creada en 1874 por Yoshiyoshi Hiwatari. Yoshi había aprendido el arte de la fabricación de su suegro Ukichi, que había sido artesano para los clanes Nabeshima e Iwate hasta asentarse finalmente en Yokote.
 PAGE_TEXT_PARAGRAPH_END
 #http://yosukenaito.blog40.fc2.com/blog-entry-3532.html
@@ -1123,7 +1123,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Mono de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "16 de febrero de 1980 al 4 de febrero de 1981" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1156,7 +1156,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "5 de febrero de 1981 al 24 de enero de 1982" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1180,7 +1180,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Tawara-nori niwatori (Nak
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa una figura de la escuela Nakano, de la ciudad homónima, prefectura de Nagano.\n
+Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa una figura de la escuela Nakano, de la ciudad homónima, prefectura de Nagano.\n\n
 La ciudad de Nakano es famosa por sus figuras de arcilla, con dos familias de artesanos continuando la tradición: la familia Nara (creadores de los muñecos Nakano) y la familia Nishihara (creadores de los muñecos Tategahana). También es famosa por su museo de figuras de arcilla y el festival Hina-hichi, celebrado el 31 de marzo y 1 de abril.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1191,7 +1191,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del perro de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "25 de enero de 1982 al 12 de febrero de 1983" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1215,7 +1215,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hagoromo chin (Yonezawa)\
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las figuras de arcilla de Sagara (‘Sagara tsuchi ningyoo’) han sido fabricadas durante 220 años por la familia Sagara, herederos del clan Yonezawa que gobernó la región de Yonezawa (prefectura de Yamagata) durante el periodo Edo (1603-1868). Sagara Seizae-mon Atsutada creó el horno Narushima y comenzó a hacer muñecos con la arcilla de su jardín en 1790, tras retirarse de sus responsabilidades con el clan. Los miembros de la familia Sagara han seguido haciendo muñecos usando la misma arcilla y técnicas. Estas figuras son características por sus ojos de forma triangular. Se las considera uno de los tres estilos principales de figuras de la región de Tohoku, junto las Hanamaki y las Tsutsumi.\n
+Las figuras de arcilla de Sagara (‘Sagara tsuchi ningyoo’) han sido fabricadas durante 220 años por la familia Sagara, herederos del clan Yonezawa que gobernó la región de Yonezawa (prefectura de Yamagata) durante el periodo Edo (1603-1868). Sagara Seizae-mon Atsutada creó el horno Narushima y comenzó a hacer muñecos con la arcilla de su jardín en 1790, tras retirarse de sus responsabilidades con el clan. Los miembros de la familia Sagara han seguido haciendo muñecos usando la misma arcilla y técnicas. Estas figuras son características por sus ojos de forma triangular. Se las considera uno de los tres estilos principales de figuras de la región de Tohoku, junto las Hanamaki y las Tsutsumi.\n\n
 El Hagoromo chin es un perro de arcilla decorado con un collar de hojas de roble. Las hojas de roble son una representación de la familia, ya que las hojas anteriores no caen hasta que una nueva generación ha crecido, y simbolizan la prosperidad de los descendientes.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1226,7 +1226,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "13 de febrero de 1983 al 1 de febrero de 1984" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1250,7 +1250,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kitaro montando un jabal�
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Kintaro (‘niño de oro’) es un héroe legendario del folclore japonés. Siendo un niño de fuerza sobrehumana, fue criado en el monte Ashigara por una bruja. Allí se hizo amigo de los animales de la montaña, para más tarde pasar a ser un fiel seguidor de Minamoto no Yorimitsu (948 – 1021), otro personaje semi-legendario del periodo Heian, bajo el nombre de Sakata Kintoki. Kintaro es un personaje popular en las obras noh y kabuki y es tradición colocar una figura suya el día del niño con el deseo de que los niños crezcan tan valientes y fuertes como él.\n
+Kintaro (‘niño de oro’) es un héroe legendario del folclore japonés. Siendo un niño de fuerza sobrehumana, fue criado en el monte Ashigara por una bruja. Allí se hizo amigo de los animales de la montaña, para más tarde pasar a ser un fiel seguidor de Minamoto no Yorimitsu (948 – 1021), otro personaje semi-legendario del periodo Heian, bajo el nombre de Sakata Kintoki. Kintaro es un personaje popular en las obras noh y kabuki y es tradición colocar una figura suya el día del niño con el deseo de que los niños crezcan tan valientes y fuertes como él.\n\n
 Las figuras representando a Kintaro son muy populares y variadas, ilustrando diferentes partes de su leyenda (con la bruja, luchando con osos o montando animales como jabalíes o carpas). La figura aquí representada es una figura Tsutsumi, originarias de la ciudad de Tsutsumicho en la región de Sendai, y características por su uso del color rojo. La figura muestra a Kintaro montando un jabalí, mientras lleva al hombro su fiel hacha Masakari.
 PAGE_TEXT_PARAGRAPH_END
 #http://koharu2009.blogspot.com/2018/03/blog-post_20.html
@@ -1262,7 +1262,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "2 de febrero de 1984 al 19 de febrero de 1985" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1286,8 +1286,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kozuchi nori nezumi (Obat
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las ’Obata tsuchi-ningyo’ es otra de las escuelas de ‘ningyo’ (figuras de arcillas tradicionales) de Japón. También se conocen como ‘Obata deko’ (‘deko’ es figura en el dialecto local). Se fabrican en Obata, una pequeña aldea de la antigua ciudad de Gokasho (actualmente integrada en Higashiomi), prefectura de Shiga.\n
-Actualmente, el artesano Hosoi Gengo es la novena generación fabricándolas, siguiendo una tradición de más de 300 años. Esta fue iniciada por Hosoi Yasubei, un correo que hacía la ruta Nakasendo (una de las grandes rutas de comunicaciones del periodo Edo, uniendo Kioto con Edo). Cansado de tanto viaje, estudió la fabricación de figuras en Fushimi y se asentó en Obata, en la ruta Nakasendo, para vender figuras como souvenir a los viajeros. Hoy en día se fabrican más de 400 modelos diferentes.\n
+Las ’Obata tsuchi-ningyo’ es otra de las escuelas de ‘ningyo’ (figuras de arcillas tradicionales) de Japón. También se conocen como ‘Obata deko’ (‘deko’ es figura en el dialecto local). Se fabrican en Obata, una pequeña aldea de la antigua ciudad de Gokasho (actualmente integrada en Higashiomi), prefectura de Shiga.\n\n
+Actualmente, el artesano Hosoi Gengo es la novena generación fabricándolas, siguiendo una tradición de más de 300 años. Esta fue iniciada por Hosoi Yasubei, un correo que hacía la ruta Nakasendo (una de las grandes rutas de comunicaciones del periodo Edo, uniendo Kioto con Edo). Cansado de tanto viaje, estudió la fabricación de figuras en Fushimi y se asentó en Obata, en la ruta Nakasendo, para vender figuras como souvenir a los viajeros. Hoy en día se fabrican más de 400 modelos diferentes.\n\n
 El ejemplar mostrado, ‘Kozuchi nori nezumi’ (ratón montando martillo) muestra a un ratón sobre el ‘Uchide-no-Kozuchi’, un legendario martillo del folklore japonés que se cree que hace aparecer aquello que se desea al golpear con él.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1298,7 +1298,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Buey de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "20 de febrero de 1985 al 8 de febrero de 1986" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1334,7 +1334,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "9 de febrero de 1986 al 28 de enero de 1987" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1368,7 +1368,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "29 de enero de 1987 al 16 de febrero de 1988" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1405,7 +1405,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Dragon de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "17 de febrero de 1988 al 5 de febrero de 1989" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1440,7 +1440,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "6 de febrero de 1989 al 26 de enero de 1990" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1475,7 +1475,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "27 de enero de 1990 al 14 de febrero de 1991" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1492,7 +1492,7 @@ STAMP_HEADING(HN 12 "Hachimanma (Hachinohe)\n01-12-1989")
 STAMP_ADD_IMG (30 55  "imagenes/n47.jpg"  ""    "Mi1896 Sn2001 Yt1786 Sg2030 N47"    "")
 STAMP_HEADING(HN 12 "Hamamatsu Hariko (Hamamatsu)\n01-12-1989")
 
-#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n46A.jpg"  ""    "MiBL140 SgLMS47 N46A"    "")
@@ -1513,7 +1513,7 @@ PAGE_TEXT_PARAGRAPH_END
 PAGE_START
 
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "15 de febrero de 1991 al 3 de febrero de 1992" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1532,7 +1532,7 @@ STAMP_HEADING(HN 12 "Kazumi ningyo (Kochi)\n03-12-1990")
 STAMP_ADD_IMG (30 55  "imagenes/n50.jpg"  ""    "Mi2014 Sn2076 Yt1898 Sg2129 N50"    "")
 STAMP_HEADING(HN 12 "Tsuneishi hariko (Fukuyama)\n03-12-1990")
 
-#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n48A.jpg"  ""    "MiBL149 SgLMS48 N48A"    "")
@@ -1553,7 +1553,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Mono de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "4 de febrero de 1992 al 22 de enero de 1993" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1591,7 +1591,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "23 de enero de 1993 al 9 de febrero de 1994" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1629,7 +1629,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Perro de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "10 de febrero de 1994 al 30 de enero de 1995" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1667,7 +1667,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "31 de enero de 1995 al 18 de febrero de 1996" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1705,7 +1705,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "19 de febrero de 1996 al 6 de febrero de 1997" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1743,7 +1743,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Buey de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "7 de febrero de 1997 al 27 de enero de 1998" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1782,7 +1782,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "28 de enero de 1998 al 15 de febrero de 1999" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1822,7 +1822,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "16 de febrero de 1999 al 4 de febrero de 2000" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1860,7 +1860,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "5 de febrero de 2000 al 23 de enero de 2001" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1898,7 +1898,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "24 de enero de 2001 al 11 de febrero de 2002" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1936,7 +1936,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "12 de febrero de 2002 al 31 de enero de 2003" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1964,7 +1964,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n08-01-2002")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los ‘Joetsu Hiramaru’ son unos muñecos fabricados con la técnica del ‘suge-zaiku’ (tejido de paja) típicos de la ciudad de Myoko (antigua Arai), prefectura de Niigata. Se empezaron a confeccionar hacia 1958 en el distrito de Hiramaru como una forma de ingresos para los agricultores durante los inviernos. Los últimos artesanos se retiraron en 2018, pero una sociedad  de preservación se encarga de mantener viva la tradición. Los sellos de 50 yenes de este año muestran el diseño ‘Ine-ba’ (caballo portador de arroz).\n
+Los ‘Joetsu Hiramaru’ son unos muñecos fabricados con la técnica del ‘suge-zaiku’ (tejido de paja) típicos de la ciudad de Myoko (antigua Arai), prefectura de Niigata. Se empezaron a confeccionar hacia 1958 en el distrito de Hiramaru como una forma de ingresos para los agricultores durante los inviernos. Los últimos artesanos se retiraron en 2018, pero una sociedad  de preservación se encarga de mantener viva la tradición. Los sellos de 50 yenes de este año muestran el diseño ‘Ine-ba’ (caballo portador de arroz).\n\n
 ‘Kira no akauma’ (el caballo rojo de Kira) es una figura artesanal de Nishio, prefectura de Aichi. Están fabricados con una mezcla virutas de madera y 'funori' (pegamento de alga) prensada con un molde de madera. El caballo rojo representa la montura con la que se dice que Kira Kozukenosuke, un señor local famoso por ser el villano del Chūshingura (la leyenda de los 47 Ronin), patrullaba la zona. Se acompaña en pareja con el ‘hakuba’ (caballo blanco) o una figura de Kira. Actualmente los fabrica el artesano de octava generación Inoue Hiromi.
 PAGE_TEXT_PARAGRAPH_END
 # https://www.yukiguni-journey.jp/en/458/
@@ -1975,7 +1975,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "1 de febrero de 2003 al 21 de enero de 2004" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -1995,7 +1995,6 @@ STAMP_ADD_IMG (30 55  "imagenes/n98.jpg"  ""    "Mi3438 Sn2845 Yt3310 Sg3082 N98
 STAMP_HEADING(HN 12 "Oku hariko mi\n(Setouchi)\n15-11-2002")
 STAMP_ADD_IMG (26 30  "imagenes/n96.jpg"  ""    "Mi3436 Sn2843 Yt3308 Sg3079 N96"    "")
 STAMP_HEADING(HN 12 "Hoju no mi (Tokio)\n15-11-2002")
-
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2019,7 +2018,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Mono de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "22 de enero de 2004 al 8 de febrero de 2005" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2058,7 +2057,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "9 de febrero de 2005 al 28 de enero de 2006" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2096,7 +2095,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Perro de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "29 de enero de 2006 al 17 de febrero de 2007" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2135,7 +2134,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "18 de enero de 2007 al 6 de febrero de 2008" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2177,7 +2176,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Rata de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "7 de febrero de 2008 al 25 de enero de 2009" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2200,7 +2199,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N1
 #STAMP_ADD_IMG (56 56  "imagenes/n120.jpg"  ""    "Mi:JP 4411-4412, Sn:JP 3010r, Sg:JP 3660a, Sak:JP N120"    "")
 #STAMP_HEADING(HN 12 "New Year's Greetings 2008 - Year of the Rat\n01-11-2007")
 
-#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (100 98  "imagenes/n121.jpg"  ""    "MiBL199 Sn3015 N121"    "")
@@ -2262,7 +2261,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Tigre de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "14 de febrero de 2010 al 2 de febrero de 2011" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2299,7 +2298,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Conejo de metal")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "3 de febrero de 2011 al 22 de enero de 2012" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2336,7 +2335,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Dragón de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "23 de enero de 2012 al 9 de febrero de 2013" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2373,7 +2372,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Serpiente de agua")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "10 de febrero de 2013 al 30 de enero de 2014" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2410,7 +2409,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Caballo de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "31 de enero de 2014 al 18 de febrero de 2015" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2447,7 +2446,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año de la Cabra de madera")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "19 de febrero de 2015 al 7 de febrero de 2016" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2484,7 +2483,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Mono de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "8 de febrero de 2016 al 27 de enero de 2017" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2521,7 +2520,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Gallo de fuego")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "28 de enero de 2017 al 15 de febrero de 2018" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2558,7 +2557,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Perro de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "16 de febrero de 2018 al 4 de febrero de 2019" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
@@ -2595,7 +2594,7 @@ PAGE_TEXT_PARAGRAPH_END
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 20 "Año del Cerdo de tierra")   # draw thetitle text with a negative amount of blank space after it
 PAGE_TEXT_CENTRE (TN 12 "5 de febrero de 2019 al 24 de enero de 2020" -18.0)
 ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
