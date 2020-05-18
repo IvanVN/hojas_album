@@ -2232,11 +2232,11 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n122.jpg"  ""    "Mi4701 Sn3070 Yt4541 Sg3897 N122"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n124.jpg"  ""    "Mi4705 Sn3072 Yt4543 Sg3899 N124"    "")
-STAMP_HEADING(HN 12 "Gankake ushi (Sasebo)\n04-11-2008" -21)
+STAMP_HEADING(HN 12 "Gan-kake ushi (Sasebo)\n04-11-2008" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n125.jpg"  ""    "Mi4706 Sn3073 Yt4544 Sg3900 N125"    "")
-STAMP_HEADING(HN 12 "Tachi ushi nori Tenjin (Miyoshi)\n04-11-2008")
+STAMP_HEADING(HN 12 "Tachiushi-nori Tenjin (Miyoshi)\n04-11-2008")
 STAMP_ADD_IMG (26 30  "imagenes/n123.jpg"  ""    "Mi4702 Sn3071 Yt4542 Sg3898 N123"    "")
-STAMP_HEADING(HN 12 "Ne ushi nori Tenjin\n(Miyoshi)\n04-11-2008")
+STAMP_HEADING(HN 12 "Neushi-nori Tenjin\n(Miyoshi)\n04-11-2008")
 
 #ROW_START_FS (HN 6 0.1 12.0)
 #STAMP_ADD_IMG (56 56  "imagenes/n126.jpg"  ""    "Mi4703-4704Zf Sn3075a N126"    "")
@@ -2252,7 +2252,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n26-01-2009")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Los sellos de 50 yenes muestran la figura ‘Gankake ushi’ (buey para pedir un deseo) de la ciudad de Sasebo, prefectura de Nagasaki. La figura representa una leyenda local. Durante el período Muromachi (1333-1573), el señor del clan Matsuura fue a Kioto para obtener la aprobación del shogunato como Daimyo. Sin embargo, el shogun Ashikaga Yoshimasa era reacio a reunirse con él. Entonces, una noche una vaca roja se le apareció en sueños y le dijo que haría realidad su deseo, tras lo cual el shogun accedió a reunirse con él y le concedió el título. Los Gankake ushi se fabrican en metal o madera, en dos colores, rojo y negro.\n\n
-Los sellos de 80 yenes muestras dos Miyoshi ningyo con variaciones de un motivo de Tenjin sobre un buey, ‘Tachi ushi nori Tenjin’ (Tenjin sobre un buey en pie) y ‘Ne ushi nori Tenjin’ (Tenjin sobre un buey tumbado). En la religión Shinto, Tenjin es el kami de la enseñanza y se le relaciona con el buey. Las Miyoshi ningyo se fabrican en Miyoshi, prefectura de Hiroshima, desde mediados del siglo XVII. 
+Los sellos de 80 yenes muestras dos Miyoshi ningyo con variaciones de un motivo de Tenjin sobre un buey, ‘Tachiushi-nori Tenjin’ (Tenjin sobre un buey en pie) y ‘Neushi-nori Tenjin’ (Tenjin sobre un buey tumbado). En la religión Shinto, Tenjin es el kami de la enseñanza y se le relaciona con el buey. Las Miyoshi ningyo se fabrican en Miyoshi, prefectura de Hiroshima, desde mediados del siglo XVII. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2275,21 +2275,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n127.jpg"  ""    "Mi5090 Sn3170 Yt4905 Sg4229 N127"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n129.jpg"  ""    "Mi5092 Sn3172 Yt4906 Sg4231 N129"    "")
-STAMP_HEADING(HN 12 "Bobbing Head Tiger, Folk Toy - Shizuoka City\n11-11-2009" -21)
+STAMP_HEADING(HN 12 "Kubifuri no tora (Shizuoka)\n11-11-2009" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n130.jpg"  ""    "Mi5093 Sn3173 Yt4908 Sg4232 N130"    "")
-STAMP_HEADING(HN 12 "Evil Dispelling Tiger, Papier-mâché Toy from Kaga\n11-11-2009" 21)
+STAMP_HEADING(HN 12 "Kaga Mayoke Tora (Kanazawa)\n11-11-2009" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n128.jpg"  ""    "Mi5091 Sn3171 Yt4907 Sg4230 N128"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n128A.jpg"  ""    "MiBL208 Sn3171a N128A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Tiger Lottery S/S\n25-01-2010") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n25-01-2010") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 50 yenes muestran un Shizuoka Hariko con el popular diseño ‘Kubifuri no tora’ (tigre de cabeza oscilante). Estos harikos se fabricaban en la ciudad de Shizuoka, prefectura homónima, por la familia Sugimoto. Aunque llegó ha haber más de 200 modelos, lamentablemente estos fueron destruidos durante la guerra en 1945. El último artesano que continuaba la tradición, Eiji Sugimoto, de cuarta generación, ya falleció, por lo que estos harikos ya no se fabrican más.\n\n
+Los sellos de 80 yenes muestran el ‘Kaga Mayoke Tora’ (tigre ahuyenta demonios de Kaga), un Kaga hariko que hace de amuleto de buena suerte de la ciudad de Kanazawa, en la prefectura de Ishikawa. Su nombre hace referencia a la antigua provincia de Kaga, actualmente integrada en la prefectura de Ishikawa. El diseño del tigre es bastante redondo y lindo y mueve su cabeza para invitar a la buena fortuna.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
