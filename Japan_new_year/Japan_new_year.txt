@@ -1012,7 +1012,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Tatsu-guruma (Fukushima)\
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘tatsu-guruma’ es un poco común ‘miharu-hariko’ (juguete de papel maché) rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘gema de la omnipotencia’. En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda.
+El ‘tatsu-guruma’ es un poco común ‘miharu-hariko’ (juguete de papel maché) rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘zuitama’ (gema de la omnipotencia). En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2351,21 +2351,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n135.jpg"  ""    "Mi5835 Sn3388 Yt5631 Sg4957 N135"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n137.jpg"  ""    "Mi5837 Sn3390 Yt5633 Sg4959 N137"    "")
-STAMP_HEADING(HN 12 "Toy Dragon (New Year's 2012)\n11-11-2011" -21)
+STAMP_HEADING(HN 12 "Toryu (Fujisawa)\n11-11-2011" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n138.jpg"  ""    "Mi5838 Sn3391 Yt5634 Sg4960 N138"    "")
-STAMP_HEADING(HN 12 "Toy Dragon (New Year's 2012)\n11-11-2011" 21)
+STAMP_HEADING(HN 12 "Tatsu (Tosa)\n11-11-2011" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n136.jpg"  ""    "Mi5836 Sn3389 Yt5632 Sg4958 N136"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n136A.jpg"  ""    "MiBL224 N136A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nLottery Souvenir Sheet: Year of the Dragon\nXX-01-2012") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nXX-01-2012") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 50 yenes muestran dos Sagami dorei ‘Toryu’ (dragón) de la ciudad de Fijisawa, prefectura de Kanagawa. Uno de los motivos más populares de las Sagami dorei son las ‘atama ryu’ (cabezas de dragón), en las que la cabeza se decora con una bola ‘zuitama’ como símbolo de buena suerte.\n\n
+Los sellos de 80 yenes muestran el Tosa washi ganpi hariko ‘Tatsu’ (dragón) de la ciudad de Tosa, prefectura de Kochi. Estos harikos toman su nombre del washi fabricado en la región con las fibras del arbusto ‘ganpi’, que es considerado como uno de los papeles de mejor calidad de Japón. En su interior contienen una semilla de jaboncillo (Sapindus saponaria), que se muestra en la hoja bloque. El ruido que hace la semilla al agitarlo se cree que atrae la buena suerte.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
