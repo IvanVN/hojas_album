@@ -2313,21 +2313,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n131.jpg"  ""    "Mi5474 Sn3272 Yt5273 Sg4540 N131"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n133.jpg"  ""    "Mi5476 Sn3274 Yt5274 Sg4542 N133"    "")
-STAMP_HEADING(HN 12 "Papier-mache Toy Rabbit - Nishi-Aizu, Fukushima Pref.\n10-11-2010" -21)
+STAMP_HEADING(HN 12 "Kubifuri shofuku usagi (Nishi-Aizu)\n10-11-2010" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n134.jpg"  ""    "Mi5477 Sn3275 Yt5276 Sg4543 N134"    "")
-STAMP_HEADING(HN 12 "Rabbit Clay Bell, Folk Toy of Tamba - Hyōgo Prefecture\n10-11-2010" 21)
+STAMP_HEADING(HN 12 "Kousagi dorei (Tamba)\n10-11-2010" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n132.jpg"  ""    "Mi5475 Sn3273 Yt5275 Sg4541 N132"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n132A.jpg"  ""    "MiBL216 Sn3273a N132A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Rabbit Lottery S/S\n24-01-2011") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n24-01-2011") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 50 yenes muestran el Aizu hariko ‘Kubifuri shofuku usagi’ (conejo de cabeza oscilante que trae la buena fortuna), de la ciudad de Nishi-Aizu, prefectura de Fukushima. El origen de los Aizu hariko data de hace 400 años, cuando Gamo Ujisato, señor de Aizu, invitó a artesanos de Kioto a establecerse en la región para incentivar la economía y dar un oficio a los Samurais de bajo rango. El Aizu hariko más famoso es el Aka-beko, que apareció en el sello de 1961.\n\n
+Los sellos de 80 yenes muestran el Inabata tsuchi ningyo ‘Kousagi dorei’ (gazapo campana) de la ciudad de Tamba, prefectura de Hyogo. Las Inabata ningyo se empezaron a fabricar hacia 1570 en la aldea de Inabata, antigua provincia de Tamba, cuando Akai Wakaro Tadatsune empezó a fabricarlas trans inspirarse por los Fushimi ningyo que vio durante una visita al templo. Actualmente son fabricadas por la artesana de 5ª generación Akai Kimiyo.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
