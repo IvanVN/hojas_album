@@ -2360,7 +2360,7 @@ PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n136A.jpg"  ""    "MiBL224 N136A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nXX-01-2012") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n23-01-2012") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2428,22 +2428,25 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n143.jpg"  ""    "Mi6603 Sn3611 Yt6392 Sg5646 N143"    "")
+STAMP_HEADING(HN 12 "Dorei-Harukoma (Yokota)\n01-11-2013")
 STAMP_ADD_IMG (30 55  "imagenes/n145.jpg"  ""    "Mi6605 Sn3613 Yt6394 Sg5648 N145"    "")
-STAMP_HEADING(HN 12 "Nakayama Doll (Earthenware Bell) 'Dorei-Harukoma' & Nogomi Horse Doll (Earthenware) 'Inarigoma'\n01-11-2013" -21)
+STAMP_HEADING(HN 12 "Inarigoma (Kashima)\n01-11-2013")
 STAMP_ADD_IMG (30 55  "imagenes/n146.jpg"  ""    "Mi6606 Sn3614 Yt6395 Sg5649 N146"    "")
-STAMP_HEADING(HN 12 "Folk Toy Horse (Ryukyu Hariko 'Chinchin-Uma')\n01-11-2013" 21)
+STAMP_HEADING(HN 12 "Chinchin-Uma (Naha)\n01-11-2013" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n144.jpg"  ""    "Mi6604 Sn3612 Yt6393 Sg5647 N144"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n144A.jpg"  ""    "MiBL239 SgMS5716a N144A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nNew Year's Greetings 2014 - Year of the Horse\nXX-01-2014") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-2014") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+El sello de 50 yenes muestra el Nakayama ningyo ‘Dorei-harukoma’ (caballo primaveral) de la ciudad de Yokota, prefectura de Akita. Las Nakayama ningyo son famosas por sus brillantes y elegantes colores y la variedad de sus muñecos Kabuki y Sekku ningyo (muñecas de festival).\n\n
+El semi postal de 50 yenes muestra el Nogomi ningyo ‘Inari-koma’ de la ciudad de Kashima, prefectura de Saga. Este caballo portando una joya de la suerte se vende como recuerdo de Año Nuevo en el templo Yotoku Inari.\n\n
+Los sellos de 80 yenes muestran el Ryukyu hariko ‘Chinchin-Uma’ de la ciudad e Naha, prefectura de Okinawa. El Chinchin-Uma representa al rey de las islas Ryukyu vestido de gala y montando a caballo. La caja de madera contiene cuerdas que suenan (‘chin-chin’) cuando se tira del carrito y la cabeza del caballo oscila arriba y abajo.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
