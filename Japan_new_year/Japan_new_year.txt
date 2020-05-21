@@ -1181,7 +1181,7 @@ PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa una figura de la escuela Nakano, de la ciudad homónima, prefectura de Nagano.\n\n
-La ciudad de Nakano es famosa por sus figuras de arcilla, con dos familias de artesanos continuando la tradición: la familia Nara (creadores de los muñecos Nakano) y la familia Nishihara (creadores de los muñecos Tategahana). También es famosa por su museo de figuras de arcilla y el festival Hina-hichi, celebrado el 31 de marzo y 1 de abril.
+La ciudad de Nakano es famosa por sus figuras de arcilla, con dos familias de artesanos continuando la tradición: la familia Nara (creadores de los muñecos Nakano), representada por los artesanos de 5ª y 6ª generación Hisao Nara y Yukio Nara, y la familia Nishihara (creadores de los muñecos Tategahana), represenada por Kumie Nishihara, artesano de 5ª generación. También es famosa por su museo de figuras de arcilla y el festival Hina-hichi, celebrado el 31 de marzo y 1 de abril.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2469,21 +2469,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n147.jpg"  ""    "Mi7045 Sn3756 Yt6815 Sg6031 N147"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n149.jpg"  ""    "Mi7047 Sn3758 Yt6817 Sg6033 N149"    "")
-STAMP_HEADING(HN 12 "Shinshu-Nakano Tuchi ningyo no Hitsuji\n30-10-2014" -21)
+STAMP_HEADING(HN 12 "Shinshu-Nakano tsuchi ningyo no hitsuji\n(Nakano)\n30-10-2014" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n150.jpg"  ""    "Mi7048 Sn3759 Yt6818 Sg6034 N150"    "")
-STAMP_HEADING(HN 12 "Iwai no Kibori jyunishi no Hitsuji\n30-10-2014" 21)
+STAMP_HEADING(HN 12 "Iwai no Kibori junishi no Hitsuji\n(Iwami)\n30-10-2014" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n148.jpg"  ""    "Mi7046 Sn3757 Yt6816 Sg6032 N148"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n148A.jpg"  ""    "MiBL250 SgLMS72 N148A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nLottery Souvenir Sheet: Year of the Sheep\n19-01-2015") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n19-01-2015") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 52 yenes muestran el Shinshu-Nakano tsuchi ningyo no hitsuji (oveja) de la ciudad de Nakano, prefectura de Nagano. El origen de los Nakano ningyo data del período Bunka-Bunsei (1804-1830) y fueron también el motivo del sello de 1981.\n\n
+Los sellos de 82 yenes muestran el Iwai no kibori ‘Junishi no hitsuji’ (oveja del zodiaco) de la ciudad de Iwami, prefectura de Tottori. Las tallas de madera Iwai no kibori se fabrican desde hace unos 200 años en los alrededores del ‘onsen’ (baños termales) de Iwai.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
