@@ -2507,21 +2507,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n152.jpg"  ""    "Mi7573 Sn3953 Yt7307 Sg6459 N152"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n154.jpg"  ""    "Mi7575 Sn3955 Yt7309 Sg6461 N154"    "")
-STAMP_HEADING(HN 12 "New Year's Greetings: Toy Monkey\n29-10-2015" -21)
+STAMP_HEADING(HN 12 "Saru (Otsu)\n29-10-2015" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n155.jpg"  ""    "Mi7576 Sn3956 Yt7310 Sg6462 N155"    "")
-STAMP_HEADING(HN 12 "New Year's Greetings: Toy Monkey\n29-10-2015" 21)
+STAMP_HEADING(HN 12 "Kodaki-Saru (Kochi)\n29-10-2015" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n153.jpg"  ""    "Mi7574 Sn3954 Yt7308 Sg6460 N153"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n153A.jpg"  ""    "MiBL259 SgLMS73 N153A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Monkey Lottery S/S\n18-01-2016") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n18-01-2016") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 52 yenes muestran el Otsue Junishi Dorei ‘Saru’ (Mono) de la ciudad de Otsu, prefectura de Shiga. Estos Otsue Junishi Dorei han sido creados por el artesano Susumu Takada y los diseños se basan en pinturas Otsu-e de los junishi, los 12 signos del zodíaco. El Otsu-e (imágenes de Otsu) es una artesanía tradicional que se inició hacia el siglo XVII en las rutas comerciales en torno a la ciudad portuaria de Otsu. Se considera precursora de las famosas pinturas ukiyo-e, pero desapareció durante el siglo XIX con la aparición del ferrocarril y el decaimiento de las rutas comerciales.\n\n
+Los sellos de 82 yenes muestran el Tosa Washi Shikkui Hariko ‘Kodaki-Saru’ (mono con bebe tímido) de la ciudad de Kochi, prefectura homónima. Igual que otros harikos de la zona, se fabrican con el famoso papel de Tosa, en este caso con Tosa Washi Shikkui, que es un papel recubierto de Shikkui, un yeso japonés fabricado con cal hidratada y cáscara de huevo y normalmente usado en los acabados de las paredes. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
