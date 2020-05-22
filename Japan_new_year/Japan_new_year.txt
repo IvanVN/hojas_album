@@ -2620,20 +2620,24 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n166.jpg"  ""    "Mi9450 Yt9077 N166"    "")
+STAMP_HEADING(HN 12 "Rai ran sho i\n(Aizuwakamasu)\n01-11-2018")
 STAMP_ADD_IMG (30 55  "imagenes/n168.jpg"  ""    "Mi9452 Yt9079 N168"    "")
-STAMP_HEADING(HN 12 "Year of the Boar 2019\n01-11-2018" -21)
+STAMP_HEADING(HN 12 "Fukura suzume-nori mame maneki i\n(Aizuwakamasu)\n01-11-2018")
+#STAMP_HEADING(HN 11 "'Rai ran sho i' y 'Fukura suzume-nori mame maneki i'\n(Aizuwakamasu)\n01-11-2018" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n169.jpg"  ""    "Mi9453 Yt9080 N169"    "")
-STAMP_HEADING(HN 12 "Year of the Boar 2019\n01-11-2018" 21)
+STAMP_HEADING(HN 12 "Yabase ningyo eto i\n(Akita)\n01-11-2018" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n167.jpg"  ""    "Mi9451 Yt9078 N167"    "")
-
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
-
-ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n170.jpg"  ""    "MiBL274 YtBF210 N170"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Boar 2019 Lottery Sheet\n21-01-2019") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (98 76  "imagenes/n170.jpg"  ""    "MiBL274 YtBF210 N170"    "")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Maneki-neko\n21-01-2019") 
+
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
+El sellos de 62 yenes muestra dos Yukawa ningyo, ‘Rai ran sho i' (jabalí del zodiaco dando la bienvenida) y ‘Fukura suzume-nori mame maneki i’ (jabalí del zodiaco haciendo señas montado en gorrión de la suerte) de la ciudad de Aizuwakamasu, prefectura de Fukushima. Los Yukawa ningyo son populares por sus temas humorísticos y vivos colores y ya aparecieron anteriormente en el año 2003 celebrando el año de la cabra.\n
+Los sellos de 82 yenes muestran unos Yabase ningyo ‘eto i’ (jabalí zodiacal) de la ciudad de Akita, prefectura homónima. Estos ningyo se fabrican desde finales del siglo XVIII, influenciados por los Fushimi ningyo traídos por los barcos de la ruta comercial marítima Kitamaebune que unía Osaka con Hokkaido. De las tres familias de artesanos (Takamatsu, Endoo y Michicawa) solamente Michikawa Tomo continúa la tradición.\n
+La hoja bloque muestra dos ‘maneki neko’ (gato que invita a entrar), popularmente conocidos también como gato de la suerte. Estas famosas figuras muestran un gato de raza bobtail japonesa haciendo el gesto de llamada con la mano, mientras en la otra sostienen una moneda antigua japonesa llamada ‘koban’. Se suelen poner a la entrada de las tiendas y cuando tienen la mano derecha levantada se dice que atraen la prosperidad y el dinero, mientras que si levantan la izquierda atrae a las visitas.
 PAGE_TEXT_PARAGRAPH_END
