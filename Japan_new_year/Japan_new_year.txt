@@ -2545,21 +2545,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n156.jpg"  ""    "Mi8241 Sn4056 Yt7898 N156"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n158.jpg"  ""    "Mi8243 Sn4058 Yt7900 N158"    "")
-STAMP_HEADING(HN 12 "'Rooster', by Kurashiki Hariko\n01-11-2016" -21)
+STAMP_HEADING(HN 12 "Kurashiki hariko no tori (Kurashiki)\n01-11-2016" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n159.jpg"  ""    "Mi8244 Sn4059 Yt7901 N159"    "")
-STAMP_HEADING(HN 12 "Iyo Ittobori Rooster\n01-11-2016" 21)
+STAMP_HEADING(HN 12 "Iyo ittobori tori (Matsuyama)\n01-11-2016" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n157.jpg"  ""    "Mi8242 Sn4057 Yt7899 N157"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n160.jpg"  ""    "MiBL267 Sn4074 YtBF203 N160"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Rooster\n16-01-2017") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nGallina y gallo\n16-01-2017") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 52 yenes muestran el Kurashiki hariko no tori (gallo) de la ciudad de Kurashiki, prefectura de Okayama. Los Kurashiki hariko aparecieron también en el sello de 1988 para conmemorar el año del dragón.\n\n
+Los sellos de 82 yenes muestran el Iyo ittobori tori de la ciudad de Matsuyama, prefectura de Ehime. Los Iyo ittobori aparecieron también en el sello del 2004 para conmemorar el año del mono.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
