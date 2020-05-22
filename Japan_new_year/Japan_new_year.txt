@@ -2583,21 +2583,22 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n161.jpg"  ""    "Mi8832 Yt8466 N161"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n163.jpg"  ""    "Mi8834 Yt8468 N163"    "")
-STAMP_HEADING(HN 12 "Toy Baby Dog\n01-11-2017" -21)
+STAMP_HEADING(HN 12 "Zaru kaburi inu (Tokio)\n01-11-2017" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n164.jpg"  ""    "Mi8835 Yt8469 N164"    "")
-STAMP_HEADING(HN 12 "Doll 'Ancient Dog'\n01-11-2017" 21)
+STAMP_HEADING(HN 12 "Kodai inu (Toyama)\n01-11-2017" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n162.jpg"  ""    "Mi8833 Yt8467 N162"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n165.jpg"  ""    "MiBL273 YtBF209 N165"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nYear of the Dog 2018 - Lottery SS\n15-01-2018") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-01-2018") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et est nec quam auctor scelerisque in eu neque. Praesent varius fermentum neque, consequat imperdiet est tristique vel. Donec ex eros, condimentum vitae laoreet nec, vehicula ac dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer ut lectus sit amet nisl ornare dictum nec iaculis turpis. Praesent in venenatis lacus. Phasellus facilisis sapien nec orci congue, ut accumsan felis facilisis. Integer mauris turpis, facilisis a vestibulum et, cursus at turpis. In hac habitasse platea dictumst. Sed porttitor, arcu blandit fermentum aliquam, libero lectus sodales sapien, in pellentesque nulla arcu ut ligula. Nam vel tempus nunc. Aliquam ut orci semper, fringilla risus quis, dictum mauris. Duis molestie ornare laoreet. 
+Los sellos de 52 yenes muestran el juguete de estilo Edo ‘Zaru kaburi inu’ (perro con una cesta de bambú). Los juguetes de estilo Edo continúan siendo una tradición en el barrio de Asakusa de Tokio y han aparecido anteriormente en los años 2003 (año de la cabra) y 2007 (año del cerdo).\n\n
+Los sellos de 82 yenes muestran el Toyama tsuchi ningyo ‘Kodai inu’ (perro antiguo) de la ciudad de Toyama, prefectura homónima. Los Toyama tsuchi ningyo parecieron también en el sello del 2007, conmemorando el año del cerdo.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
