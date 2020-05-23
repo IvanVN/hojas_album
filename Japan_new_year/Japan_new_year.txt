@@ -1140,13 +1140,13 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n36.jpg"  "" "Mi1413 Sn1387 Yt1315 Sg1554 N36" "")
-STAMP_HEADING(HN 12 "Kiki-saru (Sakai)\n 01-12-1979")
+STAMP_HEADING(HN 12 "Kiki-saru (Osaka)\n01-12-1979")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n36A.jpg"  "" "MiBL100 SgLMS31 N36A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kiki-saru (Sakai)\n 21-01-1980")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-1980")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -1173,18 +1173,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n37.jpg"  "" "Mi1452 Sn1442 Yt1352 Sg1614 N37" "")
-STAMP_HEADING(HN 12 "Tawara-nori niwatori (Nakano)\n 01-12-1980")
+STAMP_HEADING(HN 12 "Tawara-nori niwatori (Nagano)\n01-12-1980")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n37A.jpg"  "" "MiBL101 Sn1442a SgLMS32 N37A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Tawara-nori niwatori (Nakano)\n 21-01-1981")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-1981")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa una figura de la escuela Nakano, de la ciudad homónima, prefectura de Nagano.\n\n
+Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa un Nakano tsuchi Ningyo 'Tawara-nori niwatori' (gallo sobre fardo), de la ciudad de Nakano, prefectura de Nagano.\n\n
 La ciudad de Nakano es famosa por sus figuras de arcilla, con dos familias de artesanos continuando la tradición: la familia Nara (creadores de los muñecos Nakano), representada por los artesanos de 5ª y 6ª generación Hisao Nara y Yukio Nara, y la familia Nishihara (creadores de los muñecos Tategahana), represenada por Kumie Nishihara, artesano de 5ª generación. También es famosa por su museo de figuras de arcilla y el festival Hina-hichi, celebrado el 31 de marzo y 1 de abril.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1208,19 +1208,19 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
-STAMP_HEADING(HN 12 "Hagoromo chin (Yonezawa)\n 01-12-1981")
+STAMP_HEADING(HN 12 "Hagoromo chin (Yamagata)\n01-12-1981")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n38a.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hagoromo chin (Yonezawa)\n 20-01-1982") 
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1982") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Las figuras de arcilla de Sagara (‘Sagara tsuchi ningyoo’) han sido fabricadas durante 220 años por la familia Sagara, herederos del clan Yonezawa que gobernó la región de Yonezawa (prefectura de Yamagata) durante el periodo Edo (1603-1868). Sagara Seizae-mon Atsutada creó el horno Narushima y comenzó a hacer muñecos con la arcilla de su jardín en 1790, tras retirarse de sus responsabilidades con el clan. Los miembros de la familia Sagara han seguido haciendo muñecos usando la misma arcilla y técnicas. Estas figuras son características por sus ojos de forma triangular. Se las considera uno de los tres estilos principales de figuras de la región de Tohoku, junto las Hanamaki y las Tsutsumi.\n\n
-El Hagoromo chin es un perro de arcilla decorado con un collar de hojas de roble. Las hojas de roble son una representación de la familia, ya que las hojas anteriores no caen hasta que una nueva generación ha crecido, y simbolizan la prosperidad de los descendientes.
+El 'Hagoromo chin' es un perro pekinés ('chin') de arcilla decorado con un 'hagoromo' (túnica con plumas u hojas), un collar de hojas de roble. Las hojas de roble son una representación de la familia, ya que las hojas anteriores no caen hasta que una nueva generación ha crecido, y simbolizan la prosperidad de los descendientes.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
