@@ -600,19 +600,19 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n19.jpg"  "" "Mi851 Sn805 Yt765 Sg954 N19" "")
-STAMP_HEADING(HN 12 "Dragones de juguete (Kai e Iwai) \n 16-12-1963")
+STAMP_HEADING(HN 12 "Fukuryu (Yamanashi) y Tatsu (Tottori)\n16-12-1963")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 97  "imagenes/n19a.jpg"  "" "MiBL66 N19A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Dragones de juguete (Kai e Iwai) \n 16-12-1963")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-12-1963")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Iwai, en la prefectura de Tottori, es famosa por tener algunos de los 'onsen' (baños de aguas termales) más antiguos de todo Japón, con más de 1200 años de antigüedad. Este pequeño dragón de madera es un ‘omiyage’ (souvenir) típico de la zona, ya que el dragón tradicionalmente se relaciona con el agua.\n\n
-El 'Kai no fukuryuu' (dragón de la suerte de Kai) es un juguete de madera fabricado en la ciudad de Kofu (prefectura de Yamanashi, antigua provincia de Kai) y vinculado a una leyenda local. Antiguamente, la planicie de Kofu era un lago, donde vivía un dragón. Los dioses pidieron al dragón que hiciera un sacrificio para los humanos, secando el lago y dándoles tierras donde poder cultivar. El dragón acepto y seco el lago enviando el agua al cielo en forma de un gigantesco torbellino. El juguete representa al dragón ascendiendo con el torbellino y se considera un amuleto de buena suerte.
+El 'Kai no fukuryu' (dragón de la suerte de Kai) es un juguete de madera fabricado en la ciudad de Kofu (prefectura de Yamanashi, antigua provincia de Kai) y vinculado a una leyenda local. Antiguamente, la planicie de Kofu era un lago, donde vivía un dragón. Los dioses pidieron al dragón que hiciera un sacrificio para los humanos, secando el lago y dándoles tierras donde poder cultivar. El dragón acepto y seco el lago enviando el agua al cielo en forma de un gigantesco torbellino. El juguete representa al dragón ascendiendo con el torbellino y se considera un amuleto de buena suerte.\n\n
+Iwai, en la prefectura de Tottori, es famosa por tener algunos de los 'onsen' (baños de aguas termales) más antiguos de todo Japón, con más de 1200 años de antigüedad. Este pequeño 'Tatsu' (dragón) de madera es un ‘omiyage’ (souvenir) típico de la zona, ya que el dragón tradicionalmente se relaciona con el agua.
 PAGE_TEXT_PARAGRAPH_END
 # https://omamorifromjapan.blogspot.com/2011/09/tatsu-dragon-info.html
 
@@ -635,18 +635,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n20.jpg"  "" "Mi877 Sn829 Yt791 Sg990 N20" "")
-STAMP_HEADING(HN 12 "Serpiente de paja \n 15-12-1964")
+STAMP_HEADING(HN 12 "Mugiwara hebi (Tokio)\n15-12-1964")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 98  "imagenes/n20a.jpg"  "" "MiBL74 Sn829A SgLMS16 N20A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Serpiente de paja \n 20-01-1965")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1965")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las serpientes de paja son amuletos hechos con paja de arroz que se venden en el templo Asakusa Fuji Sengen, en Tokio, los días 30 de junio y 1 de julio para celebrar la apertura anual del monte Fuji. Estos amuletos datan de 1704, cuando el granjero Kihachi creó esta “serpiente del Fuji” durante una epidemia de cólera en Edo (antigua Tokio) con la esperanza de proteger a sus vecinos de la enfermedad.
+Las 'Mugiwara hebi' (serpientes de paja) son amuletos hechos con paja de arroz que se venden en el templo Asakusa Fuji Sengen, en Tokio, los días 30 de junio y 1 de julio para celebrar la apertura anual del monte Fuji. Estos amuletos datan de 1704, cuando el granjero Kihachi creó esta “serpiente del Fuji” durante una epidemia de cólera en Edo (antigua Tokio) con la esperanza de proteger a sus vecinos de la enfermedad.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -668,18 +668,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n21.jpg"  "" "Mi906 Sn858 Yt820 Sg1018 N21" "")
-STAMP_HEADING(HN 12 "Shinobigoma (Hanamaki) \n 10-12-1965")
+STAMP_HEADING(HN 12 "Shinobikoma (Iwate)\n10-12-1965")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 98  "imagenes/n21a.jpg"  "" "MiBL75 SgLMS17 N21A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Shinobigoma (Hanamaki) \n 20-01-1966")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1966")
 
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los Shinobigoma (‘caballo secreto’) son amuletos con forma de caballo hechos con paja de arroz tradicionales de Hanamaki (prefectura de Iwate). La antigua región de Nanubu era famosa por la crianza de caballos y se fabricaban numerosos juguetes y talismanes de diferentes materiales con forma de caballo. Hoy en día, estos amuletos se usan como ofrenda en el santuario Enmanji del templo Kannon-in de Hamanaki para conseguir pareja (‘enmusubi’). La persona que busca pareja debe llevar el caballo de paja durante la noche al templo, sin ser visto. Si su deseo se cumple, deberá volver a coger el caballo, decorarlo con tres cintas roja, negra y amarilla y volver a ofrecerlo al templo, también por la noche y sin ser visto. La palabra ‘shinobi’ se usa para actividades secretas y que no deben ser vistas, de ahí el nombre del amuleto.
+Los Shinobikoma (‘caballo secreto’) son amuletos con forma de caballo hechos con paja de arroz tradicionales de Hanamaki (prefectura de Iwate). La antigua región de Nanubu era famosa por la crianza de caballos y se fabricaban numerosos juguetes y talismanes de diferentes materiales con forma de caballo. Hoy en día, estos amuletos se usan como ofrenda en el santuario Enmanji del templo Kannon-in de Hamanaki para conseguir pareja (‘enmusubi’). La persona que busca pareja debe llevar el caballo de paja durante la noche al templo, sin ser visto. Si su deseo se cumple, deberá volver a coger el caballo, decorarlo con tres cintas roja, negra y amarilla y volver a ofrecerlo al templo, también por la noche y sin ser visto. La palabra ‘shinobi’ se usa para actividades secretas y que no deben ser vistas, de ahí el nombre del amuleto.
 PAGE_TEXT_PARAGRAPH_END
 #https://omamorifromjapan.blogspot.com/2011/06/shinobigoma-horse-iwate.html
 
@@ -702,18 +702,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n22.jpg"  "" "Mi959 Sn903 Yt861 Sg1084 N22" "")
-STAMP_HEADING(HN 12 "Oveja tallada 'Ittobori' (Nara)\n 10-12-1966")
+STAMP_HEADING(HN 12 "Nara ittobori no hitsuji (Nara)\n10-12-1966")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 98  "imagenes/n22a.jpg"  "" "MiBL76 SgLMS18 N22A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Oveja tallada 'Ittobori' (Nara)\n 20-01-1967")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1967")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘Ittobori’ (literalmente ‘talla con un cuchillo’) es una técnica tradicional japonesa de talla en madera, en las que los motivos son esculpidos de una sola pieza. Una de las escuelas más famosas de ittobori es la de Nara, dónde se empezó a utilizar la técnica hace unos 870 años para esculpir ornamentos para los servicios religiosos. Actualmente, figuras ittobori de los ‘eto’ (animales del zodiaco) se venden como amuletos en los numerosos templos de la ciudad.
+El ‘Ittobori’ (literalmente ‘talla con un cuchillo’) es una técnica tradicional japonesa de talla en madera, en las que los motivos son esculpidos de una sola pieza. Una de las escuelas más famosas de ittobori es la de Nara, dónde se empezó a utilizar la técnica hace unos 870 años para esculpir ornamentos para los servicios religiosos. Actualmente, figuras ittobori de los ‘eto’ (animales del zodiaco) se venden como amuletos en los numerosos templos de la ciudad. El sello muestra un ittobori de eto 'hitsuji' (cabra).
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -735,18 +735,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n23.jpg"  "" "Mi982 Sn940 Yt889 Sg1108 N23" "")
-STAMP_HEADING(HN 12 "Nobori-zaru (Miyazaki)\n 11-12-1967")
+STAMP_HEADING(HN 12 "Nobori saru (Miyazaki)\n11-12-1967")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 97 "imagenes/n23a.jpg"  "" "MiBL77 SgLMS19 N23A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Nobori-zaru (Miyazaki)\n 20-01-1968")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1968")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El Nobori-zaru (mono trepador) es un juguete de papel maché tradicional en la prefectura de Miyazaki. Es un regalo tradicional que se hace a los padres de niños recién nacidos para protegerlos de las enfermedades y atraer la buena fortuna, ya que se cree que los monos son animales afortunados. El Nobori-zaru está formado por un mástil del que cuelga una banderola, de la que a su vez cuelga un pequeño mono de papel. Cuando el aire infla la banderola, el mono ‘trepa’ por el mástil. El mono se decora con un pequeño tambor a la espalda y ropa y gorro de vivos colores, como un mono de feria. El tambor se decora con ‘gohei’, tiras blancas y rojas de tela y la banderola se pinta con un ‘hanashobu’, una flor vinculada con los festivales del día del niño.
+El 'Nobori saru' (mono trepador) es un juguete de papel maché tradicional en la prefectura de Miyazaki. Es un regalo tradicional que se hace a los padres de niños recién nacidos para protegerlos de las enfermedades y atraer la buena fortuna, ya que se cree que los monos son animales afortunados. El Nobori saru está formado por un mástil del que cuelga una banderola, de la que a su vez cuelga un pequeño mono de papel. Cuando el aire infla la banderola, el mono ‘trepa’ por el mástil. El mono se decora con un pequeño tambor a la espalda y ropa y gorro de vivos colores, como un mono de feria. El tambor se decora con ‘gohei’, tiras blancas y rojas de tela y la banderola se pinta con un ‘hanashobu’, una flor vinculada con los festivales del día del niño.
 PAGE_TEXT_PARAGRAPH_END
 #https://books.google.es/books?id=qdVGCgAAQBAJ&pg=PA195&lpg=PA195&dq=nobori-zaru&source=bl&ots=q7keFmw-iW&sig=ACfU3U2tT4tNo_gFA6Et1AHLaQLSfnw-3g&hl=es&sa=X&ved=2ahUKEwjFjYPd8fPnAhVP1xoKHYHFDIoQ6AEwCnoECAoQAQ#v=onepage&q=nobori-zaru&f=false
 
@@ -769,18 +769,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n24.jpg"  "" "Mi1024 Sn978 Yt929 Sg1147 N24" "")
-STAMP_HEADING(HN 12 "Gallo tallado 'sasano-bori' (Yonezawa)\n 5-12-1968")
+STAMP_HEADING(HN 12 "Sasano-bori niwatori (Yamagata)\n5-12-1968")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 97 "imagenes/n24a.jpg"  "" "MiBL78 Sn978A SgLMS20 N24A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Gallo tallado 'sasano-bori' (Yonezawa)\n 20-01-1969")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1969")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘Sasano-bori’ es una técnica tradicional de tallado de figuras en madera. Los motivos principales son las aves, que se caracterizan por los bucles de madera con el que se tallan las colas y las plumas. Su origen se remonta a la pequeña aldea de Sasano, en Yonezawa, prefectura de Yamagata, donde los granjeros pasaban el largo invierno tallando figuras de aves. Si se usan como regalo, se suele escoger el ave que represente alguna característica de la persona a la que se ofrece, como, por ejemplo, el gallo a la gente madrugadora.
+El ‘Sasano-bori’ es una técnica tradicional de tallado de figuras en madera. Los motivos principales son las aves, que se caracterizan por los bucles de madera con el que se tallan las colas y las plumas, como el 'niwatori' (gallo) del sello. Su origen se remonta a la pequeña aldea de Sasano, en Yonezawa, prefectura de Yamagata, donde los granjeros pasaban el largo invierno tallando figuras de aves. Si se usan como regalo, se suele escoger el ave que represente alguna característica de la persona a la que se ofrece, como, por ejemplo, el gallo a la gente madrugadora.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -802,13 +802,13 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n25.jpg"  "" "Mi1068 Sn1021 Yt970 Sg1190 N25" "")
-STAMP_HEADING(HN 12 "Hokkeji no mamori inu (Nara)\n 10-12-1969")
+STAMP_HEADING(HN 12 "Hokkeji no mamori inu (Nara)\n10-12-1969")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 97 "imagenes/n25a.jpg"  "" "MiBL79 Sn1021A SgLMS21 N25A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Hokkeji no mamori inu (Nara)\n 10-12-1969")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-12-1969")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -818,7 +818,7 @@ PAGE_TEXT_PARAGRAPH_END
 #https://darumamuseumgallery.blogspot.com/2010/04/hokkeji-temple-nara.html
 
 # ------------------------------------------------------------------------------
-# 1971 Perro
+# 1971 Cerdo
 # ------------------------------------------------------------------------------
 
 PAGE_START
@@ -836,18 +836,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34.5  "imagenes/n26.jpg"  "" "Mi1097 Sn1050 Yt999 Sg1222 N26" "")
-STAMP_HEADING(HN 12 "Uri no ki no inoshishi (Arai)\n 10-12-1970")
+STAMP_HEADING(HN 12 "Echigo no suge-zaiku inoshishi (Niigata)\n10-12-1970")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (106 97 "imagenes/n26a.jpg"  "" "MiBL82 Sn1050A SgLMS22 N26A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Uri no ki no inoshishi (Arai)\n 10-12-1970")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-12-1970")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los ‘Uri no ki no inoshishi’ (jabalí de Alangium) es una artesanía tradicional de la antigua ciudad de Arai, actualmente en Kosai, prefectura de Shizuoka. Están fabricados con corteza de Alangium, que se pela del tronco y se deja secar, para luego darle forma de cuerpo atándola con cuerdas de paja de arroz.
+Los ‘Echigo no suge-zaiku’ (trenzados de Echigo) son una una artesanía tradicional de la antigua ciudad de Arai (actualmente Myoko), en la provincia de Echigo (actualmente parte de la prefectura de Niigata). Estas figuras se tejen con ‘Uri no ki’ (la corteza del 'Uri', el árbol Alangium), que se pela del tronco y se deja secar, para luego darle forma de cuerpo atándola con cuerdas de paja de arroz. El sello muestra un 'inoshishi' (jabalí) en conmemoración del año del cerdo.
 PAGE_TEXT_PARAGRAPH_END
 #https://omamorifromjapan.blogspot.com/2011/07/niigata-folk-toys.html
 
@@ -870,20 +870,20 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 20.0)
 STAMP_ADD_IMG (26 30  "imagenes/n27.jpg"  "" "Mi1133 Sn1101 Yt1041 Sg1277 N27" "")
-STAMP_HEADING(HN 12 "Takarabune\n 10-12-1971")
+STAMP_HEADING(HN 12 "Takarabune\n10-12-1971")
 STAMP_ADD_IMG (26 30  "imagenes/n28.jpg"  "" "Mi1134 Sn1102 Yt1042 Sg1278 N28" "")
-STAMP_HEADING(HN 12 "Takarabune\n 11-01-1972")
+STAMP_HEADING(HN 12 "Takarabune\n11-01-1972")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (97 76 "imagenes/n28a.jpg"  "" "MiBL84 Sn1102A SgLMS23 N28A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Takarabune\n 20-01-1972")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1972")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘takarabune’ (barco del tesoro) es una importante tradición japonesa de año nuevo. Dice la leyenda que los ‘shichifukujin’ (siete dioses de la fortuna) llegan a puerto la víspera de año nuevo en el takarabune para traer buena suerte a todo el mundo. Según la tradición, dormir la noche de año nuevo con una imagen del takarabune bajo la almohada asegurará que tu primer sueño del año sea de buena suerte.
+El ‘Takarabune’ (barco del tesoro) es una importante tradición japonesa de Año Nuevo. Dice la leyenda que los ‘shichifukujin’ (siete dioses de la fortuna) llegan a puerto la víspera de año nuevo en el takarabune para traer buena suerte a todo el mundo. Según la tradición, dormir la noche del 1 de enero con una tablilla con la imagen del takarabune bajo la almohada (‘takarabune shiki ne’) asegurará que tu primer sueño del año ('hatsuyume') sea de buena suerte. Esta tradición se inició durante el período Muromachi (1336-1573) entre la nobleza, para extenderse después al pueblo llano durante el período Edo (1603-1868). Durante este período fueron muy populares los 'Takarabune uri', vendedores ambulantes de imágenes del Takarabune.
 PAGE_TEXT_PARAGRAPH_END
 #https://omamorifromjapan.blogspot.com/2011/11/takarabune-treasure-ship.html
 
@@ -906,13 +906,13 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n29.jpg"  "" "Mi1169 Sn1132 Yt1071 Sg1310 N29" "")
-STAMP_HEADING(HN 12 "Plato por Ogata Kenzan (1663-1743)\n 11-12-1972")
+STAMP_HEADING(HN 12 "Plato por Ogata Kenzan (1663-1743)\n11-12-1972")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n29a.jpg"  "" "MiBL86 Sn1132A SgLMS24 N29A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Plato por Ogata Kenzan (1663-1743)\n 20-01-1973")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1973")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -939,13 +939,13 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n30.jpg"  "" "Mi1196 Sn1155 Yt1098 Sg1337 N30" "")
-STAMP_HEADING(HN 12 "Farol Toro (Chiba)\n 11-12-1973")
+STAMP_HEADING(HN 12 "Farol 'Toro' (Chiba)\n11-12-1973")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n30a.jpg"  "" "MiBL87 Sn1155a YtBF73 SgLMS25 N30A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Farol Toro (Chiba)\n 10-01-1974")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-01-1974")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -972,13 +972,13 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 26  "imagenes/n31.jpg"  "" "Mi1236 Sn1198 Yt1140 Sg1375 N31" "")
-STAMP_HEADING(HN 12 "Kugikakushi con forma de narciso\n 10-12-1974")
+STAMP_HEADING(HN 12 "Kugikakushi con forma de narciso\n10-12-1974")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (76 98 "imagenes/n31a.jpg"  "" "MiBL89 Sn1198A SgLMS26 N31A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Kugikakushi con forma de narciso\n 20-01-1975")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1975")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -1005,18 +1005,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n32.jpg"  "" "Mi1274 Sn1237 Yt1176 Sg1417 N32" "")
-STAMP_HEADING(HN 12 "Tatsu-guruma (Fukushima)\n 13-12-1975")
+STAMP_HEADING(HN 12 "Tatsu-guruma (Fukushima)\n13-12-1975")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n32a.jpg"  "" "MiBL93 Sn1237a YtBF79 SgLMS27 N32A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Tatsu-guruma (Fukushima)\n 20-01-1976")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1976")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘tatsu-guruma’ es un poco común ‘miharu-hariko’ (juguete de papel maché) rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘zuitama’ (gema de la omnipotencia). En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda.
+El ‘tatsu-guruma’ es un poco común Miharu hariko rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘zuitama’ (gema de la omnipotencia). En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda. Los Miharu hariko aparecieron también en el año 1998, conmemorando el año del tigre.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1038,13 +1038,13 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n33.jpg"  "" "Mi1305 Sn1271 Yt1207 Sg1443 N33" "")
-STAMP_HEADING(HN 12 "Oyama no takehebi (Isehara)\n 01-12-1976")
+STAMP_HEADING(HN 12 "Oyama no takehebi (Kanagawa)\n01-12-1976")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n33a.jpg"  "" "MiBL95 Sn1271a SgLMS28 N33A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Oyama no takehebi (Isehara)\n 20-01-1977")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1977")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -1072,18 +1072,18 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n34.jpg"  "" "Mi1342 Sn1316 Yt1244 Sg1482 N34" "")
-STAMP_HEADING(HN 12 "Caballo 'Fushimi Ningyo' (Kioto)\n 01-12-1977")
+STAMP_HEADING(HN 12 "Fushimi Ningyo 'kazari-ba' (Kioto)\n01-12-1977")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n34a.jpg"  "" "MiBL97 YtBF83 SgLMS29 N34A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Caballo 'Fushimi Ningyo' (Kioto)\n 20-01-1978")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1978")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las ’Fushimi ningyo’  (muñecos de arcilla de Fushimi) son unas de las figuras de arcilla más antiguas de Japón, iniciándose su fabricación en el periodo Momoyama (1573-1615).  Se empezaron a fabricar en la zona de Fushimi (actualmente integrada en Kioto) con arcilla del monte Inari, cerca del famoso templo Fishimi Inari. El método tradicional de fabricación sigue un ciclo anual: en primavera-verano se hacen las figuras, rellenando los moldes con arcilla para luego dejarlos secar durante 10 días antes de meterlas en el horno. Posteriormente, en otoño-invierno las figuras se pintan primero con una base blanca (‘gofun’) para luego pintar los detalles a mano con vivos colores. Se estima que hay más de 2000 moldes, algunos datando del período Momoyama, representando toda clase de figuras. Aunque durante el periodo Edo llegó a haber hasta 60 alfarerías en funcionamiento, hoy en día la única que queda es Tanka (fundada hace 260 años), situada justo a la entrada del templo Fushimi Inari.
+El sello muestra el Fushimi ningyo 'kazari-ba' (caballo decorativo), de la ciudad de Kioto. Las ’Fushimi ningyo’ (muñecos de arcilla de Fushimi) son unas de las figuras de arcilla más antiguas de Japón, iniciándose su fabricación en el periodo Momoyama (1573-1615).  Se empezaron a fabricar en la zona de Fushimi (actualmente integrada en Kioto) con arcilla del monte Inari, cerca del famoso templo Fishimi Inari. El método tradicional de fabricación sigue un ciclo anual: en primavera-verano se hacen las figuras, rellenando los moldes con arcilla para luego dejarlos secar durante 10 días antes de meterlas en el horno. Posteriormente, en otoño-invierno las figuras se pintan primero con una base blanca (‘gofun’) para luego pintar los detalles a mano con vivos colores. Se estima que hay más de 2000 moldes, algunos datando del período Momoyama, representando toda clase de figuras. Aunque durante el periodo Edo llegó a haber hasta 60 alfarerías en funcionamiento, hoy en día la única que queda es Tanka (fundada hace 260 años), situada justo a la entrada del templo Fushimi Inari.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1105,19 +1105,19 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n35.jpg"  "" "Mi1375 Sn1351 Sg1516 N35" "")
-STAMP_HEADING(HN 12 "Oveja campana 'Nakayama ningyo' (Yokote)\n 01-12-1978")
+STAMP_HEADING(HN 12 "Nakayama ningyo hitsuji suzu (Akita)\n01-12-1978")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n35a.jpg"  "" "MiBL98 SgLMS30 N35A" "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Oveja campana 'Nakayama ningyo' (Yokote)\n 05-02-1979")
+STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n05-02-1979")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Las ‘dorei’ (campanas de arcilla) son una de las artesanías tradicionales más comunes en Japón. Se suelen vender en templos y santuarios por todo el país como amuletos, típicamente con forma de uno de los ‘eto’ (animales del zodiaco chino). Uno de los usos tradicionales de los dorei era como amuletos para el crecimiento del gusano de la seda. Los granjeros los colgaban junto a los criaderos, con la esperanza de que su ocasional sonido recordase a los dioses la importancia de los gusanos para ellos y sus familias.\n\n
-El dorei representado aquí, ‘hitsuji-suzu’ (literalmente ‘oveja campana’) Es una muestra de la escuela ‘Nakayama ningyo’, de la ciudad de Yokote, prefectura de Akita. Esta escuela fue creada en 1874 por Yoshiyoshi Hiwatari. Yoshi había aprendido el arte de la fabricación de su suegro Ukichi, que había sido artesano para los clanes Nabeshima e Iwate hasta asentarse finalmente en Yokote.
+El dorei representado aquí es el Nakayama ningyo ‘hitsuji-suzu’ (literalmente ‘oveja campana’), de la ciudad de Yokote, prefectura de Akita. Esta escuela fue creada en 1874 por Yoshiyoshi Hiwatari. Yoshi había aprendido el arte de la fabricación de su suegro Ukichi, que había sido artesano para los clanes Nabeshima e Iwate hasta asentarse finalmente en Yokote.
 PAGE_TEXT_PARAGRAPH_END
 #http://yosukenaito.blog40.fc2.com/blog-entry-3532.html
 
