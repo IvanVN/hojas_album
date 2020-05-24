@@ -95,10 +95,10 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3"    "")
-STAMP_HEADING(HN 12 "Shimenawa, decoracion de año nuevo\n15-12-1937")
+STAMP_HEADING(HN 12 "Shimenawa\n15-12-1937")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro que representa al santuario sintoísta.
+Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro que representa al santuario sintoísta. Son también una decoración típica de Año Nuevo.
 PAGE_TEXT_PARAGRAPH_END  
 
 # 1949 Hanetsuki
@@ -1840,7 +1840,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n79.jpg"  ""    "Mi2603x Yt2485 Sg2554 N79"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n81.jpg"  ""    "Mi2605 Sn2646 Yt2487 Sg2556 N81"    "")
-STAMP_HEADING(HN 12 "Mochi-tsuki usagi (Katori)\n13-11-1998" -21)
+STAMP_HEADING(HN 12 "Mochi-tsuki usagi (Chiba)\n13-11-1998" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n82.jpg"  ""    "Mi2606 Sn2647 Yt2488 Sg2557 N82"    "")
 STAMP_HEADING(HN 12 "Tama-nori usagi (Yamagata)\n13-11-1998" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n80.jpg"  ""    "Mi2604x Sn2645 Yt2486 Sg2555 N80"    "")
@@ -1854,8 +1854,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n18-01-1999")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-La primera figura muestra un Sawara hariko con forma del tradicional “Mochi-tsuki usagi” (conejo moliendo arroz). Estos harikos toman su nombre de la antigua ciudad de Sawara, actualmente parte de la ciudad de Katori, prefectura de Chiba y datan del periodo Edo. Además de figuras con diferentes motivos, son muy populares los darumas y las máscaras.\n\n
-“Tama-nori usagi” (conejo montando una bola) es uno de los motivos más populares de los Yamagata Hariko de la ciudad de Yamagata, prefectura de Yamagata. Esta escuela tiene su origen en el periodo Edo. Durante un peregrinaje por las Tres Montañas de Dewa en la región, Shibue Choshiro, un artesano de figuras budistas de Kioto, fue a dar con los distritos productores de papel Suzukawa y Sozuki, en Yamagata. Esta visita le inspiró para crear las Shibue hariko. En 1901, su discípulo Tokujiro Iwaki continuó la tradición con los Yamagata Hariko, mantenida por la familia Iwaki hasta hoy. 
+Los sellos de 50 yenes muestran un Sawara hariko con forma del tradicional “Mochi-tsuki usagi” (conejo moliendo arroz). Estos harikos toman su nombre de la antigua ciudad de Sawara, actualmente parte de la ciudad de Katori, prefectura de Chiba y datan del periodo Edo. Además de figuras con diferentes motivos, son muy populares los darumas y las máscaras.\n\n
+Los sellos de 80 yenes muestran el “Tama-nori usagi” (conejo montando una bola), uno de los motivos más populares de los Yamagata Hariko de la ciudad de Yamagata, prefectura de Yamagata. Esta escuela tiene su origen en el periodo Edo. Durante un peregrinaje por las Tres Montañas de Dewa en la región, Shibue Choshiro, un artesano de figuras budistas de Kioto, fue a dar con los distritos productores de papel Suzukawa y Sozuki, en Yamagata. Esta visita le inspiró para crear las Shibue hariko. En 1901, su discípulo Tokujiro Iwaki continuó la tradición con los Yamagata Hariko, mantenida por la familia Iwaki hasta hoy. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1878,9 +1878,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n83.jpg"  ""    "Mi2830x Sn2722 Yt2707 Sg2673 N83"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n85.jpg"  ""    "Mi2832 Sn2724 Yt2709 Sg2675 N85"    "")
-STAMP_HEADING(HN 12 "'Shichihoumaru' y 'Hiryu' (Karatsu)\n15-11-1999" -21)
+STAMP_HEADING(HN 12 "'Shichihoumaru' y 'Hiryu' (Saga)\n15-11-1999" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n86.jpg"  ""    "Mi2833 Sn2725 Yt2710 Sg2676 N86"    "")
-STAMP_HEADING(HN 12 "Hariko no tatsu (Fukuyama)\n15-11-1999" 21)
+STAMP_HEADING(HN 12 "Hariko no tatsu (Hiroshima)\n15-11-1999" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n84.jpg"  ""    "Mi2831x Sn2723 Yt2708 Sg2674 N84"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1892,8 +1892,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-2000")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los dos primeros sellos muestran ejemplos de Karatsu Hikiyama ningyō. Estas figuras hechas en Karatsu, prefectura de Saga, son representaciones de las carrozas ‘Hikiyama’ del famoso festival Karatsu Kunchi que se celebra en la ciudad del 2 al 4 de noviembre. Las figuras muestran las carrozas ‘Shichihoumaru’ (barco del tesoro) y ‘Hiryu’ (dragón volador), 14º y 7ª carrozas del desfile.\n\n
-El otro motivo muestra un ‘tatsu’ (dragón) de la escuela Tsuneishi hariko, de la aldea Tsuneishi en la ciudad de Fukuyama, prefectura de Hiroshima. Otro Tsuneishi hariko con forma de oveja apareció en el sello del año 1991. 
+Los sellos de 50 yenes muestran ejemplos de Karatsu Hikiyama ningyō. Estas figuras hechas en Karatsu, prefectura de Saga, son representaciones de las carrozas ‘Hikiyama’ del famoso festival Karatsu Kunchi que se celebra en la ciudad del 2 al 4 de noviembre. Las figuras muestran las carrozas ‘Shichihoumaru’ (barco del tesoro) y ‘Hiryu’ (dragón volador), 14º y 7ª carrozas del desfile.\n\n
+Los sellos de 80 yenes muestran un Tsuneishi hariko ‘tatsu’ (dragón), de la aldea Tsuneishi en la ciudad de Fukuyama, prefectura de Hiroshima. Otro Tsuneishi hariko con forma de oveja apareció en el sello del año 1991. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1916,9 +1916,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n87.jpg"  ""    "Mi3071x Sn2750 Yt2942 Sg2845 N87"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n89.jpg"  ""    "Mi3073 Sn2752 Yt2944 Sg2847 N89"    "")
-STAMP_HEADING(HN 12 "Uzumaki mi (Chofu)\n15-11-2000" -21)
+STAMP_HEADING(HN 12 "Jidaiji dorei Uzumaki mi (Tokio)\n15-11-2000" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n90.jpg"  ""    "Mi3074 Sn2753 Yt2945 Sg2848 N90"    "")
-STAMP_HEADING(HN 12 "Sasanobori mi (Yonezawa)\n15-11-2000" 21)
+STAMP_HEADING(HN 12 "Sasanobori mi (Yamagata)\n15-11-2000" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n88.jpg"  ""    "Mi3072x Sn2751 Yt2943 Sg2846 N88"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1930,8 +1930,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-01-2001")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los dos primeros sellos muestran dos Jidaiji dorei con variaciones del motivo ‘Uzumaki mi’ (serpiente enrollada). Fundado en el año 733, el templo Jindaiji de la ciudad de Chofu es el segundo templo más antiguo de la región de Tokio, después del archiconocido templo Sensoji de Asakura, en el mismo Tokio. Las Jindaiji dorei se caracterizan por sus formas y colores inocentes y alegres. Son fabricadas en el horno Musashino Jindaiji, fundado en 1957 por Minoru Yoshida y Nobuko Baba.\n\n
-Los siguientes sellos muestran dos variaciones del eto ‘mi’ (serpiente) creados con la técnica del Sasanobori de la ciudad de Yonezawa, prefectura de Yamagata. Las tallas Sasanobori aparecieron también en el sello de 1969.
+Los sellos de 50 yenes muestran dos Jidaiji dorei con variaciones del motivo ‘Uzumaki mi’ (serpiente enrollada). Fundado en el año 733, el templo Jindaiji de la ciudad de Chofu es el segundo templo más antiguo de la región de Tokio, después del archiconocido templo Sensoji de Asakura, en el mismo Tokio. Las Jindaiji dorei se caracterizan por sus formas y colores inocentes y alegres. Son fabricadas en el horno Musashino Jindaiji, fundado en 1957 por Minoru Yoshida y Nobuko Baba.\n\n
+Los sellos de 80 yenes muestran dos variaciones del eto ‘mi’ (serpiente) creados con la técnica del Sasanobori de la ciudad de Yonezawa, prefectura de Yamagata. Las tallas Sasanobori aparecieron también en el sello de 1969.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1954,9 +1954,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n91.jpg"  ""    "Mi3287 Sn2801 Yt3159 Sg2980 N91"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n93.jpg"  ""    "Mi3289 Sn2803 Yt3161 Sg2982 N93"    "")
-STAMP_HEADING(HN 12 "Ine-ba (Myoko)\n15-11-2001" -21)
+STAMP_HEADING(HN 12 "Ine-ba (Niigata)\n15-11-2001" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n94.jpg"  ""    "Mi3290 Sn2804 Yt3162 Sg2983 N94"    "")
-STAMP_HEADING(HN 12 "Kira no Akauma to hakuba (Nishio)\n15-11-2001" 21)
+STAMP_HEADING(HN 12 "Kira no Akauma to hakuba (Aichi)\n15-11-2001" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n92.jpg"  ""    "Mi3288 Sn2802 Yt3160 Sg2981 N92"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1968,8 +1968,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n08-01-2002")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los ‘Joetsu Hiramaru’ son unos muñecos fabricados con la técnica del ‘suge-zaiku’ (tejido de paja) típicos de la ciudad de Myoko (antigua Arai), prefectura de Niigata. Se empezaron a confeccionar hacia 1958 en el distrito de Hiramaru como una forma de ingresos para los agricultores durante los inviernos. Los últimos artesanos se retiraron en 2018, pero una sociedad  de preservación se encarga de mantener viva la tradición. Los sellos de 50 yenes de este año muestran el diseño ‘Ine-ba’ (caballo portador de arroz).\n\n
-‘Kira no akauma’ (el caballo rojo de Kira) es una figura artesanal de Nishio, prefectura de Aichi. Están fabricados con una mezcla virutas de madera y 'funori' (pegamento de alga) prensada con un molde de madera. El caballo rojo representa la montura con la que se dice que Kira Kozukenosuke, un señor local famoso por ser el villano del Chūshingura (la leyenda de los 47 Ronin), patrullaba la zona. Se acompaña en pareja con el ‘hakuba’ (caballo blanco) o una figura de Kira. Actualmente los fabrica el artesano de octava generación Inoue Hiromi.
+Los sellos de 50 yenes de este año muestran el Joetsu Hiramaru ‘Ine-ba’ (caballo portador de arroz). Los ‘Joetsu Hiramaru’ son unos muñecos fabricados con la técnica del ‘suge-zaiku’ (tejido de paja) típicos de la ciudad de Myoko (antigua Arai), prefectura de Niigata. Se empezaron a confeccionar hacia 1958 en el distrito de Hiramaru como una forma de ingresos para los agricultores durante los inviernos. Los últimos artesanos se retiraron en 2018, pero una sociedad  de preservación se encarga de mantener viva la tradición.\n\n
+Los sellos de 80 yenes muestran el ‘Kira no akauma’ (el caballo rojo de Kira) de Nishio, prefectura de Aichi. El caballo rojo representa la montura con la que se dice que Kira Kozukenosuke, un señor local famoso por ser el villano del Chushingura (la leyenda de los 47 Ronin), patrullaba la zona. Se acompaña en pareja con el ‘hakuba’ (caballo blanco) o una figura de Kira. Actualmente los fabrica el artesano de 8ª generación Inoue Hiromi con una mezcla de virutas de madera y 'funori' (cola de alga) prensada con un molde de madera.
 PAGE_TEXT_PARAGRAPH_END
 # https://www.yukiguni-journey.jp/en/458/
 
@@ -1992,11 +1992,11 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n95.jpg"  ""    "Mi3435 Sn2842 Yt3307 Sg3078 N95"    "")
-STAMP_HEADING(HN 12 "Mi no eto dorei (Sapporo)\n15-11-2002")
+STAMP_HEADING(HN 12 "Mi no eto dorei (Hokkaido)\n15-11-2002")
 STAMP_ADD_IMG (30 55  "imagenes/n97.jpg"  ""    "Mi3437 Sn2844 Yt3309 Sg3081 N97"    "")
-STAMP_HEADING(HN 12 "Ogi-mochi mi\n(Aizu-Wakamatsu)\n15-11-2002")
+STAMP_HEADING(HN 12 "Ogi-mochi mi\n(Fukushima)\n15-11-2002")
 STAMP_ADD_IMG (30 55  "imagenes/n98.jpg"  ""    "Mi3438 Sn2845 Yt3310 Sg3082 N98"    "")
-STAMP_HEADING(HN 12 "Oku hariko mi\n(Setouchi)\n15-11-2002")
+STAMP_HEADING(HN 12 "Oku hariko mi\n(Okayama)\n15-11-2002")
 STAMP_ADD_IMG (26 30  "imagenes/n96.jpg"  ""    "Mi3436 Sn2843 Yt3308 Sg3079 N96"    "")
 STAMP_HEADING(HN 12 "Hoju no mi (Tokio)\n15-11-2002")
 
@@ -2036,9 +2036,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n99.jpg"  ""    "Mi3589 Sn2871 Yt3451 Sg3188 N99"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n101.jpg"  ""    "Mi3591 Sn2873 Yt3453 Sg3191 N101"    "")
-STAMP_HEADING(HN 12 "Iyo ittobori sanbaso (Matsuyama)\n14-11-2003" -21)
+STAMP_HEADING(HN 12 "Iyo ittobori sanbaso (Ehime)\n14-11-2003" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n102.jpg"  ""    "Mi3592 Sn2874 Yt3454 Sg3192 N102"    "")
-STAMP_HEADING(HN 12 "Shusse saru (Himeji)\n14-11-2003" 21)
+STAMP_HEADING(HN 12 "Shusse saru (Hyogo)\n14-11-2003" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n100.jpg"  ""    "Mi3590 Sn2872 Yt3452 Sg3189 N100"    "")
 
 
@@ -2075,9 +2075,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n103.jpg"  ""    "Mi3747 Sn2910 Yt3600 Sg3281 N103"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n105.jpg"  ""    "Mi3749 Sn2912 Yt3602 Sg3284 N105"    "")
-STAMP_HEADING(HN 12 "Junishi no tori (Hita)\n15-11-2004" -21)
+STAMP_HEADING(HN 12 "Hita dorei Junishi no tori (Oita)\n15-11-2004" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n106.jpg"  ""    "Mi3750 Sn2913 Yt3603 Sg3285 N106"    "")
-STAMP_HEADING(HN 12 "Junishi no tori (Utsunomiya)\n15-11-2004" 21)
+STAMP_HEADING(HN 12 "Shimono dorei Junishi no tori (Tochigi)\n15-11-2004" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n104.jpg"  ""    "Mi3748 Sn2911 Yt3601 Sg3282 N104"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2171,7 +2171,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-01-2007")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Los sellos de 50 yenes muestran un juguete de estilo Edo ‘Hoju no inoshishi’ (el jabalí de la joya). Los juguetes de estilo Edo son uno de los productos más populares a la venta en la famosa calle Nakamise que da acceso al templo Senso-ji, en Asakusa (Tokio) y han aparecido anteriormente en el sello del año 2003.\n\n
-Los sellos de 80 yenes muestran un Toyama tsuchi ningyo con un motivo del ‘eto’ jabalí. Las figuras de arcilla de Toyama se fabrican en la ciudad homónima desde finales del período Edo, cuando Maeda Toshiyasu, décimo Daimyo del feudo Toyama, invitó a artesanos de Nagoya a instalarse en la región. 
+Los sellos de 80 yenes muestran un Toyama tsuchi ningyo con un motivo del ‘eto’ jabalí. Las figuras de arcilla de Toyama se fabrican en la ciudad y prefectura homónima desde finales del período Edo, cuando Maeda Toshiyasu, décimo Daimyo del feudo Toyama, invitó a artesanos de Nagoya a instalarse en la región. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2196,7 +2196,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n116.jpg"  ""    "Mi4409 Sn3007 Yt4236 Sg3656 N1
 STAMP_ADD_IMG (30 55  "imagenes/n118.jpg"  ""    "Mi4413 Sn3009 Yt4238 Sg3658 N118"    "")
 STAMP_HEADING(HN 12 "Junishi nezumi (Nagano)\n01-11-2007" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n119.jpg"  ""    "Mi4414 Sn3010 Yt4239 Sg3659 N119"    "")
-STAMP_HEADING(HN 12 "Junishi ko (Kofu)\n01-11-2007" 21)
+STAMP_HEADING(HN 12 "Junishi ko (Yamanashi)\n01-11-2007" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N117"    "")
 
 #ROW_START_FS (HN 6 0.1 12.0)
@@ -2236,11 +2236,11 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n122.jpg"  ""    "Mi4701 Sn3070 Yt4541 Sg3897 N122"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n124.jpg"  ""    "Mi4705 Sn3072 Yt4543 Sg3899 N124"    "")
-STAMP_HEADING(HN 12 "Gan-kake ushi (Sasebo)\n04-11-2008" -21)
+STAMP_HEADING(HN 12 "Gan-kake ushi (Nagasaki)\n04-11-2008" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n125.jpg"  ""    "Mi4706 Sn3073 Yt4544 Sg3900 N125"    "")
-STAMP_HEADING(HN 12 "Tachiushi-nori Tenjin (Miyoshi)\n04-11-2008")
+STAMP_HEADING(HN 12 "Tachiushi-nori Tenjin (Hiroshima)\n04-11-2008")
 STAMP_ADD_IMG (26 30  "imagenes/n123.jpg"  ""    "Mi4702 Sn3071 Yt4542 Sg3898 N123"    "")
-STAMP_HEADING(HN 12 "Neushi-nori Tenjin\n(Miyoshi)\n04-11-2008")
+STAMP_HEADING(HN 12 "Neushi-nori Tenjin\n(Hiroshima)\n04-11-2008")
 
 #ROW_START_FS (HN 6 0.1 12.0)
 #STAMP_ADD_IMG (56 56  "imagenes/n126.jpg"  ""    "Mi4703-4704Zf Sn3075a N126"    "")
@@ -2281,7 +2281,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n127.jpg"  ""    "Mi5090 Sn3170 Yt4905 Sg4229 N1
 STAMP_ADD_IMG (30 55  "imagenes/n129.jpg"  ""    "Mi5092 Sn3172 Yt4906 Sg4231 N129"    "")
 STAMP_HEADING(HN 12 "Kubifuri no tora (Shizuoka)\n11-11-2009" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n130.jpg"  ""    "Mi5093 Sn3173 Yt4908 Sg4232 N130"    "")
-STAMP_HEADING(HN 12 "Kaga Mayoke Tora (Kanazawa)\n11-11-2009" 21)
+STAMP_HEADING(HN 12 "Kaga Mayoke Tora (Ishikawa)\n11-11-2009" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n128.jpg"  ""    "Mi5091 Sn3171 Yt4907 Sg4230 N128"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2317,9 +2317,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n131.jpg"  ""    "Mi5474 Sn3272 Yt5273 Sg4540 N131"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n133.jpg"  ""    "Mi5476 Sn3274 Yt5274 Sg4542 N133"    "")
-STAMP_HEADING(HN 12 "Kubifuri shofuku usagi (Nishi-Aizu)\n10-11-2010" -21)
+STAMP_HEADING(HN 12 "Kubifuri shofuku usagi (Fukushima)\n10-11-2010" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n134.jpg"  ""    "Mi5477 Sn3275 Yt5276 Sg4543 N134"    "")
-STAMP_HEADING(HN 12 "Kousagi dorei (Tamba)\n10-11-2010" 21)
+STAMP_HEADING(HN 12 "Kousagi dorei (Hyogo)\n10-11-2010" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n132.jpg"  ""    "Mi5475 Sn3273 Yt5275 Sg4541 N132"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2355,9 +2355,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n135.jpg"  ""    "Mi5835 Sn3388 Yt5631 Sg4957 N135"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n137.jpg"  ""    "Mi5837 Sn3390 Yt5633 Sg4959 N137"    "")
-STAMP_HEADING(HN 12 "Toryu (Fujisawa)\n11-11-2011" -21)
+STAMP_HEADING(HN 12 "Toryu (Kanagawa)\n11-11-2011" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n138.jpg"  ""    "Mi5838 Sn3391 Yt5634 Sg4960 N138"    "")
-STAMP_HEADING(HN 12 "Tatsu (Tosa)\n11-11-2011" 21)
+STAMP_HEADING(HN 12 "Tatsu (Kochi)\n11-11-2011" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n136.jpg"  ""    "Mi5836 Sn3389 Yt5632 Sg4958 N136"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2393,9 +2393,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n139.jpg"  ""    "Mi6203 Sn3488 Yt5997 Sg5311 N139"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n141.jpg"  ""    "Mi6205 Sn3490 Yt5999 Sg5312a N141"    "")
-STAMP_HEADING(HN 12 "Fukubukuro mi (Shiojiri)\n12-11-2012" -21)
+STAMP_HEADING(HN 12 "Fukubukuro mi (Nagano)\n12-11-2012" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n142.jpg"  ""    "Mi6206 Sn3491 Yt6000 Sg5312b N142"    "")
-STAMP_HEADING(HN 12 "Eto no mi (Kitakyushu)\n12-11-2012" 21)
+STAMP_HEADING(HN 12 "Eto no mi (Fukuoka)\n12-11-2012" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n140.jpg"  ""    "Mi6204 Sn3489 Yt5998 Sg5312 N140"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2432,11 +2432,11 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n143.jpg"  ""    "Mi6603 Sn3611 Yt6392 Sg5646 N143"    "")
-STAMP_HEADING(HN 12 "Dorei-Harukoma (Yokota)\n01-11-2013")
+STAMP_HEADING(HN 12 "Dorei-Harukoma (Akita)\n01-11-2013")
 STAMP_ADD_IMG (30 55  "imagenes/n145.jpg"  ""    "Mi6605 Sn3613 Yt6394 Sg5648 N145"    "")
-STAMP_HEADING(HN 12 "Inarigoma (Kashima)\n01-11-2013")
+STAMP_HEADING(HN 12 "Inarigoma (Saga)\n01-11-2013")
 STAMP_ADD_IMG (30 55  "imagenes/n146.jpg"  ""    "Mi6606 Sn3614 Yt6395 Sg5649 N146"    "")
-STAMP_HEADING(HN 12 "Chinchin-Uma (Naha)\n01-11-2013" 21)
+STAMP_HEADING(HN 12 "Chinchin-Uma (Okinawa)\n01-11-2013" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n144.jpg"  ""    "Mi6604 Sn3612 Yt6393 Sg5647 N144"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2473,9 +2473,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n147.jpg"  ""    "Mi7045 Sn3756 Yt6815 Sg6031 N147"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n149.jpg"  ""    "Mi7047 Sn3758 Yt6817 Sg6033 N149"    "")
-STAMP_HEADING(HN 12 "Shinshu-Nakano tsuchi ningyo no hitsuji\n(Nakano)\n30-10-2014" -21)
+STAMP_HEADING(HN 12 "Shinshu-Nakano tsuchi ningyo no hitsuji\n(Nagano)\n30-10-2014" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n150.jpg"  ""    "Mi7048 Sn3759 Yt6818 Sg6034 N150"    "")
-STAMP_HEADING(HN 12 "Iwai no Kibori junishi no Hitsuji\n(Iwami)\n30-10-2014" 21)
+STAMP_HEADING(HN 12 "Iwai no Kibori junishi no Hitsuji\n(Tottori)\n30-10-2014" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n148.jpg"  ""    "Mi7046 Sn3757 Yt6816 Sg6032 N148"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2511,7 +2511,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n152.jpg"  ""    "Mi7573 Sn3953 Yt7307 Sg6459 N152"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n154.jpg"  ""    "Mi7575 Sn3955 Yt7309 Sg6461 N154"    "")
-STAMP_HEADING(HN 12 "Saru (Otsu)\n29-10-2015" -21)
+STAMP_HEADING(HN 12 "Saru (Shiga)\n29-10-2015" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n155.jpg"  ""    "Mi7576 Sn3956 Yt7310 Sg6462 N155"    "")
 STAMP_HEADING(HN 12 "Kodaki-Saru (Kochi)\n29-10-2015" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n153.jpg"  ""    "Mi7574 Sn3954 Yt7308 Sg6460 N153"    "")
@@ -2549,9 +2549,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n156.jpg"  ""    "Mi8241 Sn4056 Yt7898 N156"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n158.jpg"  ""    "Mi8243 Sn4058 Yt7900 N158"    "")
-STAMP_HEADING(HN 12 "Kurashiki hariko no tori (Kurashiki)\n01-11-2016" -21)
+STAMP_HEADING(HN 12 "Kurashiki hariko no tori (Okayama)\n01-11-2016" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n159.jpg"  ""    "Mi8244 Sn4059 Yt7901 N159"    "")
-STAMP_HEADING(HN 12 "Iyo ittobori tori (Matsuyama)\n01-11-2016" 21)
+STAMP_HEADING(HN 12 "Iyo ittobori tori (Ehime)\n01-11-2016" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n157.jpg"  ""    "Mi8242 Sn4057 Yt7899 N157"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2624,9 +2624,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n166.jpg"  ""    "Mi9450 Yt9077 N166"    "")
-STAMP_HEADING(HN 12 "Rai ran sho i\n(Aizuwakamasu)\n01-11-2018")
+STAMP_HEADING(HN 12 "Rai ran sho i\n(Fukushima)\n01-11-2018")
 STAMP_ADD_IMG (30 55  "imagenes/n168.jpg"  ""    "Mi9452 Yt9079 N168"    "")
-STAMP_HEADING(HN 12 "Fukura suzume-nori mame maneki i\n(Aizuwakamasu)\n01-11-2018")
+STAMP_HEADING(HN 12 "Fukura suzume-nori mame maneki i\n(Fukushima)\n01-11-2018")
 #STAMP_HEADING(HN 11 "'Rai ran sho i' y 'Fukura suzume-nori mame maneki i'\n(Aizuwakamasu)\n01-11-2018" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n169.jpg"  ""    "Mi9453 Yt9080 N169"    "")
 STAMP_HEADING(HN 12 "Yabase ningyo eto i\n(Akita)\n01-11-2018" 21)
