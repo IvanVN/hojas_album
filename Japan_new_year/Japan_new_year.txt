@@ -265,7 +265,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n9.jpg"  "" "Mi628 Sn594 Yt549 Sg722 N9" "")
-STAMP_HEADING(HN 12 "Miharu-goma (Fukushima)\n25-12-1953")
+STAMP_HEADING(HN 12 "Miharu-koma (Fukushima)\n25-12-1953")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -274,8 +274,8 @@ STAMP_ADD_IMG (108 94  "imagenes/n9a.jpg"  "" "MiBL49 YtBF39a SgLMS5 N9A" "") # 
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n25-12-1953")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los Miharu-goma son caballos de juguete de manera, angulosos y de brillantes colores, que se fabrican en la provincia de Miharu, prefectura de Fukushima y son de las artesanías tradicionales de Japón mas populares. El origen de los juguetes se debe a una leyenda sobre Sakanoue no Tamuramaro (758–811), un general y shogun del periodo Heian (794-1185). Según las distintas versiones de la leyenda, Tamuramaro recibió ayuda de un caballo de madera mágico o fue capaz de ganar una batalla gracias a la oportuna aparición de una manada de caballos salvajes.\n\n
-Originariamente los juguetes se tallaban a partir de los sobrantes de imágenes budistas, por los que los Miharu-goma suelen estar vinculados a dierentes supersticiones y se dice que pueden llevar mensajes a los dioses. Aunque generalmente están hechos de madera pintada, en ocasiones también se hacen de paja o incluso de papel. Los Miharu-goma han existido en Japón desde hace siglos.
+Los Miharu-koma son caballos de juguete de manera, angulosos y de brillantes colores, que se fabrican en la provincia de Miharu, prefectura de Fukushima y son de las artesanías tradicionales de Japón mas populares. El origen de los juguetes se debe a una leyenda sobre Sakanoue no Tamuramaro (758–811), un general y shogun del periodo Heian (794-1185). Según las distintas versiones de la leyenda, Tamuramaro recibió ayuda de un caballo de madera mágico o fue capaz de ganar una batalla gracias a la oportuna aparición de una manada de caballos salvajes.\n\n
+Originariamente los juguetes se tallaban a partir de los sobrantes de imágenes budistas, por los que los Miharu-koma suelen estar vinculados a dierentes supersticiones y se dice que pueden llevar mensajes a los dioses. Aunque generalmente están hechos de madera pintada, en ocasiones también se hacen de paja o incluso de papel. Los Miharu-koma han existido en Japón desde hace siglos.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -432,7 +432,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n14.jpg"  "" "Mi694 Sn662 Yt617 Sg792 N14" "")
-STAMP_HEADING(HN 12 "Tai daki ebisu (Kagawa)\n20-12-1958")
+STAMP_HEADING(HN 12 "Takamatsu hariko 'Tai daki ebisu' (Kagawa)\n20-12-1958")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -499,7 +499,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n16.jpg"  "" "Mi740 Sn709 Yt661 Sg841 N16" "")
-STAMP_HEADING(HN 12 "Aka-beko (Fukushima) y Kin no be kokko (Iwate)\n20-12-1960")
+STAMP_HEADING(HN 12 "'Aka-beko' (Fukushima) y 'Kin no be kokko' (Iwate)\n20-12-1960")
 
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -533,7 +533,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n17.jpg"  "" "Mi781 Sn740 Yt693 Sg883 N17" "")
-STAMP_HEADING(HN 12 "Hariko no Tora (Shimane)\n15-12-1961")
+STAMP_HEADING(HN 12 "Izumo hariko no Tora (Shimane)\n15-12-1961")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -578,7 +578,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-12-1962")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las campanas de barro 'dorei' con forma de 'eto' (animales del zodiaco) son un amuleto tradicional, ya que se cree que su sonido aleja a los malos espíritus y atrae la buena suerte. Se suelen comprar y regalar durante el periodo de fin de año y año nuevo. El diseño de las campanas suele cambiar con la región, teniendo cada una el suyo particular. Este dorei forma parte de la colección de los 12 etos que fabrica la compañía Nogomi Clay-Bell Toys de Kashima, prefectura de Saga. El estilo de las Nogomi Ningyo es conocido for sus formas simples y redondeadas y han aparecido en los sellos de 1963 y 1991.
+Las campanas de barro 'dorei' con forma de 'eto' (animales del zodiaco) son un amuleto tradicional, ya que se cree que su sonido aleja a los malos espíritus y atrae la buena suerte. Se suelen comprar y regalar durante el periodo de fin de año y año nuevo. El diseño de las campanas suele cambiar con la región, teniendo cada una el suyo particular. Este dorei forma parte de la colección de los 12 etos que fabrica la compañía Nogomi Clay-Bell Toys de Kashima, prefectura de Saga. El estilo de las Nogomi ningyo es conocido for sus formas simples y redondeadas y han aparecido en los sellos de 1963 y 1991.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -600,7 +600,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n19.jpg"  "" "Mi851 Sn805 Yt765 Sg954 N19" "")
-STAMP_HEADING(HN 12 "Fukuryu (Yamanashi) y Tatsu (Tottori)\n16-12-1963")
+STAMP_HEADING(HN 12 "'Kai no fukuryu' (Yamanashi) y 'Tatsu' (Tottori)\n16-12-1963")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1005,7 +1005,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n32.jpg"  "" "Mi1274 Sn1237 Yt1176 Sg1417 N32" "")
-STAMP_HEADING(HN 12 "Tatsu-guruma (Fukushima)\n13-12-1975")
+STAMP_HEADING(HN 12 "Miharu hariko 'Tatsu-guruma' (Fukushima)\n13-12-1975")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
@@ -1173,7 +1173,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n37.jpg"  "" "Mi1452 Sn1442 Yt1352 Sg1614 N37" "")
-STAMP_HEADING(HN 12 "Tawara-nori niwatori (Nagano)\n01-12-1980")
+STAMP_HEADING(HN 12 "Nakano tsuchi ningyo 'Tawara-nori niwatori' (Nagano)\n01-12-1980")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
@@ -1184,7 +1184,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-1981")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa un Nakano tsuchi Ningyo 'Tawara-nori niwatori' (gallo sobre fardo), de la ciudad de Nakano, prefectura de Nagano.\n\n
+Las figuras representando un gallo sobre un fardo de arroz son un símbolo de deseo de buenas cosechas y buena salud para los granjeros y sus familias. La imagen, con diseño de Motoharu Morita, representa un Nakano tsuchi ningyo 'Tawara-nori niwatori' (gallo sobre fardo), de la ciudad de Nakano, prefectura de Nagano.\n\n
 La ciudad de Nakano es famosa por sus figuras de arcilla, con dos familias de artesanos continuando la tradición: la familia Nara (creadores de los muñecos Nakano), representada por los artesanos de 5ª y 6ª generación Hisao Nara y Yukio Nara, y la familia Nishihara (creadores de los muñecos Tategahana), represenada por Kumie Nishihara, artesano de 5ª generación. También es famosa por su museo de figuras de arcilla y el festival Hina-hichi, celebrado el 31 de marzo y 1 de abril.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1208,7 +1208,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
-STAMP_HEADING(HN 12 "Hagoromo chin (Yamagata)\n01-12-1981")
+STAMP_HEADING(HN 12 "Sagara tsuchi ningyo 'Hagoromo chin' (Yamagata)\n01-12-1981")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
@@ -1219,7 +1219,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1982")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las figuras de arcilla de Sagara (‘Sagara tsuchi ningyoo’) han sido fabricadas durante 220 años por la familia Sagara, herederos del clan Yonezawa que gobernó la región de Yonezawa (prefectura de Yamagata) durante el periodo Edo (1603-1868). Sagara Seizae-mon Atsutada creó el horno Narushima y comenzó a hacer muñecos con la arcilla de su jardín en 1790, tras retirarse de sus responsabilidades con el clan. Los miembros de la familia Sagara han seguido haciendo muñecos usando la misma arcilla y técnicas. Estas figuras son características por sus ojos de forma triangular. Se las considera uno de los tres estilos principales de figuras de la región de Tohoku, junto las Hanamaki y las Tsutsumi.\n\n
+Las figuras de arcilla de Sagara (‘Sagara tsuchi ningyo’) han sido fabricadas durante 220 años por la familia Sagara, herederos del clan Yonezawa que gobernó la región de Yonezawa (prefectura de Yamagata) durante el periodo Edo (1603-1868). Sagara Seizae-mon Atsutada creó el horno Narushima y comenzó a hacer muñecos con la arcilla de su jardín en 1790, tras retirarse de sus responsabilidades con el clan. Los miembros de la familia Sagara han seguido haciendo muñecos usando la misma arcilla y técnicas. Estas figuras son características por sus ojos de forma triangular. Se las considera uno de los tres estilos principales de figuras de la región de Tohoku, junto las Hanamaki y las Tsutsumi.\n\n
 El 'Hagoromo chin' es un perro pekinés ('chin') de arcilla decorado con un 'hagoromo' (túnica con plumas u hojas), un collar de hojas de roble. Las hojas de roble son una representación de la familia, ya que las hojas anteriores no caen hasta que una nueva generación ha crecido, y simbolizan la prosperidad de los descendientes.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1243,7 +1243,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n39.jpg"  ""    "Mi1537 Sn1515 Yt1438 Sg1691 N39"    "")
-STAMP_HEADING(HN 12 "Shishi-nori Kintaro (Miyagi)\n01-12-1982")
+STAMP_HEADING(HN 12 "Tsutsumi ningyo 'Shishi-nori Kintaro' (Miyagi)\n01-12-1982")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
@@ -1279,7 +1279,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n40.jpg"  ""    "Mi1573 Sn1557 Yt1474 Sg1726 N40"    "")
-STAMP_HEADING(HN 12 "Kozuchi nori nezumi (Shiga)\n01-12-1983")
+STAMP_HEADING(HN 12 "Obata tsuchi ningyo 'Kozuchi nori nezumi' (Shiga)\n01-12-1983")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
@@ -1351,7 +1351,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n42.jpg"  ""    "Mi1671 Sn1666 Yt1569 Sg1824 N42"    "")
-STAMP_HEADING(HN 12 "Shinno no tora (Osaka)\n02-12-1985")
+STAMP_HEADING(HN 12 "Osaka hariko 'Shinno no tora' (Osaka)\n02-12-1985")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
@@ -1571,9 +1571,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n51.jpg"  ""    "Mi2083 Sn2127 Yt1967 Sg2175 N51"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n53.jpg"  ""    "Mi2085 Sn2129 Yt1969 Sg2177 N53"    "")
-STAMP_HEADING(HN 12 "Saru no sanbaso (Ishikawa)\n02-12-1991" -21)
+STAMP_HEADING(HN 12 "Kanazawa hariko 'Saru no sanbaso' (Ishikawa)\n02-12-1991" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n54.jpg"  ""    "Mi2086 Sn2130 Yt1970 Sg2178 N54"    "")
-STAMP_HEADING(HN 12 "Momo ji saru (Shiga)\n02-12-1991" 21)
+STAMP_HEADING(HN 12 "Obata ningyo 'Momo ji saru' (Shiga)\n02-12-1991" 21)
 STAMP_ADD_IMG (30 34  "imagenes/n52.jpg"  ""    "Mi2084 Sn2128 Yt1968 Sg2176 N52"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1609,12 +1609,12 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n55.jpg"  ""    "Mi2131 Sn2150 Yt2015 Sg2211 N55"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n57.jpg"  ""    "Mi2133 Sn2152 Yt2017 Sg2213 N57"    "")
-STAMP_HEADING(HN 12 "Eto no niwatori (Toyama)\n16-11-1992" -21)
+STAMP_HEADING(HN 12 "Shiso ningyo 'Eto no niwatori'\n(Toyama)\n16-11-1992" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n58.jpg"  ""    "Mi2134 Sn2153 Yt2018 Sg2214 N58"    "")
-STAMP_HEADING(HN 12 "Taiko-nori niwatori (Fukuoka)\n16-11-1992" 21)
+STAMP_HEADING(HN 12 "Tsuyazaki tsuchi ningyo 'Taiko-nori niwatori'\n(Fukuoka)\n16-11-1992" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n56.jpg"  ""    "Mi2132 Sn2151 Yt2016 Sg2212 N56"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n56A.jpg"  ""    "MiBL162 Sn2151a SgLMS50 N56A"    "")
@@ -1647,9 +1647,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n59.jpg"  ""    "Mi2191 Sn2221 Yt2072 Sg2280 N59"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n61.jpg"  ""    "Mi2193 Sn2223 Yt2074 Sg2282 N61"    "")
-STAMP_HEADING(HN 12 "Eto no inu (Chiba)\n15-11-1993" -21)
+STAMP_HEADING(HN 12 "Shibahara ningyo 'Eto no inu' (Chiba)\n15-11-1993" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n62.jpg"  ""    "Mi2194 Sn2224 Yt2075 Sg2283 N62"    "")
-STAMP_HEADING(HN 12 "Tosa ken (Kochi)\n15-11-1993" 21)
+STAMP_HEADING(HN 12 "Tosa tsuchi ningyo 'Tosa ken' (Kochi)\n15-11-1993" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n60.jpg"  ""    "Mi2192 Sn2222 Yt2073 Sg2281 N60"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1723,12 +1723,12 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n67.jpg"  ""    "Mi2356x Sn2506 Yt2238 Sg2396 N67"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n69.jpg"  ""    "Mi2358 Sn2508 Yt2240 Sg2398 N69"    "")
-STAMP_HEADING(HN 12 "'Togarashi-nori nezumi' y 'Kabura-nori nezumi'\n(Miyagi)\n15-11-1995" -21)
+STAMP_HEADING(HN 12 "Tsutsumi ningyo\n'Togarashi-nori nezumi' y 'Kabura-nori nezumi'\n(Miyagi)\n15-11-1995" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n70.jpg"  ""    "Mi2359 Sn2509 Sg2399 N70"    "")
-STAMP_HEADING(HN 12 "Yonekura nezumi\n(Kagoshima)\n15-11-1995" 21)
+STAMP_HEADING(HN 12 "Satsuma kubi ningyo\n'Yonekura nezumi'\n(Kagoshima)\n15-11-1995" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n68.jpg"  ""    "Mi2357x Sn2507 Yt2239 Sg2397 N68"    "")
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n68A.jpg"  ""    "MiBL172 Sn2507a YtBF153 SgLMS53 N68A"    "")
@@ -1761,12 +1761,12 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n71.jpg"  ""    "Mi2428x Sn2550 Yt2306 Sg2445 N71"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n73.jpg"  ""    "Mi2430 Sn2552 Yt2308 Sg2447 N73"    "")
-STAMP_HEADING(HN 12 "Togyu (Okinawa)\n15-11-1996" -21)
+STAMP_HEADING(HN 12 "Togyu\n(Okinawa)\n15-11-1996" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n74.jpg"  ""    "Mi2431 Sn2553 Yt2309 Sg2448 N74"    "")
-STAMP_HEADING(HN 12 "Ushi-nori kodomo (Kagawa)\n15-11-1996" 21)
+STAMP_HEADING(HN 12 "Takamatsu Yomeiri ningyo 'Ushi-nori kodomo'\n(Kagawa)\n15-11-1996" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n72.jpg"  ""    "Mi2429x Sn2551 Yt2307 Sg2446 N72"    "")
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n72A.jpg"  ""    "MiBL174 YtBF156 SgLMS54 N72A"    "")
@@ -1800,9 +1800,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n75.jpg"  ""    "Mi2500 Sn2591 Yt2383 Sg2487 N75"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n77.jpg"  ""    "Mi2502 Sn2593 Yt2385 Sg2489 N77"    "")
-STAMP_HEADING(HN 12 "Koshidakatora (Fukushima)\n14-11-1997" -21)
+STAMP_HEADING(HN 12 "Miharu hariko 'Koshidakatora' (Fukushima)\n14-11-1997" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n78.jpg"  ""    "Mi2503 Sn2594 Yt2386 Sg2490 N78"    "")
-STAMP_HEADING(HN 12 "Kubi furi tora (Fukuoka)\n14-11-1997" 21)
+STAMP_HEADING(HN 12 "Hakata hariko 'Kubi furi tora' (Fukuoka)\n14-11-1997" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n76.jpg"  ""    "Mi2501x Sn2592 Yt2384 Sg2488 N76"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1840,12 +1840,12 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n79.jpg"  ""    "Mi2603x Yt2485 Sg2554 N79"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n81.jpg"  ""    "Mi2605 Sn2646 Yt2487 Sg2556 N81"    "")
-STAMP_HEADING(HN 12 "Mochi-tsuki usagi (Chiba)\n13-11-1998" -21)
+STAMP_HEADING(HN 12 "Sawara hariko 'Mochi-tsuki usagi'\n(Chiba)\n13-11-1998" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n82.jpg"  ""    "Mi2606 Sn2647 Yt2488 Sg2557 N82"    "")
-STAMP_HEADING(HN 12 "Tama-nori usagi (Yamagata)\n13-11-1998" 21)
+STAMP_HEADING(HN 12 "Yamagata Hariko 'Tama-nori usagi'\n(Yamagata)\n13-11-1998" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n80.jpg"  ""    "Mi2604x Sn2645 Yt2486 Sg2555 N80"    "")
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n80A.jpg"  ""    "MiBL178 Sn2645a SgLMS56 N80A"    "")
@@ -1878,9 +1878,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n83.jpg"  ""    "Mi2830x Sn2722 Yt2707 Sg2673 N83"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n85.jpg"  ""    "Mi2832 Sn2724 Yt2709 Sg2675 N85"    "")
-STAMP_HEADING(HN 12 "'Shichihoumaru' y 'Hiryu' (Saga)\n15-11-1999" -21)
+STAMP_HEADING(HN 12 "Karatsu Hikiyama ningyo\n'Shichihoumaru' y 'Hiryu'\n(Saga)\n15-11-1999" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n86.jpg"  ""    "Mi2833 Sn2725 Yt2710 Sg2676 N86"    "")
-STAMP_HEADING(HN 12 "Hariko no tatsu (Hiroshima)\n15-11-1999" 21)
+STAMP_HEADING(HN 12 "\nTsuneishi hariko no tatsu\n(Hiroshima)\n15-11-1999" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n84.jpg"  ""    "Mi2831x Sn2723 Yt2708 Sg2674 N84"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1892,7 +1892,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-2000")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los sellos de 50 yenes muestran ejemplos de Karatsu Hikiyama ningyō. Estas figuras hechas en Karatsu, prefectura de Saga, son representaciones de las carrozas ‘Hikiyama’ del famoso festival Karatsu Kunchi que se celebra en la ciudad del 2 al 4 de noviembre. Las figuras muestran las carrozas ‘Shichihoumaru’ (barco del tesoro) y ‘Hiryu’ (dragón volador), 14º y 7ª carrozas del desfile.\n\n
+Los sellos de 50 yenes muestran ejemplos de Karatsu Hikiyama ningyo. Estas figuras hechas en Karatsu, prefectura de Saga, son representaciones de las carrozas ‘Hikiyama’ del famoso festival Karatsu Kunchi que se celebra en la ciudad del 2 al 4 de noviembre. Las figuras muestran las carrozas ‘Shichihoumaru’ (barco del tesoro) y ‘Hiryu’ (dragón volador), 14º y 7ª carrozas del desfile.\n\n
 Los sellos de 80 yenes muestran un Tsuneishi hariko ‘tatsu’ (dragón), de la aldea Tsuneishi en la ciudad de Fukuyama, prefectura de Hiroshima. Otro Tsuneishi hariko con forma de oveja apareció en el sello del año 1991. 
 PAGE_TEXT_PARAGRAPH_END
 
@@ -1954,7 +1954,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n91.jpg"  ""    "Mi3287 Sn2801 Yt3159 Sg2980 N91"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n93.jpg"  ""    "Mi3289 Sn2803 Yt3161 Sg2982 N93"    "")
-STAMP_HEADING(HN 12 "Ine-ba (Niigata)\n15-11-2001" -21)
+STAMP_HEADING(HN 12 "Joetsu Hiramaru 'Ine-ba' (Niigata)\n15-11-2001" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n94.jpg"  ""    "Mi3290 Sn2804 Yt3162 Sg2983 N94"    "")
 STAMP_HEADING(HN 12 "Kira no Akauma to hakuba (Aichi)\n15-11-2001" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n92.jpg"  ""    "Mi3288 Sn2802 Yt3160 Sg2981 N92"    "")
@@ -1992,25 +1992,24 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n95.jpg"  ""    "Mi3435 Sn2842 Yt3307 Sg3078 N95"    "")
-STAMP_HEADING(HN 12 "Mi no eto dorei (Hokkaido)\n15-11-2002")
+STAMP_HEADING(HN 11 "Mi no eto dorei (Hokkaido)\n15-11-2002")
 STAMP_ADD_IMG (30 55  "imagenes/n97.jpg"  ""    "Mi3437 Sn2844 Yt3309 Sg3081 N97"    "")
-STAMP_HEADING(HN 12 "Ogi-mochi mi\n(Fukushima)\n15-11-2002")
+STAMP_HEADING(HN 11 "Yukawa ningyo\n'Ogi-mochi mi'\n(Fukushima)\n15-11-2002")
 STAMP_ADD_IMG (30 55  "imagenes/n98.jpg"  ""    "Mi3438 Sn2845 Yt3310 Sg3082 N98"    "")
-STAMP_HEADING(HN 12 "Oku hariko mi\n(Okayama)\n15-11-2002")
+STAMP_HEADING(HN 11 "\nOku hariko mi\n(Okayama)\n15-11-2002")
 STAMP_ADD_IMG (26 30  "imagenes/n96.jpg"  ""    "Mi3436 Sn2843 Yt3308 Sg3079 N96"    "")
-STAMP_HEADING(HN 12 "Hoju no mi (Tokio)\n15-11-2002")
+STAMP_HEADING(HN 11 "Hoju no mi (Tokio)\n15-11-2002")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76 "imagenes/n96A.jpg"  ""    "MiBL191 SgLMS60 N96A"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-2003") 
+STAMP_HEADING(HN 11 "HB premio loteria de Año Nuevo\n20-01-2003") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
-Se muestras cuatro artesanías tradicionales con el motivo del eto ‘mi’ (cabra).\n
-El sello de 50 yenes muestra un dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
+El sello de 50 yenes muestra la primera de cuatro artesanías con el motivo del eto 'mi' (cabra), un dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
 El semi-postal de 50 yenes muestra la Yukawa ningyo ‘Ogi-mochi mi’ (cabra con abanico) creada por Aoyagi Morihiko, de Aizuwakamatsu (Fukushima). Originario de Asakusa (Tokio), empezó a crear figuras en 1982. En 1984 se mudó a Aizuwakamatsu, donde abrió un horno y empezó a hacer figuras, inicialmente haciendo copias de las figuras Tsuruoka y más adelante sus propios diseños.\n
 El semi-postal de 80 yenes muestra un Oku hariko creado por Takehisa Mamoru, de Setouchi (Okayama). Los Oku hariko se llevan fabricando desde el periodo Edo.\n
 El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja llevando joya), creado vendido en la tieda Sukeroku de la popular calle comercial Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
