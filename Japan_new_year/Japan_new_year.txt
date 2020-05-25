@@ -51,7 +51,7 @@ STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  "" "Mi217 Sn222 Yt226 Sg280 N1" "")
 STAMP_HEADING(HN 12 "Fuji-san\n 01-12-1935")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Fuji-san (el monte Fuji), con 3776 metros de altitud, es el pico más alto de la isla de Honshu y de todo Japón. Se encuentra entre las prefecturas de Shizuoka y Yamanashi en el Japón central y justo al oeste de Tokio, desde donde se puede observar en un día despejado. El Fuji es un volcán compuesto y es el símbolo de Japón.\n\n
-Considerado sagrado desde la Antigüedad, les estaba prohibido a las mujeres llegar a la cima hasta la era Meiji (finales del s. XIX). Actualmente es un conocido destino turístico, así como un destino popular para practicar el alpinismo. La temporada «oficial» para practicar el alpinismo dura desde principios de julio hasta finales de agosto. Son mayoría los que escalan por la noche para apreciar la salida del sol.
+Considerado sagrado desde la Antigüedad, les estaba prohibido a las mujeres llegar a la cima hasta la era Meiji (finales del s. XIX). Actualmente es un conocido destino turístico, así como un destino popular para practicar el alpinismo. La temporada «oficial» para practicar el alpinismo dura desde principios de julio hasta finales de agosto. Es tradicional escalar por la noche para apreciar la salida del sol desde la cima.
 PAGE_TEXT_PARAGRAPH_END
 
 # 1937 Meoto Iwa, Futami
@@ -69,9 +69,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "Mi229 Sn234 Yt238 Sg292 N2"    "")
-STAMP_HEADING(HN 12 "Meoto Iwa (Futami)\n 10-12-1936")
+STAMP_HEADING(HN 12 "Meoto Iwa (Mie)\n 10-12-1936")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Meoto Iwa (Las rocas casadas) son un par de farallones rocosos en el mar frente a Futami, en la prefectura de Mie. Están unidas por un shimenawa y son consideradas sagradas por los fieles del cercano jinja Futami Okitama. En la creencia Shinto, las rocas representan la unión del creador de kami Izanagi e Izanami. Las rocas por lo tanto, celebran la unión en matrimonio del hombre y la mujer. La cuerda, que pesa más de una tonelada, debe ser sustituida varias veces al año en una ceremonia especial. La roca más grande, que se dice que es masculina, tiene un pequeño torii en su pico.
+Meoto Iwa (las rocas casadas) son un par de farallones rocosos en el mar frente a Futami, en la prefectura de Mie. Están unidas por un shimenawa y son consideradas sagradas por los fieles del cercano 'jinja' (templo) Futami Okitama. En la creencia Shinto, las rocas representan la unión del creador de 'kami' Izanagi con Izanami. Las rocas por lo tanto, celebran la unión en matrimonio del hombre y la mujer. La cuerda, que pesa más de una tonelada, debe ser sustituida varias veces al año en una ceremonia especial. La roca más grande, que se dice que es masculina, tiene un pequeño torii en su pico.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3" 
 STAMP_HEADING(HN 12 "Shimenawa\n15-12-1937")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Un shimenawa ('cuerda enrollada') son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el shide (serpentina de papel con forma zizageada). Un espacio marcado por el shimenawa indica el espacio sagrado o puro que representa al santuario sintoísta. Son también una decoración típica de Año Nuevo.
+Un 'shimenawa' (cuerda enrollada) son cuerdas de paja de arroz usadas para la purificación ritual en el sintoísmo. El diámetro varía desde unos centímentros hasta varios metros, y ocasionalmente se les añade el 'shide' (serpentina de papel con forma zizagueante). Un espacio marcado por el shimenawa indica el espacio sagrado o puro que representa al santuario sintoísta. Son también una decoración típica de Año Nuevo.
 PAGE_TEXT_PARAGRAPH_END  
 
 # 1949 Hanetsuki
@@ -118,7 +118,7 @@ ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 40  "imagenes/n4.jpg"  "" "Mi430 Sn424 Yt404 Sg516 N4" "")
 STAMP_HEADING(HN 12 "Niña jungado a hanetsuki\n13-12-1948")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El 'hanetsuki' es un juego tradicional japonés similar a badminton sin red. Se juega con una paleta rectangular de madera llamada 'hagoita' y un volante de colores brillantes. Tradicionalmente jugado por la niñas en año nuevo.
+El 'hanetsuki' es un juego tradicional japonés similar a badminton sin red. Se juega con una paleta rectangular de madera llamada 'hagoita' y un volante de colores brillantes. Tradicionalmente es jugado por la niñas en Año Nuevo.
 PAGE_TEXT_PARAGRAPH_END  
 
 
@@ -148,7 +148,7 @@ STAMP_ADD_IMG (94.5 131.3  "imagenes/n5a.jpg"  "" "MiBL32 YtBF26A SgLMS1 N5A" ""
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n01-02-1950")
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
-Maruyama Okyo (1733-1795) fue el pintor más influyente del siglo XIX en Kioto y uno de los principales del periodo Edo. Okyo combinó influencias creando un estilo personal que mezclaba naturalismo occidental con diseños decorativos orientales. Aunque otros artistas contemporáneos criticaron sus obras como esclavizadas por el deseo de representar la naturaleza, estas fueron muy populares y llegó a pintar para el emperador y el shogun. Como creador de la escuela Maruyama, influyó a otros pintores famosos como Matsumura Goshun o Nagasawa Rosetsu.
+Maruyama Okyo (1733-1795) fue el pintor más influyente del siglo XVII en Kioto y uno de los principales del periodo Edo. Okyo combinó influencias creando un estilo personal que mezclaba naturalismo occidental con diseños decorativos orientales. Aunque otros artistas contemporáneos criticaron sus obras como esclavizadas por el deseo de representar la naturaleza, estas fueron muy populares y llegó a pintar para el emperador y el shogun. Como creador de la escuela Maruyama, influyó a otros pintores famosos como Matsumura Goshun o Nagasawa Rosetsu.
 PAGE_TEXT_PARAGRAPH_END  
 
 
@@ -208,8 +208,8 @@ STAMP_ADD_IMG (107 96  "imagenes/n7a.jpg"  "" "MiBL41 Sn551a YtBF33a SgLMS3 N7A"
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1952")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El noh es una de las manifestaciones más destacadas del drama musical japonés que se ha realizado desde el siglo XIV (periodo Muromachi), siendo considerada el arte escénica de mayor antigüedad que se sigue representado. Las representaciones de noh combinan canto, drama, danza y orquestación de tres o cuatro instrumentos y tienen como principio regidor el yugen (elegancia, belleza, misterio). El noh es único por su lentitud, su gracia austera y por el uso distintivo de máscaras, y representa verdaderamente un rasgo específico de la cultura japonesa, que consiste en encontrar la belleza en la sutileza y formalidad.\n\n
-El Okina (máscara representando un anciano de barba blanca) es una obra única que combina danza y ritual shinto. En todo rigor, no se trata de noh, pero es una ceremonia religiosa que utiliza el mismo repertorio de técnicas que el noh. Representa la bendición concedida por una divinidad a la asistencia. Estas obras no forman parte de las jornadas de noh y se realizan con motivo del año nuevo o como representaciones especiales, presentándose siempre al principio del programa.
+El Noh es una de las manifestaciones más destacadas del drama musical japonés que se ha realizado desde el siglo XIV (periodo Muromachi), siendo considerada el arte escénica de mayor antigüedad que se sigue representado. Las representaciones de Noh combinan canto, drama, danza y orquestación de tres o cuatro instrumentos y tienen como principio regidor el 'yugen' (elegancia, belleza, misterio). El Noh es único por su lentitud, su gracia austera y por el uso distintivo de máscaras, y representa verdaderamente un rasgo específico de la cultura japonesa, que consiste en encontrar la belleza en la sutileza y formalidad.\n\n
+El Okina (máscara representando un anciano de barba blanca) es una obra única que combina danza y ritual shinto. En todo rigor, no se trata de Noh, pero es una ceremonia religiosa que utiliza el mismo repertorio de técnicas que el Noh. Representa la bendición concedida por una divinidad a la asistencia. Estas obras no forman parte de las jornadas de Noh y se realizan con motivo del año nuevo o como representaciones especiales, presentándose siempre al principio del programa.
 PAGE_TEXT_PARAGRAPH_END
 
 
@@ -308,7 +308,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1954")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Las muñecas Kaga Hachiman Okiagari (muñecas que se levantan) de la ciudad de Kanazawa (prefectura de Ishikawa) son uno de los juguetes tradicionales más antiguos del norte de Japón. Las muñecas, un tipo de tentetieso, están hechas de papel, con un método parecedo al papel maché. Esta artesanía tradicional se suele regalar a aquellos que están esperando un hijo para desear que crezca saludable, parejas recién casadas o para desear la recuperación de los enfermos. Al levantarse siempre al ser empujadas, estas muñecas simbolizan la capacidad de sobreponerse a las dificultades, recuperarse y crecer fuerte. 
+Las muñecas Kaga Hachiman Okiagari (muñecas que se levantan) de la ciudad de Kanazawa (prefectura de Ishikawa) son uno de los juguetes tradicionales más antiguos del norte de Japón. Las muñecas, un tipo de tentetieso, están hechas de papel, con un método parecido al papel maché. Esta artesanía tradicional se suele regalar a aquellos que están esperando un hijo para desear que crezca saludable, parejas recién casadas o para desear la recuperación de los enfermos. Al levantarse siempre al ser empujadas, estas muñecas simbolizan la capacidad de sobreponerse a las dificultades, recuperarse y crecer fuerte. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -432,7 +432,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n14.jpg"  "" "Mi694 Sn662 Yt617 Sg792 N14" "")
-STAMP_HEADING(HN 12 "Takamatsu hariko 'Tai daki ebisu' (Kagawa)\n20-12-1958")
+STAMP_HEADING(HN 12 "Takamatsu hariko 'Tai daki Ebisu' (Kagawa)\n20-12-1958")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -443,7 +443,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1958")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El sello de este año muestra el Takamatsu hariko 'Tai daki ebisu' (Ebisu abranzando un besugo) de la ciudad de Takamatsu, prefectura de Kagawa.\n\n
+El sello de este año muestra el Takamatsu hariko 'Tai daki Ebisu' (Ebisu abranzando un besugo) de la ciudad de Takamatsu, prefectura de Kagawa.\n\n
 Ebisu (también transcrito Yebisu) es el dios japonés de la suerte, los pescadores y los obreros, así como el guardián de la salud de los niños pequeños. Él es uno de los Shichifukujin (Siete Dioses de la Fortuna), y el único de los siete que tiene su origen exclusivamente en Japón sin ninguna influencia hindú o china. Suele representarse vestido con un sobrero alto, una caña de pescar y un besugo (tai).
 PAGE_TEXT_PARAGRAPH_END
 
@@ -466,7 +466,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (30 34  "imagenes/n15.jpg"  "" "Mi717 Sn685 Yt640 Sg816 N15" "")
-STAMP_HEADING(HN 12 "Kome kui Nezumi (Ishikawa)\n19-12-1959")
+STAMP_HEADING(HN 12 "Kome kui nezumi (Ishikawa)\n19-12-1959")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -477,7 +477,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n19-12-1959")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El Kome kui Nezumi (rata comiendo arroz) es un juguete mecánico tradicional de madera (karakuri) típico de la ciudad de Kanazawa, prefectura de Ishikawa. Consiste en un ratón unido a una base por un muelle de bambú. Al presionarlo, el ratón se balancea, subiendo y bajando hacia el pequeño plato, de manera que parece que está comiendo de él. Popularizado durante épocas de escased, simboliza el deseo de disponer de un suministro ilimitado de comida. 
+El Kome kui nezumi (rata comiendo arroz) es un juguete mecánico tradicional de madera (karakuri) típico de la ciudad de Kanazawa, prefectura de Ishikawa. Consiste en un ratón unido a una base por un muelle de bambú. Al presionarlo, el ratón se balancea, subiendo y bajando hacia el pequeño plato, de manera que parece que está comiendo de él. Popularizado durante épocas de escasez, simboliza el deseo de disponer de un suministro ilimitado de comida. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -511,7 +511,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1960")
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
 El Aka-beko (becerro rojo) es un juguete tradicional de la región de Aizu, en la prefectura de Fukushima. Su origen data de la construcción del templo Kyokyuzo-do en la ciudad de Aizu-Yanazu. Se cuenta que uno de los grandes bueyes rojos empleados en la construccion del templo se negó a abandonarlo, en aparente devoción a Buda. Al poco tiempo, un miembro del clan local usó al buey de modelo para un juguete de papel maché para los niños. Parece ser que en ese tiempo se produjo una plaga de viruela y se descubrió que los niños que tenían la figura del buey no enfermaron. Desde entonces el juguete se volvió muy popular como amuleto contra la enfermedad.\n\n
-El juguete tradicional Kin no be kokko (también ‘kinbeko’, buey dorado) tiene su origen en la región de Iwate, famosa por su oro y comercio. Antiguamente, los comerciantes locales tenían que transportar sus mercancías a través de las zonas montañosas de Iwate. Los caballos se cansaban fácilmente con la carga y huían al asustarse. Sin embargo, sus begoko ('vaca' en el antiguo dialecto de Iwate) siempre tenían energía y eran difíciles de asustar. Así, las mercancías mas valiosas se confiaban siempre a los begoko y por ello los kinbeko se suelen pintar de dorado y llevan grandes alforjas con la inscripción 'sen-ryo-hako' (1000 ryo).
+El juguete tradicional Kin no be kokko (también ‘kinbeko’, buey dorado) tiene su origen en la región de Iwate, famosa por su oro y comercio. Antiguamente, los comerciantes locales tenían que transportar sus mercancías a través de las zonas montañosas de Iwate. Los caballos se cansaban fácilmente con la carga y huían al asustarse. Sin embargo, sus 'begoko' ('vaca' en el antiguo dialecto de Iwate) siempre tenían energía y eran difíciles de asustar. Así, las mercancías mas valiosas se confiaban siempre a los begoko y por ello los kinbeko se suelen pintar de dorado y llevan grandes alforjas con la inscripción 'sen-ryo-hako' (1000 ryo).
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -847,7 +847,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-12-1970")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los ‘Echigo no suge-zaiku’ (trenzados de Echigo) son una una artesanía tradicional de la antigua ciudad de Arai (actualmente Myoko), en la provincia de Echigo (actualmente parte de la prefectura de Niigata). Estas figuras se tejen con ‘Uri no ki’ (la corteza del 'Uri', el árbol Alangium), que se pela del tronco y se deja secar, para luego darle forma de cuerpo atándola con cuerdas de paja de arroz. El sello muestra un 'inoshishi' (jabalí) en conmemoración del año del cerdo.
+Los ‘Echigo no suge-zaiku’ (trenzados de Echigo) son una artesanía tradicional de la antigua ciudad de Arai (actualmente Myoko), en la provincia de Echigo (actualmente parte de la prefectura de Niigata). Estas figuras se tejen con ‘Uri no ki’ (la corteza del 'Uri', el árbol Alangium), que se pela del tronco y se deja secar, para luego darle forma de cuerpo atándola con cuerdas de paja de arroz. El sello muestra un 'inoshishi' (jabalí) en conmemoración del año del cerdo.
 PAGE_TEXT_PARAGRAPH_END
 #https://omamorifromjapan.blogspot.com/2011/07/niigata-folk-toys.html
 
@@ -1016,7 +1016,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1976")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El ‘tatsu-guruma’ es un poco común Miharu hariko rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘zuitama’ (gema de la omnipotencia). En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda. Los Miharu hariko aparecieron también en el año 1998, conmemorando el año del tigre.
+El ‘tatsu-guruma’ es un poco común Miharu hariko rodante con forma de dragón, tradicional de la prefectura de Fukushima. Los dragones se suelen representar agarrando una bola que simboliza la ‘zuitama’ (gema de la omnipotencia o de la suerte) que les permitía subir y bajar del cielo. En este caso, la bola hace las veces de rueda. Un peso embebido en la parte baja del muñeco hace que se mantenga erguido mientras rueda. Los Miharu hariko aparecieron también en el año 1998, conmemorando el año del tigre.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1050,7 +1050,7 @@ PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El ‘Oyama no takehebi’ (serpiente de bambú de Oyama) es un juguete tradicional vendido como souvenir en el templo Oyama Afuri, en la ciudad de Isehara, prefectura de Kanagawa. El templo, con 2200 años de historia, está situado en el monte Oyama a 1252 metros de altura y se accede gracias a un famoso funicular.\n\n
-La serpiente está formada por trozos de bambú de unos 3 centímetros y unidos entre si por un alambre que hace de eje entre las piezas. El juguete es en realidad un silbato o flauta de dos o tres notas. Al soplar por la cola del juguete, el músico mueve la cabeza de izquierda a derecha, de manera que las distintas secciones de la serpiente bailan de un lado a otro, simulando el movimiento serpenteante del animal.
+La serpiente está formada por trozos de bambú de unos 3 centímetros y unidos entre si por un alambre que hace de eje entre las piezas. El juguete es en realidad un silbato o flauta de dos o tres notas. Al soplar por la cola del juguete, el músico mueve la cabeza a izquierda y derecha, de manera que las distintas secciones de la serpiente bailan de un lado a otro, simulando el movimiento serpenteante del animal.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1083,7 +1083,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1978")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-El sello muestra el Fushimi ningyo 'kazari-ba' (caballo decorativo), de la ciudad de Kioto. Las ’Fushimi ningyo’ (muñecos de arcilla de Fushimi) son unas de las figuras de arcilla más antiguas de Japón, iniciándose su fabricación en el periodo Momoyama (1573-1615).  Se empezaron a fabricar en la zona de Fushimi (actualmente integrada en Kioto) con arcilla del monte Inari, cerca del famoso templo Fishimi Inari. El método tradicional de fabricación sigue un ciclo anual: en primavera-verano se hacen las figuras, rellenando los moldes con arcilla para luego dejarlos secar durante 10 días antes de meterlas en el horno. Posteriormente, en otoño-invierno las figuras se pintan primero con una base blanca (‘gofun’) para luego pintar los detalles a mano con vivos colores. Se estima que hay más de 2000 moldes, algunos datando del período Momoyama, representando toda clase de figuras. Aunque durante el periodo Edo llegó a haber hasta 60 alfarerías en funcionamiento, hoy en día la única que queda es Tanka (fundada hace 260 años), situada justo a la entrada del templo Fushimi Inari.
+El sello muestra el Fushimi ningyo 'kazari-ba' (caballo decorativo), de la ciudad de Kioto. Las ’Fushimi ningyo’ (muñecos de arcilla de Fushimi) son unas de las ningyo más antiguas de Japón, iniciándose su fabricación en el periodo Momoyama (1573-1615), y han sido el origen e influencia de otros muchos estilos de ningyo.  Se empezaron a fabricar en la zona de Fushimi (actualmente integrada en Kioto) con arcilla del monte Inari, cerca del famoso templo Fishimi Inari. El método tradicional de fabricación sigue un ciclo anual: en primavera-verano se hacen las figuras, rellenando los moldes con arcilla para luego dejarlos secar durante 10 días antes de meterlas en el horno. Posteriormente, en otoño-invierno las figuras se pintan primero con una base blanca (‘gofun’) para luego pintar los detalles a mano con vivos colores. Se estima que hay más de 2000 moldes, algunos datando del período Momoyama, representando toda clase de figuras. Aunque durante el periodo Edo llegó a haber hasta 60 alfarerías en funcionamiento, hoy en día la única que queda es Tanka (fundada hace 260 años), situada justo a la entrada del templo Fushimi Inari.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -1254,7 +1254,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1983")
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Kintaro (‘niño de oro’) es un héroe legendario del folclore japonés. Siendo un niño de fuerza sobrehumana, fue criado en el monte Ashigara por una bruja. Allí se hizo amigo de los animales de la montaña, para más tarde pasar a ser un fiel seguidor de Minamoto no Yorimitsu (948 – 1021), otro personaje semi-legendario del periodo Heian, bajo el nombre de Sakata Kintoki. Kintaro es un personaje popular en las obras noh y kabuki y es tradición colocar una figura suya el día del niño con el deseo de que los niños crezcan tan valientes y fuertes como él.\n\n
+Kintaro (‘niño de oro’) es un héroe legendario del folclore japonés. Siendo un niño de fuerza sobrehumana, fue criado en el monte Ashigara por una bruja. Allí se hizo amigo de los animales de la montaña, para más tarde pasar a ser un fiel seguidor de Minamoto no Yorimitsu (948 – 1021), otro personaje semi-legendario del periodo Heian, bajo el nombre de Sakata Kintoki. Kintaro es un personaje popular en las obras Noh y Kabuki y es tradición colocar una figura suya el día del niño con el deseo de que los niños crezcan tan valientes y fuertes como él.\n\n
 Las figuras representando a Kintaro son muy populares y variadas, ilustrando diferentes partes de su leyenda (con la bruja, luchando con osos o montando animales como jabalíes o carpas). La figura aquí representada es una Tsutsumi ningyo, originarias de la ciudad de Sendai, prefectura de Miyagi, y características por su uso del color rojo. La figura muestra a Kintaro montando un jabalí ('Shishi-nori Kintaro'), mientras lleva al hombro su fiel hacha Masakari.
 PAGE_TEXT_PARAGRAPH_END
 #http://koharu2009.blogspot.com/2018/03/blog-post_20.html
@@ -1314,7 +1314,7 @@ ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n41.jpg"  ""    "Mi1613 Sn1621 Yt1514 Sg1766 N41"    "")
+STAMP_ADD_IMG (30 26  "imagenes/n41.jpg"  ""    "Mi1613 Sn1621 Yt1514 Sg1766 N41"    "")
 STAMP_HEADING(HN 12 "Sakushu-ushi (Okayama)\n01-12-1984")
 
 
@@ -1546,7 +1546,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1991")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Se muestras tres figuras con el motivo 'hitsuji' (oveja) de diferentes estilos.\n
-Las Nogomi ningyo, mostrada en el sello de 41 yenes, de la ciudad de Kashima, prefetura de Saga, se fabricadan desde 1945 por el artesano Teruji Suzuta. Originalmente se vendían en el templo Yutoku Inari y hoy se vende como artesanía tradicional de la ciudad.\n
+Las Nogomi ningyo, mostrada en el sello de 41 yenes, de la ciudad de Kashima, prefetura de Saga, fueron creadas en 1945 por el artesano Teruji Suzuta. Originalmente se vendían en el templo Yutoku Inari y hoy se vende como artesanía tradicional de la ciudad.\n
 Las Kosen ningyo del semi postal de 41 yenes toman el nombre de su creadora, la pintora Kosen Yamamoto. Comenzó a hacer figuras tras la guerra en Koshi, prefectura de Shiga, hasta su muerte en 1963, continuando la fabricación su hija Nobuko y después su hermano Sadahiko. A la muerte de este en 1991, las Kosen Ningyo se dejaron de fabricar.\n
 Las Tsuneishi hariko de Fukuyama, prefectura de Hiroshima, que aparecen en el semipostal de 62 yenes fueron creadas hacia 1887 por Miyamoto Kyuhei. Originalmente un artesano de figuras de arcilla, cambió a los harikos cansado de que las figuras se rompieran durante el transporte antes de venderlas.
 PAGE_TEXT_PARAGRAPH_END
@@ -1775,8 +1775,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1997")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los sellos de 50 yenes muestran ejemplos de harikos de la ciudad de Naha, prefectura de Okinawa, inspirados en el 'togyu'. El “togyu” (también conocido como ‘ushi-zumo’ o sumo de toros) es una forma de tauromaquia de las islas Ryukyu, en las prefecturas de Okinawa y Kagoshima. El togyu enfrenta a una pareja de toros que entrelazarán sus cuernos intentando derribarse mutuamente. Aunque popular en todas las islas Ryukyo, está especialmente arraigado en la isla de Tokunoshima, donde el toro togyu es el símbolo local.\n\n
-Los sellos de 80 yenes muestran el Takamatsu Yomeiri (novia que se casa) ningyo “Ushi-nori kodomo” (niño montando buey) de la ciudad de Takamatsu, prefectura de Kagawa, donde tienen una larga tradición datando del periodo Edo. Las novias, antes de casarse y pasar a la familia del marido, repartían entre los niños del vecindario o su familia estas figuras de arcilla con motivos de fertilidad y matrimonios felices y duraderos.
+Los sellos de 50 yenes muestran ejemplos de harikos de la ciudad de Naha, prefectura de Okinawa, inspirados en el 'togyu'. El “togyu” (también conocido como ‘ushi-zumo’ o sumo de toros) es una forma de tauromaquia de las islas Ryukyu, en las prefecturas de Okinawa y Kagoshima. El togyu enfrenta a una pareja de toros que entrelazarán sus cuernos intentando derribarse mutuamente. Aunque popular en todas las islas Ryukyu, está especialmente arraigado en la isla de Tokunoshima, donde el toro togyu es el símbolo local.\n\n
+Los sellos de 80 yenes muestran el Takamatsu Yomeiri (novia que se casa) ningyo “Ushi-nori kodomo” (niño montando buey) de la ciudad de Takamatsu, prefectura de Kagawa, donde tienen una larga tradición datando del periodo Edo. Las novias, antes de casarse y pasar a la familia del marido, repartían entre los niños del vecindario o su familia estas figuras de arcilla con motivos de fertilidad y deseando matrimonios felices y duraderos.
 PAGE_TEXT_PARAGRAPH_END
 #https://www.mingei-wasabidou.com/items/993718/Takamatsu-Yomeiri-Ningyo-Clay-Bridal-Trousseau-Dolls
 
@@ -1802,7 +1802,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n75.jpg"  ""    "Mi2500 Sn2591 Yt2383 Sg2487 N75
 STAMP_ADD_IMG (30 55  "imagenes/n77.jpg"  ""    "Mi2502 Sn2593 Yt2385 Sg2489 N77"    "")
 STAMP_HEADING(HN 12 "Miharu hariko 'Koshidakatora' (Fukushima)\n14-11-1997" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n78.jpg"  ""    "Mi2503 Sn2594 Yt2386 Sg2490 N78"    "")
-STAMP_HEADING(HN 12 "Hakata hariko 'Kubi furi tora' (Fukuoka)\n14-11-1997" 21)
+STAMP_HEADING(HN 12 "Hakata hariko 'Kubifuri tora' (Fukuoka)\n14-11-1997" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n76.jpg"  ""    "Mi2501x Sn2592 Yt2384 Sg2488 N76"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1816,7 +1816,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1998")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Como representación del año del tigre se presentan dos “hariko no tora” de dos de los estilos más importantes, Miharu y Hakata.\n\n
 Los sellos de 50 yenes muestran los Miharu hariko que se fabrican en la aldea de Dekoyashiki, cerca de la ciudad de Koriyama, prefectura de Fukushima, desde hace más de 300 años. Toman su nombre de la antigua denominación del señorío feudal de Miharu-han durante el periodo Edo. El sello muestra la figura “Koshidakatora” (tigre de cadera alta), uno de los Miharu hariko más famosos.\n\n
-Los sellos de 80 yenes muestran el Hakata hariko “kubi furi tora” (tigre de cabeza oscilante) que se fabrica en el barrio de Hakata de la ciudad de Fukuoka, prefectura de Fukuoka. El estilo fue iniciado a mediados del periodo Edo de la mano de artesanos venidos de la región de Kansai. Los motivos más populares entre los Hakata hariko son los darumas y los tigres.
+Los sellos de 80 yenes muestran el Hakata hariko “kubifuri tora” (tigre de cabeza oscilante) que se fabrica en el barrio de Hakata de la ciudad de Fukuoka, prefectura de Fukuoka. El estilo fue iniciado a mediados del periodo Edo de la mano de artesanos venidos de la región de Kansai. Los motivos más populares entre los Hakata hariko son los darumas y los tigres.
 PAGE_TEXT_PARAGRAPH_END
 #https://cooljapan.es/miharu-hariko-testigo-directo-la-historia-moderna-del-japon/
 
@@ -1916,7 +1916,7 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n87.jpg"  ""    "Mi3071x Sn2750 Yt2942 Sg2845 N87"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n89.jpg"  ""    "Mi3073 Sn2752 Yt2944 Sg2847 N89"    "")
-STAMP_HEADING(HN 12 "Jidaiji dorei Uzumaki mi (Tokio)\n15-11-2000" -21)
+STAMP_HEADING(HN 12 "Jindaiji dorei Uzumaki mi (Tokio)\n15-11-2000" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n90.jpg"  ""    "Mi3074 Sn2753 Yt2945 Sg2848 N90"    "")
 STAMP_HEADING(HN 12 "Sasanobori mi (Yamagata)\n15-11-2000" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n88.jpg"  ""    "Mi3072x Sn2751 Yt2943 Sg2846 N88"    "")
@@ -1930,7 +1930,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-01-2001")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los sellos de 50 yenes muestran dos Jidaiji dorei con variaciones del motivo ‘Uzumaki mi’ (serpiente enrollada). Fundado en el año 733, el templo Jindaiji de la ciudad de Chofu es el segundo templo más antiguo de la región de Tokio, después del archiconocido templo Sensoji de Asakura, en el mismo Tokio. Las Jindaiji dorei se caracterizan por sus formas y colores inocentes y alegres. Son fabricadas en el horno Musashino Jindaiji, fundado en 1957 por Minoru Yoshida y Nobuko Baba.\n\n
+Los sellos de 50 yenes muestran dos Jindaiji dorei con variaciones del motivo ‘Uzumaki mi’ (serpiente enrollada). Fundado en el año 733, el templo Jindaiji de la ciudad de Chofu es el segundo templo más antiguo de la región de Tokio, después del archiconocido templo Sensoji de Asakura, en el mismo Tokio. Las Jindaiji dorei se caracterizan por sus formas y colores inocentes y alegres. Son fabricadas en el horno Musashino Jindaiji, fundado en 1957 por Minoru Yoshida y Nobuko Baba.\n\n
 Los sellos de 80 yenes muestran dos variaciones del eto ‘mi’ (serpiente) creados con la técnica del Sasanobori de la ciudad de Yonezawa, prefectura de Yamagata. Las tallas Sasanobori aparecieron también en el sello de 1969.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -2012,7 +2012,7 @@ PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
 El sello de 50 yenes muestra la primera de cuatro artesanías con el motivo del eto 'mi' (cabra), un dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
 El semi-postal de 50 yenes muestra la Yukawa ningyo ‘Ogi-mochi mi’ (cabra con abanico) creada por Aoyagi Morihiko, de Aizuwakamatsu (Fukushima). Originario de Asakusa (Tokio), empezó a crear figuras en 1982. En 1984 se mudó a Aizuwakamatsu, donde abrió un horno y empezó a hacer figuras, inicialmente haciendo copias de las figuras Tsuruoka y más adelante sus propios diseños.\n
 El semi-postal de 80 yenes muestra un Oku hariko creado por Takehisa Mamoru, de Setouchi (Okayama). Los Oku hariko se llevan fabricando desde el periodo Edo.\n
-El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja llevando joya), creado vendido en la tieda Sukeroku de la popular calle comercial Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
+El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja con joya), creado vendido en la tieda Sukeroku de la popular calle comercial Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2037,7 +2037,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n99.jpg"  ""    "Mi3589 Sn2871 Yt3451 Sg3188 N99
 STAMP_ADD_IMG (30 55  "imagenes/n101.jpg"  ""    "Mi3591 Sn2873 Yt3453 Sg3191 N101"    "")
 STAMP_HEADING(HN 12 "Iyo ittobori sanbaso (Ehime)\n14-11-2003" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n102.jpg"  ""    "Mi3592 Sn2874 Yt3454 Sg3192 N102"    "")
-STAMP_HEADING(HN 12 "Shusse saru (Hyogo)\n14-11-2003" 21)
+STAMP_HEADING(HN 12 "Himeji hariko 'Shusse saru' (Hyogo)\n14-11-2003" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n100.jpg"  ""    "Mi3590 Sn2872 Yt3452 Sg3189 N100"    "")
 
 
@@ -2050,7 +2050,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n19-01-2004")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los sellos de 50 yenes muestran una talla Iyo ittobori de un mono vestido para el baile sambaso, creado por Nishikawa Nanun II del estudio Nagumo, en la ciudad de Matsuyama, prefectura de Ehime (antigua provincia de Iyo). Nishikawa Yuzuru (Nanun I), creó el estudio a principios del siglo XX combinando la técnica tradicional de ittobori con la de tallado de estatuas de Buda.\n\n
+Los sellos de 50 yenes muestran una talla Iyo ittobori de un mono vestido para el baile sambaso, creado por Nishikawa Nanun II del estudio Nagumo, en la ciudad de Matsuyama, prefectura de Ehime (antigua provincia de Iyo). Nishikawa Yuzuru (Nanun I), creó el estudio a principios del siglo XX combinando la técnica tradicional del ittobori con la de tallado de estatuas de Buda.\n\n
 Los sellos de 80 yenes muestran el Himeji hariko “Shusse saru” (mono exitoso) creado por el artesano Matsuo Takashi IV de Himeji, prefectura de Hyogo. Los Himeji hariko se han fabricado desde inicios de la era Meiji, influenciados por los Osaka hariko. Tradicionalmente estos hariko se fabrican con papel usado.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -2115,7 +2115,7 @@ STAMP_HEADING(HN 12 "Akita Inu\n 15-11-2005")
 STAMP_ADD_IMG (30 55  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
 STAMP_HEADING(HN 12 "Shiba Inu\n 15-11-2005")
 STAMP_ADD_IMG (30 55  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
-STAMP_HEADING(HN 12 "Sadowara Ningyo inu (Miyazaki) \n 15-11-2005" 21)
+STAMP_HEADING(HN 12 "Sadowara ningyo inu (Miyazaki) \n 15-11-2005" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2153,7 +2153,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n111.jpg"  ""    "Mi4119 Sn2971 Yt3961 Sg3491 N1
 STAMP_ADD_IMG (30 55  "imagenes/n113.jpg"  ""    "Mi4123 Sn2973 Yt3963 Sg3494 N113"    "")
 STAMP_HEADING(HN 12 "Hoju no inoshishi (Tokio)\n01-11-2006" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n114.jpg"  ""    "Mi4124 Sn2974 Yt3964 Sg3495 N114"    "")
-STAMP_HEADING(HN 12 "Eto inoshishi (Toyama)\n01-11-2006" 21)
+STAMP_HEADING(HN 12 "Toyama tsuchi ningyo eto inoshishi (Toyama)\n01-11-2006" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n112.jpg"  ""    "Mi4120 Sn2972 Yt3962 Sg3492 N112"    "")
 
 #ROW_START_FS (HN 6 0.1 12.0)
@@ -2193,9 +2193,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n116.jpg"  ""    "Mi4409 Sn3007 Yt4236 Sg3656 N116"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n118.jpg"  ""    "Mi4413 Sn3009 Yt4238 Sg3658 N118"    "")
-STAMP_HEADING(HN 12 "Junishi nezumi (Nagano)\n01-11-2007" -21)
+STAMP_HEADING(HN 12 "Fukutoku dorei 'Junishi nezumi' (Nagano)\n01-11-2007" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n119.jpg"  ""    "Mi4414 Sn3010 Yt4239 Sg3659 N119"    "")
-STAMP_HEADING(HN 12 "Junishi ko (Yamanashi)\n01-11-2007" 21)
+STAMP_HEADING(HN 12 "Kofu dorei 'Junishi ko' (Yamanashi)\n01-11-2007" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N117"    "")
 
 #ROW_START_FS (HN 6 0.1 12.0)
@@ -2235,17 +2235,17 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n122.jpg"  ""    "Mi4701 Sn3070 Yt4541 Sg3897 N122"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n124.jpg"  ""    "Mi4705 Sn3072 Yt4543 Sg3899 N124"    "")
-STAMP_HEADING(HN 12 "Gan-kake ushi (Nagasaki)\n04-11-2008" -21)
+STAMP_HEADING(HN 12 "\nGan-kake ushi\n(Nagasaki)\n04-11-2008" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n125.jpg"  ""    "Mi4706 Sn3073 Yt4544 Sg3900 N125"    "")
-STAMP_HEADING(HN 12 "Tachiushi-nori Tenjin (Hiroshima)\n04-11-2008")
+STAMP_HEADING(HN 12 "Miyoshi ningyo\n'Tachiushi-nori Tenjin'\n(Hiroshima)\n04-11-2008")
 STAMP_ADD_IMG (26 30  "imagenes/n123.jpg"  ""    "Mi4702 Sn3071 Yt4542 Sg3898 N123"    "")
-STAMP_HEADING(HN 12 "Neushi-nori Tenjin\n(Hiroshima)\n04-11-2008")
+STAMP_HEADING(HN 12 "Miyoshi ningyo\n'Neushi-nori Tenjin'\n(Hiroshima)\n04-11-2008")
 
 #ROW_START_FS (HN 6 0.1 12.0)
 #STAMP_ADD_IMG (56 56  "imagenes/n126.jpg"  ""    "Mi4703-4704Zf Sn3075a N126"    "")
 #STAMP_HEADING(HN 12 "'09 New Year\n04-11-2008")
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n123A.jpg"  ""    "MiBL202 YtBF183 N123A"    "")
@@ -2253,7 +2253,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n26-01-2009")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
-PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
+PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
 Los sellos de 50 yenes muestran la figura ‘Gankake ushi’ (buey para pedir un deseo) de la ciudad de Sasebo, prefectura de Nagasaki. La figura representa una leyenda local. Durante el período Muromachi (1333-1573), el señor del clan Matsuura fue a Kioto para obtener la aprobación del shogunato como Daimyo. Sin embargo, el shogun Ashikaga Yoshimasa era reacio a reunirse con él. Entonces, una noche una vaca roja se le apareció en sueños y le dijo que haría realidad su deseo, tras lo cual el shogun accedió a reunirse con él y le concedió el título. Los Gankake ushi se fabrican en metal o madera, en dos colores, rojo y negro.\n\n
 Los sellos de 80 yenes muestras dos Miyoshi ningyo con variaciones de un motivo de Tenjin sobre un buey, ‘Tachiushi-nori Tenjin’ (Tenjin sobre un buey en pie) y ‘Neushi-nori Tenjin’ (Tenjin sobre un buey tumbado). En la religión Shinto, Tenjin es el kami de la enseñanza y se le relaciona con el buey. Las Miyoshi ningyo se fabrican en Miyoshi, prefectura de Hiroshima, desde mediados del siglo XVII. 
 PAGE_TEXT_PARAGRAPH_END
@@ -2278,12 +2278,12 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n127.jpg"  ""    "Mi5090 Sn3170 Yt4905 Sg4229 N127"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n129.jpg"  ""    "Mi5092 Sn3172 Yt4906 Sg4231 N129"    "")
-STAMP_HEADING(HN 12 "Kubifuri no tora (Shizuoka)\n11-11-2009" -21)
+STAMP_HEADING(HN 12 "Shizuoka hariko 'Kubifuri no tora'\n(Shizuoka)\n11-11-2009" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n130.jpg"  ""    "Mi5093 Sn3173 Yt4908 Sg4232 N130"    "")
-STAMP_HEADING(HN 12 "Kaga Mayoke Tora (Ishikawa)\n11-11-2009" 21)
+STAMP_HEADING(HN 12 "Kaga hariko 'Kaga Mayoke Tora'\n(Ishikawa)\n11-11-2009" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n128.jpg"  ""    "Mi5091 Sn3171 Yt4907 Sg4230 N128"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n128A.jpg"  ""    "MiBL208 Sn3171a N128A"    "")
@@ -2292,7 +2292,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n25-01-2010")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los sellos de 50 yenes muestran un Shizuoka Hariko con el popular diseño ‘Kubifuri no tora’ (tigre de cabeza oscilante). Estos harikos se fabricaban en la ciudad de Shizuoka, prefectura homónima, por la familia Sugimoto. Aunque llegó ha haber más de 200 modelos, lamentablemente estos fueron destruidos durante la guerra en 1945. El último artesano que continuaba la tradición, Eiji Sugimoto, de cuarta generación, ya falleció, por lo que estos harikos ya no se fabrican más.\n\n
+Los sellos de 50 yenes muestran un Shizuoka hariko con el popular diseño ‘Kubifuri no tora’ (tigre de cabeza oscilante). Estos harikos se fabricaban en la ciudad de Shizuoka, prefectura homónima, por la familia Sugimoto. Aunque llegó ha haber más de 200 modelos, lamentablemente estos fueron destruidos durante la guerra en 1945. El último artesano que continuaba la tradición, Eiji Sugimoto, de cuarta generación, ya falleció, por lo que estos harikos ya no se fabrican más.\n\n
 Los sellos de 80 yenes muestran el ‘Kaga Mayoke Tora’ (tigre ahuyenta demonios de Kaga), un Kaga hariko que hace de amuleto de buena suerte de la ciudad de Kanazawa, en la prefectura de Ishikawa. Su nombre hace referencia a la antigua provincia de Kaga, actualmente integrada en la prefectura de Ishikawa. El diseño del tigre es bastante redondo y lindo y mueve su cabeza para invitar a la buena fortuna.
 PAGE_TEXT_PARAGRAPH_END
 
@@ -2316,12 +2316,12 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n131.jpg"  ""    "Mi5474 Sn3272 Yt5273 Sg4540 N131"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n133.jpg"  ""    "Mi5476 Sn3274 Yt5274 Sg4542 N133"    "")
-STAMP_HEADING(HN 12 "Kubifuri shofuku usagi (Fukushima)\n10-11-2010" -21)
+STAMP_HEADING(HN 12 "Aizu hariko 'Kubifuri shofuku usagi'\n(Fukushima)\n10-11-2010" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n134.jpg"  ""    "Mi5477 Sn3275 Yt5276 Sg4543 N134"    "")
-STAMP_HEADING(HN 12 "Kousagi dorei (Hyogo)\n10-11-2010" 21)
+STAMP_HEADING(HN 12 "Inabata tsuchi ningyo 'Kousagi dorei'\n(Hyogo)\n10-11-2010" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n132.jpg"  ""    "Mi5475 Sn3273 Yt5275 Sg4541 N132"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n132A.jpg"  ""    "MiBL216 Sn3273a N132A"    "")
@@ -2331,7 +2331,7 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n24-01-2011")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Los sellos de 50 yenes muestran el Aizu hariko ‘Kubifuri shofuku usagi’ (conejo de cabeza oscilante que trae la buena fortuna), de la ciudad de Nishi-Aizu, prefectura de Fukushima. El origen de los Aizu hariko data de hace 400 años, cuando Gamo Ujisato, señor de Aizu, invitó a artesanos de Kioto a establecerse en la región para incentivar la economía y dar un oficio a los Samurais de bajo rango. El Aizu hariko más famoso es el Aka-beko, que apareció en el sello de 1961.\n\n
-Los sellos de 80 yenes muestran el Inabata tsuchi ningyo ‘Kousagi dorei’ (gazapo campana) de la ciudad de Tamba, prefectura de Hyogo. Las Inabata ningyo se empezaron a fabricar hacia 1570 en la aldea de Inabata, antigua provincia de Tamba, cuando Akai Wakaro Tadatsune empezó a fabricarlas trans inspirarse por los Fushimi ningyo que vio durante una visita al templo. Actualmente son fabricadas por la artesana de 5ª generación Akai Kimiyo.
+Los sellos de 80 yenes muestran el Inabata tsuchi ningyo ‘Kousagi dorei’ (gazapo campana) de la ciudad de Tamba, prefectura de Hyogo. Las Inabata ningyo se empezaron a fabricar hacia 1570 en la aldea de Inabata, antigua provincia de Tamba, cuando Akai Wakaro Tadatsune empezó a fabricarlas tras inspirarse por los Fushimi ningyo que vio durante una visita al templo. Actualmente son fabricadas por la artesana de 5ª generación Akai Kimiyo.
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2354,9 +2354,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n135.jpg"  ""    "Mi5835 Sn3388 Yt5631 Sg4957 N135"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n137.jpg"  ""    "Mi5837 Sn3390 Yt5633 Sg4959 N137"    "")
-STAMP_HEADING(HN 12 "Toryu (Kanagawa)\n11-11-2011" -21)
+STAMP_HEADING(HN 12 "Sagami dorei 'Toryu' (Kanagawa)\n11-11-2011" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n138.jpg"  ""    "Mi5838 Sn3391 Yt5634 Sg4960 N138"    "")
-STAMP_HEADING(HN 12 "Tatsu (Kochi)\n11-11-2011" 21)
+STAMP_HEADING(HN 12 "Tosa washi ganpi hariko 'Tatsu' (Kochi)\n11-11-2011" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n136.jpg"  ""    "Mi5836 Sn3389 Yt5632 Sg4958 N136"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2392,9 +2392,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n139.jpg"  ""    "Mi6203 Sn3488 Yt5997 Sg5311 N139"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n141.jpg"  ""    "Mi6205 Sn3490 Yt5999 Sg5312a N141"    "")
-STAMP_HEADING(HN 12 "Fukubukuro mi (Nagano)\n12-11-2012" -21)
+STAMP_HEADING(HN 12 "Narai dorei 'Fukubukuro mi' (Nagano)\n12-11-2012" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n142.jpg"  ""    "Mi6206 Sn3491 Yt6000 Sg5312b N142"    "")
-STAMP_HEADING(HN 12 "Eto no mi (Fukuoka)\n12-11-2012" 21)
+STAMP_HEADING(HN 12 "Mojigaseki ningyo 'Eto no mi' (Fukuoka)\n12-11-2012" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n140.jpg"  ""    "Mi6204 Sn3489 Yt5998 Sg5312 N140"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2431,14 +2431,14 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n143.jpg"  ""    "Mi6603 Sn3611 Yt6392 Sg5646 N143"    "")
-STAMP_HEADING(HN 12 "Dorei-Harukoma (Akita)\n01-11-2013")
+STAMP_HEADING(HN 12 "Nakayama ningyo\n'Dorei-Harukoma'\n(Akita)\n01-11-2013")
 STAMP_ADD_IMG (30 55  "imagenes/n145.jpg"  ""    "Mi6605 Sn3613 Yt6394 Sg5648 N145"    "")
-STAMP_HEADING(HN 12 "Inarigoma (Saga)\n01-11-2013")
+STAMP_HEADING(HN 12 "Nogomi ningyo 'Inari-koma'\n(Saga)\n01-11-2013")
 STAMP_ADD_IMG (30 55  "imagenes/n146.jpg"  ""    "Mi6606 Sn3614 Yt6395 Sg5649 N146"    "")
-STAMP_HEADING(HN 12 "Chinchin-Uma (Okinawa)\n01-11-2013" 21)
+STAMP_HEADING(HN 12 "Ryukyu hariko 'Chinchin-Uma'\n(Okinawa)\n01-11-2013" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n144.jpg"  ""    "Mi6604 Sn3612 Yt6393 Sg5647 N144"    "")
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n144A.jpg"  ""    "MiBL239 SgMS5716a N144A"    "")
@@ -2510,9 +2510,9 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n152.jpg"  ""    "Mi7573 Sn3953 Yt7307 Sg6459 N152"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n154.jpg"  ""    "Mi7575 Sn3955 Yt7309 Sg6461 N154"    "")
-STAMP_HEADING(HN 12 "Saru (Shiga)\n29-10-2015" -21)
+STAMP_HEADING(HN 12 "Otsue Junishi dorei 'Saru' (Shiga)\n29-10-2015" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n155.jpg"  ""    "Mi7576 Sn3956 Yt7310 Sg6462 N155"    "")
-STAMP_HEADING(HN 12 "Kodaki-Saru (Kochi)\n29-10-2015" 21)
+STAMP_HEADING(HN 12 "Tosa Washi Shikkui hariko 'Kodaki-Saru' (Kochi)\n29-10-2015" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n153.jpg"  ""    "Mi7574 Sn3954 Yt7308 Sg6460 N153"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2524,8 +2524,8 @@ STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n18-01-2016")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
-Los sellos de 52 yenes muestran el Otsue Junishi Dorei ‘Saru’ (Mono) de la ciudad de Otsu, prefectura de Shiga. Estos Otsue Junishi Dorei han sido creados por el artesano Susumu Takada y los diseños se basan en pinturas Otsu-e de los junishi, los 12 signos del zodíaco. El Otsu-e (imágenes de Otsu) es una artesanía tradicional que se inició hacia el siglo XVII en las rutas comerciales en torno a la ciudad portuaria de Otsu. Se considera precursora de las famosas pinturas ukiyo-e, pero desapareció durante el siglo XIX con la aparición del ferrocarril y el decaimiento de las rutas comerciales.\n\n
-Los sellos de 82 yenes muestran el Tosa Washi Shikkui Hariko ‘Kodaki-Saru’ (mono con bebe tímido) de la ciudad de Kochi, prefectura homónima. Igual que otros harikos de la zona, se fabrican con el famoso papel de Tosa, en este caso con Tosa Washi Shikkui, que es un papel recubierto de Shikkui, un yeso japonés fabricado con cal hidratada y cáscara de huevo y normalmente usado en los acabados de las paredes. 
+Los sellos de 52 yenes muestran el Otsue Junishi dorei ‘Saru’ (Mono) de la ciudad de Otsu, prefectura de Shiga. Estos Otsue Junishi dorei han sido creados por el artesano Susumu Takada y los diseños se basan en pinturas Otsu-e de los junishi, los 12 signos del zodíaco. El Otsu-e (imágenes de Otsu) es una artesanía tradicional que se inició hacia el siglo XVII en las rutas comerciales en torno a la ciudad portuaria de Otsu. Se considera precursora de las famosas pinturas ukiyo-e, pero desapareció durante el siglo XIX con la aparición del ferrocarril y el decaimiento de las rutas comerciales.\n\n
+Los sellos de 82 yenes muestran el Tosa Washi Shikkui gariko ‘Kodaki-Saru’ (mono con bebe tímido) de la ciudad de Kochi, prefectura homónima. Igual que otros harikos de la zona, se fabrican con el famoso papel de Tosa, en este caso con Tosa Washi Shikkui, que es un papel recubierto de 'Shikkui', un yeso japonés fabricado con cal hidratada y cáscara de huevo y normalmente usado en los acabados de las paredes. 
 PAGE_TEXT_PARAGRAPH_END
 
 # ------------------------------------------------------------------------------
@@ -2588,7 +2588,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n161.jpg"  ""    "Mi8832 Yt8466 N161"    "")
 STAMP_ADD_IMG (30 55  "imagenes/n163.jpg"  ""    "Mi8834 Yt8468 N163"    "")
 STAMP_HEADING(HN 12 "Zaru kaburi inu (Tokio)\n01-11-2017" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n164.jpg"  ""    "Mi8835 Yt8469 N164"    "")
-STAMP_HEADING(HN 12 "Kodai inu (Toyama)\n01-11-2017" 21)
+STAMP_HEADING(HN 12 "Toyama tsuchi ningyo 'Kodai inu' (Toyama)\n01-11-2017" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n162.jpg"  ""    "Mi8833 Yt8467 N162"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2623,25 +2623,25 @@ PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (26 30  "imagenes/n166.jpg"  ""    "Mi9450 Yt9077 N166"    "")
-STAMP_HEADING(HN 12 "Rai ran sho i\n(Fukushima)\n01-11-2018")
+STAMP_HEADING(HN 11 "Yukawa ningyo\n'Rai ran sho i'\n(Fukushima)\n01-11-2018")
 STAMP_ADD_IMG (30 55  "imagenes/n168.jpg"  ""    "Mi9452 Yt9079 N168"    "")
-STAMP_HEADING(HN 12 "Fukura suzume-nori mame maneki i\n(Fukushima)\n01-11-2018")
+STAMP_HEADING(HN 11 "Yukawa ningyo\n'Fukura suzume-nori mame maneki i'\n(Fukushima)\n01-11-2018")
 #STAMP_HEADING(HN 11 "'Rai ran sho i' y 'Fukura suzume-nori mame maneki i'\n(Aizuwakamasu)\n01-11-2018" -21)
 STAMP_ADD_IMG (30 55  "imagenes/n169.jpg"  ""    "Mi9453 Yt9080 N169"    "")
-STAMP_HEADING(HN 12 "Yabase ningyo eto i\n(Akita)\n01-11-2018" 21)
+STAMP_HEADING(HN 11 "\nYabase ningyo eto i\n(Akita)\n01-11-2018" 21)
 STAMP_ADD_IMG (26 30  "imagenes/n167.jpg"  ""    "Mi9451 Yt9078 N167"    "")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (98 76  "imagenes/n170.jpg"  ""    "MiBL274 YtBF210 N170"    "")
-STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Maneki-neko\n21-01-2019") 
+STAMP_HEADING(HN 11 "HB premio loteria de Año Nuevo - Maneki-neko\n21-01-2019") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
-El sellos de 62 yenes muestra dos Yukawa ningyo, ‘Rai ran sho i' (jabalí del zodiaco dando la bienvenida) y ‘Fukura suzume-nori mame maneki i’ (jabalí del zodiaco haciendo señas montado en gorrión de la suerte) de la ciudad de Aizuwakamasu, prefectura de Fukushima. Los Yukawa ningyo son populares por sus temas humorísticos y vivos colores y ya aparecieron anteriormente en el año 2003 celebrando el año de la cabra.\n
-Los sellos de 82 yenes muestran unos Yabase ningyo ‘eto i’ (jabalí zodiacal) de la ciudad de Akita, prefectura homónima. Estos ningyo se fabrican desde finales del siglo XVIII, influenciados por los Fushimi ningyo traídos por los barcos de la ruta comercial marítima Kitamaebune que unía Osaka con Hokkaido. De las tres familias de artesanos (Takamatsu, Endoo y Michicawa) solamente Michikawa Tomo continúa la tradición.\n
+El sellos de 62 yenes muestra dos Yukawa ningyo, ‘Rai ran sho i' (jabalí del zodiaco dando la bienvenida) y ‘Fukura suzume-nori mame maneki i’ (jabalí del zodiaco haciendo señas sobre gorrión de la suerte) de la ciudad de Aizuwakamasu (Fukushima). Los Yukawa ningyo son populares por sus temas humorísticos y vivos colores y ya aparecieron anteriormente en el año 2003 para el año de la cabra.\n
+Los sellos de 82 yenes muestran unos Yabase ningyo ‘eto i’ (jabalí zodiacal) de la ciudad de Akita, prefectura homónima. Estos ningyo se fabrican desde finales del siglo XVIII, influenciados por los Fushimi ningyo traídos por los barcos de la ruta comercial marítima Kitamaebune entre Osaka y Hokkaido. De las tres familias de artesanos (Takamatsu, Endoo y Michikawa) solamente Michikawa Tomo continúa la tradición.\n
 La hoja bloque muestra dos ‘maneki neko’ (gato que invita a entrar), popularmente conocidos también como gato de la suerte. Estas famosas figuras muestran un gato de raza bobtail japonesa haciendo el gesto de llamada con la mano, mientras en la otra sostienen una moneda antigua japonesa llamada ‘koban’. Se suelen poner a la entrada de las tiendas y cuando tienen la mano derecha levantada se dice que atraen la prosperidad y el dinero, mientras que si levantan la izquierda atrae a las visitas.
 PAGE_TEXT_PARAGRAPH_END
 
