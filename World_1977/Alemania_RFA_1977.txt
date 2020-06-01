@@ -1,0 +1,142 @@
+################################################################################
+# AlbumEasy file: Alemania_RFA_1977.txt
+# Generated:      19:53, lu. may. 25, 2020
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Alemania (RFA) 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+#ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+
+ROW_ALIGN_MIDDLE
+
+PAGE_START
+
+# First page heading
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 25 "Alemania (RFA)\n1977" -16)   # draw thetitle text with a negative amount of blank space after it
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (30.0 18.0  "imagenes/Alemania_RFA/bandera.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_BLANK (70 15.0) 
+STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (14.0 18.0  "imagenes/Alemania_RFA/escudo.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+#STAMP_ADD_IMG (30 18.0  "imagenes/Alemania_RFA/escudo.png"  ""    ""    ""  NO_FRAME)
+#ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica - Castillos y fortalezas")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913AIu.jpg"  ""    "Mi913AIu Sn1231 Yt762 Sg1805"    "")
+STAMP_HEADING (TN 10 "Palacio de Glücksburg\nSchleswig-Holstein, s. XVI\n14-04-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914AIu.jpg"  ""    "Mi914AIu Sn1234 Yt763 Sg180"    "")
+STAMP_HEADING (TN 10 "Castillo de Ludwigstein\nHesse, s. XV\n14-04-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/915AI.jpg"  ""    "Mi915AI Sn1235 Yt764 Sg1807"    "")
+STAMP_HEADING (TN 10 "Castillo de Eltz\nRenania-Palatinado, s. XII\n14-04-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916AI.jpg"  ""    "Mi916AI Sn1236 Yt764A Sg1808"    "")
+STAMP_HEADING (TN 10 "Castillo de Neuschwanstein\nBaviera, s. XIX\n17-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/917AI.jpg"  ""    "Mi917AI Sn1237 Yt765 Sg1809"    "")
+STAMP_HEADING (TN 10 "Castillo Marksburg\nRenania-Palatinado, s. XIII\n13-01-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/918AI.jpg"  ""    "Mi918AI Sn1238 Yt765A Sg1810"    "")
+STAMP_HEADING (TN 10 "Castillo Mespelbrunn\nBaviera, s. XV\n17-05-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/919AI.jpg"  ""    "Mi919AI Sn1240 Yt766 Sg1811"    "")
+STAMP_HEADING (TN 10 "Castillo de Pfaueninsel\nBerlín, s. XVIII\n16-02-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/920AI.jpg"  ""    "Mi920AI Sn1240A Yt767 Sg1812"    "")
+STAMP_HEADING (TN 10 "Castillo de Bürresheim\nRenania-Palatinado, s. XII\n13-01-1977")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Sellos provenientes de carnet")
+ROW_START_FS (HN 6 0.1 20.0)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913CIu.jpg"  ""    "Mi913CIu Sg1805a"    "")
+STAMP_HEADING (TN 10 "Palacio de Glücksburg\n01-06-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914CIu.jpg"  ""    "Mi914CIu Sg1806a T"    "")
+STAMP_HEADING (TN 10 "Castillo de Ludwigstein\n01-06-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916CI.jpg"  ""    "Mi916CI Sg1808a T"    "")
+STAMP_HEADING (TN 10 "castillo de Neuschwanstein\n01-06-1977")
+
+ROW_START_FS (HN 6 0.1 20.0)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913DIu.jpg"  ""    "Mi913DIu Yt762b"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914DIu.jpg"  ""    "Mi914DIu Yt763b Sg1806a B"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916DI.jpg"  ""    "Mi916DI Yt764Ab Sg1808a B"    "")
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_COLUMN_START
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/921.jpg"  ""    "Mi921 Sn1229 Yt768 Sg1813"    "")
+STAMP_HEADING (TN 14 "Inauguración del Palais de l'Europe\n(Estrasburgo)\n13-01-1977")
+PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+El Palais de l'Europe fué inaugurado en 1977 para sustituir al antiguo Maison de l'Europe como sede del Consejo de Europa, función que ha venido desempeñando desde entonces. Entre 1977 y 1999 sirvió también como sede del Parlamento Europeo.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_COLUMN_NEXT
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/926.jpg"  ""    "Mi926 Sn1244 Yt773 Sg1816"    "")
+STAMP_HEADING (TN 14 "Jean Monnet\nCiudadano de honor de Europa\n16-02-1977")
+PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+Jean Monnet (1888-1979) Fue un político francés, considerado unos de los padres fundadores de Europa. Junto con Robert Schuman, fue el máximo impulsor y primer presidente de la CECA (Comunidad Europea del Carbón y el Acero), considerada semilla de la CEE y la UE después. El sello conmemora la concesión del primer título de Ciudadano de honor de Europa, concedido por el Consejo Europeo a Monnet en abril de 1976.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_COLUMN_STOP
+
+PAGE_COLUMN_START
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/922.jpg"  ""    "Mi922 Sn1230 Yt769 Sg1814"    "")
+STAMP_HEADING (TN 14 "Till Eulenspiegel (~1350)\n13-01-1977")
+PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+Till Eulenspiegel es un personaje del folklore del norte de Alemania y los Países Bajos. Según la tradición habría nacido en Kneitlinger (ducado de Brunswick) en torno al 1300, y habría muerto en 1350 en Mölln. Gran viajero y tunante, es un personaje amante de la diversión, irreverente y siempre dispuesto a hacer burla de los demás.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_COLUMN_NEXT
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/927.jpg"  ""    "Mi927 Sn1245 Yt774 Sg1817"    "")
+STAMP_HEADING (TN 14 "XXV Bundesgartenschau\n14-04-1977")
+PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+La Bundesgartenschau (Feria federal del jardín, abreviado BUGA) es la mayor exhibición hortícola, de jardinería y paisajismo de Alemania, celebrada de forma bienal. No tiene sede fija, sino que su localización cambia cada vez. El sello celebra la vigesimo quinta exibición, celebrada en Stuttgart en 1977.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_COLUMN_STOP
+
+PAGE_COLUMN_START
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/928.jpg"  ""    "Mi928 Sn1246 Yt775 Sg1818"    "")
+STAMP_HEADING (TN 14 "Bicentenario Carl Friederich Gauss\n14-04-1977")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_PARAGRAPH_START(TN 10 JUSTIFIED 5)
+Johann Carl Friedrich Gauss (Brunswick, 30 de abril de 1777 - Gotinga, 23 de febrero de 1855) fue un matemático, astrónomo, y físico alemán que contribuyó significativamente en muchos ámbitos, incluida la teoría de números, el análisis matemático, la geometría diferencial, la estadística, el álgebra, la geodesia, el magnetismo y la óptica. Considerado ya en vida como Princeps Mathematicorum,​ Gauss ha tenido una influencia notable en muchos campos de la matemática y de la ciencia. Fue de los primeros en extender el concepto de divisibilidad a otros conjuntos además de los números enteros.\n\nEl sello muestra el Plano Complejo o Plano de Gauss, usado para visualizar los números complejos.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_COLUMN_STOP
+
+
+#STAMP_ADD_IMG (47.0 60.0  "imagenes/Alemania_RFA/gauss.jpg"  ""    ""    ""  NO_FRAME)
