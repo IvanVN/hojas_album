@@ -27,6 +27,10 @@ ALBUM_PAGES_TITLE    (TB 16 "Japón - Felicitaciones de año nuevo") #add a titl
 ROW_ALIGN_MIDDLE
 #STAMP_HEADING_PADDING (-1.0)
 
+STAMP_BOXES_SIZE_ADJUST(4.0)
+#STAMP_INNER_BORDER (2.0 0.0)
+#ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
 # ------------------------------------------------------------------------------
 # 1936 Monte Fuji - 1937 Meoto Iwa, Futami
 # ------------------------------------------------------------------------------
@@ -42,12 +46,12 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n1.jpg"  "" "Mi217 Sn222 Yt226 Sg280 N1" "")
+STAMP_ADD_IMG (21.5 25.5  "imagenes/n1.jpg"  "" "Mi217 Sn222 Yt226 Sg280 N1" "")
 STAMP_HEADING(HN 12 "Fuji-san\n 01-12-1935")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Fuji-san (el monte Fuji), con 3776 metros de altitud, es el pico más alto de la isla de Honshu y de todo Japón. Se encuentra entre las prefecturas de Shizuoka y Yamanashi en el Japón central y justo al oeste de Tokio, desde donde se puede observar en un día despejado. El Fuji es un volcán compuesto y es el símbolo de Japón.\n\n
@@ -63,16 +67,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n2.jpg"  ""    "Mi229 Sn234 Yt238 Sg292 N2"    "")
+STAMP_ADD_IMG (21.5 25.5  "imagenes/n2.jpg"  ""    "Mi229 Sn234 Yt238 Sg292 N2"    "")
 STAMP_HEADING(HN 12 "Meoto Iwa (Mie)\n 10-12-1936")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 Meoto Iwa (las rocas casadas) son un par de farallones rocosos en el mar frente a Futami, en la prefectura de Mie. Están unidas por un shimenawa y son consideradas sagradas por los fieles del cercano 'jinja' (templo) Futami Okitama. En la creencia Shinto, las rocas representan la unión del creador de 'kami' Izanagi con Izanami. Las rocas por lo tanto, celebran la unión en matrimonio del hombre y la mujer. La cuerda, que pesa más de una tonelada, debe ser sustituida varias veces al año en una ceremonia especial. La roca más grande, que se dice que es masculina, tiene un pequeño torii en su pico.
 PAGE_TEXT_PARAGRAPH_END
+
+
 
 # ------------------------------------------------------------------------------
 # 1938 Shimenawa - 1949 Hanetsuki 
@@ -89,12 +95,13 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (25.5 29.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3"    "")
+STAMP_ADD_IMG (21.5 25.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3"    "")
 STAMP_HEADING(HN 12 "Shimenawa\n15-12-1937")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
@@ -110,12 +117,12 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 40  "imagenes/n4.jpg"  "" "Mi430 Sn424 Yt404 Sg516 N4" "")
+STAMP_ADD_IMG (26 36  "imagenes/n4.jpg"  "" "Mi430 Sn424 Yt404 Sg516 N4" "")
 STAMP_HEADING(HN 12 "Niña jungado a hanetsuki\n13-12-1948")
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
 El 'hanetsuki' es un juego tradicional japonés similar a badminton sin red. Se juega con una paleta rectangular de madera llamada 'hagoita' y un volante de colores brillantes. Tradicionalmente es jugado por la niñas en Año Nuevo.
@@ -135,16 +142,16 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n5.jpg"  "" "Mi499 Sn498 Yt442 Sg580 N5" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n5.jpg"  "" "Mi499 Sn498 Yt442 Sg580 N5" "")
 STAMP_HEADING(HN 12 "'Tigre' por Maruyama Okyo (1733-1795)\n01-02-1950")
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (94.5 131.3  "imagenes/n5a.jpg"  "" "MiBL32 YtBF26A SgLMS1 N5A" "") # Medidas aproximadas
+STAMP_ADD_IMG (91 127  "imagenes/n5a.jpg"  "" "MiBL32 YtBF26A SgLMS1 N5A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n01-02-1950")
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
@@ -165,18 +172,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n6.jpg"  "" "Mi513 Sn522 Yt459 Sg604 N6" "")
+STAMP_ADD_IMG (29 30.5  "imagenes/n6.jpg"  "" "Mi513 Sn522 Yt459 Sg604 N6" "")
 STAMP_HEADING(HN 12 "Niña y conejo\n01-01-1951")
 
 PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (108 94  "imagenes/n6a.jpg"  "" "MiBL35 YtBF28A SgLMS2 N6A" "") # Medidas aproximadas
+STAMP_ADD_IMG (104 90  "imagenes/n6a.jpg"  "" "MiBL35 YtBF28A SgLMS2 N6A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n01-01-1951")
 
 
@@ -193,18 +200,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n7.jpg"  "" "Mi565 Sn551 Yt500 Sg647 N7" "")
+STAMP_ADD_IMG (36 30  "imagenes/n7.jpg"  "" "Mi565 Sn551 Yt500 Sg647 N7" "")
 STAMP_HEADING(HN 12 "Máscara Okina, teatro Noh\n16-01-1952")
 
 #PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (107 96  "imagenes/n7a.jpg"  "" "MiBL41 Sn551a YtBF33a SgLMS3 N7A" "")
+STAMP_ADD_IMG (103 92  "imagenes/n7a.jpg"  "" "MiBL41 Sn551a YtBF33a SgLMS3 N7A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1952")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
@@ -226,18 +233,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n8.jpg"  "" "Mi611 Sn576 Yt531 Sg699 N8" "")
+STAMP_ADD_IMG (26 30  "imagenes/n8.jpg"  "" "Mi611 Sn576 Yt531 Sg699 N8" "")
 STAMP_HEADING(HN 12 "Bailarín Sanbaso\n01-01-1953")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (108 94  "imagenes/n8a.jpg"  "" "MiBL45 YtBF36a SgLMS4 N8A" "")
+STAMP_ADD_IMG (104 90  "imagenes/n8a.jpg"  "" "MiBL45 YtBF36a SgLMS4 N8A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n01-01-1953")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -259,18 +266,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n9.jpg"  "" "Mi628 Sn594 Yt549 Sg722 N9" "")
+STAMP_ADD_IMG (26 30  "imagenes/n9.jpg"  "" "Mi628 Sn594 Yt549 Sg722 N9" "")
 STAMP_HEADING(HN 12 "Miharu-koma (Fukushima)\n25-12-1953")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (108 94  "imagenes/n9a.jpg"  "" "MiBL49 YtBF39a SgLMS5 N9A" "") # Medidas aproximadas
+STAMP_ADD_IMG (104 90  "imagenes/n9a.jpg"  "" "MiBL49 YtBF39a SgLMS5 N9A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n25-12-1953")
 
 PAGE_TEXT_PARAGRAPH_START(HN 10 JUSTIFIED 15)
@@ -291,18 +298,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n10.jpg"  "" "Mi638 Sn606 Yt561 Sg735 N10" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n10.jpg"  "" "Mi638 Sn606 Yt561 Sg735 N10" "")
 STAMP_HEADING(HN 12 "Kaga Hachiman Okiagari (Ishikawa)\n20-12-1954")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (108 94  "imagenes/n10a.jpg"  "" "MiBL52 Sn606A YtBF40a SgLMS6 N10A" "") # Medidas aproximadas
+STAMP_ADD_IMG (104 90  "imagenes/n10a.jpg"  "" "MiBL52 Sn606A YtBF40a SgLMS6 N10A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1954")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -324,18 +331,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n11.jpg"  "" "Mi649 Sn617 Yt572 Sg747 N11" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n11.jpg"  "" "Mi649 Sn617 Yt572 Sg747 N11" "")
 STAMP_HEADING(HN 12 "Kokeshi (Miyagi) y Ejiko (Fukushima)\n30-12-1955")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n11a.jpg"  "" "MiBL55 Sn617A YtBF42a SgLMS7 N11A" "") # Medidas aproximadas
+STAMP_ADD_IMG (104 90  "imagenes/n11a.jpg"  "" "MiBL55 Sn617A YtBF42a SgLMS7 N11A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n 30-12-1955")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -357,18 +364,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n12.jpg"  "" "Mi666 Sn634 Yt589 Sg763 N12" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n12.jpg"  "" "Mi666 Sn634 Yt589 Sg763 N12" "")
 STAMP_HEADING(HN 12 "Kujira no danjiri (Nagasaki)\n20-12-1956")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n12a.jpg"  "" "MiBL57 Sn634B YtBF44 SgLMS8 N12A" "") # Medidas aproximadas
+STAMP_ADD_IMG (104 90  "imagenes/n12a.jpg"  "" "MiBL57 Sn634B YtBF44 SgLMS8 N12A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1956")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -392,18 +399,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n13.jpg"  "" "Mi676 Sn644 Yt599 Sg773 N13" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n13.jpg"  "" "Mi676 Sn644 Yt599 Sg773 N13" "")
 STAMP_HEADING(HN 12 "Inu-hariko (Saitama)\n20-12-1957")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n13a.jpg"  "" "MiBL58 YtBF45 SgLMS9 N13A" "") # Medidas aproximadas
+STAMP_ADD_IMG (102 89  "imagenes/n13a.jpg"  "" "MiBL58 YtBF45 SgLMS9 N13A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1957")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -426,18 +433,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n14.jpg"  "" "Mi694 Sn662 Yt617 Sg792 N14" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n14.jpg"  "" "Mi694 Sn662 Yt617 Sg792 N14" "")
 STAMP_HEADING(HN 12 "Takamatsu hariko 'Tai daki Ebisu' (Kagawa)\n20-12-1958")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n14a.jpg"  "" "MiBL59 YtBF46 SgLMS10 N14A" "")
+STAMP_ADD_IMG (102 90  "imagenes/n14a.jpg"  "" "MiBL59 YtBF46 SgLMS10 N14A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1958")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -460,18 +467,18 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n15.jpg"  "" "Mi717 Sn685 Yt640 Sg816 N15" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n15.jpg"  "" "Mi717 Sn685 Yt640 Sg816 N15" "")
 STAMP_HEADING(HN 12 "Kome kui nezumi (Ishikawa)\n19-12-1959")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n15a.jpg"  "" "MiBL61 YtBF48 SgLMS11 N15A" "")
+STAMP_ADD_IMG (102 90  "imagenes/n15a.jpg"  "" "MiBL61 YtBF48 SgLMS11 N15A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n19-12-1959")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -493,7 +500,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -527,7 +534,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -561,7 +568,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -594,7 +601,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -629,7 +636,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -662,7 +669,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -696,7 +703,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -729,7 +736,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -763,7 +770,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -796,7 +803,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -830,7 +837,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -864,7 +871,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -900,7 +907,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -933,7 +940,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -966,7 +973,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -999,7 +1006,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1032,7 +1039,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1066,7 +1073,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1099,7 +1106,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1134,7 +1141,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1167,7 +1174,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1202,7 +1209,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1237,7 +1244,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1273,7 +1280,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1309,7 +1316,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1345,7 +1352,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1379,7 +1386,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1416,7 +1423,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1451,7 +1458,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1486,7 +1493,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1524,7 +1531,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1564,7 +1571,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1602,7 +1609,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1640,7 +1647,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1678,7 +1685,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1716,7 +1723,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1754,7 +1761,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1793,7 +1800,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1833,7 +1840,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1871,7 +1878,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1909,7 +1916,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1947,7 +1954,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -1986,7 +1993,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2028,7 +2035,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2067,7 +2074,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2105,7 +2112,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2144,7 +2151,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2186,7 +2193,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2228,7 +2235,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2271,7 +2278,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2309,7 +2316,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2347,7 +2354,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2385,7 +2392,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2425,7 +2432,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2465,7 +2472,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2503,7 +2510,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2541,7 +2548,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2579,7 +2586,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2617,7 +2624,7 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
@@ -2658,5 +2665,5 @@ ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space be
 ROW_START_FS (HN 6 0.1 100.0)                     #row of stamps spaced 110mm apart to display the coat of arms
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME)
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
-ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
