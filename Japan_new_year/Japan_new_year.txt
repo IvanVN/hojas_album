@@ -48,7 +48,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (21.5 25.5  "imagenes/n1.jpg"  "" "Mi217 Sn222 Yt226 Sg280 N1" "")
@@ -69,7 +69,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (21.5 25.5  "imagenes/n2.jpg"  ""    "Mi229 Sn234 Yt238 Sg292 N2"    "")
@@ -98,7 +98,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (21.5 25.5  "imagenes/n3.jpg"  ""    "Mi236 Sn256 Yt261 Sg339 N3"    "")
@@ -119,7 +119,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 36  "imagenes/n4.jpg"  "" "Mi430 Sn424 Yt404 Sg516 N4" "")
@@ -146,6 +146,7 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
+STAMP_HEADING_PADDING (-2.0) 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n5.jpg"  "" "Mi499 Sn498 Yt442 Sg580 N5" "")
 STAMP_HEADING(HN 12 "'Tigre' por Maruyama Okyo (1733-1795)\n01-02-1950")
@@ -153,9 +154,10 @@ STAMP_HEADING(HN 12 "'Tigre' por Maruyama Okyo (1733-1795)\n01-02-1950")
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (91 127  "imagenes/n5a.jpg"  "" "MiBL32 YtBF26A SgLMS1 N5A" "") # Medidas aproximadas
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n01-02-1950")
+STAMP_HEADING_PADDING (0.0)
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
-Maruyama Okyo (1733-1795) fue el pintor más influyente del siglo XVII en Kioto y uno de los principales del periodo Edo. Okyo combinó influencias creando un estilo personal que mezclaba naturalismo occidental con diseños decorativos orientales. Aunque otros artistas contemporáneos criticaron sus obras como esclavizadas por el deseo de representar la naturaleza, estas fueron muy populares y llegó a pintar para el emperador y el shogun. Como creador de la escuela Maruyama, influyó a otros pintores famosos como Matsumura Goshun o Nagasawa Rosetsu.
+Maruyama Okyo (1733-1795) fue el pintor más influyente del siglo XVII en Kioto y uno de los principales del periodo Edo. Okyo combinó influencias en un estilo personal que mezclaba naturalismo occidental con diseños decorativos orientales. Criticado por artistas contemporáneos por considerar sus obras esclavizadas por el deseo de representar la naturaleza, estas fueron muy populares y llegó a pintar para el emperador y el shogun. Como creador de la escuela Maruyama, influyó a otros pintores famosos como Matsumura Goshun o Nagasawa Rosetsu.
 PAGE_TEXT_PARAGRAPH_END  
 
 
@@ -174,7 +176,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (29 30.5  "imagenes/n6.jpg"  "" "Mi513 Sn522 Yt459 Sg604 N6" "")
@@ -202,7 +204,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (36 30  "imagenes/n7.jpg"  "" "Mi565 Sn551 Yt500 Sg647 N7" "")
@@ -235,7 +237,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n8.jpg"  "" "Mi611 Sn576 Yt531 Sg699 N8" "")
@@ -268,7 +270,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30  "imagenes/n9.jpg"  "" "Mi628 Sn594 Yt549 Sg722 N9" "")
@@ -300,7 +302,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n10.jpg"  "" "Mi638 Sn606 Yt561 Sg735 N10" "")
@@ -333,7 +335,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n11.jpg"  "" "Mi649 Sn617 Yt572 Sg747 N11" "")
@@ -366,7 +368,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n12.jpg"  "" "Mi666 Sn634 Yt589 Sg763 N12" "")
@@ -401,7 +403,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n13.jpg"  "" "Mi676 Sn644 Yt599 Sg773 N13" "")
@@ -435,7 +437,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n14.jpg"  "" "Mi694 Sn662 Yt617 Sg792 N14" "")
@@ -469,7 +471,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n15.jpg"  "" "Mi717 Sn685 Yt640 Sg816 N15" "")
@@ -502,7 +504,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n16.jpg"  "" "Mi740 Sn709 Yt661 Sg841 N16" "")
@@ -536,7 +538,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n17.jpg"  "" "Mi781 Sn740 Yt693 Sg883 N17" "")
@@ -570,7 +572,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n18.jpg"  "" "Mi812 Sn773 Yt728 Sg914 N18" "")
@@ -603,7 +605,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n19.jpg"  "" "Mi851 Sn805 Yt765 Sg954 N19" "")
@@ -638,7 +640,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n20.jpg"  "" "Mi877 Sn829 Yt791 Sg990 N20" "")
@@ -671,7 +673,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n21.jpg"  "" "Mi906 Sn858 Yt820 Sg1018 N21" "")
@@ -705,7 +707,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n22.jpg"  "" "Mi959 Sn903 Yt861 Sg1084 N22" "")
@@ -738,7 +740,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n23.jpg"  "" "Mi982 Sn940 Yt889 Sg1108 N23" "")
@@ -772,7 +774,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n24.jpg"  "" "Mi1024 Sn978 Yt929 Sg1147 N24" "")
@@ -805,7 +807,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n25.jpg"  "" "Mi1068 Sn1021 Yt970 Sg1190 N25" "")
@@ -839,7 +841,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 30.5  "imagenes/n26.jpg"  "" "Mi1097 Sn1050 Yt999 Sg1222 N26" "")
@@ -873,7 +875,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 20.0)
 STAMP_ADD_IMG (22 26  "imagenes/n27.jpg"  "" "Mi1133 Sn1101 Yt1041 Sg1277 N27" "")
@@ -909,7 +911,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n29.jpg"  "" "Mi1169 Sn1132 Yt1071 Sg1310 N29" "")
@@ -942,7 +944,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n30.jpg"  "" "Mi1196 Sn1155 Yt1098 Sg1337 N30" "")
@@ -975,7 +977,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 22  "imagenes/n31.jpg"  "" "Mi1236 Sn1198 Yt1140 Sg1375 N31" "")
@@ -1008,7 +1010,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n32.jpg"  "" "Mi1274 Sn1237 Yt1176 Sg1417 N32" "")
@@ -1041,7 +1043,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n33.jpg"  "" "Mi1305 Sn1271 Yt1207 Sg1443 N33" "")
@@ -1075,7 +1077,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n34.jpg"  "" "Mi1342 Sn1316 Yt1244 Sg1482 N34" "")
@@ -1108,7 +1110,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n35.jpg"  "" "Mi1375 Sn1351 Sg1516 N35" "")
@@ -1143,7 +1145,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n36.jpg"  "" "Mi1413 Sn1387 Yt1315 Sg1554 N36" "")
@@ -1176,7 +1178,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n37.jpg"  "" "Mi1452 Sn1442 Yt1352 Sg1614 N37" "")
@@ -1211,7 +1213,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
@@ -1246,7 +1248,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n39.jpg"  ""    "Mi1537 Sn1515 Yt1438 Sg1691 N39"    "")
@@ -1282,7 +1284,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n40.jpg"  ""    "Mi1573 Sn1557 Yt1474 Sg1726 N40"    "")
@@ -1318,7 +1320,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (26 22  "imagenes/n41.jpg"  ""    "Mi1613 Sn1621 Yt1514 Sg1766 N41"    "")
@@ -1354,7 +1356,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n42.jpg"  ""    "Mi1671 Sn1666 Yt1569 Sg1824 N42"    "")
@@ -1388,7 +1390,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n43.jpg"  ""    "Mi1711 Sn1708 Yt1609 Sg1867 N43"    "")
@@ -1425,7 +1427,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n44.jpg"  ""    "Mi1764, Sn1765 Yt1660 Sg1923 N44"    "")
@@ -1460,7 +1462,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
 STAMP_ADD_IMG (22 26  "imagenes/n45.jpg"  ""    "Mi1819 Sn1812 Yt1716 Sg1978 N45"    "")
@@ -1495,7 +1497,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 20.0)
 STAMP_ADD_IMG (22 26  "imagenes/n46.jpg"  ""    "Mi1895 Sn2000 Yt1785 Sg2029 N46"    "")
@@ -1533,7 +1535,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 25.0)
 STAMP_ADD_IMG (22 26  "imagenes/n48.jpg"  ""    "Mi2012 Sn2074 Yt1896 Sg2127 N48"    "")
@@ -1573,7 +1575,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n51.jpg"  ""    "Mi2083 Sn2127 Yt1967 Sg2175 N51"    "")
@@ -1611,7 +1613,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n55.jpg"  ""    "Mi2131 Sn2150 Yt2015 Sg2211 N55"    "")
@@ -1649,7 +1651,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n59.jpg"  ""    "Mi2191 Sn2221 Yt2072 Sg2280 N59"    "")
@@ -1687,7 +1689,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n63.jpg"  ""    "Mi2273 Sn2443 Yt2152 Sg2335 N63"    "")
@@ -1725,7 +1727,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n67.jpg"  ""    "Mi2356x Sn2506 Yt2238 Sg2396 N67"    "")
@@ -1763,7 +1765,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n71.jpg"  ""    "Mi2428x Sn2550 Yt2306 Sg2445 N71"    "")
@@ -1802,7 +1804,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n75.jpg"  ""    "Mi2500 Sn2591 Yt2383 Sg2487 N75"    "")
@@ -1842,7 +1844,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n79.jpg"  ""    "Mi2603x Yt2485 Sg2554 N79"    "")
@@ -1880,7 +1882,7 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
 STAMP_ADD_IMG (22 26  "imagenes/n83.jpg"  ""    "Mi2830x Sn2722 Yt2707 Sg2673 N83"    "")
@@ -1918,20 +1920,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n87.jpg"  ""    "Mi3071x Sn2750 Yt2942 Sg2845 N87"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n89.jpg"  ""    "Mi3073 Sn2752 Yt2944 Sg2847 N89"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n87.jpg"  ""    "Mi3071x Sn2750 Yt2942 Sg2845 N87"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n89.jpg"  ""    "Mi3073 Sn2752 Yt2944 Sg2847 N89"    "")
 STAMP_HEADING(HN 12 "Jindaiji dorei Uzumaki mi (Tokio)\n15-11-2000" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n90.jpg"  ""    "Mi3074 Sn2753 Yt2945 Sg2848 N90"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n90.jpg"  ""    "Mi3074 Sn2753 Yt2945 Sg2848 N90"    "")
 STAMP_HEADING(HN 12 "Sasanobori mi (Yamagata)\n15-11-2000" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n88.jpg"  ""    "Mi3072x Sn2751 Yt2943 Sg2846 N88"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n88.jpg"  ""    "Mi3072x Sn2751 Yt2943 Sg2846 N88"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n88A.jpg"  ""    "MiBL186 SgLMS58 N88A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n88A.jpg"  ""    "MiBL186 SgLMS58 N88A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-01-2001") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1956,20 +1958,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n91.jpg"  ""    "Mi3287 Sn2801 Yt3159 Sg2980 N91"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n93.jpg"  ""    "Mi3289 Sn2803 Yt3161 Sg2982 N93"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n91.jpg"  ""    "Mi3287 Sn2801 Yt3159 Sg2980 N91"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n93.jpg"  ""    "Mi3289 Sn2803 Yt3161 Sg2982 N93"    "")
 STAMP_HEADING(HN 12 "Joetsu Hiramaru 'Ine-ba' (Niigata)\n15-11-2001" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n94.jpg"  ""    "Mi3290 Sn2804 Yt3162 Sg2983 N94"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n94.jpg"  ""    "Mi3290 Sn2804 Yt3162 Sg2983 N94"    "")
 STAMP_HEADING(HN 12 "Kira no Akauma to hakuba (Aichi)\n15-11-2001" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n92.jpg"  ""    "Mi3288 Sn2802 Yt3160 Sg2981 N92"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n92.jpg"  ""    "Mi3288 Sn2802 Yt3160 Sg2981 N92"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n92A.jpg"  ""    "MiBL189 SgLMS59 N92A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n92A.jpg"  ""    "MiBL189 SgLMS59 N92A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n08-01-2002") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1995,16 +1997,16 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n95.jpg"  ""    "Mi3435 Sn2842 Yt3307 Sg3078 N95"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n95.jpg"  ""    "Mi3435 Sn2842 Yt3307 Sg3078 N95"    "")
 STAMP_HEADING(HN 11 "Mi no eto dorei (Hokkaido)\n15-11-2002")
-STAMP_ADD_IMG (30 55  "imagenes/n97.jpg"  ""    "Mi3437 Sn2844 Yt3309 Sg3081 N97"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n97.jpg"  ""    "Mi3437 Sn2844 Yt3309 Sg3081 N97"    "")
 STAMP_HEADING(HN 11 "Yukawa ningyo\n'Ogi-mochi mi'\n(Fukushima)\n15-11-2002")
-STAMP_ADD_IMG (30 55  "imagenes/n98.jpg"  ""    "Mi3438 Sn2845 Yt3310 Sg3082 N98"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n98.jpg"  ""    "Mi3438 Sn2845 Yt3310 Sg3082 N98"    "")
 STAMP_HEADING(HN 11 "\nOku hariko mi\n(Okayama)\n15-11-2002")
-STAMP_ADD_IMG (26 30  "imagenes/n96.jpg"  ""    "Mi3436 Sn2843 Yt3308 Sg3079 N96"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n96.jpg"  ""    "Mi3436 Sn2843 Yt3308 Sg3079 N96"    "")
 STAMP_HEADING(HN 11 "Hoju no mi (Tokio)\n15-11-2002")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2016,11 +2018,17 @@ STAMP_HEADING(HN 11 "HB premio loteria de Año Nuevo\n20-01-2003")
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 PAGE_TEXT_PARAGRAPH_START(HN 9 JUSTIFIED 15)
-El sello de 50 yenes muestra la primera de cuatro artesanías con el motivo del eto 'mi' (cabra), un dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
-El semi-postal de 50 yenes muestra la Yukawa ningyo ‘Ogi-mochi mi’ (cabra con abanico) creada por Aoyagi Morihiko, de Aizuwakamatsu (Fukushima). Originario de Asakusa (Tokio), empezó a crear figuras en 1982. En 1984 se mudó a Aizuwakamatsu, donde abrió un horno y empezó a hacer figuras, inicialmente haciendo copias de las figuras Tsuruoka y más adelante sus propios diseños.\n
-El semi-postal de 80 yenes muestra un Oku hariko creado por Takehisa Mamoru, de Setouchi (Okayama). Los Oku hariko se llevan fabricando desde el periodo Edo.\n
-El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja con joya), creado vendido en la tieda Sukeroku de la popular calle comercial Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
+Se muestran cuatro artesanías con el motivo del eto 'mi' (cabra).\n
+50 yenes: dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
+Semi-postal 50 yenes: Yukawa ningyo ‘Ogi-mochi mi’ (cabra con abanico) creada por Aoyagi Morihiko, de Aizuwakamatsu (Fukushima). Originario de Asakusa (Tokio), empezó a crear figuras en 1982. En 1984 se mudó a Aizuwakamatsu, donde abrió un horno y empezó a hacer figuras, inicialmente haciendo copias de las figuras Tsuruoka y más adelante sus propios diseños.\n
+Semi-postal 80 yenes: Oku hariko creado por Takehisa Mamoru, de Setouchi (Okayama). Los Oku hariko se llevan fabricando desde el periodo Edo.\n
+80 yenes: figura de estilo Edo ‘Hoju no mi’ (oveja de joya), de la tieda Sukeroku, en la calle comercial Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
 PAGE_TEXT_PARAGRAPH_END
+#El sello de 50 yenes muestra la primera de cuatro artesanías con el motivo del eto 'mi' (cabra), un dorei sin esmaltar creado por Hashimoto Norihiko, de la ciudad de Sapporo, prefectura de Hokkaido. Nacido en Biei (Hokkaido), en 1971 se trasladó a Kioto para estudiar con el artesano Takuma Miyazaki. En 1976 se estableció en Sapporo y comenzó a hacer estas figuras.\n
+#El semi-postal de 50 yenes muestra la Yukawa ningyo ‘Ogi-mochi mi’ (cabra con abanico) creada por Aoyagi Morihiko, de Aizuwakamatsu (Fukushima). Originario de Asakusa (Tokio), empezó a crear figuras en 1982. En 1984 se mudó a Aizuwakamatsu, donde abrió un horno y empezó a hacer figuras, inicialmente haciendo copias de las figuras Tsuruoka y más adelante sus propios diseños.\n
+#El semi-postal de 80 yenes muestra un Oku hariko creado por Takehisa Mamoru, de Setouchi (Okayama). Los Oku hariko se llevan fabricando desde el periodo Edo.\n
+#El sello de 80 yenes muestra la figura de estilo Edo ‘Hoju no mi’ (oveja con joya), creado vendido en la tieda Sukeroku de la popular calle comercial 	Nakamise, en Taito-ku, Asakusa (Tokio). Las figuras de estilo Edo, pequeñas y simples, surgieron a raíz de la prohibición de los lujos y las extravagancias por parte del 8º Shogun, Tokugawa Yoshimune.\n
+
 
 # ------------------------------------------------------------------------------
 # 2004 Mono
@@ -2037,15 +2045,15 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n99.jpg"  ""    "Mi3589 Sn2871 Yt3451 Sg3188 N99"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n101.jpg"  ""    "Mi3591 Sn2873 Yt3453 Sg3191 N101"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n99.jpg"  ""    "Mi3589 Sn2871 Yt3451 Sg3188 N99"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n101.jpg"  ""    "Mi3591 Sn2873 Yt3453 Sg3191 N101"    "")
 STAMP_HEADING(HN 12 "Iyo ittobori sanbaso (Ehime)\n14-11-2003" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n102.jpg"  ""    "Mi3592 Sn2874 Yt3454 Sg3192 N102"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n102.jpg"  ""    "Mi3592 Sn2874 Yt3454 Sg3192 N102"    "")
 STAMP_HEADING(HN 12 "Himeji hariko 'Shusse saru' (Hyogo)\n14-11-2003" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n100.jpg"  ""    "Mi3590 Sn2872 Yt3452 Sg3189 N100"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n100.jpg"  ""    "Mi3590 Sn2872 Yt3452 Sg3189 N100"    "")
 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -2076,20 +2084,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n103.jpg"  ""    "Mi3747 Sn2910 Yt3600 Sg3281 N103"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n105.jpg"  ""    "Mi3749 Sn2912 Yt3602 Sg3284 N105"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n103.jpg"  ""    "Mi3747 Sn2910 Yt3600 Sg3281 N103"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n105.jpg"  ""    "Mi3749 Sn2912 Yt3602 Sg3284 N105"    "")
 STAMP_HEADING(HN 12 "Hita dorei Junishi no tori (Oita)\n15-11-2004" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n106.jpg"  ""    "Mi3750 Sn2913 Yt3603 Sg3285 N106"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n106.jpg"  ""    "Mi3750 Sn2913 Yt3603 Sg3285 N106"    "")
 STAMP_HEADING(HN 12 "Shimono dorei Junishi no tori (Tochigi)\n15-11-2004" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n104.jpg"  ""    "Mi3748 Sn2911 Yt3601 Sg3282 N104"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n104.jpg"  ""    "Mi3748 Sn2911 Yt3601 Sg3282 N104"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n104A.jpg"  ""    "MiBL195 SgLMS62 N104A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n104A.jpg"  ""    "MiBL195 SgLMS62 N104A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-2005") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2114,21 +2122,21 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n107.jpg"  ""    "Sn2943 Sg3368 Mi3913 Yt3758 N107"    "")
 STAMP_HEADING(HN 12 "Akita Inu\n 15-11-2005")
-STAMP_ADD_IMG (30 55  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n109.jpg"  ""    "Sn2945 Sg3371 Mi3915 Yt3760 N109"    "")
 STAMP_HEADING(HN 12 "Shiba Inu\n 15-11-2005")
-STAMP_ADD_IMG (30 55  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n110.jpg"  ""    "Sn2946 Sg3372 Mi3916 Yt3761 N110"    "")
 STAMP_HEADING(HN 12 "Sadowara ningyo inu (Miyazaki) \n 15-11-2005" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n108.jpg"  ""    "Sn2944 Sg3369 Mi3914 Yt3759 N108"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98.0 76.0  "imagenes/n108A.jpg"  ""    "SgLMS63 MiBL197"    "")
+STAMP_ADD_IMG (94.0 72.0  "imagenes/n108A.jpg"  ""    "SgLMS63 MiBL197"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n 16-01-2006") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2153,15 +2161,15 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n111.jpg"  ""    "Mi4119 Sn2971 Yt3961 Sg3491 N111"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n113.jpg"  ""    "Mi4123 Sn2973 Yt3963 Sg3494 N113"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n111.jpg"  ""    "Mi4119 Sn2971 Yt3961 Sg3491 N111"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n113.jpg"  ""    "Mi4123 Sn2973 Yt3963 Sg3494 N113"    "")
 STAMP_HEADING(HN 12 "Hoju no inoshishi (Tokio)\n01-11-2006" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n114.jpg"  ""    "Mi4124 Sn2974 Yt3964 Sg3495 N114"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n114.jpg"  ""    "Mi4124 Sn2974 Yt3964 Sg3495 N114"    "")
 STAMP_HEADING(HN 12 "Toyama tsuchi ningyo eto inoshishi (Toyama)\n01-11-2006" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n112.jpg"  ""    "Mi4120 Sn2972 Yt3962 Sg3492 N112"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n112.jpg"  ""    "Mi4120 Sn2972 Yt3962 Sg3492 N112"    "")
 
 #ROW_START_FS (HN 6 0.1 12.0)
 #STAMP_ADD_IMG (48 56  "imagenes/n115.jpg"  ""    "Sn2974c N115"    "")
@@ -2170,7 +2178,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n112.jpg"  ""    "Mi4120 Sn2972 Yt3962 Sg3492 N1
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98.0 76.0  "imagenes/n112A.jpg"  ""    "MiBL198 Sn2972a SgLMS64 N112A"    "")
+STAMP_ADD_IMG (94.0 72.0  "imagenes/n112A.jpg"  ""    "MiBL198 Sn2972a SgLMS64 N112A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-01-2007") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2195,15 +2203,15 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/rata_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/rata.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n116.jpg"  ""    "Mi4409 Sn3007 Yt4236 Sg3656 N116"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n118.jpg"  ""    "Mi4413 Sn3009 Yt4238 Sg3658 N118"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n116.jpg"  ""    "Mi4409 Sn3007 Yt4236 Sg3656 N116"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n118.jpg"  ""    "Mi4413 Sn3009 Yt4238 Sg3658 N118"    "")
 STAMP_HEADING(HN 12 "Fukutoku dorei 'Junishi nezumi' (Nagano)\n01-11-2007" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n119.jpg"  ""    "Mi4414 Sn3010 Yt4239 Sg3659 N119"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n119.jpg"  ""    "Mi4414 Sn3010 Yt4239 Sg3659 N119"    "")
 STAMP_HEADING(HN 12 "Kofu dorei 'Junishi ko' (Yamanashi)\n01-11-2007" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N117"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N117"    "")
 
 #ROW_START_FS (HN 6 0.1 12.0)
 #STAMP_ADD_IMG (56 56  "imagenes/n120.jpg"  ""    "Mi:JP 4411-4412, Sn:JP 3010r, Sg:JP 3660a, Sak:JP N120"    "")
@@ -2212,7 +2220,7 @@ STAMP_ADD_IMG (26 30  "imagenes/n117.jpg"  ""    "Mi4410 Sn3008 Yt4237 Sg3657 N1
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (100 98  "imagenes/n121.jpg"  ""    "MiBL199 Sn3015 N121"    "")
+STAMP_ADD_IMG (96 94  "imagenes/n121.jpg"  ""    "MiBL199 Sn3015 N121"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n28-01-2008") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2237,15 +2245,15 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/buey_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/buey.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n122.jpg"  ""    "Mi4701 Sn3070 Yt4541 Sg3897 N122"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n124.jpg"  ""    "Mi4705 Sn3072 Yt4543 Sg3899 N124"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n122.jpg"  ""    "Mi4701 Sn3070 Yt4541 Sg3897 N122"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n124.jpg"  ""    "Mi4705 Sn3072 Yt4543 Sg3899 N124"    "")
 STAMP_HEADING(HN 12 "\nGan-kake ushi\n(Nagasaki)\n04-11-2008" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n125.jpg"  ""    "Mi4706 Sn3073 Yt4544 Sg3900 N125"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n125.jpg"  ""    "Mi4706 Sn3073 Yt4544 Sg3900 N125"    "")
 STAMP_HEADING(HN 12 "Miyoshi ningyo\n'Tachiushi-nori Tenjin'\n(Hiroshima)\n04-11-2008")
-STAMP_ADD_IMG (26 30  "imagenes/n123.jpg"  ""    "Mi4702 Sn3071 Yt4542 Sg3898 N123"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n123.jpg"  ""    "Mi4702 Sn3071 Yt4542 Sg3898 N123"    "")
 STAMP_HEADING(HN 12 "Miyoshi ningyo\n'Neushi-nori Tenjin'\n(Hiroshima)\n04-11-2008")
 
 #ROW_START_FS (HN 6 0.1 12.0)
@@ -2255,7 +2263,7 @@ STAMP_HEADING(HN 12 "Miyoshi ningyo\n'Neushi-nori Tenjin'\n(Hiroshima)\n04-11-20
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n123A.jpg"  ""    "MiBL202 YtBF183 N123A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n123A.jpg"  ""    "MiBL202 YtBF183 N123A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n26-01-2009") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2280,20 +2288,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/tigre.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n127.jpg"  ""    "Mi5090 Sn3170 Yt4905 Sg4229 N127"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n129.jpg"  ""    "Mi5092 Sn3172 Yt4906 Sg4231 N129"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n127.jpg"  ""    "Mi5090 Sn3170 Yt4905 Sg4229 N127"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n129.jpg"  ""    "Mi5092 Sn3172 Yt4906 Sg4231 N129"    "")
 STAMP_HEADING(HN 12 "Shizuoka hariko 'Kubifuri no tora'\n(Shizuoka)\n11-11-2009" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n130.jpg"  ""    "Mi5093 Sn3173 Yt4908 Sg4232 N130"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n130.jpg"  ""    "Mi5093 Sn3173 Yt4908 Sg4232 N130"    "")
 STAMP_HEADING(HN 12 "Kaga hariko 'Kaga Mayoke Tora'\n(Ishikawa)\n11-11-2009" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n128.jpg"  ""    "Mi5091 Sn3171 Yt4907 Sg4230 N128"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n128.jpg"  ""    "Mi5091 Sn3171 Yt4907 Sg4230 N128"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n128A.jpg"  ""    "MiBL208 Sn3171a N128A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n128A.jpg"  ""    "MiBL208 Sn3171a N128A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n25-01-2010") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2318,20 +2326,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/conejo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n131.jpg"  ""    "Mi5474 Sn3272 Yt5273 Sg4540 N131"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n133.jpg"  ""    "Mi5476 Sn3274 Yt5274 Sg4542 N133"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n131.jpg"  ""    "Mi5474 Sn3272 Yt5273 Sg4540 N131"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n133.jpg"  ""    "Mi5476 Sn3274 Yt5274 Sg4542 N133"    "")
 STAMP_HEADING(HN 12 "Aizu hariko 'Kubifuri shofuku usagi'\n(Fukushima)\n10-11-2010" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n134.jpg"  ""    "Mi5477 Sn3275 Yt5276 Sg4543 N134"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n134.jpg"  ""    "Mi5477 Sn3275 Yt5276 Sg4543 N134"    "")
 STAMP_HEADING(HN 12 "Inabata tsuchi ningyo 'Kousagi dorei'\n(Hyogo)\n10-11-2010" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n132.jpg"  ""    "Mi5475 Sn3273 Yt5275 Sg4541 N132"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n132.jpg"  ""    "Mi5475 Sn3273 Yt5275 Sg4541 N132"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n132A.jpg"  ""    "MiBL216 Sn3273a N132A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n132A.jpg"  ""    "MiBL216 Sn3273a N132A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n24-01-2011") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2356,20 +2364,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon_caracter.png"  ""    ""    ""  NO_FRA
 STAMP_ADD_IMG (20.0 20.0  "imagenes/dragon.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n135.jpg"  ""    "Mi5835 Sn3388 Yt5631 Sg4957 N135"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n137.jpg"  ""    "Mi5837 Sn3390 Yt5633 Sg4959 N137"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n135.jpg"  ""    "Mi5835 Sn3388 Yt5631 Sg4957 N135"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n137.jpg"  ""    "Mi5837 Sn3390 Yt5633 Sg4959 N137"    "")
 STAMP_HEADING(HN 12 "Sagami dorei 'Toryu' (Kanagawa)\n11-11-2011" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n138.jpg"  ""    "Mi5838 Sn3391 Yt5634 Sg4960 N138"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n138.jpg"  ""    "Mi5838 Sn3391 Yt5634 Sg4960 N138"    "")
 STAMP_HEADING(HN 12 "Tosa washi ganpi hariko 'Tatsu' (Kochi)\n11-11-2011" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n136.jpg"  ""    "Mi5836 Sn3389 Yt5632 Sg4958 N136"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n136.jpg"  ""    "Mi5836 Sn3389 Yt5632 Sg4958 N136"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n136A.jpg"  ""    "MiBL224 N136A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n136A.jpg"  ""    "MiBL224 N136A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n23-01-2012") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2394,20 +2402,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente_caracter.png"  ""    ""    ""  NO_
 STAMP_ADD_IMG (20.0 20.0  "imagenes/serpiente.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n139.jpg"  ""    "Mi6203 Sn3488 Yt5997 Sg5311 N139"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n141.jpg"  ""    "Mi6205 Sn3490 Yt5999 Sg5312a N141"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n139.jpg"  ""    "Mi6203 Sn3488 Yt5997 Sg5311 N139"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n141.jpg"  ""    "Mi6205 Sn3490 Yt5999 Sg5312a N141"    "")
 STAMP_HEADING(HN 12 "Narai dorei 'Fukubukuro mi' (Nagano)\n12-11-2012" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n142.jpg"  ""    "Mi6206 Sn3491 Yt6000 Sg5312b N142"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n142.jpg"  ""    "Mi6206 Sn3491 Yt6000 Sg5312b N142"    "")
 STAMP_HEADING(HN 12 "Mojigaseki ningyo 'Eto no mi' (Fukuoka)\n12-11-2012" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n140.jpg"  ""    "Mi6204 Sn3489 Yt5998 Sg5312 N140"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n140.jpg"  ""    "Mi6204 Sn3489 Yt5998 Sg5312 N140"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n140A.jpg"  ""    "MiBL231 Sn3491a N140A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n140A.jpg"  ""    "MiBL231 Sn3491a N140A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-2013") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2434,21 +2442,21 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo_caracter.png"  ""    ""    ""  NO_FR
 STAMP_ADD_IMG (20.0 20.0  "imagenes/caballo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n143.jpg"  ""    "Mi6603 Sn3611 Yt6392 Sg5646 N143"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n143.jpg"  ""    "Mi6603 Sn3611 Yt6392 Sg5646 N143"    "")
 STAMP_HEADING(HN 12 "Nakayama ningyo\n'Dorei-Harukoma'\n(Akita)\n01-11-2013")
-STAMP_ADD_IMG (30 55  "imagenes/n145.jpg"  ""    "Mi6605 Sn3613 Yt6394 Sg5648 N145"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n145.jpg"  ""    "Mi6605 Sn3613 Yt6394 Sg5648 N145"    "")
 STAMP_HEADING(HN 12 "Nogomi ningyo 'Inari-koma'\n(Saga)\n01-11-2013")
-STAMP_ADD_IMG (30 55  "imagenes/n146.jpg"  ""    "Mi6606 Sn3614 Yt6395 Sg5649 N146"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n146.jpg"  ""    "Mi6606 Sn3614 Yt6395 Sg5649 N146"    "")
 STAMP_HEADING(HN 12 "Ryukyu hariko 'Chinchin-Uma'\n(Okinawa)\n01-11-2013" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n144.jpg"  ""    "Mi6604 Sn3612 Yt6393 Sg5647 N144"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n144.jpg"  ""    "Mi6604 Sn3612 Yt6393 Sg5647 N144"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n144A.jpg"  ""    "MiBL239 SgMS5716a N144A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n144A.jpg"  ""    "MiBL239 SgMS5716a N144A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-2014") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2474,20 +2482,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cabra.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n147.jpg"  ""    "Mi7045 Sn3756 Yt6815 Sg6031 N147"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n149.jpg"  ""    "Mi7047 Sn3758 Yt6817 Sg6033 N149"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n147.jpg"  ""    "Mi7045 Sn3756 Yt6815 Sg6031 N147"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n149.jpg"  ""    "Mi7047 Sn3758 Yt6817 Sg6033 N149"    "")
 STAMP_HEADING(HN 12 "Shinshu-Nakano tsuchi ningyo no hitsuji\n(Nagano)\n30-10-2014" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n150.jpg"  ""    "Mi7048 Sn3759 Yt6818 Sg6034 N150"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n150.jpg"  ""    "Mi7048 Sn3759 Yt6818 Sg6034 N150"    "")
 STAMP_HEADING(HN 12 "Iwai no Kibori junishi no Hitsuji\n(Tottori)\n30-10-2014" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n148.jpg"  ""    "Mi7046 Sn3757 Yt6816 Sg6032 N148"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n148.jpg"  ""    "Mi7046 Sn3757 Yt6816 Sg6032 N148"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n148A.jpg"  ""    "MiBL250 SgLMS72 N148A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n148A.jpg"  ""    "MiBL250 SgLMS72 N148A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n19-01-2015") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2512,20 +2520,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/mono_caracter.png"  ""    ""    ""  NO_FRAME
 STAMP_ADD_IMG (20.0 20.0  "imagenes/mono.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n152.jpg"  ""    "Mi7573 Sn3953 Yt7307 Sg6459 N152"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n154.jpg"  ""    "Mi7575 Sn3955 Yt7309 Sg6461 N154"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n152.jpg"  ""    "Mi7573 Sn3953 Yt7307 Sg6459 N152"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n154.jpg"  ""    "Mi7575 Sn3955 Yt7309 Sg6461 N154"    "")
 STAMP_HEADING(HN 12 "Otsue Junishi dorei 'Saru' (Shiga)\n29-10-2015" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n155.jpg"  ""    "Mi7576 Sn3956 Yt7310 Sg6462 N155"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n155.jpg"  ""    "Mi7576 Sn3956 Yt7310 Sg6462 N155"    "")
 STAMP_HEADING(HN 12 "Tosa Washi Shikkui hariko 'Kodaki-Saru' (Kochi)\n29-10-2015" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n153.jpg"  ""    "Mi7574 Sn3954 Yt7308 Sg6460 N153"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n153.jpg"  ""    "Mi7574 Sn3954 Yt7308 Sg6460 N153"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n153A.jpg"  ""    "MiBL259 SgLMS73 N153A"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n153A.jpg"  ""    "MiBL259 SgLMS73 N153A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n18-01-2016") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2550,20 +2558,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/gallo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n156.jpg"  ""    "Mi8241 Sn4056 Yt7898 N156"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n158.jpg"  ""    "Mi8243 Sn4058 Yt7900 N158"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n156.jpg"  ""    "Mi8241 Sn4056 Yt7898 N156"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n158.jpg"  ""    "Mi8243 Sn4058 Yt7900 N158"    "")
 STAMP_HEADING(HN 12 "Kurashiki hariko no tori (Okayama)\n01-11-2016" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n159.jpg"  ""    "Mi8244 Sn4059 Yt7901 N159"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n159.jpg"  ""    "Mi8244 Sn4059 Yt7901 N159"    "")
 STAMP_HEADING(HN 12 "Iyo ittobori tori (Ehime)\n01-11-2016" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n157.jpg"  ""    "Mi8242 Sn4057 Yt7899 N157"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n157.jpg"  ""    "Mi8242 Sn4057 Yt7899 N157"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n160.jpg"  ""    "MiBL267 Sn4074 YtBF203 N160"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n160.jpg"  ""    "MiBL267 Sn4074 YtBF203 N160"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\nGallina y gallo\n16-01-2017") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2588,20 +2596,20 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/perro_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/perro.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n161.jpg"  ""    "Mi8832 Yt8466 N161"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n163.jpg"  ""    "Mi8834 Yt8468 N163"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n161.jpg"  ""    "Mi8832 Yt8466 N161"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n163.jpg"  ""    "Mi8834 Yt8468 N163"    "")
 STAMP_HEADING(HN 12 "Zaru kaburi inu (Tokio)\n01-11-2017" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n164.jpg"  ""    "Mi8835 Yt8469 N164"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n164.jpg"  ""    "Mi8835 Yt8469 N164"    "")
 STAMP_HEADING(HN 12 "Toyama tsuchi ningyo 'Kodai inu' (Toyama)\n01-11-2017" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n162.jpg"  ""    "Mi8833 Yt8467 N162"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n162.jpg"  ""    "Mi8833 Yt8467 N162"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n165.jpg"  ""    "MiBL273 YtBF209 N165"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n165.jpg"  ""    "MiBL273 YtBF209 N165"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-01-2018") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -2626,22 +2634,22 @@ STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo_caracter.png"  ""    ""    ""  NO_FRAM
 STAMP_ADD_IMG (20.0 20.0  "imagenes/cerdo.png"  ""    ""    ""  NO_FRAME)
 ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 
-PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n166.jpg"  ""    "Mi9450 Yt9077 N166"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n166.jpg"  ""    "Mi9450 Yt9077 N166"    "")
 STAMP_HEADING(HN 11 "Yukawa ningyo\n'Rai ran sho i'\n(Fukushima)\n01-11-2018")
-STAMP_ADD_IMG (30 55  "imagenes/n168.jpg"  ""    "Mi9452 Yt9079 N168"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n168.jpg"  ""    "Mi9452 Yt9079 N168"    "")
 STAMP_HEADING(HN 11 "Yukawa ningyo\n'Fukura suzume-nori mame maneki i'\n(Fukushima)\n01-11-2018")
 #STAMP_HEADING(HN 11 "'Rai ran sho i' y 'Fukura suzume-nori mame maneki i'\n(Aizuwakamasu)\n01-11-2018" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n169.jpg"  ""    "Mi9453 Yt9080 N169"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n169.jpg"  ""    "Mi9453 Yt9080 N169"    "")
 STAMP_HEADING(HN 11 "\nYabase ningyo eto i\n(Akita)\n01-11-2018" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n167.jpg"  ""    "Mi9451 Yt9078 N167"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n167.jpg"  ""    "Mi9451 Yt9078 N167"    "")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76  "imagenes/n170.jpg"  ""    "MiBL274 YtBF210 N170"    "")
+STAMP_ADD_IMG (94 72  "imagenes/n170.jpg"  ""    "MiBL274 YtBF210 N170"    "")
 STAMP_HEADING(HN 11 "HB premio loteria de Año Nuevo - Maneki-neko\n21-01-2019") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
