@@ -505,13 +505,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n16.jpg"  "" "Mi740 Sn709 Yt661 Sg841 N16" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n16.jpg"  "" "Mi740 Sn709 Yt661 Sg841 N16" "")
 STAMP_HEADING(HN 12 "'Aka-beko' (Fukushima) y 'Kin no be kokko' (Iwate)\n20-12-1960")
 
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n16a.jpg"  "" "MiBL63 Sn709A YtBF50 SgLMS12 N16A" "")
+STAMP_ADD_IMG (102 90  "imagenes/n16a.jpg"  "" "MiBL63 Sn709A YtBF50 SgLMS12 N16A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-12-1960")
 
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -539,13 +539,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n17.jpg"  "" "Mi781 Sn740 Yt693 Sg883 N17" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n17.jpg"  "" "Mi781 Sn740 Yt693 Sg883 N17" "")
 STAMP_HEADING(HN 12 "Izumo hariko no Tora (Shimane)\n15-12-1961")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n17a.jpg"  "" "MiBL64 YtBF51 SgLMS13 N17A" "")
+STAMP_ADD_IMG (102 90  "imagenes/n17a.jpg"  "" "MiBL64 YtBF51 SgLMS13 N17A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n 15-12-1961")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -573,13 +573,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n18.jpg"  "" "Mi812 Sn773 Yt728 Sg914 N18" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n18.jpg"  "" "Mi812 Sn773 Yt728 Sg914 N18" "")
 STAMP_HEADING(HN 12 "Nogomi usagi dorei (Saga)\n15-12-1962")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 94  "imagenes/n18a.jpg"  "" "MiBL65 SgLMS14 N18A" "")
+STAMP_ADD_IMG (102 90  "imagenes/n18a.jpg"  "" "MiBL65 SgLMS14 N18A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n15-12-1962")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -606,13 +606,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n19.jpg"  "" "Mi851 Sn805 Yt765 Sg954 N19" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n19.jpg"  "" "Mi851 Sn805 Yt765 Sg954 N19" "")
 STAMP_HEADING(HN 12 "'Kai no fukuryu' (Yamanashi) y 'Tatsu' (Tottori)\n16-12-1963")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 97  "imagenes/n19a.jpg"  "" "MiBL66 N19A" "")
+STAMP_ADD_IMG (102 93  "imagenes/n19a.jpg"  "" "MiBL66 N19A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-12-1963")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -641,13 +641,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n20.jpg"  "" "Mi877 Sn829 Yt791 Sg990 N20" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n20.jpg"  "" "Mi877 Sn829 Yt791 Sg990 N20" "")
 STAMP_HEADING(HN 12 "Mugiwara hebi (Tokio)\n15-12-1964")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 98  "imagenes/n20a.jpg"  "" "MiBL74 Sn829A SgLMS16 N20A" "")
+STAMP_ADD_IMG (102 94  "imagenes/n20a.jpg"  "" "MiBL74 Sn829A SgLMS16 N20A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1965")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -674,13 +674,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n21.jpg"  "" "Mi906 Sn858 Yt820 Sg1018 N21" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n21.jpg"  "" "Mi906 Sn858 Yt820 Sg1018 N21" "")
 STAMP_HEADING(HN 12 "Shinobikoma (Iwate)\n10-12-1965")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 98  "imagenes/n21a.jpg"  "" "MiBL75 SgLMS17 N21A" "")
+STAMP_ADD_IMG (102 94  "imagenes/n21a.jpg"  "" "MiBL75 SgLMS17 N21A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1966")
 
 #PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -708,13 +708,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n22.jpg"  "" "Mi959 Sn903 Yt861 Sg1084 N22" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n22.jpg"  "" "Mi959 Sn903 Yt861 Sg1084 N22" "")
 STAMP_HEADING(HN 12 "Nara ittobori no hitsuji (Nara)\n10-12-1966")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 98  "imagenes/n22a.jpg"  "" "MiBL76 SgLMS18 N22A" "")
+STAMP_ADD_IMG (102 94  "imagenes/n22a.jpg"  "" "MiBL76 SgLMS18 N22A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1967")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -741,13 +741,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n23.jpg"  "" "Mi982 Sn940 Yt889 Sg1108 N23" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n23.jpg"  "" "Mi982 Sn940 Yt889 Sg1108 N23" "")
 STAMP_HEADING(HN 12 "Nobori saru (Miyazaki)\n11-12-1967")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 97 "imagenes/n23a.jpg"  "" "MiBL77 SgLMS19 N23A" "")
+STAMP_ADD_IMG (102 93 "imagenes/n23a.jpg"  "" "MiBL77 SgLMS19 N23A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1968")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -775,13 +775,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n24.jpg"  "" "Mi1024 Sn978 Yt929 Sg1147 N24" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n24.jpg"  "" "Mi1024 Sn978 Yt929 Sg1147 N24" "")
 STAMP_HEADING(HN 12 "Sasano-bori niwatori (Yamagata)\n5-12-1968")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 97 "imagenes/n24a.jpg"  "" "MiBL78 Sn978A SgLMS20 N24A" "")
+STAMP_ADD_IMG (102 93 "imagenes/n24a.jpg"  "" "MiBL78 Sn978A SgLMS20 N24A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1969")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -808,13 +808,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34  "imagenes/n25.jpg"  "" "Mi1068 Sn1021 Yt970 Sg1190 N25" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n25.jpg"  "" "Mi1068 Sn1021 Yt970 Sg1190 N25" "")
 STAMP_HEADING(HN 12 "Hokkeji no mamori inu (Nara)\n10-12-1969")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 97 "imagenes/n25a.jpg"  "" "MiBL79 Sn1021A SgLMS21 N25A" "")
+STAMP_ADD_IMG (102 93 "imagenes/n25a.jpg"  "" "MiBL79 Sn1021A SgLMS21 N25A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-12-1969")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -842,13 +842,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 34.5  "imagenes/n26.jpg"  "" "Mi1097 Sn1050 Yt999 Sg1222 N26" "")
+STAMP_ADD_IMG (26 30.5  "imagenes/n26.jpg"  "" "Mi1097 Sn1050 Yt999 Sg1222 N26" "")
 STAMP_HEADING(HN 12 "Echigo no suge-zaiku inoshishi (Niigata)\n10-12-1970")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (106 97 "imagenes/n26a.jpg"  "" "MiBL82 Sn1050A SgLMS22 N26A" "")
+STAMP_ADD_IMG (102 93 "imagenes/n26a.jpg"  "" "MiBL82 Sn1050A SgLMS22 N26A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-12-1970")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -876,15 +876,15 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 20.0)
-STAMP_ADD_IMG (26 30  "imagenes/n27.jpg"  "" "Mi1133 Sn1101 Yt1041 Sg1277 N27" "")
+STAMP_ADD_IMG (22 26  "imagenes/n27.jpg"  "" "Mi1133 Sn1101 Yt1041 Sg1277 N27" "")
 STAMP_HEADING(HN 12 "Takarabune\n10-12-1971")
-STAMP_ADD_IMG (26 30  "imagenes/n28.jpg"  "" "Mi1134 Sn1102 Yt1042 Sg1278 N28" "")
+STAMP_ADD_IMG (22 26  "imagenes/n28.jpg"  "" "Mi1134 Sn1102 Yt1042 Sg1278 N28" "")
 STAMP_HEADING(HN 12 "Takarabune\n11-01-1972")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (97 76 "imagenes/n28a.jpg"  "" "MiBL84 Sn1102A SgLMS23 N28A" "")
+STAMP_ADD_IMG (93 72 "imagenes/n28a.jpg"  "" "MiBL84 Sn1102A SgLMS23 N28A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1972")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -912,13 +912,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n29.jpg"  "" "Mi1169 Sn1132 Yt1071 Sg1310 N29" "")
+STAMP_ADD_IMG (22 26  "imagenes/n29.jpg"  "" "Mi1169 Sn1132 Yt1071 Sg1310 N29" "")
 STAMP_HEADING(HN 12 "Plato por Ogata Kenzan (1663-1743)\n11-12-1972")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n29a.jpg"  "" "MiBL86 Sn1132A SgLMS24 N29A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n29a.jpg"  "" "MiBL86 Sn1132A SgLMS24 N29A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1973")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -945,13 +945,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n30.jpg"  "" "Mi1196 Sn1155 Yt1098 Sg1337 N30" "")
+STAMP_ADD_IMG (22 26  "imagenes/n30.jpg"  "" "Mi1196 Sn1155 Yt1098 Sg1337 N30" "")
 STAMP_HEADING(HN 12 "Farol 'Toro' (Chiba)\n11-12-1973")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n30a.jpg"  "" "MiBL87 Sn1155a YtBF73 SgLMS25 N30A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n30a.jpg"  "" "MiBL87 Sn1155a YtBF73 SgLMS25 N30A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n10-01-1974")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -978,13 +978,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 26  "imagenes/n31.jpg"  "" "Mi1236 Sn1198 Yt1140 Sg1375 N31" "")
+STAMP_ADD_IMG (26 22  "imagenes/n31.jpg"  "" "Mi1236 Sn1198 Yt1140 Sg1375 N31" "")
 STAMP_HEADING(HN 12 "Kugikakushi con forma de narciso\n10-12-1974")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (76 98 "imagenes/n31a.jpg"  "" "MiBL89 Sn1198A SgLMS26 N31A" "")
+STAMP_ADD_IMG (72 94 "imagenes/n31a.jpg"  "" "MiBL89 Sn1198A SgLMS26 N31A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1975")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1011,13 +1011,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n32.jpg"  "" "Mi1274 Sn1237 Yt1176 Sg1417 N32" "")
+STAMP_ADD_IMG (22 26  "imagenes/n32.jpg"  "" "Mi1274 Sn1237 Yt1176 Sg1417 N32" "")
 STAMP_HEADING(HN 12 "Miharu hariko 'Tatsu-guruma' (Fukushima)\n13-12-1975")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n32a.jpg"  "" "MiBL93 Sn1237a YtBF79 SgLMS27 N32A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n32a.jpg"  "" "MiBL93 Sn1237a YtBF79 SgLMS27 N32A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1976")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1044,13 +1044,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n33.jpg"  "" "Mi1305 Sn1271 Yt1207 Sg1443 N33" "")
+STAMP_ADD_IMG (22 26  "imagenes/n33.jpg"  "" "Mi1305 Sn1271 Yt1207 Sg1443 N33" "")
 STAMP_HEADING(HN 12 "Oyama no takehebi (Kanagawa)\n01-12-1976")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n33a.jpg"  "" "MiBL95 Sn1271a SgLMS28 N33A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n33a.jpg"  "" "MiBL95 Sn1271a SgLMS28 N33A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1977")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1078,13 +1078,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n34.jpg"  "" "Mi1342 Sn1316 Yt1244 Sg1482 N34" "")
+STAMP_ADD_IMG (22 26  "imagenes/n34.jpg"  "" "Mi1342 Sn1316 Yt1244 Sg1482 N34" "")
 STAMP_HEADING(HN 12 "Fushimi Ningyo 'kazari-ba' (Kioto)\n01-12-1977")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n34a.jpg"  "" "MiBL97 YtBF83 SgLMS29 N34A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n34a.jpg"  "" "MiBL97 YtBF83 SgLMS29 N34A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1978")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1111,13 +1111,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n35.jpg"  "" "Mi1375 Sn1351 Sg1516 N35" "")
+STAMP_ADD_IMG (22 26  "imagenes/n35.jpg"  "" "Mi1375 Sn1351 Sg1516 N35" "")
 STAMP_HEADING(HN 12 "Nakayama ningyo hitsuji suzu (Akita)\n01-12-1978")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n35a.jpg"  "" "MiBL98 SgLMS30 N35A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n35a.jpg"  "" "MiBL98 SgLMS30 N35A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n05-02-1979")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1146,13 +1146,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n36.jpg"  "" "Mi1413 Sn1387 Yt1315 Sg1554 N36" "")
+STAMP_ADD_IMG (22 26  "imagenes/n36.jpg"  "" "Mi1413 Sn1387 Yt1315 Sg1554 N36" "")
 STAMP_HEADING(HN 12 "Kiki-saru (Osaka)\n01-12-1979")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n36A.jpg"  "" "MiBL100 SgLMS31 N36A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n36A.jpg"  "" "MiBL100 SgLMS31 N36A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-1980")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1179,13 +1179,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n37.jpg"  "" "Mi1452 Sn1442 Yt1352 Sg1614 N37" "")
+STAMP_ADD_IMG (22 26  "imagenes/n37.jpg"  "" "Mi1452 Sn1442 Yt1352 Sg1614 N37" "")
 STAMP_HEADING(HN 12 "Nakano tsuchi ningyo 'Tawara-nori niwatori' (Nagano)\n01-12-1980")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n37A.jpg"  "" "MiBL101 Sn1442a SgLMS32 N37A" "")
+STAMP_ADD_IMG (94 72 "imagenes/n37A.jpg"  "" "MiBL101 Sn1442a SgLMS32 N37A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-1981")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1214,13 +1214,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n38.jpg"  ""    "Sn1486 Sg1652 Mi1497 Yt1398 N38"    "")
 STAMP_HEADING(HN 12 "Sagara tsuchi ningyo 'Hagoromo chin' (Yamagata)\n01-12-1981")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n38a.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n38a.jpg"  ""    "Sn1486a SgLMS33 MiBL102 N38A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1982") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1249,13 +1249,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n39.jpg"  ""    "Mi1537 Sn1515 Yt1438 Sg1691 N39"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n39.jpg"  ""    "Mi1537 Sn1515 Yt1438 Sg1691 N39"    "")
 STAMP_HEADING(HN 12 "Tsutsumi ningyo 'Shishi-nori Kintaro' (Miyagi)\n01-12-1982")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n39A.jpg"  ""    "MiBL103 Sn1515a SgLMS34 N39A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n39A.jpg"  ""    "MiBL103 Sn1515a SgLMS34 N39A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1983") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1285,13 +1285,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n40.jpg"  ""    "Mi1573 Sn1557 Yt1474 Sg1726 N40"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n40.jpg"  ""    "Mi1573 Sn1557 Yt1474 Sg1726 N40"    "")
 STAMP_HEADING(HN 12 "Obata tsuchi ningyo 'Kozuchi nori nezumi' (Shiga)\n01-12-1983")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n40A.jpg"  ""    "MiBL104 SgLMS35 N40A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n40A.jpg"  ""    "MiBL104 SgLMS35 N40A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1984") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1321,14 +1321,14 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30 26  "imagenes/n41.jpg"  ""    "Mi1613 Sn1621 Yt1514 Sg1766 N41"    "")
+STAMP_ADD_IMG (26 22  "imagenes/n41.jpg"  ""    "Mi1613 Sn1621 Yt1514 Sg1766 N41"    "")
 STAMP_HEADING(HN 12 "Sakushu-ushi (Okayama)\n01-12-1984")
 
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (76 98 "imagenes/n41A.jpg"  "" "MiBL105 SgLMS36 N41A" "")
+STAMP_ADD_IMG (72 94 "imagenes/n41A.jpg"  "" "MiBL105 SgLMS36 N41A" "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n21-01-1985")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1357,13 +1357,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n42.jpg"  ""    "Mi1671 Sn1666 Yt1569 Sg1824 N42"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n42.jpg"  ""    "Mi1671 Sn1666 Yt1569 Sg1824 N42"    "")
 STAMP_HEADING(HN 12 "Osaka hariko 'Shinno no tora' (Osaka)\n02-12-1985")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n42A.jpg"  ""    "MiBL108 SgLMS37 N42A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n42A.jpg"  ""    "MiBL108 SgLMS37 N42A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1986") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1391,13 +1391,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n43.jpg"  ""    "Mi1711 Sn1708 Yt1609 Sg1867 N43"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n43.jpg"  ""    "Mi1711 Sn1708 Yt1609 Sg1867 N43"    "")
 STAMP_HEADING(HN 12 "Fufu momochimotsuki usagi (Aichi)\n01-12-1986")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n43A.jpg"  ""    "MiBL111 Sn1708a SgLMS39 N43A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n43A.jpg"  ""    "MiBL111 Sn1708a SgLMS39 N43A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Orizuru y Fufu momochimotsuki usagi\n20-01-1987") 
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1428,13 +1428,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n44.jpg"  ""    "Mi1764, Sn1765 Yt1660 Sg1923 N44"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n44.jpg"  ""    "Mi1764, Sn1765 Yt1660 Sg1923 N44"    "")
 STAMP_HEADING(HN 12 "Kurashiki hariko no tatsu (Okayama)\n01-12-1987")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n44A.jpg"  ""    "MiBL114 Sn1765a SgLMS41 N44A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n44A.jpg"  ""    "MiBL114 Sn1765a SgLMS41 N44A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Orizuru y hariko no tatsu\n20-01-1988") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1463,13 +1463,13 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (26 30  "imagenes/n45.jpg"  ""    "Mi1819 Sn1812 Yt1716 Sg1978 N45"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n45.jpg"  ""    "Mi1819 Sn1812 Yt1716 Sg1978 N45"    "")
 STAMP_HEADING(HN 12 "Shimono hebi dorei (Tochigi)\n01-12-1988")
 
 PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n45A.jpg"  ""    "MiBL117 SgLMS44 N45A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n45A.jpg"  ""    "MiBL117 SgLMS44 N45A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Orizuru y Shimono hebi dorei\n20-01-1989") 
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
@@ -1498,15 +1498,15 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 20.0)
-STAMP_ADD_IMG (26 30  "imagenes/n46.jpg"  ""    "Mi1895 Sn2000 Yt1785 Sg2029 N46"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n46.jpg"  ""    "Mi1895 Sn2000 Yt1785 Sg2029 N46"    "")
 STAMP_HEADING(HN 12 "Yawata uma (Aomori)\n01-12-1989")
-STAMP_ADD_IMG (30 55  "imagenes/n47.jpg"  ""    "Mi1896 Sn2001 Yt1786 Sg2030 N47"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n47.jpg"  ""    "Mi1896 Sn2001 Yt1786 Sg2030 N47"    "")
 STAMP_HEADING(HN 12 "Hamamatsu hariko kazari-ba (Shizuoka)\n01-12-1989")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n46A.jpg"  ""    "MiBL140 SgLMS47 N46A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n46A.jpg"  ""    "MiBL140 SgLMS47 N46A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo - Orizuru y Yawata uma\n16-01-1990") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1536,17 +1536,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 25.0)
-STAMP_ADD_IMG (26 30  "imagenes/n48.jpg"  ""    "Mi2012 Sn2074 Yt1896 Sg2127 N48"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n48.jpg"  ""    "Mi2012 Sn2074 Yt1896 Sg2127 N48"    "")
 STAMP_HEADING(HN 12 "Nogomi ningyo hitsuji\n(Saga)\n03-12-1990")
-STAMP_ADD_IMG (30 55  "imagenes/n49.jpg"  ""    "Mi2013 Sn2075 Yt1897 Sg2128 N49"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n49.jpg"  ""    "Mi2013 Sn2075 Yt1897 Sg2128 N49"    "")
 STAMP_HEADING(HN 12 "Kosen ningyo hitsuji\n(Shiga)\n03-12-1990")
-STAMP_ADD_IMG (30 55  "imagenes/n50.jpg"  ""    "Mi2014 Sn2076 Yt1898 Sg2129 N50"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n50.jpg"  ""    "Mi2014 Sn2076 Yt1898 Sg2129 N50"    "")
 STAMP_HEADING(HN 12 "Tsuneishi hariko hitsuji\n(Hiroshima)\n03-12-1990")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n48A.jpg"  ""    "MiBL149 SgLMS48 N48A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n48A.jpg"  ""    "MiBL149 SgLMS48 N48A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n20-01-1991") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1576,12 +1576,12 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n51.jpg"  ""    "Mi2083 Sn2127 Yt1967 Sg2175 N51"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n53.jpg"  ""    "Mi2085 Sn2129 Yt1969 Sg2177 N53"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n51.jpg"  ""    "Mi2083 Sn2127 Yt1967 Sg2175 N51"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n53.jpg"  ""    "Mi2085 Sn2129 Yt1969 Sg2177 N53"    "")
 STAMP_HEADING(HN 12 "Kanazawa hariko 'Saru no sanbaso' (Ishikawa)\n02-12-1991" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n54.jpg"  ""    "Mi2086 Sn2130 Yt1970 Sg2178 N54"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n54.jpg"  ""    "Mi2086 Sn2130 Yt1970 Sg2178 N54"    "")
 STAMP_HEADING(HN 12 "Obata ningyo 'Momo ji saru' (Shiga)\n02-12-1991" 21)
-STAMP_ADD_IMG (30 34  "imagenes/n52.jpg"  ""    "Mi2084 Sn2128 Yt1968 Sg2176 N52"    "")
+STAMP_ADD_IMG (26 30  "imagenes/n52.jpg"  ""    "Mi2084 Sn2128 Yt1968 Sg2176 N52"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -1614,17 +1614,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n55.jpg"  ""    "Mi2131 Sn2150 Yt2015 Sg2211 N55"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n57.jpg"  ""    "Mi2133 Sn2152 Yt2017 Sg2213 N57"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n55.jpg"  ""    "Mi2131 Sn2150 Yt2015 Sg2211 N55"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n57.jpg"  ""    "Mi2133 Sn2152 Yt2017 Sg2213 N57"    "")
 STAMP_HEADING(HN 12 "Shiso ningyo 'Eto no niwatori'\n(Toyama)\n16-11-1992" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n58.jpg"  ""    "Mi2134 Sn2153 Yt2018 Sg2214 N58"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n58.jpg"  ""    "Mi2134 Sn2153 Yt2018 Sg2214 N58"    "")
 STAMP_HEADING(HN 12 "Tsuyazaki tsuchi ningyo 'Taiko-nori niwatori'\n(Fukuoka)\n16-11-1992" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n56.jpg"  ""    "Mi2132 Sn2151 Yt2016 Sg2212 N56"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n56.jpg"  ""    "Mi2132 Sn2151 Yt2016 Sg2212 N56"    "")
 
 PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n56A.jpg"  ""    "MiBL162 Sn2151a SgLMS50 N56A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n56A.jpg"  ""    "MiBL162 Sn2151a SgLMS50 N56A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n18-01-1993") 
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1652,17 +1652,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n59.jpg"  ""    "Mi2191 Sn2221 Yt2072 Sg2280 N59"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n61.jpg"  ""    "Mi2193 Sn2223 Yt2074 Sg2282 N61"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n59.jpg"  ""    "Mi2191 Sn2221 Yt2072 Sg2280 N59"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n61.jpg"  ""    "Mi2193 Sn2223 Yt2074 Sg2282 N61"    "")
 STAMP_HEADING(HN 12 "Shibahara ningyo 'Eto no inu' (Chiba)\n15-11-1993" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n62.jpg"  ""    "Mi2194 Sn2224 Yt2075 Sg2283 N62"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n62.jpg"  ""    "Mi2194 Sn2224 Yt2075 Sg2283 N62"    "")
 STAMP_HEADING(HN 12 "Tosa tsuchi ningyo 'Tosa ken' (Kochi)\n15-11-1993" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n60.jpg"  ""    "Mi2192 Sn2222 Yt2073 Sg2281 N60"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n60.jpg"  ""    "Mi2192 Sn2222 Yt2073 Sg2281 N60"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n60A.jpg"  ""    "MiBL168 SgLMS51 N60A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n60A.jpg"  ""    "MiBL168 SgLMS51 N60A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-1994") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1690,17 +1690,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n63.jpg"  ""    "Mi2273 Sn2443 Yt2152 Sg2335 N63"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n65.jpg"  ""    "Mi2275 Sn2445 Yt2154 Sg2337 N65"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n63.jpg"  ""    "Mi2273 Sn2443 Yt2152 Sg2335 N63"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n65.jpg"  ""    "Mi2275 Sn2445 Yt2154 Sg2337 N65"    "")
 STAMP_HEADING(HN 12 "Izumo hariko no i (Shimane)\n15-11-1994" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n66.jpg"  ""    "Mi2276 Sn2446 Yt2155 Sg2338 N66"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n66.jpg"  ""    "Mi2276 Sn2446 Yt2155 Sg2338 N66"    "")
 STAMP_HEADING(HN 12 "Nuigurumi no i (Gifu)\n15-11-1994" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n64.jpg"  ""    "Mi2274 Sn2444 Yt2153 Sg2336 N64"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n64.jpg"  ""    "Mi2274 Sn2444 Yt2153 Sg2336 N64"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n64A.jpg"  ""    "MiBL170 YtBF151 SgLMS52 N64A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n64A.jpg"  ""    "MiBL170 YtBF151 SgLMS52 N64A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-1995") 
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1728,17 +1728,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n67.jpg"  ""    "Mi2356x Sn2506 Yt2238 Sg2396 N67"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n69.jpg"  ""    "Mi2358 Sn2508 Yt2240 Sg2398 N69"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n67.jpg"  ""    "Mi2356x Sn2506 Yt2238 Sg2396 N67"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n69.jpg"  ""    "Mi2358 Sn2508 Yt2240 Sg2398 N69"    "")
 STAMP_HEADING(HN 12 "Tsutsumi ningyo\n'Togarashi-nori nezumi' y 'Kabura-nori nezumi'\n(Miyagi)\n15-11-1995" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n70.jpg"  ""    "Mi2359 Sn2509 Sg2399 N70"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n70.jpg"  ""    "Mi2359 Sn2509 Sg2399 N70"    "")
 STAMP_HEADING(HN 12 "Satsuma kubi ningyo\n'Yonekura nezumi'\n(Kagoshima)\n15-11-1995" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n68.jpg"  ""    "Mi2357x Sn2507 Yt2239 Sg2397 N68"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n68.jpg"  ""    "Mi2357x Sn2507 Yt2239 Sg2397 N68"    "")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n68A.jpg"  ""    "MiBL172 Sn2507a YtBF153 SgLMS53 N68A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n68A.jpg"  ""    "MiBL172 Sn2507a YtBF153 SgLMS53 N68A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1996") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1766,17 +1766,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n71.jpg"  ""    "Mi2428x Sn2550 Yt2306 Sg2445 N71"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n73.jpg"  ""    "Mi2430 Sn2552 Yt2308 Sg2447 N73"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n71.jpg"  ""    "Mi2428x Sn2550 Yt2306 Sg2445 N71"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n73.jpg"  ""    "Mi2430 Sn2552 Yt2308 Sg2447 N73"    "")
 STAMP_HEADING(HN 12 "Togyu\n(Okinawa)\n15-11-1996" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n74.jpg"  ""    "Mi2431 Sn2553 Yt2309 Sg2448 N74"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n74.jpg"  ""    "Mi2431 Sn2553 Yt2309 Sg2448 N74"    "")
 STAMP_HEADING(HN 12 "Takamatsu Yomeiri ningyo 'Ushi-nori kodomo'\n(Kagawa)\n15-11-1996" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n72.jpg"  ""    "Mi2429x Sn2551 Yt2307 Sg2446 N72"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n72.jpg"  ""    "Mi2429x Sn2551 Yt2307 Sg2446 N72"    "")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n72A.jpg"  ""    "MiBL174 YtBF156 SgLMS54 N72A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n72A.jpg"  ""    "MiBL174 YtBF156 SgLMS54 N72A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1997") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1805,17 +1805,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n75.jpg"  ""    "Mi2500 Sn2591 Yt2383 Sg2487 N75"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n77.jpg"  ""    "Mi2502 Sn2593 Yt2385 Sg2489 N77"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n75.jpg"  ""    "Mi2500 Sn2591 Yt2383 Sg2487 N75"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n77.jpg"  ""    "Mi2502 Sn2593 Yt2385 Sg2489 N77"    "")
 STAMP_HEADING(HN 12 "Miharu hariko 'Koshidakatora' (Fukushima)\n14-11-1997" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n78.jpg"  ""    "Mi2503 Sn2594 Yt2386 Sg2490 N78"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n78.jpg"  ""    "Mi2503 Sn2594 Yt2386 Sg2490 N78"    "")
 STAMP_HEADING(HN 12 "Hakata hariko 'Kubifuri tora' (Fukuoka)\n14-11-1997" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n76.jpg"  ""    "Mi2501x Sn2592 Yt2384 Sg2488 N76"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n76.jpg"  ""    "Mi2501x Sn2592 Yt2384 Sg2488 N76"    "")
 
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n76A.jpg"  ""    "MiBL176 Sn2592a SgLMS55 N76A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n76A.jpg"  ""    "MiBL176 Sn2592a SgLMS55 N76A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n16-01-1998") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1845,17 +1845,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n79.jpg"  ""    "Mi2603x Yt2485 Sg2554 N79"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n81.jpg"  ""    "Mi2605 Sn2646 Yt2487 Sg2556 N81"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n79.jpg"  ""    "Mi2603x Yt2485 Sg2554 N79"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n81.jpg"  ""    "Mi2605 Sn2646 Yt2487 Sg2556 N81"    "")
 STAMP_HEADING(HN 12 "Sawara hariko 'Mochi-tsuki usagi'\n(Chiba)\n13-11-1998" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n82.jpg"  ""    "Mi2606 Sn2647 Yt2488 Sg2557 N82"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n82.jpg"  ""    "Mi2606 Sn2647 Yt2488 Sg2557 N82"    "")
 STAMP_HEADING(HN 12 "Yamagata Hariko 'Tama-nori usagi'\n(Yamagata)\n13-11-1998" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n80.jpg"  ""    "Mi2604x Sn2645 Yt2486 Sg2555 N80"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n80.jpg"  ""    "Mi2604x Sn2645 Yt2486 Sg2555 N80"    "")
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n80A.jpg"  ""    "MiBL178 Sn2645a SgLMS56 N80A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n80A.jpg"  ""    "MiBL178 Sn2645a SgLMS56 N80A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n18-01-1999") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
@@ -1883,17 +1883,17 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 12.0)
-STAMP_ADD_IMG (26 30  "imagenes/n83.jpg"  ""    "Mi2830x Sn2722 Yt2707 Sg2673 N83"    "")
-STAMP_ADD_IMG (30 55  "imagenes/n85.jpg"  ""    "Mi2832 Sn2724 Yt2709 Sg2675 N85"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n83.jpg"  ""    "Mi2830x Sn2722 Yt2707 Sg2673 N83"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n85.jpg"  ""    "Mi2832 Sn2724 Yt2709 Sg2675 N85"    "")
 STAMP_HEADING(HN 12 "Karatsu Hikiyama ningyo\n'Shichihoumaru' y 'Hiryu'\n(Saga)\n15-11-1999" -21)
-STAMP_ADD_IMG (30 55  "imagenes/n86.jpg"  ""    "Mi2833 Sn2725 Yt2710 Sg2676 N86"    "")
+STAMP_ADD_IMG (26 51  "imagenes/n86.jpg"  ""    "Mi2833 Sn2725 Yt2710 Sg2676 N86"    "")
 STAMP_HEADING(HN 12 "\nTsuneishi hariko no tatsu\n(Hiroshima)\n15-11-1999" 21)
-STAMP_ADD_IMG (26 30  "imagenes/n84.jpg"  ""    "Mi2831x Sn2723 Yt2708 Sg2674 N84"    "")
+STAMP_ADD_IMG (22 26  "imagenes/n84.jpg"  ""    "Mi2831x Sn2723 Yt2708 Sg2674 N84"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (98 76 "imagenes/n84A.jpg"  ""    "MiBL183 SgLMS57 N84A"    "")
+STAMP_ADD_IMG (94 72 "imagenes/n84A.jpg"  ""    "MiBL183 SgLMS57 N84A"    "")
 STAMP_HEADING(HN 12 "HB premio loteria de Año Nuevo\n17-01-2000") 
 
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
