@@ -81,62 +81,58 @@ STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914DIu.jpg"  ""    "Mi914DIu Yt
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916DI.jpg"  ""    "Mi916DI Yt764Ab Sg1808a B"    "")
 
 
+#PAGE_START_VAR (1.0 10.0)
 PAGE_START
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
-
-PAGE_COLUMN_START
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
 
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/921.jpg"  ""    "Mi921 Sn1229 Yt768 Sg1813"    "")
-STAMP_HEADING (TN 14 "Inauguración del Palais de l'Europe\n(Estrasburgo)\n13-01-1977")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
-El Palais de l'Europe fué inaugurado en 1977 para sustituir al antiguo Maison de l'Europe como sede del Consejo de Europa, función que ha venido desempeñando desde entonces. Entre 1977 y 1999 sirvió también como sede del Parlamento Europeo.
-PAGE_TEXT_PARAGRAPH_END
+STAMP_HEADING (TN 10 "Inauguración del Palais de l'Europe\n(Estrasburgo)\n13-01-1977")
 
-PAGE_COLUMN_NEXT
-
-ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/926.jpg"  ""    "Mi926 Sn1244 Yt773 Sg1816"    "")
-STAMP_HEADING (TN 14 "Jean Monnet\nCiudadano de honor de Europa\n16-02-1977")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
-Jean Monnet (1888-1979) Fue un político francés, considerado unos de los padres fundadores de Europa. Junto con Robert Schuman, fue el máximo impulsor y primer presidente de la CECA (Comunidad Europea del Carbón y el Acero), considerada semilla de la CEE y la UE después. El sello conmemora la concesión del primer título de Ciudadano de honor de Europa, concedido por el Consejo Europeo a Monnet en abril de 1976.
-PAGE_TEXT_PARAGRAPH_END
-
-PAGE_COLUMN_STOP
-
-PAGE_COLUMN_START
-
-ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/922.jpg"  ""    "Mi922 Sn1230 Yt769 Sg1814"    "")
-STAMP_HEADING (TN 14 "Till Eulenspiegel (~1350)\n13-01-1977")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
-Till Eulenspiegel es un personaje del folklore del norte de Alemania y los Países Bajos. Según la tradición habría nacido en Kneitlinger (ducado de Brunswick) en torno al 1300, y habría muerto en 1350 en Mölln. Gran viajero y tunante, es un personaje amante de la diversión, irreverente y siempre dispuesto a hacer burla de los demás.
-PAGE_TEXT_PARAGRAPH_END
+STAMP_HEADING (TN 10 "Till Eulenspiegel (~1350)\n13-01-1977")
 
-PAGE_COLUMN_NEXT
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/926.jpg"  ""    "Mi926 Sn1244 Yt773 Sg1816"    "")
+STAMP_HEADING (TN 10 "Jean Monnet\nCiudadano de honor de Europa\n16-02-1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
 
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/927.jpg"  ""    "Mi927 Sn1245 Yt774 Sg1817"    "")
-STAMP_HEADING (TN 14 "XXV Bundesgartenschau\n14-04-1977")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
-La Bundesgartenschau (Feria federal del jardín, abreviado BUGA) es la mayor exhibición hortícola, de jardinería y paisajismo de Alemania, celebrada de forma bienal. No tiene sede fija, sino que su localización cambia cada vez. El sello celebra la vigesimo quinta exibición, celebrada en Stuttgart en 1977.
-PAGE_TEXT_PARAGRAPH_END
+STAMP_HEADING (TN 10 "\nXXV Bundesgartenschau\n14-04-1977")
 
-PAGE_COLUMN_STOP
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/928.jpg"  ""    "Mi928 Sn1246 Yt775 Sg1818"    "")
+STAMP_HEADING (TN 10 "Bicentenario\nCarl Friederich Gauss\n14-04-1977")
 
-PAGE_COLUMN_START
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/933.jpg"  ""    "Mi933 Sn1247 Yt780 Sg1823"    "")
+STAMP_HEADING (TN 10 "Federico Barbarroja\nAño de la casa Staufen\n14-04-1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Pro Juventud - Barcos históricos alemanes")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/929.jpg"  ""    "Mi929 SnB538 Yt776 Sg1819"    "")
+STAMP_HEADING (TN 10 "Wappen von Hamburg (1669)\n14-04-1977")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/930.jpg"  ""    "Mi930 SnB539 Yt777 Sg1820"    "")
+STAMP_HEADING (TN 10 "Preussen\n14-04-1977")
 
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/928.jpg"  ""    "Mi928 Sn1246 Yt775 Sg1818"    "")
-STAMP_HEADING (TN 14 "Bicentenario Carl Friederich Gauss\n14-04-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/931.jpg"  ""    "Mi931 SnB540 Yt778 Sg1821"    "")
+STAMP_HEADING (TN 10 "Bremen\n14-04-1977")
 
-PAGE_COLUMN_NEXT
-
-PAGE_TEXT_PARAGRAPH_START(TN 10 JUSTIFIED 5)
-Johann Carl Friedrich Gauss (Brunswick, 30 de abril de 1777 - Gotinga, 23 de febrero de 1855) fue un matemático, astrónomo, y físico alemán que contribuyó significativamente en muchos ámbitos, incluida la teoría de números, el análisis matemático, la geometría diferencial, la estadística, el álgebra, la geodesia, el magnetismo y la óptica. Considerado ya en vida como Princeps Mathematicorum,​ Gauss ha tenido una influencia notable en muchos campos de la matemática y de la ciencia. Fue de los primeros en extender el concepto de divisibilidad a otros conjuntos además de los números enteros.\n\nEl sello muestra el Plano Complejo o Plano de Gauss, usado para visualizar los números complejos.
-PAGE_TEXT_PARAGRAPH_END
-
-PAGE_COLUMN_STOP
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/932.jpg"  ""    "Mi932 SnB541 Yt779 Sg1822"    "")
+STAMP_HEADING (TN 10 "Sturmfels\n14-04-1977")
 
 
-#STAMP_ADD_IMG (47.0 60.0  "imagenes/Alemania_RFA/gauss.jpg"  ""    ""    ""  NO_FRAME)
+PAGE_START
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Europa (C.E.P.T.) 1977 - Landscapes")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/934.jpg"  ""    "Mi934 Sn1248 Yt781 Sg1824"    "")
+STAMP_HEADING (TN 10 "Motorway section of the Rhön\n17-05-1977")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/935.jpg"  ""    "Mi935 Sn1249 Yt782 Sg1825"    "")
+STAMP_HEADING (TN 10 "Rhine landscape with Siebengebirge\n17-05-1977")
+
