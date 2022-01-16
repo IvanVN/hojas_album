@@ -1,0 +1,176 @@
+################################################################################
+# AlbumEasy file: Alemania_RDA_1977.txt
+# Generated:      18:49, sa. ene. 15, 2022
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Alemania (RDA) 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+#ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+ALBUM_PAGES_HEADER (TB 10 C "Alemania (RDA) - 1977")
+#ALBUM_PAGES_HEADER (TB 16 R "1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Alemania\n(República Democrática)")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Deutsche Demokratische Republik")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Alemania_RDA/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (28.0 36.0  "imagenes/Alemania_RDA/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Alemania_RDA/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Personalidades")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2199.png"  ""    "Mi2199 Sn1792 Yt1875 SgE1914"    "")
+STAMP_HEADING (TN 10 "Arnold Zweig (1887-1968), escritor\n08-02-1977")
+#https://es.wikipedia.org/wiki/Arnold_Zweig
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2200.png"  ""    "Mi2200 Sn1793 Yt1876 SgE1915"    "")
+STAMP_HEADING (TN 10 "Otto Von Guericke (1602-1686), físico\n08-02-1977")
+#https://es.wikipedia.org/wiki/Otto_von_Guericke
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2201.png"  ""    "Mi2201 Sn1794 Yt1877 SgE1916"    "")
+STAMP_HEADING (TN 10 "Albrecht Daniel Thaer (1752-1828), politólogo\n08-02-1977")
+#https://de.wikipedia.org/wiki/Albrecht_Daniel_Thaer
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2202.png"  ""    "Mi2202 Sn1795 Yt1878 SgE1917"    "")
+STAMP_HEADING (TN 10 "Gustav Hertz (1887-1975), físico\n08-02-1977")
+#https://es.wikipedia.org/wiki/Gustav_Hertz
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Monumentos naturales")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2203.png"  ""    "Mi2203 Sn1796 Yt1879 SgE1918"    "")
+STAMP_HEADING (TN 10 "Fuente de Plaue (Plaue)\n24-02-1977")
+#https://de.wikipedia.org/wiki/Spring_von_Plaue
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2204.png"  ""    "Mi2204 Sn1797 Yt1880 SgE1919"    "")
+STAMP_HEADING (TN 10 "Pequeño órgano (Jonsdorf)\n24-02-1977")
+#https://en.wikipedia.org/wiki/M%C3%BChlsteinbr%C3%BCche
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2205.png"  ""    "Mi2205 Sn1798 Yt1881 SgE1920"    "")
+STAMP_HEADING (TN 10 "Robles de Ivenack (Stavenhagen)\n24-02-1977")
+#https://de.wikipedia.org/wiki/Ivenacker_Eichen
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2206.png"  ""    "Mi2206 Sn1799 Yt1882 SgE1921"    "")
+STAMP_HEADING (TN 10 "Rosa de piedra (Saalburg)\n24-02-1977")
+#https://en.wikipedia.org/wiki/Steinerne_Rose
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2207.png"  ""    "Mi2207 Sn1800 Yt1883 SgE1922"    "")
+STAMP_HEADING (TN 10 "Rocas de Rauenscher (Fürstenwalde)\n24-02-1977")
+#https://de.wikipedia.org/wiki/Markgrafensteine
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Feria de primavera de Leipzig")
+#https://es.wikipedia.org/wiki/Feria_de_Leipzig
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2208.png"  ""    "Mi2208 Sn1801 Yt1884 SgE1923"    "")
+STAMP_HEADING (TN 10 "Casa de la feria en el mercado\n08-03-1977")
+#https://de.wikipedia.org/wiki/Messehaus_am_Markt
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2209.png"  ""    "Mi2209 Sn1802 Yt1885 SgE1924"    "")
+STAMP_HEADING (TN 10 "Planta de metales ligeros\n08-03-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Trajes tradicionales de Sorabia")
+#https://es.wikipedia.org/wiki/Serbia_Blanca
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0 "imagenes/Alemania_RDA/2210.png"  ""    "Mi2210 Sn1803 Yt1886 SgE1925"    "")
+STAMP_HEADING (TN 10 "Seftenberg\n22-03-1977")
+STAMP_ADD_IMG (26.0 43.0 "imagenes/Alemania_RDA/2211.png"  ""    "Mi2211 Sn1804 Yt1887 SgE1926"    "")
+STAMP_HEADING (TN 10 "Bautzen\n22-03-1977")
+STAMP_ADD_IMG (26.0 43.0 "imagenes/Alemania_RDA/2212.png"  ""    "Mi2212 Sn1805 Yt1888 SgE1927"    "")
+STAMP_HEADING (TN 10 "Klitten\n22-03-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0 "imagenes/Alemania_RDA/2213.png"  ""    "Mi2213 Sn1806 Yt1889 SgE1928"    "")
+STAMP_HEADING (TN 10 "Nochten\n22-03-1977")
+STAMP_ADD_IMG (26.0 43.0 "imagenes/Alemania_RDA/2214.png"  ""    "Mi2214 Sn1807 Yt1890 SgE1929"    "")
+STAMP_HEADING (TN 10 "Muskau\n22-03-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2215.png"  ""    "Mi2215 Sn1811 Yt1891 SgE1930"    "")
+STAMP_HEADING (TN 10 "Bicentenario de Carl Friedrich Gauß (1777-1855)\n19-04-1977")
+#https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "30º Carrera de la Paz")
+#https://es.wikipedia.org/wiki/Carrera_de_la_Paz
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (27.5 33.0  "imagenes/Alemania_RDA/2216.png"  ""    "Mi2216 Sn1808 Yt1892 SgE1931"    "")
+STAMP_HEADING (TN 10 "Cambio de rueda\n19-04-1977")
+STAMP_ADD_IMG (27.5 33.0  "imagenes/Alemania_RDA/2217.png"  ""    "Mi2217 Sn1809 Yt1893 SgE1932"    "")
+STAMP_HEADING (TN 10 "Sprint\n19-04-1977")
+STAMP_ADD_IMG (27.5 33.0  "imagenes/Alemania_RDA/2218.png"  ""    "Mi2218 Sn1810 Yt1894 SgE1933"    "")
+STAMP_HEADING (TN 10 "Llegada\n19-04-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (84.0 33.0  "imagenes/Alemania_RDA/WZd346.png"  ""    "MiWZd346 Sn1810a Yt1894A SgE1931a"    "")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 41.0  "imagenes/Alemania_RDA/2219.png"  ""    "Mi2219 Sn1812 Yt1895 SgE1934"    "")
+STAMP_HEADING (TN 10 "9º congreso Federación Alemana de Sindicatos Libres (FDBG)\n03-05-1977")
+#https://es.wikipedia.org/wiki/Federaci%C3%B3n_Alemana_de_Sindicatos_Libres
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "25º aniversario de la Asociación para el Deporte y la Tecnología")
+#https://en.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Sport_und_Technik
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2220.png"  ""    "Mi2220 Sn1814 Yt1897 SgE1936"    "")
+STAMP_HEADING (TN 10 "Tiro deportivo\n17-05-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2221.png"  ""    "Mi2221 Sn1815 Yt1898 SgE1937"    "")
+STAMP_HEADING (TN 10 "Buceo\n17-05-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2222.png"  ""    "Mi2222 Sn1816 Yt1899 SgE1938"    "")
+STAMP_HEADING (TN 10 "Modelismo y radiocontrol\n17-05-1977")
