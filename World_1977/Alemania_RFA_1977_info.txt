@@ -20,43 +20,246 @@ ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
 ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
 ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
 #ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
-ALBUM_PAGES_SPACING  (5.0 4.0)             #set horizontal & vertical spacing for elements on a page
+ALBUM_PAGES_SPACING  (5.0 2.0)             #set horizontal & vertical spacing for elements on a page
                                        
 #ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
 
 ROW_ALIGN_MIDDLE
 
+
 PAGE_START
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT(TB 14 "Inauguración del Palais de l'Europe")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+PAGE_TEXT(TB 12 "Palacio de Glücksburg")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo de Ludwigstein")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo de Eltz")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo de Neuschwanstein")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo Marksburg")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo Mespelbrunn")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo de Pfaueninsel")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Castillo de Bürresheim")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT(TB 12 "Inauguración del Palais de l'Europe")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
 El Palais de l'Europe fué inaugurado en 1977 para sustituir al antiguo Maison de l'Europe como sede del Consejo de Europa, función que ha venido desempeñando desde entonces. Entre 1977 y 1999 sirvió también como sede del Parlamento Europeo.
 PAGE_TEXT_PARAGRAPH_END
 
-PAGE_TEXT(TB 14 "Jean Monnet, Ciudadano de honor de Europa")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+PAGE_TEXT(TB 12 "Jean Monnet, Ciudadano de honor de Europa")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
 Jean Monnet (1888-1979) Fue un político francés, considerado unos de los padres fundadores de Europa. Junto con Robert Schuman, fue el máximo impulsor y primer presidente de la CECA (Comunidad Europea del Carbón y el Acero), considerada semilla de la CEE y la UE después. El sello conmemora la concesión del primer título de Ciudadano de honor de Europa, concedido por el Consejo Europeo a Monnet en abril de 1976.
 PAGE_TEXT_PARAGRAPH_END
 
-PAGE_TEXT(TB 14 "Till Eulenspiegel (~1350)")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+PAGE_TEXT(TB 12 "Till Eulenspiegel (~1350)")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
 Till Eulenspiegel es un personaje del folklore del norte de Alemania y los Países Bajos. Según la tradición habría nacido en Kneitlinger (ducado de Brunswick) en torno al 1300, y habría muerto en 1350 en Mölln. Gran viajero y tunante, es un personaje amante de la diversión, irreverente y siempre dispuesto a hacer burla de los demás.
 PAGE_TEXT_PARAGRAPH_END
 
-PAGE_TEXT(TB 14 "25º Bundesgartenschau")
-PAGE_TEXT_PARAGRAPH_START (TN 10 JUSTIFIED 5)
+PAGE_TEXT(TB 12 "25º Bundesgartenschau")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
 La Bundesgartenschau (Feria federal del jardín, abreviado BUGA) es la mayor exhibición hortícola, de jardinería y paisajismo de Alemania, celebrada de forma bienal. No tiene sede fija, sino que su localización cambia cada vez. El sello celebra la vigesimo quinta exibición, celebrada en Stuttgart en 1977.
 PAGE_TEXT_PARAGRAPH_END
 
-PAGE_TEXT(TB 14 "Bicentenario de Carl Friederich Gauss")
-PAGE_TEXT_PARAGRAPH_START(TN 10 JUSTIFIED 5)
-Johann Carl Friedrich Gauss (Brunswick, 30 de abril de 1777 - Gotinga, 23 de febrero de 1855) fue un matemático, astrónomo, y físico alemán que contribuyó significativamente en muchos ámbitos, incluida la teoría de números, el análisis matemático, la geometría diferencial, la estadística, el álgebra, la geodesia, el magnetismo y la óptica. Considerado ya en vida como Princeps Mathematicorum,​ Gauss ha tenido una influencia notable en muchos campos de la matemática y de la ciencia. Fue de los primeros en extender el concepto de divisibilidad a otros conjuntos además de los números enteros.\n\nEl sello muestra el Plano Complejo o Plano de Gauss, usado para visualizar los números complejos.
+PAGE_TEXT(TB 12 "Bicentenario de Carl Friederich Gauss")
+PAGE_TEXT_PARAGRAPH_START(TN 9 JUSTIFIED 5)
+Johann Carl Friedrich Gauss (Brunswick, 30 de abril de 1777 - Gotinga, 23 de febrero de 1855) fue un matemático, astrónomo, y físico alemán que contribuyó significativamente en muchos ámbitos, incluida la teoría de números, el análisis matemático, la geometría diferencial, la estadística, el álgebra, la geodesia, el magnetismo y la óptica. Considerado ya en vida como Princeps Mathematicorum,​ Gauss ha tenido una influencia notable en muchos campos de la matemática y de la ciencia. Fue de los primeros en extender el concepto de divisibilidad a otros conjuntos además de los números enteros.\nEl sello muestra el Plano Complejo o Plano de Gauss, usado para visualizar los números complejos.
 PAGE_TEXT_PARAGRAPH_END
 
-PAGE_TEXT(TB 14 "Federico Barbarroja - Año de la casa Staufen")
-PAGE_TEXT_PARAGRAPH_START(TN 10 JUSTIFIED 5)
-Los Hohenstaufen o Staufen, también conocidos como gibelinos, fueron una dinastía de emperadores del Sacro Imperio Romano Germánico, monarcas de Alemania y de Sicilia, originaria de la región de Suabia. Federico I de Hohenstaufen (Friedrich I, en alemán), llamado 'Barbarroja' por el color de su barba (cerca de Ravensburg, 1122-Río Saleph, 10 de junio de 1190) fue desde 1147 duque de Suabia con el nombre de Federico III, desde 1152 rey de los Romanos y a partir de 1155 emperador del Sacro Imperio Romano Germánico. El reinado de Barbarroja representó el apogeo del Sacro Imperio Romano Germánico, siendo el primero que le dio ese nombre.\n\n
+PAGE_TEXT(TB 12 "Federico Barbarroja - Año de la casa Staufen")
+PAGE_TEXT_PARAGRAPH_START(TN 9 JUSTIFIED 5)
+Los Hohenstaufen o Staufen, también conocidos como gibelinos, fueron una dinastía de emperadores del Sacro Imperio Romano Germánico, monarcas de Alemania y de Sicilia, originaria de la región de Suabia. Federico I de Hohenstaufen (Friedrich I, en alemán), llamado 'Barbarroja' por el color de su barba (cerca de Ravensburg, 1122-Río Saleph, 10 de junio de 1190) fue desde 1147 duque de Suabia con el nombre de Federico III, desde 1152 rey de los Romanos y a partir de 1155 emperador del Sacro Imperio Romano Germánico. El reinado de Barbarroja representó el apogeo del Sacro Imperio Romano Germánico, siendo el primero que le dio ese nombre.\n
 Conmemorando el Año de la casa Staufen, en honor al 25º aniversario del estado Baden-Württemberg, el sello muestra un busto de oro de Federico I, regalado a su padrino, el conde Otto de Cappenberg, en 1171. Fue utilizado como relicario en la abadía de Cappenberg se afirma en la carta del regalo haber sido creada "a imagen del emperador".
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Wapen von Hamburg (1669)")
+PAGE_TEXT_PARAGRAPH_START(TN 9 JUSTIFIED 5)
+Die Wapen von Hamburg (El arma de Hamburgo), fue un navío de convoy de la ciudad de Hamburgo, por entonces miembro de la Liga Hanseática.
+Fue encargado por el Almirantazgo de Hamburgo y la flota mercante y tenía la tarea de acompañar a los convoyes comerciales de Hamburgo y sus socios, protegiéndolos de ataques enemigos, corsarios y piratas. Después de escoltar once convoys, el barco sufrió un incendio a bordo y explotó en el puerto de Cádiz en 1683. En el accidente murió el almirante Berend Jacobsen Karpfanger, que era considerado un héroe en Hamburgo por su exitosa lucha contra los piratas.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Preussen (1902)")
+PAGE_TEXT_PARAGRAPH_START(TN 9 JUSTIFIED 5)
+El Preussen (Prusia) fue un velero de cinco mástiles y casco de acero construido en 1902 para la naviera F. Laeisz. En su día era el único navío del mundo con cinco mástiles y seis velas en cada mástil, hasta la botadura del Royal Clipper en el año 2000. De sólida construcción, destacó por su velocidad y capacidad en aguas tormentosas. Realizó doce viajes de ida y vuelta entre Hamburgo y Chile comerciando con salitre y una vueltra al mundo vía Nueva York y Yokohama. Durante su 14º viaje encalló cerca de Dover tras colisionar con el vapor Brighton. 
+PAGE_TEXT_PARAGRAPH_END
+#https://www.wikiwand.com/en/Preussen_(ship)
+
+PAGE_TEXT(TB 12 "SS Bremen (1929)")
+PAGE_TEXT_PARAGRAPH_START(TN 9 JUSTIFIED 5)
+El SS Bremen fue un moderno transatlántico alemán perteneciente a la naviera Norddeutscher Lloyd, que sirvió como buque expreso de pasajeros entre los años 1929 y 1939, y como buque de apoyo de la Kriegsmarine durante la Segunda Guerra Mundial hasta 1942, cuando fue semidestruido por un incendio intencional. En el momento de su construcción, este buque y su barco hermano el SS Europa eran los dos transatlánticos de turbina de vapor de alta velocidad más avanzados de su época, ganando la prestigiosa Banda Azul al cruce más rapido del Atlántico en 1929. La pareja alemana provocó una competencia internacional en la construcción de transatlánticos grandes, rápidos y lujosos que fueron símbolos nacionales y puntos de prestigio durante los años de la preguerra de la década de 1930. 
+PAGE_TEXT_PARAGRAPH_END
+#https://es.wikipedia.org/wiki/SS_Bremen_(1929)
+
+PAGE_TEXT(TB 12 "Sturmfels (1972)")
+PAGE_TEXT_PARAGRAPH_START(TN 9 JUSTIFIED 5)
+El Sturmfels fue el décimo y último carguero de la clase ST (también conocida como clase Steinfels o Tipo ST) de la naviera Deutsche Dampfschifffahrts-Gesellschaft "Hansa" (DDG Hansa) de Bremen, Alemania. Los astilleros Lübecker Flender-Werke construyeron las diez unidades de la serie en tres versiones distintas entre 1969 y 1972. El Sturmfels se construyó como buque escuela para la asociación de navieras alemana, con capacidad para 38 cadetes de náutica y 12 técnicos. A partir de 1980 y hasta su desguace en 1996 fue usado como buque de carga bajo diferentes nombres y pabellones: Iberia (1980-1984), Kota Jaya (1984-1993) y Orantus (1993-1996).
+PAGE_TEXT_PARAGRAPH_END
+#https://es.wikipedia.org/wiki/SS_Bremen_(1929)
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT(TB 12 "Autopista en el Rhön")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+El Rhön es, con sus 950,2 m, uno de los sistemas montañosos más altos de Alemania, ubicado en la frontera con los estados federales de Baviera, Hesse y Turingia y su territorio es en la actualidad una reserva natural, la Reserva de la biosfera de Rhön (Biosphärenreservat Rhön). Los montes son parte de una erupción volcánica. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Tren contra el Rin y las Siebengebirge")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Las Siebengebirge (en alemán “Siete Colinas”), en ocasiones montañas Sieben, son una cadena montañosa de las tierras altas centrales alemanas en la orilla este del Rin Medio, al sureste de Bonn. El área, ubicada en los municipios de Bad Honnef y Königswinter, consta de más de 40 colinas. Las colinas son de origen volcánico antiguo y surgieron hace entre 28 y 15 millones de años. Gran parte del territorio cubierto por las montañas Sieben pertenece al Parque Natural Sieben Hills (Naturpark Siebengebirge), que se encuentra bajo protección ambiental. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Jugendstil")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Jugendstil, literalmente “estilo joven o de la juventud”, designa la variante del Art Nouveau o Modernismo que surgió en Alemania durante la última década del siglo XIX. El término provenía del título de la revista Jugend, la cual, fundada por Georg Hirth en Munich en 1896, desempeñó un papel importante en la popularización del nuevo estilo.\n\n
+Influidos por las ideas reformistas de John Ruskin (1819-1900) y William Morris, los diseñadores del Jugendstil, como Hermann Obrist, Richard Riemerschmid y August Endell, tenían unos objetivos más idealistas que sus contemporáneos europeos ligados al estilo Art Nouveau. No sólo pretendían reformar el arte sino también recuperar un estilo de vida más sencillo y menos condicionado por los imperativos comerciales. Compartían el optimismo de la juventud y un gran respeto por la naturaleza que trasladaron a toda su obra.\n\n
+Los diseñadores del Jugendstil se inspiraban en el funcionamiento del mundo natural que revelaban los avances en investigación científica y tecnológica. Las formas orgánicas y los motivos vegetales manieristas estaban directamente influenciados por estudios fotográficos de estructuras vegetales y por dibujos botánicos. Estos detallados estudios ayudaron a comprender mejor la naturaleza, lo que permitió a los diseñadores del Jugendstil dotar a su obra de un gran sentido del dinamismo y de un fuerte desarrollo orgánico.
+PAGE_TEXT_PARAGRAPH_END
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT(TB 12 "400º aniversario Rubens (1577-1640)")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Peter Paul Rubens (Siegen, Sacro Imperio Romano Germánico, actual Alemania, 28 de junio de 1577 - Amberes, Flandes (Países Bajos Españoles), actual Bélgica, 30 de mayo de 1640) fue un pintor barroco considerado uno de los máximos exponentes de la escuela flamenca. Su estilo exuberante enfatiza el dinamismo, el color y la sensualidad. Sus principales influencias procedieron del arte de la Antigua Grecia, de la Antigua Roma y de la pintura renacentista.\n​
+Trató una amplia variedad de temas pictóricos: religiosos, históricos, de mitología clásica, escenas de caza, paisajes, retratos; así como dibujos, ilustraciones para libros y diseños para tapices. Se conservan aproximadamente mil quinientos cuadros suyos, siendo la mayor colección la del Museo del Prado, con unos 90 cruadros, al ser Felipe IV de España su principal cliente. Una producción tan elevada fue posible a la extensión de su taller, tanto de integrantes como de proporción, donde al parecer trabajaban en cadena.  
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Bicentenario Otto Runge (1777-1810)")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Philip Otto Runge (Wolgast, 23 de julio de 1777 - Hamburgo, 2 de diciembre de 1810) fue un pintor y dibujante romántico alemán. Pese a que murió joven tanto su figura como su obra destacan por su hondura intelectual y fue modelo de artista-filósofo. Como Friedrich, a quien conoció personalmente, nació en la región después llamada Prusia, estudió arte en Copenhague y Dresde y estuvo muy interesado en la idea de dar un nuevo contenido simbolista al arte contemporáneo, incorporándolo, no a asuntos religiosos, sino a nuevos temas y géneros menores, causando cierta polémica. Hoy se considera una figura fundamental del Romanticismo alemán y su obra, escasa e intensa como su vida, se centró en el retrato.\n
+El sello muestra un detalle de la pintura "La mañana" (1809), en la que representó el amanecer, cuyo colorido impregna el paisaje. El detalle se encuentra en la parte superior, donde sobre un lirio (símbolo de pureza), un grupo de ángeles rodea al lucero del alba (Venus).
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "600º aniversario Ulmer Münster")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+La Iglesia mayor de Ulm (“Ulmer Münster”) es la principal iglesia luterana de la ciudad alemana de Ulm. El edificio, de estilo gótico del siglo XIV, fue terminado en el siglo XIX.​ Es la iglesia más alta del mundo, con una aguja de 161,53 metros de altura. Inicialmente fue una iglesia católica, pero después de la Reforma (1529) pasó a ser protestante. Desde su extremo superior se disfruta una inmejorable vista de la ciudad de Ulm en Baden-Wurtemberg y de Nuevo Ulm en Baviera, y en días de cielo despejado, cuando sopla el viento foehn, se pueden ver los Alpes, desde el Säntis hasta el Zugspitze. Desde un punto de vista eclesiástico, no es una catedral, ya que en ella nunca ha residido un obispo. Pertenece a la prelatura de Ulm dentro de la Iglesia evangélica en Alemania. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Universidad de Maguncia")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+La Universidad Johannes Gutenberg de Maguncia (en alemán, Johannes Gutenberg-Universität Mainz, abreviado JGU) es una universidad situada en Maguncia, Renania-Palatinado, Alemania, en honor al impresor Johannes Gutenberg. Fundada en 1477 y con unos 33.000 estudiantes (2016) en unas 150 escuelas y clínicas, se la considera una de las más antiguas y mayores universidades de Alemania. El sello muestra un lacre con el emblema de la universidad y su lema "Ut omnes unum sint" («Que todo sea uno»).
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Universidad de Marburgo")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+La Universidad de Marburgo (en alemán, Philipps-Universität Marburg) es una universidad de Alemania fundada en 1527 por Felipe I de Hesse, lo que la convierte en la primera y más antigua universidad protestante del mundo. Fue la universidad principal del landgraviato de Hesse y se mantiene como universidad de carácter público de ese estado alemán. Con alrededor de 20,000 estudiantes y 7,500 empleados, hace de Marburgo, una ciudad con menos de 80,000 habitantes, la "ciudad universitaria" (Universitätsstadt) por antonomasia. La facultad de medicina es de gran tradición, denominándose la sociedad de médicos alemanes como "Marburger Bund". También fue la primera universidad del mundo en establecer una cátedra de química en 1609. El sello muestra un lacre con el emblema de la universidad.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Universidad de Tubinga")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+La Universidad de Tubinga (nombre original: Eberhard Karls Universität Tübingen, también conocida como "Eberhardina") es una universidad pública localizada en la ciudad de Tubinga (Baden-Wurtemberg, Alemania). Establecida en 1477, es una de las universidades más antiguas de Alemania, con reconocimiento internacional en los campos de la Medicina, las Ciencias Naturales y las Humanidades. Tübingen es una de las cinco clásicas ciudades universitarias en Alemania, siendo las otras cuatro Marburgo, Gotinga, Friburgo de Brisgovia y Heidelberg. La Universidad ha tenido varios alumnos laureados con el Premio Nobel, especialmente en los campos de la Medicina y de la Química. Actualmente, posee unos 24 000 estudiantes matriculados y los 17 hospitales afiliados a la Universidad atienden a decenas de miles de pacientes anualmente. El sello muestra un lacre con el emblema de la universidad.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Wilhelm Emmanual von Kettler")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Wilhelm Emmanuel Freiherr von Ketteler (Münster, 25 de diciembre de 1811 - Burghausen, 13 de julio de 1877) fue un teólogo, reformista y político alemán, que sirvió como obispo de Maguncia y fue miembro del Reichtag. El sello muestra su escudo de armas en conmemoración del centenario de su muerte. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Fritz von Bodelschwingh")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Friedrich "Fritz" von Bodelschwingh (14 de agosto de 1877 - 4 de enero de 1946), también conocido como Friedrich von Bodelschwingh el joven, fue un pastor aleman, teólogo y defensor de la salud pública. Su padre fue Friedrich von Bodelschwingh el viejo (Tecklenburg, 6 de marzo de 1831 – Bethel, 2 de abril de 1910), fundador de la fundación benéfica Bodelschwinghsche Anstalten Bethel. Es famoso por su activa oposición a las posturas nazis sobre la eutanasia y la esterilización forzada.
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Escudo de correos de Hamburgo (1861)")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+En conmemoración del dia del sello, se muestra el emblema histórico de la oficina de correos de la ciudad autónoma de Hamburgo previo a la unificación alemana. Este emblema combina el escudo de armas de la ciudad con la típica corneta de posta, símbolo de correos.
+PAGE_TEXT_PARAGRAPH_END
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT(TB 12 "Patrimonio arqueológico")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+El primer sello muestra el sombrero de oro de Schifferstadt fue descubierto en 1835 en un prado cerca del pueblo de Schifferstadt. Es un artefacto de la edad de bronce compuesto por una fina capa de oro que servía como decoración externa para un tocado (no conservado) de algún material orgánico.\n\n
+El segundo sello muestra un casco dorado proveniete de la tumba del príncipe de Arpvar, del perído Merovingio, descubierta en 1962 en Gellep-Stratum, Renania del Norte-Westfalia. La tumba, fechada alrededor del 500 d.C., estaba intacta y ricamente amueblada. En sus proximidades había cientos de enterramientos más sencillos y cinco tumbas sorprendentemente grandes, que se atribuyen a miembros de la alta nobleza franca.\n\n
+La cabeza de centauro de Schwartzacker fue encontrada a principios del siglo XIX en una necrópolis romana en el pueblo de Einöd, en Homburg (Saarland). El pueblo había sido fundado en un campo de tierra negra ('Schwartzacker') que contenía cenizas y se creía el lugar de una antigua ciudad romana. Excavaciones realizadas en la segunda mitad del siglo XX mostraron restos de una ciudad que se considera una de las más importantes al norte de los Alpes. La ciudad fue destruída en un incendio hacía el 275 d.C. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Centenario del teléfono")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Johann Andreas Eisenbarth")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Alcaravea")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Diente de león")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Trébol rojo")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Salvia")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT(TB 12 "Wilhelm Hauff")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
+PAGE_TEXT_PARAGRAPH_END
+
+PAGE_TEXT(TB 12 "Vidriera")
+PAGE_TEXT_PARAGRAPH_START (TN 9 JUSTIFIED 5)
+Lorem ipsum sit dolor ames. 
 PAGE_TEXT_PARAGRAPH_END

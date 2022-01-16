@@ -23,116 +23,260 @@ ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
 ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
                                        
 #ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+ALBUM_PAGES_HEADER (TB 10 C "Alemania (RFA) - 1977")
+#ALBUM_PAGES_HEADER (TB 16 R "1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
 
 ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Alemania\n(República Federal)")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Bundesrepublik Deutschland")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Alemania_RFA/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (28.0 36.0  "imagenes/Alemania_RFA/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Alemania_RFA/mapa_g.png"  ""    ""    ""  NO_FRAME)
+
 
 PAGE_START
 
 # First page heading
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
-PAGE_TEXT_CENTRE (TN 25 "Alemania (RFA)\n1977" -16)   # draw thetitle text with a negative amount of blank space after it
-#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
-ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (30.0 18.0  "imagenes/Alemania_RFA/bandera.png"  ""    ""    ""  NO_FRAME)
-STAMP_ADD_BLANK (70 15.0) 
-STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
-STAMP_ADD_IMG (14.0 18.0  "imagenes/Alemania_RFA/escudo.png"  ""    ""    ""  NO_FRAME)
-STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
-#STAMP_ADD_IMG (30 18.0  "imagenes/Alemania_RFA/escudo.png"  ""    ""    ""  NO_FRAME)
-#ALBUM_STAMP_IMG_SETTING (2.0 2.0 false)
+#PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE (TN 25 "Alemania (RFA)\n1977" -16)   # draw thetitle text with a negative amount of blank space after it
+#ROW_START_FS (HN 6 0.1 6.0)
+#STAMP_ADD_IMG (30.0 18.0  "imagenes/Alemania_RFA/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+#STAMP_ADD_IMG (14.0 18.0  "imagenes/Alemania_RFA/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
 
-PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "Serie básica - Castillos y fortalezas")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913AIu.jpg"  ""    "Mi913AIu Sn1231 Yt762 Sg1805"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913AIu.png"  ""    "Mi913AIu Sn1231 Yt762 Sg1805"    "")
 STAMP_HEADING (TN 10 "Palacio de Glücksburg\nSchleswig-Holstein, s. XVI\n14-04-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914AIu.jpg"  ""    "Mi914AIu Sn1234 Yt763 Sg180"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914AIu.png"  ""    "Mi914AIu Sn1234 Yt763 Sg180"    "")
 STAMP_HEADING (TN 10 "Castillo de Ludwigstein\nHesse, s. XV\n14-04-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/915AI.jpg"  ""    "Mi915AI Sn1235 Yt764 Sg1807"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/915AI.png"  ""    "Mi915AI Sn1235 Yt764 Sg1807"    "")
 STAMP_HEADING (TN 10 "Castillo de Eltz\nRenania-Palatinado, s. XII\n14-04-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916AI.jpg"  ""    "Mi916AI Sn1236 Yt764A Sg1808"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916AI.png"  ""    "Mi916AI Sn1236 Yt764A Sg1808"    "")
 STAMP_HEADING (TN 10 "Castillo de Neuschwanstein\nBaviera, s. XIX\n17-05-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/917AI.jpg"  ""    "Mi917AI Sn1237 Yt765 Sg1809"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/917AI.png"  ""    "Mi917AI Sn1237 Yt765 Sg1809"    "")
 STAMP_HEADING (TN 10 "Castillo Marksburg\nRenania-Palatinado, s. XIII\n13-01-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/918AI.jpg"  ""    "Mi918AI Sn1238 Yt765A Sg1810"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/918AI.png"  ""    "Mi918AI Sn1238 Yt765A Sg1810"    "")
 STAMP_HEADING (TN 10 "Castillo Mespelbrunn\nBaviera, s. XV\n17-05-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/919AI.jpg"  ""    "Mi919AI Sn1240 Yt766 Sg1811"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/919AI.png"  ""    "Mi919AI Sn1240 Yt766 Sg1811"    "")
 STAMP_HEADING (TN 10 "Castillo de Pfaueninsel\nBerlín, s. XVIII\n16-02-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/920AI.jpg"  ""    "Mi920AI Sn1240A Yt767 Sg1812"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/920AI.png"  ""    "Mi920AI Sn1240A Yt767 Sg1812"    "")
 STAMP_HEADING (TN 10 "Castillo de Bürresheim\nRenania-Palatinado, s. XII\n13-01-1977")
 
-PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 14 "Sellos provenientes de carnet")
 ROW_START_FS (HN 6 0.1 20.0)
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913CIu.jpg"  ""    "Mi913CIu Sg1805a"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913CIu.png"  ""    "Mi913CIu Sg1805a"    "")
 STAMP_HEADING (TN 10 "Palacio de Glücksburg\n01-06-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914CIu.jpg"  ""    "Mi914CIu Sg1806a T"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914CIu.png"  ""    "Mi914CIu Sg1806a T"    "")
 STAMP_HEADING (TN 10 "Castillo de Ludwigstein\n01-06-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916CI.jpg"  ""    "Mi916CI Sg1808a T"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916CI.png"  ""    "Mi916CI Sg1808a T"    "")
 STAMP_HEADING (TN 10 "castillo de Neuschwanstein\n01-06-1977")
 
 ROW_START_FS (HN 6 0.1 20.0)
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913DIu.jpg"  ""    "Mi913DIu Yt762b"    "")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914DIu.jpg"  ""    "Mi914DIu Yt763b Sg1806a B"    "")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916DI.jpg"  ""    "Mi916DI Yt764Ab Sg1808a B"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913DIu.png"  ""    "Mi913DIu Yt762b"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914DIu.png"  ""    "Mi914DIu Yt763b Sg1806a B"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916DI.png"  ""    "Mi916DI Yt764Ab Sg1808a B"    "")
 
 
 #PAGE_START_VAR (1.0 10.0)
 PAGE_START
-PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/921.jpg"  ""    "Mi921 Sn1229 Yt768 Sg1813"    "")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/921.png"  ""    "Mi921 Sn1229 Yt768 Sg1813"    "")
 STAMP_HEADING (TN 10 "Inauguración del Palais de l'Europe\n(Estrasburgo)\n13-01-1977")
 
-STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/922.jpg"  ""    "Mi922 Sn1230 Yt769 Sg1814"    "")
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/922.png"  ""    "Mi922 Sn1230 Yt769 Sg1814"    "")
 STAMP_HEADING (TN 10 "Till Eulenspiegel (~1350)\n13-01-1977")
 
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/926.jpg"  ""    "Mi926 Sn1244 Yt773 Sg1816"    "")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/926.png"  ""    "Mi926 Sn1244 Yt773 Sg1816"    "")
 STAMP_HEADING (TN 10 "Jean Monnet\nCiudadano de honor de Europa\n16-02-1977")
 
-PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/927.jpg"  ""    "Mi927 Sn1245 Yt774 Sg1817"    "")
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/927.png"  ""    "Mi927 Sn1245 Yt774 Sg1817"    "")
 STAMP_HEADING (TN 10 "\nXXV Bundesgartenschau\n14-04-1977")
 
-STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/928.jpg"  ""    "Mi928 Sn1246 Yt775 Sg1818"    "")
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/928.png"  ""    "Mi928 Sn1246 Yt775 Sg1818"    "")
 STAMP_HEADING (TN 10 "Bicentenario\nCarl Friederich Gauss\n14-04-1977")
 
-STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/933.jpg"  ""    "Mi933 Sn1247 Yt780 Sg1823"    "")
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/933.png"  ""    "Mi933 Sn1247 Yt780 Sg1823"    "")
 STAMP_HEADING (TN 10 "Federico Barbarroja\nAño de la casa Staufen\n14-04-1977")
 
-PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 14 "Pro Juventud - Barcos históricos alemanes")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/929.jpg"  ""    "Mi929 SnB538 Yt776 Sg1819"    "")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/929.png"  ""    "Mi929 SnB538 Yt776 Sg1819"    "")
 STAMP_HEADING (TN 10 "Wappen von Hamburg (1669)\n14-04-1977")
 
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/930.jpg"  ""    "Mi930 SnB539 Yt777 Sg1820"    "")
-STAMP_HEADING (TN 10 "Preussen\n14-04-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/930.png"  ""    "Mi930 SnB539 Yt777 Sg1820"    "")
+STAMP_HEADING (TN 10 "Preussen (1902)\n14-04-1977")
 
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/931.jpg"  ""    "Mi931 SnB540 Yt778 Sg1821"    "")
-STAMP_HEADING (TN 10 "Bremen\n14-04-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/931.png"  ""    "Mi931 SnB540 Yt778 Sg1821"    "")
+STAMP_HEADING (TN 10 "SS Bremen (1929)\n14-04-1977")
 
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/932.jpg"  ""    "Mi932 SnB541 Yt779 Sg1822"    "")
-STAMP_HEADING (TN 10 "Sturmfels\n14-04-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/932.png"  ""    "Mi932 SnB541 Yt779 Sg1822"    "")
+STAMP_HEADING (TN 10 "Sturmfels (1972)\n14-04-1977")
 
 
 PAGE_START
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_CENTRE (TN 14 "Europa (C.E.P.T.) 1977 - Landscapes")
+PAGE_TEXT_CENTRE (TN 14 "Europa (C.E.P.T.) 1977 - Paisajes")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/934.jpg"  ""    "Mi934 Sn1248 Yt781 Sg1824"    "")
-STAMP_HEADING (TN 10 "Motorway section of the Rhön\n17-05-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/934.png"  ""    "Mi934 Sn1248 Yt781 Sg1824"    "")
+STAMP_HEADING (TN 10 "Autopista en el Rhön\n17-05-1977")
 
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/935.jpg"  ""    "Mi935 Sn1249 Yt782 Sg1825"    "")
-STAMP_HEADING (TN 10 "Rhine landscape with Siebengebirge\n17-05-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/935.png"  ""    "Mi935 Sn1249 Yt782 Sg1825"    "")
+STAMP_HEADING (TN 10 "Tren contra el Rin y las Siebengebirge\n17-05-1977")
 
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Jugendstil, Art Nouveau en Alemania")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (115.0 85.0  "imagenes/Alemania_RFA/BL14.png"  ""    "MiBL14 Sn1243 YtBF13 SgMS1815"    "")
+STAMP_HEADING (TN 10 "Jugendstil\n16-02-1977")
+
+PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/923.png"  ""    "Mi923 Sn1243a Yt770"    "")
+STAMP_HEADING (TN 10 "Decoración floral\n16-02-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/924.png"  ""    "Mi924 Sn1243b Yt771"    "")
+STAMP_HEADING (TN 10 "Decoración - busto de Atenea con casco\n16-02-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/925.png"  ""    "Mi925 Sn1243c Yt772"    "")
+STAMP_HEADING (TN 10 "Decoración - silla\n16-02-1977")
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/936.png"  ""    "Mi936 Sn1250 Yt783 Sg1826"    "")
+STAMP_HEADING (TN 10 "'Autoretrato'\n400º aniversario Rubens (1577-1640)\n17-05-1977")
+
+STAMP_ADD_IMG (56.0 33.0  "imagenes/Alemania_RFA/940.png"  ""    "Mi940 Sn1254 Yt787 Sg1831"    "")
+STAMP_HEADING (TN 10 "'La mañana'\nBicentenario Otto Runge (1777-1810)\n13-07-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/937.png"  ""    "Mi937 Sn1251 Yt784 Sg1827"    "")
+STAMP_HEADING (TN 10 "\n600º aniversario Ulmer Münster\n17-05-1977")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Aniversarios universidades alemanas")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RFA/938.png"  ""    "Mi938 Sn1252 Yt785 Sg1828"    "")
+STAMP_HEADING (TN 10 "500º aniversario\nUniversidad de Maguncia\n17-05-1977")
+
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RFA/939.png"  ""    "Mi939 Sn1253 Yt786 Sg1829"    "")
+STAMP_HEADING (TN 10 "450º aniversario\nUniversidad de Marburgo\n17-05-1977")
+
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RFA/946.png"  ""    "Mi946 Sn1257 Yt793 Sg1830"    "")
+STAMP_HEADING (TN 10 "500º aniversario\nUniversidad de Tubinga\n17-05-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/941.png"  ""    "Mi941 Sn1255 Yt788 Sg1832"    "")
+STAMP_HEADING (TN 10 "Centenario de la muerte\nObispo Wilhelm Emmanual von Kettler\n13-07-1977")
+
+STAMP_ADD_IMG (33.0 28.0  "imagenes/Alemania_RFA/942.png"  ""    "Mi942 Sn1256 Yt789 Sg1833"    "")
+STAMP_HEADING (TN 10 "Centenario del nacimiento\nPastor Fritz von Bodelschwingh\n13-07-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/948.png"  ""    "Mi948 Sn1262 Yt795 Sg1838"    "")
+STAMP_HEADING (TN 10 "Día del sello\nEscudo de correos de Hamburgo (1861)\n13-10-1977")
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Patrimonio arqueológico")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/943.png"  ""    "Mi943 Sn1258 Yt790 Sg1834"    "")
+STAMP_HEADING (TN 10 "Sombrero de oro (edad de bronce)\n(Schifferstadt)\n16-08-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/944.png"  ""    "Mi944 Sn1259 Yt791 Sg1835"    "")
+STAMP_HEADING (TN 10 "Casco dorado (c. 500 d.C.)\n(Krefeld-Gellep)\n16-08-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/945.png"  ""    "Mi945 Sn1260 Yt792 Sg1836"    "")
+STAMP_HEADING (TN 10 "Cabeza de centauro de bronce (s. III)\n(Schwarzenacker)\n16-08-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RFA/947.png"  ""    "Mi947 Sn1261 Yt794 Sg1837"    "")
+STAMP_HEADING (TN 10 "Centenario del teléfono en Alemania\n13-10-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/953.png"  ""    "Mi953 Sn1264 Yt800 Sg1843"    "")
+STAMP_HEADING (TN 10 "250º aniversario de la muerte de\nJohann Andreas Eisenbarth\n10-11-1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Bienestar: Flores de las praderas")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/949.png"  ""    "Mi949 SnB542 Yt796 Sg1839"    "")
+STAMP_HEADING (TN 10 "Alcaravea\n13-10-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/950.png"  ""    "Mi950 SnB543 Yt797 Sg1840"    "")
+STAMP_HEADING (TN 10 "Diente de león\n13-10-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/951.png"  ""    "Mi951 SnB544 Yt798 Sg1841"    "")
+STAMP_HEADING (TN 10 "Trébol rojo\n13-10-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/952.png"  ""    "Mi952 SnB545 Yt799 Sg1842"    "")
+STAMP_HEADING (TN 10 "Salvia\n13-10-1977")
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RFA/954.png"  ""    "Mi954 Sn1263 Yt801 Sg1844"    "")
+STAMP_HEADING (TN 10 "150º aniversario de la muerte de\nWilhelm Hauff\n10-11-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RFA/955.png"  ""    "Mi955 SnB546a Yt802"    "")
+
+#ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (70.0 105.0  "imagenes/Alemania_RFA/BL15.png"  ""    "MiBL15 SnB546 YtBF14 SgMS1845"    "")
+STAMP_HEADING (TN 10 "Navidad 1977\nVidriera de Gaspar presentando el oro\n10-11-1977" -27)
