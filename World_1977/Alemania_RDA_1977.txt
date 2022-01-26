@@ -112,7 +112,28 @@ STAMP_HEADING (TN 10 "Casa de la feria en el mercado\n08-03-1977")
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2209.png"  ""    "Mi2209 Sn1802 Yt1885 SgE1924"    "")
 STAMP_HEADING (TN 10 "Planta de metales ligeros\n08-03-1977")
 
+PAGE_TEXT_CENTRE(HN 30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Feria de otoño de Leipzig")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2250.png"  ""    "Mi2250 Sn1840 Yt1924 SgE1966"    "")
+STAMP_HEADING (TN 10 "Grandes almacenes\n30-08-1977")
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2251.png"  ""    "Mi2251 Sn1841 Yt1925 SgE1967"    "")
+STAMP_HEADING (TN 10 "Muestras\n30-08-1977")
+
 PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2215.png"  ""    "Mi2215 Sn1811 Yt1891 SgE1930"    "")
+STAMP_HEADING (TN 10 "Bicentenario de Carl Friedrich Gauß (1777-1855)\n19-04-1977")
+#https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss
+STAMP_ADD_IMG (41.0 41.0  "imagenes/Alemania_RDA/2219.png"  ""    "Mi2219 Sn1812 Yt1895 SgE1934"    "")
+STAMP_HEADING (TN 10 "9º congreso Federación Alemana de Sindicatos Libres (FDBG)\n03-05-1977")
+#https://es.wikipedia.org/wiki/Federaci%C3%B3n_Alemana_de_Sindicatos_Libres
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "Trajes tradicionales de Sorabia")
 #https://es.wikipedia.org/wiki/Serbia_Blanca
@@ -129,17 +150,7 @@ STAMP_HEADING (TN 10 "Nochten\n22-03-1977")
 STAMP_ADD_IMG (26.0 43.0 "imagenes/Alemania_RDA/2214.png"  ""    "Mi2214 Sn1807 Yt1890 SgE1929"    "")
 STAMP_HEADING (TN 10 "Muskau\n22-03-1977")
 
-
-PAGE_START
-
-PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
-
-ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2215.png"  ""    "Mi2215 Sn1811 Yt1891 SgE1930"    "")
-STAMP_HEADING (TN 10 "Bicentenario de Carl Friedrich Gauß (1777-1855)\n19-04-1977")
-#https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss
-
-PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "30º Carrera de la Paz")
 #https://es.wikipedia.org/wiki/Carrera_de_la_Paz
@@ -153,17 +164,17 @@ STAMP_HEADING (TN 10 "Llegada\n19-04-1977")
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (84.0 33.0  "imagenes/Alemania_RDA/WZd346.png"  ""    "MiWZd346 Sn1810a Yt1894A SgE1931a"    "")
 
-PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
-
-ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (41.0 41.0  "imagenes/Alemania_RDA/2219.png"  ""    "Mi2219 Sn1812 Yt1895 SgE1934"    "")
-STAMP_HEADING (TN 10 "9º congreso Federación Alemana de Sindicatos Libres (FDBG)\n03-05-1977")
-#https://es.wikipedia.org/wiki/Federaci%C3%B3n_Alemana_de_Sindicatos_Libres
-
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día mundial de las telecomunicaciones")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (27.5 33.0  "imagenes/Alemania_RDA/2223.png"  ""    "Mi2223 Sn1813 Yt1896 SgE1935"    "")
+STAMP_HEADING (TN 10 "Armario de transductores\n17-05-1977")
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "25º aniversario de la Asociación para el Deporte y la Tecnología")
 #https://en.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Sport_und_Technik
@@ -174,3 +185,137 @@ STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2221.png"  ""    "Mi2221 Sn1815
 STAMP_HEADING (TN 10 "Buceo\n17-05-1977")
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2222.png"  ""    "Mi2222 Sn1816 Yt1899 SgE1938"    "")
 STAMP_HEADING (TN 10 "Modelismo y radiocontrol\n17-05-1977")
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "30 de la Sociedad para la Amistad Germano-Soviética (DSF)")
+#https://en.wikipedia.org/wiki/Society_for_German%E2%80%93Soviet_Friendship
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 27.5 "imagenes/Alemania_RDA/2235.png"  ""    "Mi2235"    "")
+STAMP_HEADING (TN 10 "Pin de miembro honorario\n28-06-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (79.0 55.0  "imagenes/Alemania_RDA/BL47.png"  ""    "MiBL47, Sn1828, YtBF42, SgMSE1950"    "")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Instrumentos musicales antíguos")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2224.png"  ""    "Mi2224 Sn1817 Yt1900 SgE1939"    "")
+STAMP_HEADING (TN 10 "Acordeón (c. 1900)\n14-06-1977")
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2225.png"  ""    "Mi2225 Sn1818 Yt1901 SgE1940"    "")
+STAMP_HEADING (TN 10 "Viola da Gamba soprano (1747)\n14-06-1977")
+#https://es.wikipedia.org/wiki/Viola_da_gamba
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2226.png"  ""    "Mi2226 Sn1819 Yt1902 SgE1941"    "")
+STAMP_HEADING (TN 10 "Instrumentos de viento\n14-06-1977")
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2227.png"  ""    "Mi2227 Sn1820 Yt1903 SgE1942"    "")
+STAMP_HEADING (TN 10 "Cítara de concierto\n14-06-1977")
+#https://es.wikipedia.org/wiki/C%C3%ADtara
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2228.png"  ""    "Mi2228 Sn1821 Yt1904 SgE1943"    "")
+STAMP_HEADING (TN 10 "Trompeta (1860)\n14-06-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "400º aniversario del nacimiento del pintor flamenco Pedro Pablo Rubens (1577-1640)")
+#https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2229.png"  ""    "Mi2229 Sn1822 Yt1905 SgE1944"    "")
+STAMP_HEADING (TN 10 "Betsabé en la fuente (c. 1635)\n28-06-1977")
+#https://en.wikipedia.org/wiki/Bathsheba_at_the_Fountain
+STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2230.png"  ""    "Mi2230 Sn1823 Yt1906 SgE1945"    "")
+STAMP_HEADING (TN 10 "Mercurio y Argos (c. 1638)\n28-06-1977")
+#https://en.wikipedia.org/wiki/Mercury_and_Argus_(Rubens)
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2231.png"  ""    "Mi2231 Sn1824 Yt1907 SgE1946"    "")
+STAMP_HEADING (TN 10 "Hércules borracho (c. 1618)\n28-06-1977")
+#https://es.wikipedia.org/wiki/Archivo:Peter_Paul_Rubens_cat01.jpg
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2232.png"  ""    "Mi2232 Sn1825 Yt1908 SgE1947"    "")
+STAMP_HEADING (TN 10 "Diana regresando de la caza (c. 1615)\n28-06-1977")
+#https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Diana_Presentig_the_Catch_to_Pan_-_WGA20291.jpg
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2233.png"  ""    "Mi2233 Sn1826 Yt1909 SgE1948"    "")
+STAMP_HEADING (TN 10 "Vieja con cesta de carbón (c. 1620)\n28-06-1977")
+#https://historia-arte.com/obras/vieja-con-cesta-de-carbon
+STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2234.png"  ""    "Mi2234 Sn1827 Yt1910 SgE1949"    "")
+STAMP_HEADING (TN 10 "Leda y el císne (c. 1602)\n28-06-1977")
+#https://es.wikipedia.org/wiki/Leda_y_el_cisne_(Rubens)
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Tecnología moderna en la agricultura")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2236.png"  ""    "Mi2236 Sn1829 Yt1911 SgE1951"    "")
+STAMP_HEADING (TN 10 "Tractor T150-K con arado 6 PHX-35\n12-07-1977")
+#https://www.ecured.cu/Tractor_T-150K
+STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2237.png"  ""    "Mi2237 Sn1830 Yt1912 SgE1952"    "")
+STAMP_HEADING (TN 10 "Dispersor de fertilizante DO 32/N sobre camión W50\n12-07-1977")
+#https://en.wikipedia.org/wiki/IFA_W_50
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2238.png"  ""    "Mi2238 Sn1831 Yt1913 SgE1953"    "")
+STAMP_HEADING (TN 10 "Recolector de patatas E684\n12-07-1977")
+#https://www.google.com/search?q=FORTSCHRITT+E684
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2239.png"  ""    "Mi2239 Sn1832 Yt1914 SgE1954"    "")
+STAMP_HEADING (TN 10 "Empacadora K453\n12-07-1977")
+#https://www.google.com/search?q=fortschritt+k+453
+STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2240.png"  ""    "Mi2240 Sn1833 Yt1915 SgE1955"    "")
+STAMP_HEADING (TN 10 "Carrusel de ordeñado M693-40\n12-07-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "VI Festival de Gimnasia y Deportes y VI Espartaqueada Infantil y Juvenil de la RDA - Leipzig 1977")
+#https://de.wikipedia.org/wiki/Turn-_und_Sportfest_der_DDR
+#https://de.wikipedia.org/wiki/Kinder-_und_Jugendspartakiade
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2241.png"  ""    "Mi2241 Sn1834 Yt1916 SgE1956"    "")
+STAMP_HEADING (TN 10 "Salto de altura\n19-07-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2242.png"  ""    "Mi2242 SnB183 Yt1917 SgE1957"    "")
+STAMP_HEADING (TN 10 "Medio fondo\n19-07-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2243.png"  ""    "Mi2243 Sn1835 Yt1918 SgE1958"    "")
+STAMP_HEADING (TN 10 "Carrera de obstáculos\n19-07-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2244.png"  ""    "Mi2244 SnB184 Yt1919 SgE1959"    "")
+STAMP_HEADING (TN 10 "Gimnasia\n19-07-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2245.png"  ""    "Mi2245 Sn1836 Yt1920 SgE1960"    "")
+STAMP_HEADING (TN 10 "Danza\n19-07-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2246.png"  ""    "Mi2246 Sn1837 Yt1921 SgE1961"    "")
+STAMP_HEADING (TN 10 "Antorcha\n19-07-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Exposición filatélica SOZPHILEX")
+ROW_ALIGN_TOP
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2247.png"  ""    "Mi2247 Sn1838 Yt1922 SgE1962"    "")
+STAMP_HEADING (TN 10 "'Pan para todos'\nWolfram Schubert (1926-)\n16-08-1977")
+#https://de.wikipedia.org/wiki/Wolfram_Schubert
+STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2249.png"  ""    "Mi2249"    "")
+STAMP_HEADING (TN 10 "'Canción de la juventud mundial'\nLothar Zitzmann (1924-1977)\n16-08-1977")
+#https://de.wikipedia.org/wiki/Lothar_Zitzmann
+STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2248.png"  ""    "Mi2248 Sn1839 Yt1923 SgE1963"    "")
+STAMP_HEADING (TN 10 "'Cuando los comunistas sueñan'\nWalter Womacka (1925-2010)\n16-08-1977")
+#https://en.wikipedia.org/wiki/Walter_Womacka
+PAGE_TEXT_VSPACE (HN 1 "" -12)
+ROW_ALIGN_MIDDLE
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (80.0 56.0 "imagenes/Alemania_RDA/BL48.png" "" "MiBL48 SnB185 YtBF45 SgMSE1965" "")
+#STAMP_ADD_IMG (23.0 36.0 "admiral.png"  ""  ""  ""  "text inside \n the box" -4.0 28.0 )
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (76.0 111.0  "imagenes/Alemania_RDA/2247KB.png"  ""    "Mi2247KB Sn1838a YtBF43 SgMSE1964a"    "")
+STAMP_ADD_IMG (76.0 111.0  "imagenes/Alemania_RDA/2248KB.png"  ""    "Mi2248KB Sn1839a YtBF44 SgMSE1964b"    "")
