@@ -319,3 +319,30 @@ STAMP_ADD_IMG (80.0 56.0 "imagenes/Alemania_RDA/BL48.png" "" "MiBL48 SnB185 YtBF
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (76.0 111.0  "imagenes/Alemania_RDA/2247KB.png"  ""    "Mi2247KB Sn1838a YtBF43 SgMSE1964a"    "")
 STAMP_ADD_IMG (76.0 111.0  "imagenes/Alemania_RDA/2248KB.png"  ""    "Mi2248KB Sn1839a YtBF44 SgMSE1964b"    "")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario del nacimiento del revolucionario soviético Félix Dzerzhinski (1877-1926)")
+#https://es.wikipedia.org/wiki/F%C3%A9lix_Dzerzhinski
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2252.png"  ""    "Mi2252 Sn1842a"    "")
+STAMP_HEADING (TN 10 "09-06-1977")
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2253.png"  ""    "Mi2253 Sn1842b"    "")
+STAMP_HEADING (TN 10 "09-06-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (126.0 69.0  "imagenes/Alemania_RDA/BL49.png"  ""    "MiBL49 Sn1842 YtBF46 SgMSE196"    "")
+STAMP_HEADING (TN 10 "09-06-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Museo del Transporte de Dresden")
+#https://en.wikipedia.org/wiki/Dresden_Transport_Museum
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2252.png"  ""    "Mi2252 Sn1842a"    "")
+STAMP_HEADING (TN 10 "09-06-1977")
