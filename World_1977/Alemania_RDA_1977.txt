@@ -167,26 +167,20 @@ STAMP_ADD_IMG (84.0 33.0  "imagenes/Alemania_RDA/WZd346.png"  ""    "MiWZd346 Sn
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
-
-PAGE_TEXT_CENTRE (TN 16 "Día mundial de las telecomunicaciones")
-ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (27.5 33.0  "imagenes/Alemania_RDA/2223.png"  ""    "Mi2223 Sn1813 Yt1896 SgE1935"    "")
-STAMP_HEADING (TN 10 "Armario de transductores\n17-05-1977")
-
-PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "25º aniversario de la Asociación para el Deporte y la Tecnología")
 #https://en.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Sport_und_Technik
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2220.png"  ""    "Mi2220 Sn1814 Yt1897 SgE1936"    "")
 STAMP_HEADING (TN 10 "Tiro deportivo\n17-05-1977")
+ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2221.png"  ""    "Mi2221 Sn1815 Yt1898 SgE1937"    "")
 STAMP_HEADING (TN 10 "Buceo\n17-05-1977")
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2222.png"  ""    "Mi2222 Sn1816 Yt1899 SgE1938"    "")
 STAMP_HEADING (TN 10 "Modelismo y radiocontrol\n17-05-1977")
 
-PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "30 de la Sociedad para la Amistad Germano-Soviética (DSF)")
 #https://en.wikipedia.org/wiki/Society_for_German%E2%80%93Soviet_Friendship
@@ -198,6 +192,13 @@ STAMP_ADD_IMG (79.0 55.0  "imagenes/Alemania_RDA/BL47.png"  ""    "MiBL47, Sn182
 
 
 PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día mundial de las telecomunicaciones")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (27.5 33.0  "imagenes/Alemania_RDA/2223.png"  ""    "Mi2223 Sn1813 Yt1896 SgE1935"    "")
+STAMP_HEADING (TN 10 "Armario de transductores\n17-05-1977")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
@@ -220,27 +221,28 @@ STAMP_HEADING (TN 10 "Trompeta (1860)\n14-06-1977")
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
 
-PAGE_TEXT_CENTRE (TN 16 "400º aniversario del nacimiento del pintor flamenco Pedro Pablo Rubens (1577-1640)")
+PAGE_TEXT_CENTRE (TN 16 "400º aniversario del nacimiento de\nPedro Pablo Rubens\n(1577-1640)\nPintor de la escuela flamenca.")
 #https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2229.png"  ""    "Mi2229 Sn1822 Yt1905 SgE1944"    "")
 STAMP_HEADING (TN 10 "Betsabé en la fuente (c. 1635)\n28-06-1977")
 #https://en.wikipedia.org/wiki/Bathsheba_at_the_Fountain
-STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2230.png"  ""    "Mi2230 Sn1823 Yt1906 SgE1945"    "")
-STAMP_HEADING (TN 10 "Mercurio y Argos (c. 1638)\n28-06-1977")
-#https://en.wikipedia.org/wiki/Mercury_and_Argus_(Rubens)
 STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2231.png"  ""    "Mi2231 Sn1824 Yt1907 SgE1946"    "")
 STAMP_HEADING (TN 10 "Hércules borracho (c. 1618)\n28-06-1977")
 #https://es.wikipedia.org/wiki/Archivo:Peter_Paul_Rubens_cat01.jpg
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2233.png"  ""    "Mi2233 Sn1826 Yt1909 SgE1948"    "")
+STAMP_HEADING (TN 10 "Vieja con cesta de carbón (c. 1620)\n28-06-1977")
+#https://historia-arte.com/obras/vieja-con-cesta-de-carbon
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2230.png"  ""    "Mi2230 Sn1823 Yt1906 SgE1945"    "")
+STAMP_HEADING (TN 10 "Mercurio y Argos (c. 1638)\n28-06-1977")
+#https://en.wikipedia.org/wiki/Mercury_and_Argus_(Rubens)
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2232.png"  ""    "Mi2232 Sn1825 Yt1908 SgE1947"    "")
 STAMP_HEADING (TN 10 "Diana regresando de la caza (c. 1615)\n28-06-1977")
 #https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Diana_Presentig_the_Catch_to_Pan_-_WGA20291.jpg
-STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2233.png"  ""    "Mi2233 Sn1826 Yt1909 SgE1948"    "")
-STAMP_HEADING (TN 10 "Vieja con cesta de carbón (c. 1620)\n28-06-1977")
-#https://historia-arte.com/obras/vieja-con-cesta-de-carbon
 STAMP_ADD_IMG (55.0 33.0  "imagenes/Alemania_RDA/2234.png"  ""    "Mi2234 Sn1827 Yt1910 SgE1949"    "")
 STAMP_HEADING (TN 10 "Leda y el císne (c. 1602)\n28-06-1977")
 #https://es.wikipedia.org/wiki/Leda_y_el_cisne_(Rubens)
@@ -248,9 +250,10 @@ STAMP_HEADING (TN 10 "Leda y el císne (c. 1602)\n28-06-1977")
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+#PAGE_TEXT_CENTRE(HN 5 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "Tecnología moderna en la agricultura")
+PAGE_TEXT_VSPACE (HN 1 "" -1)
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2236.png"  ""    "Mi2236 Sn1829 Yt1911 SgE1951"    "")
 STAMP_HEADING (TN 10 "Tractor T150-K con arado 6 PHX-35\n12-07-1977")
@@ -258,10 +261,12 @@ STAMP_HEADING (TN 10 "Tractor T150-K con arado 6 PHX-35\n12-07-1977")
 STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2237.png"  ""    "Mi2237 Sn1830 Yt1912 SgE1952"    "")
 STAMP_HEADING (TN 10 "Dispersor de fertilizante DO 32/N sobre camión W50\n12-07-1977")
 #https://en.wikipedia.org/wiki/IFA_W_50
+PAGE_TEXT_VSPACE (HN 1 "" -3)
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2238.png"  ""    "Mi2238 Sn1831 Yt1913 SgE1953"    "")
 STAMP_HEADING (TN 10 "Recolector de patatas E684\n12-07-1977")
 #https://www.google.com/search?q=FORTSCHRITT+E684
+PAGE_TEXT_VSPACE (HN 1 "" -3)
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2239.png"  ""    "Mi2239 Sn1832 Yt1914 SgE1954"    "")
 STAMP_HEADING (TN 10 "Empacadora K453\n12-07-1977")
@@ -269,10 +274,29 @@ STAMP_HEADING (TN 10 "Empacadora K453\n12-07-1977")
 STAMP_ADD_IMG (65.0 26.0  "imagenes/Alemania_RDA/2240.png"  ""    "Mi2240 Sn1833 Yt1915 SgE1955"    "")
 STAMP_HEADING (TN 10 "Carrusel de ordeñado M693-40\n12-07-1977")
 
+PAGE_TEXT_CENTRE(HN 2 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "El trabajo del cuerpo de bomberos")
+PAGE_TEXT_VSPACE (HN 1 "" -1)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 28.0  "imagenes/Alemania_RDA/2276.png"  ""    "Mi2276 Sn1864 Yt1946 SgE1991"    "")
+STAMP_HEADING (TN 10 "Entrenamiento con escaleras\n22-11-1977")
+STAMP_ADD_IMG (33.0 28.0  "imagenes/Alemania_RDA/2278.png"  ""    "Mi2278 Sn1866 Yt1948 SgE1993"    "")
+STAMP_HEADING (TN 10 "Camiones atendiendo una emergencia\n22-11-1977")
+STAMP_ADD_IMG (33.0 28.0  "imagenes/Alemania_RDA/2280.png"  ""    "Mi2280 Sn1868 Yt1950 SgE1995"    "")
+STAMP_HEADING (TN 10 "Barco contraincendios\n22-11-1977")
+PAGE_TEXT_VSPACE (HN 1 "" -3)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2277.png"  ""    "Mi2277 Sn1865 Yt1947 SgE1992"    "")
+STAMP_HEADING (TN 10 "Visita escolar\n22-11-1977")
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2279.png"  ""    "Mi2279 Sn1867 Yt1949 SgE1994"    "")
+STAMP_HEADING (TN 10 "Asistiendo a un herido\n22-11-1977")
+
+
 
 PAGE_START
 
-PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN 15 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "VI Festival de Gimnasia y Deportes y VI Espartaqueada Infantil y Juvenil de la RDA - Leipzig 1977")
 #https://de.wikipedia.org/wiki/Turn-_und_Sportfest_der_DDR
@@ -291,6 +315,23 @@ STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2245.png"  ""    "Mi2245 Sn1836
 STAMP_HEADING (TN 10 "Danza\n19-07-1977")
 STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2246.png"  ""    "Mi2246 Sn1837 Yt1921 SgE1961"    "")
 STAMP_HEADING (TN 10 "Antorcha\n19-07-1977")
+
+PAGE_TEXT_CENTRE(HN 15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Museo del Transporte de Dresde")
+#https://en.wikipedia.org/wiki/Dresden_Transport_Museum
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2254.png"  ""    "Mi2254 Sn1843 Yt1926 SgE1969"    "")
+STAMP_HEADING (TN 10 "Locomotora Muldenthal\n(1861)\n13-09-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2255.png"  ""    "Mi2255 Sn1844 Yt1927, SgE1970"    "")
+STAMP_HEADING (TN 10 "Primer tranvía electrico de Dresde\n(1896)\n13-09-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2256.png"  ""    "Mi2256 Sn1845 Yt1928 SgE1971"    "")
+STAMP_HEADING (TN 10 "Primer avión a motor alemán\n(1909)\n13-09-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2257.png"  ""    "Mi2257 Sn1846 Yt1929 SgE1972"    "")
+STAMP_HEADING (TN 10 "Triciclo 'Phänomobil'\n(1924)\n13-09-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2258.png"  ""    "Mi2258 Sn1847 Yt1930 SgE1973"    "")
+STAMP_HEADING (TN 10 "Primer vapor de pasajeros del Elba\n(1837)\n13-09-1977")
 
 
 PAGE_START
@@ -336,13 +377,114 @@ ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (126.0 69.0  "imagenes/Alemania_RDA/BL49.png"  ""    "MiBL49 Sn1842 YtBF46 SgMSE196"    "")
 STAMP_HEADING (TN 10 "09-06-1977")
 
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 55.0  "imagenes/Alemania_RDA/2262.png"  ""    "Mi2262 Sn1851 Yt1933 SgE1977"    "")
+STAMP_HEADING (TN 10 "Monumento Soviético a los caídos en la batallea de Berlín\n(Schönholzer Heide)\n20-09-1977")
+#https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Sch%C3%B6nholzer_Heide)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2263.png"  ""    "Mi2263 SnB186 Yt1934 SgE1978"    "")
+STAMP_HEADING (TN 10 "Solidaridad internacional\n18-10-1977")
+
 
 PAGE_START
 
 PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
 
-PAGE_TEXT_CENTRE (TN 16 "Museo del Transporte de Dresden")
-#https://en.wikipedia.org/wiki/Dresden_Transport_Museum
+PAGE_TEXT_CENTRE (TN 16 "60º aniversario de la Revolución de Octubre")
+#https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Octubre
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2252.png"  ""    "Mi2252 Sn1842a"    "")
-STAMP_HEADING (TN 10 "09-06-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2259.png"  ""    "Mi2259 Sn1848 Yt1931 SgE1974"    "")
+STAMP_HEADING (TN 10 "Crucero 'Aurora'\n20-09-1977")
+#https://es.wikipedia.org/wiki/Crucero_Aurora
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2261.png"  ""    "Mi2261"    "")
+STAMP_HEADING (TN 10 "Vladimir Lenin (1870-1924)\n20-09-1977")
+#https://es.wikipedia.org/wiki/Lenin
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2260.png"  ""    "Mi2260 Sn1849 Yt1932 SgE1975"    "")
+STAMP_HEADING (TN 10 "La toma del Palacio de Invierno\n20-09-1977")
+#https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Octubre#La_toma_del_Palacio_de_Invierno
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (55.0 86.0  "imagenes/Alemania_RDA/BL50.png"  ""    "MiBL50 Sn1850 YtBF47 SgMSE1976"    "")
+STAMP_HEADING (TN 10 "20-09-1977")
+
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Personalidades del movimiento obrero alemán")
+#https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Octubre
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2264.png"  ""    "Mi2264 Sn1852 Yt1936 SgE1979"    "")
+STAMP_HEADING (TN 10 "Ernst Meyer (1887-1930)\n18-10-1977")
+#https://en.wikipedia.org/wiki/Ernst_Meyer_(German_politician)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2265.png"  ""    "Mi2265 Sn1853 Yt1935 SgE1980"    "")
+STAMP_HEADING (TN 10 "August Frölich (1877-1966)\n18-10-1977")
+#https://de.wikipedia.org/wiki/August_Fr%C3%B6lich
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2266.png"  ""    "Mi2266 Sn1854 Yt1937 SgE1981"    "")
+STAMP_HEADING (TN 10 "Gerhard Eisler (1897-1968)\n18-10-1977")
+#https://en.wikipedia.org/wiki/Gerhart_Eisler
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Bicentenario del escritor Heinrich von Kleist\n(1777-1811)")
+#https://es.wikipedia.org/wiki/Heinrich_von_Kleist
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_RDA/2267.png"  ""    "Mi2267"    "")
+STAMP_HEADING (TN 10 "Ernst Meyer (1887-1930)\n18-10-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (82.0 55.0  "imagenes/Alemania_RDA/BL51.png"  ""    "MiBL51 Sn1855 YtBF48 SgMSE1982"    "")
+STAMP_HEADING (TN 10 "'El cántaro roto' (Der zerbrochne Krug)\n(1808)\n18-10-1977")
+#https://es.wikipedia.org/wiki/El_c%C3%A1ntaro_roto
+
+PAGE_TEXT_CENTRE(HN 20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "XX feria central de Los Maestros del Mañana")
+#https://de.wikipedia.org/wiki/Messe_der_Meister_von_Morgen
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2268.png"  ""    "Mi2268 Sn1856 Yt1938 SgE1983"    "")
+STAMP_HEADING (TN 10 "Cohete\n08-11-1977")
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_RDA/2269.png"  ""    "Mi2269 Sn1857 Yt1939 SgE1984"    "")
+STAMP_HEADING (TN 10 "Cohete\n08-11-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Gestión cinegética")
+#https://es.wikipedia.org/wiki/Guarda_de_coto
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2270.png"  ""    "Mi2270 Sn1858 Yt1940 SgE1985"    "")
+STAMP_HEADING (TN 10 "Muflón\n(Ovis ammon musimon)\n15-11-1977")
+#https://derutasporlanaturaleza.es/?p=426#
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2271.png"  ""    "Mi2271 Sn1859 Yt1941 SgE1986"    "")
+STAMP_HEADING (TN 10 "Ciervo común\n(Cervus elaphus)\n15-11-1977")
+#https://es.wikipedia.org/wiki/Cervus_elaphus
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2272.png"  ""    "Mi2272 Sn1860 Yt1942 SgE1987"    "")
+STAMP_HEADING (TN 10 "Perro y faisán común\n(Phasianus colchicus)\n15-11-1977")
+#https://es.wikipedia.org/wiki/Phasianus_colchicus
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2273.png"  ""    "Mi2273 Sn1861 Yt1943 SgE1988"    "")
+STAMP_HEADING (TN 10 "Ánade real y zorro común\n(Anas platyrhynchos y Vulpes vulpes)\n15-11-1977")
+#https://es.wikipedia.org/wiki/Vulpes_vulpes
+#https://es.wikipedia.org/wiki/Anas_platyrhynchos
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2274.png"  ""    "Mi2274 Sn1862 Yt1944 SgE1989"    "")
+STAMP_HEADING (TN 10 "Tractorista salva un corzo\n(Capreolus capreolus)\n15-11-1977")
+#https://es.wikipedia.org/wiki/Capreolus_capreolus
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_RDA/2275.png"  ""    "Mi2275 Sn1863 Yt1945 SgE1990"    "")
+STAMP_HEADING (TN 10 "Jabalí\n(Sus scrofa)\n15-11-1977")
+#https://es.wikipedia.org/wiki/Sus_scrofa
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Cuentos de los Hermanos Grimm:\n'Cómo seis se abrieron camino en el mundo'\n(Sechse kommen durch die ganze Welt)")
+#https://en.wikipedia.org/wiki/How_Six_Made_Their_Way_in_the_World
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (116.0 107.0  "imagenes/Alemania_RDA/2281-2286KB.png"  ""    "Mi2281-2286KB Sn1874a Yt1951-1956 SgE1996a"    "")
+STAMP_HEADING (TN 10 "22-11-1977")
