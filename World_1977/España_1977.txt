@@ -1,0 +1,398 @@
+################################################################################
+# AlbumEasy file: España_1977.txt
+# Generated:      18:49, sa. ene. 30, 2022
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("España 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+#ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+ALBUM_PAGES_HEADER (TB 10 C "España - 1977")
+#ALBUM_PAGES_HEADER (TB 16 R "1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "España")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Reino de España")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (60.0 36.0  "imagenes/España/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (28.0 36.0  "imagenes/España/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/España/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  60 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica Juan Carlos I")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2279x.png"  ""    "Mi2279x Sn1969 Yt2032 Sg2389 Edi2386"    "")
+STAMP_HEADING (TN 10 "08-02-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2303x.png"  ""    "Mi2303x Sn1970 Yt2055 Sg2390 Edi2387"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2304x.png"  ""    "Mi2304x Sn1971 Yt2056 Sg2391 Edi2388"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2280x.png"  ""    "Mi2280x Sn1972 Yt2033 Sg2392 Edi2389"    "")
+STAMP_HEADING (TN 10 "08-02-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2281x.png"  ""    "Mi2281x Sn1973 Yt2034 Sg2393 Edi2390"    "")
+STAMP_HEADING (TN 10 "08-02-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2282x.png"  ""    "Mi2282x Sn1977 Yt2035 Sg2397 Edi2391"    "")
+STAMP_HEADING (TN 10 "08-02-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2305x.png"  ""    "Mi2305x Sn1979 Yt2057 Sg2399 Edi2392"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2306x.png"  ""    "Mi2306x Sn1982 Yt2058 Sg2401 Edi2393"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2307x.png"  ""    "Mi2307x Sn1983 Yt2059 Sg2402 Edi2394"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2308x.png"  ""    "Mi2308x Sn1985 Yt2060 Sg2404 Edi2395"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+STAMP_ADD_IMG (25.0 29.0  "imagenes/España/2309x.png"  ""    "Mi2309x Sn1986 Yt2061 Sg2407 Edi2396"    "")
+STAMP_HEADING (TN 10 "06-06-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Uniformes militares")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2274.png"  ""    "Mi2274 Sn2020 Yt2027 Sg2441 Edi2381"    "")
+STAMP_HEADING (TN 10 "Batidor\nRegimiento de Caballería de Calatrava\n(1844)\n05-01-1977")
+#https://es.wikipedia.org/wiki/Regimiento_de_Caballer%C3%ADa_de_Calatrava
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2275.png"  ""    "Mi2275 Sn2021 Yt2028 Sg2442 Edi2382"    "")
+STAMP_HEADING (TN 10 "Gastador\nRegimiento de Ingenieros\n(1850)\n05-01-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2276.png"  ""    "Mi2276 Sn2022 Yt2029 Sg2443 Edi2383"    "")
+STAMP_HEADING (TN 10 "Cabo\nCazadores de Infantería\n(1860)\n05-01-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2277.png"  ""    "Mi2277 Sn2023 Yt2030 Sg2444 Edi2384"    "")
+STAMP_HEADING (TN 10 "Tambor Mayor\nInfantería de Línea\n(1861)\n05-01-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2278.png"  ""    "Mi2278 Sn2024 Yt2031 Sg2445 Edi2385"    "")
+STAMP_HEADING (TN 10 "Capitán\nArtillería, secciones montadas\n(1862)\n05-01-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2316.png"  ""    "Mi2316 Sn2051 Yt2069 Sg2472 Edi2423"    "")
+STAMP_HEADING (TN 10 "Oficial\nAdministración militar\n(1875)\n16-07-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2317.png"  ""    "Mi2317 Sn2052 Yt2070 Sg2473 Edi2424"    "")
+STAMP_HEADING (TN 10 "Lancero\nCaballería\n(1883)\n16-07-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2318.png"  ""    "Mi2318 Sn2053 Yt2071 Sg2474 Edi2425"    "")
+STAMP_HEADING (TN 10 "Comandante\nEstado mayor\n(1884)\n16-07-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2319.png"  ""    "Mi2319 Sn2054 Yt2072 Sg2475 Edi2426"    "")
+STAMP_HEADING (TN 10 "Trompeta\nArtillería divisionaria\n(1887)\n16-07-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2320.png"  ""    "Mi2320 Sn2055 Yt2073 Sg2476 Edi2427"    "")
+STAMP_HEADING (TN 10 "Oficial\nSanidad militar\n(1895)\n16-07-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_DIAMOND (34.0 34.0  "" ""    "Mi2283 Sn2025 Yt2036 Sg2446 Edi2397"    "")
+STAMP_HEADING (TN 10 "VII centenario de la muerte de\nJaime I, el Conquistador (1208-1276)\n10-02-1977")
+#https://es.wikipedia.org/wiki/Jaime_I_de_Arag%C3%B3n
+STAMP_ADD_DIAMOND (34.0 34.0  "" ""    "Mi2294 Sn2036 Yt2047 Sg2457 Edi2408"    "")
+STAMP_HEADING (TN 10 "Copa del mundo de esquí alpino\nGranada-Sierra Nevada\n24-03-1977")
+PAGE_VSPACE (-45.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.0 34.0  "imagenes/España/2283.png"  ""    ""    "" NO_FRAME)
+STAMP_ADD_IMG (34.0 34.0  "imagenes/España/2294.png"  ""    ""    "" NO_FRAME)
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Personalidades")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/España/2284.png"  ""    "Mi2284 Sn2026 Yt2037 Sg2447 Edi2398"    "")
+STAMP_HEADING (TN 10 "Jacinto Verdaguer (1845-1902)\nPoeta catalán\n22-02-1977")
+#https://es.wikipedia.org/wiki/Jacinto_Verdaguer
+STAMP_ADD_IMG (26.0 41.0  "imagenes/España/2285.png"  ""    "Mi2285 Sn2027 Yt2038 Sg2448 Edi2399"    "")
+STAMP_HEADING (TN 10 "Miguel Servet (1511-1553)\nMédico y teólogo\n22-02-1977")
+#https://es.wikipedia.org/wiki/Miguel_Servet
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/España/2286.png"  ""    "Mi2286 Sn2028 Yt2039 Sg2449 Edi2400"    "")
+STAMP_HEADING (TN 10 "Pablo de Sarasate (1844-1908)\nViolinista y compositor\n22-02-1977")
+#https://es.wikipedia.org/wiki/Pablo_de_Sarasate
+STAMP_ADD_IMG (26.0 41.0  "imagenes/España/2287.png"  ""    "Mi2287 Sn2029 Yt2040 Sg2450 Edi2401"    "")
+STAMP_HEADING (TN 10 "Francisco de Asís Tárrega Eixea (1852 -1909)\nCompositor y guitarrista\n22-02-1977")
+#https://es.wikipedia.org/wiki/Francisco_T%C3%A1rrega
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Sociedades económicas de amigos del país")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2288.png"  ""    "Mi2288 Sn2030 Yt2041 Sg2451 Edi2402"    "")
+STAMP_HEADING (TN 10 "Carlos III (1716-1788)\n24-02-1977")
+#https://es.wikipedia.org/wiki/Sociedades_econ%C3%B3micas_de_amigos_del_pa%C3%ADs
+#https://es.wikipedia.org/wiki/Carlos_III_de_Espa%C3%B1a
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Fauna hispánica")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2289.png"  ""    "Mi2289 Sn2031 Yt2042 Sg2452 Edi2403"    "")
+STAMP_HEADING (TN 10 "Salmón del Atlantico\n(Salmo salar)\n08-03-1977")
+#https://es.wikipedia.org/wiki/Salmo_salar
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2290.png"  ""    "Mi2290 Sn2032 Yt2043 Sg2453 Edi2404"    "")
+STAMP_HEADING (TN 10 "Trucha común\n(Salmo trutta)\n08-03-1977")
+#https://es.wikipedia.org/wiki/Salmo_trutta
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2291.png"  ""    "Mi2291 Sn2033 Yt2044 Sg2454 Edi2405"    "")
+STAMP_HEADING (TN 10 "Anguila europea\n(Anguilla anguilla)\n08-03-1977")
+#https://es.wikipedia.org/wiki/Anguilla_anguilla
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2292.png"  ""    "Mi2292 Sn2034 Yt2045 Sg2455 Edi2406"    "")
+STAMP_HEADING (TN 10 "Carpa común\n(Cyprinus carpio)\n08-03-1977")
+#https://es.wikipedia.org/wiki/Cyprinus_carpio
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2293.png"  ""    "Mi2293 Sn2035 Yt2046 Sg2456 Edi2407"    "")
+STAMP_HEADING (TN 10 "Barbo común europeo\n(Barbus barbus)\n08-03-1977")
+#https://es.wikipedia.org/wiki/Barbus_barbus
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Automóviles pioneros españoles")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2295.png"  ""    "Mi2295 Sn2037 Yt2048 Sg2458 Edi2409"    "")
+STAMP_HEADING (TN 10 "La Cuadra (1900)\n23-04-1977")
+#https://es.wikipedia.org/wiki/La_Cuadra_(autom%C3%B3viles)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2296.png"  ""    "Mi2296 Sn2038 Yt2049 Sg2459 Edi2410"    "")
+STAMP_HEADING (TN 10 "Hispano Suiza (1916)\n23-04-1977")
+#https://es.wikipedia.org/wiki/Hispano-Suiza
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2297.png"  ""    "Mi2297 Sn2039 Yt2050 Sg2460 Edi2411"    "")
+STAMP_HEADING (TN 10 "Elizalde (1915)\n23-04-1977")
+#https://es.wikipedia.org/wiki/Elizalde
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2298.png"  ""    "Mi2298 Sn2040 Yt2051 Sg2461 Edi2412"    "")
+STAMP_HEADING (TN 10 "Abadal (1914)\n23-04-1977")
+#https://es.wikipedia.org/wiki/Abadal
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Europa CEPT - Paisajes")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (45.0 33.0  "imagenes/España/2299.png"  ""    "Mi2299 Sn2041 Yt2052 Sg2462 AFA Edi2413"    "")
+STAMP_HEADING (TN 10 "Parque Nacional de Doñana\n02-05-1977")
+#https://es.wikipedia.org/wiki/Parque_nacional_y_natural_de_Do%C3%B1ana
+STAMP_ADD_IMG (45.0 33.0  "imagenes/España/2300.png"  ""    "Mi2300 Sn2042 Yt2053 Sg2463 Edi2414"    "")
+STAMP_HEADING (TN 10 "Parque Nacional de Ordesa y Monte Perdido\n02-05-1977")
+#https://es.wikipedia.org/wiki/Parque_nacional_de_Ordesa_y_Monte_Perdido
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2301.png"  ""    "Mi2301 Sn2043 Yt2054 Sg2464 Edi2415"    "")
+STAMP_HEADING (TN 10 "50º Aniversario del mercado filatélico de la Plaza Mayor (Madrid)\n07-05-1977")
+#https://es.wikipedia.org/wiki/Parque_nacional_y_natural_de_Do%C3%B1ana
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario de la fundación de la Compañía de Santa Teresa de Jesús (Teresianas)")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2302.png"  ""    "Mi2302 Sn2044 Yt2062 Sg2465 Edi2416"    "")
+STAMP_HEADING (TN 10 "Enrique de Ossó y Cervelló\nfundador (1840-1896)\n07-06-1977")
+#https://es.wikipedia.org/wiki/Enrique_de_Oss%C3%B3
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie turismo")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.0 29.0  "imagenes/España/2310.png"  ""    "Mi2310 Sn2045 Yt2063 Sg2466 Edi2417"    "")
+STAMP_HEADING (TN 10 "Puerta de Toledo (Ciudad Real)\n24-06-1977")
+#https://es.wikipedia.org/wiki/Puerta_de_Toledo_(Ciudad_Real)
+STAMP_ADD_IMG (34.0 29.0  "imagenes/España/2311.png"  ""    "Mi2311 Sn2046 Yt2064 Sg2467 Edi2418"    "")
+STAMP_HEADING (TN 10 "Acueducto romano de Sexi (Almuñecar, Granada)\n24-06-1977")
+#https://es.wikipedia.org/wiki/Acueducto_romano_de_Sexi
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/España/2312.png"  ""    "Mi2312 Sn2047 Yt2065 Sg2468 Edi2419"    "")
+STAMP_HEADING (TN 10 "Catedral de la Asunción (Jaén)\n24-06-1977")
+#https://es.wikipedia.org/wiki/Catedral_de_la_Asunci%C3%B3n_de_Ja%C3%A9n
+STAMP_ADD_IMG (29.0 34.0  "imagenes/España/2313.png"  ""    "Mi2313 Sn2048 Yt2066 Sg2469 Edi2420"    "")
+STAMP_HEADING (TN 10 "Puente Nuevo sobre el Tajo de Ronda (Málaga)\n24-06-1977")
+#https://es.wikipedia.org/wiki/Tajo_de_Ronda
+#https://es.wikipedia.org/wiki/Puente_Nuevo_(Ronda)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.0 29.0  "imagenes/España/2314.png"  ""    "Mi2314 Sn2049 Yt2067 Sg2470 Edi2421"    "")
+STAMP_HEADING (TN 10 "Castillo de Ampudia (Palencia)\n24-06-1977")
+#https://es.wikipedia.org/wiki/Castillo_de_Ampudia
+STAMP_ADD_IMG (34.0 29.0  "imagenes/España/2315.png"  ""    "Mi2315 Sn2050 Yt2068 Sg2471 Edi2422"    "")
+STAMP_HEADING (TN 10 "Puerta Nueva de Bisagra (Toledo)\n24-06-1977")
+#https://es.wikipedia.org/wiki/Puerta_Nueva_de_Bisagra
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Federico de Madrazo y Kuntz (1815-1894)\nPintor")
+#https://es.wikipedia.org/wiki/Federico_Madrazo
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2322.png"  ""    "Mi2322 Sn2057 Yt2075 Sg2478 Edi2429"    "")
+STAMP_HEADING (TN 10 "Federico Flórez y Márquez\n'El niño Florez'\n(1842)\n29-09-1977")
+#https://www.museodelprado.es/coleccion/obra-de-arte/federico-florez-y-marquez/6b4dab0d-45e2-4afe-8c75-84cf9603cf9f
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2323.png"  ""    "Mi2323 Sn2058 Yt2076 Sg2479 Edi2430"    "")
+STAMP_HEADING (TN 10 "General Evaristo Fernández San Miguel\nI duque de San Miguel\n(1854 - 1856)\n29-09-1977")
+#https://www.museodelprado.es/coleccion/obra-de-arte/el-general-evaristo-fernandez-san-miguel-i-duque/c9dcf9d9-7754-43f9-9b80-c71398cd0483?searchid=15fb778b-facd-ace8-e214-e9dd3f51eb76
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2324.png"  ""    "Mi2324 Sn2059 Yt2077 Sg2480 Edi2431"    "")
+STAMP_HEADING (TN 10 "Carolina Coronado\nEscritora\n(1855)\n29-09-1977")
+#https://www.museodelprado.es/coleccion/obra-de-arte/carolina-coronado/da0d8703-d12a-4c08-b340-01015f20b4da
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2325.png"  ""    "Mi2325 Sn2060 Yt2078 Sg2481 Edi2432"    "")
+STAMP_HEADING (TN 10 "Ramón de Campoamor\nPoeta\n(1847)\n29-09-1977")
+#https://es.wikipedia.org/wiki/Ram%C3%B3n_de_Campoamor
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2326.png"  ""    "Mi2326 Sn2061 Yt2079 Sg2482 Edi2433"    "")
+STAMP_HEADING (TN 10 "María Dolores Aldama\nMarquesa de Montelo\n(1855)\n29-09-1977")
+#https://www.museodelprado.es/coleccion/obra-de-arte/maria-dolores-aldama-marquesa-de-montelo/c3a4a1a6-e20b-4765-9e57-44e0a1bb0b16
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2327.png"  ""    "Mi2327 Sn2062 Yt2080 Sg2483 Edi2434"    "")
+STAMP_HEADING (TN 10 "Manuel Rivadeneyra\nEditor e impresor\n(1867)\n29-09-1977")
+#https://www.museodelprado.es/coleccion/obra-de-arte/manuel-rivadeneyra/ed391a8a-2d4f-452a-9e76-99338fe3cc75
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2328.png"  ""    "Mi2328 Sn2063 Yt2081 Sg2484 Edi2435"    "")
+STAMP_HEADING (TN 10 "Amalia de Llano y Dotres\nCondesa de Vilches\n(1853)\n29-09-1977")
+#https://www.museodelprado.es/coleccion/obra-de-arte/amalia-de-llano-y-dotres-condesa-de-vilches/5aa9dcdd-3e53-40bd-84f4-d5afad8cbfdd
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2329.png"  ""    "Mi2329 Sn2064 Yt2082 Sg2485 Edi2436"    "")
+STAMP_HEADING (TN 10 "Gertrudis Gómez de Avellaneda\nEscritora\n(1857)\n29-09-1977")
+#https://es.wikipedia.org/wiki/Gertrudis_G%C3%B3mez_de_Avellaneda
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Exposición filatelita ESPAMER 77\nBarcelona")
+#https://www.fesofi.es/expo-espamer/
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (76.0 34.0  "imagenes/España/2330.png"  ""    "Mi2330 Sn2065 Yt2083 Sg2486 Edi2437"    "")
+STAMP_HEADING (TN 10 "II centenario de la Real Ordenanza del Correo Marítimo\nFuente 'Dama del paraguas' (Barcelona)\n07-10-1977")
+#https://museopostalytelegrafico.es/enero-de-1777-se-publica-la-real-ordenanza-del-correo-maritimo/
+#https://es.wikipedia.org/wiki/Dama_del_paraguas
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (178.0 166.0  "imagenes/España/2330KB.png"  ""    "Mi2330KB EdiMP1"    "")
+
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Milenario de la lengua castellana")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.0 50.0  "imagenes/España/2321.png"  ""    "Mi2321 Sn2056 Yt2074 Sg2477 Edi2428"    "")
+STAMP_HEADING (TN 10 "Talla de San Millán de la Cogolla y códice Aemilianensis 60\n09-09-1977")
+#https://es.wikipedia.org/wiki/Monasterio_de_San_Mill%C3%A1n_de_la_Cogolla
+#https://es.wikipedia.org/wiki/Glosas_Emilianenses
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día de la Hispanidad\nGuatemala")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2331.png"  ""    "Mi2331 Sn2066 Yt2084 Sg2487 Edi2439"    "")
+STAMP_HEADING (TN 10 "Iglesia de San Francisco (Ciudad de Guatemala)\n12-10-1977")
+#https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Ciudad_de_Guatemala)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2332.png"  ""    "Mi2332 Sn2067 Yt2085 Sg2488 Edi2440"    "")
+STAMP_HEADING (TN 10 "Centro de la Ciudad de Guatemala\n12-10-1977")
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2333.png"  ""    "Mi2333 Sn2068 Yt2086 Sg2489 Edi2441"    "")
+STAMP_HEADING (TN 10 "Palacio Nacional de la Cultura (Ciudad de Guatemala)\n12-10-1977")
+#https://es.wikipedia.org/wiki/Palacio_Nacional_de_la_Cultura_(Guatemala)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2334.png"  ""    "Mi2334 Sn2069 Yt2087 Sg2490 Edi2442"    "")
+STAMP_HEADING (TN 10 "Monumento a Cristobal Colón (Ciudad de Guatemala)\n12-10-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Monasterio de San Pedro de Cardeña\nCastrillo del Val (Burgos)")
+#https://es.wikipedia.org/wiki/Monasterio_de_San_Pedro_de_Carde%C3%B1a
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/España/2335.png"  ""    "Mi2335 Sn2070 Yt2088 Sg2491 Edi2443"    "")
+STAMP_HEADING (TN 10 "Iglesia abacial\n28-10-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/España/2336.png"  ""    "Mi2336 Sn2071 Yt2089 Sg2492 Edi2444"    "")
+STAMP_HEADING (TN 10 "Claustro de los Mártires\n28-10-1977")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/España/2337.png"  ""    "Mi2337 Sn2072 Yt2090 Sg2493 Edi2445"    "")
+STAMP_HEADING (TN 10 "Tumba del Cid y Doña Jimena\n28-10-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad\nImágenes románicas del Museo Diocesano de Jaca")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2338.png"  ""    "Mi2338 Sn2073 Yt2091 Sg2494 Edi2446"    "")
+STAMP_HEADING (TN 10 "Adoración de los reyes\n03-11-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2339.png"  ""    "Mi2339 Sn2074 Yt2092 Sg2495 Edi2447"    "")
+STAMP_HEADING (TN 10 "Huida a Egipto\n03-11-1977")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "50 aniversario Iberia Lineas Aereas de España")
+#https://es.wikipedia.org/wiki/Iberia_(aerol%C3%ADnea)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 29.0  "imagenes/España/2340.png"  ""    "Mi2340 Sn2075 Yt2093 Sg2496 Edi2448"    "")
+STAMP_HEADING (TN 10 "Rohrbach Ro-VIII y Douglas DC-10\n08-11-1977")
+#https://es.wikipedia.org/wiki/Rohrbach_Ro_VIII_Roland
+#https://es.wikipedia.org/wiki/McDonnell_Douglas_DC-10
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2341.png"  ""    "Mi2341 Sn2076 Yt2094 Sg2497 Edi2449"    "")
+STAMP_HEADING (TN 10 "Felipe de Borbón, Principe de Asturias\nBasílica de Covadonga\n22-12-1977")
+STAMP_ADD_IMG (29.0 41.0  "imagenes/España/2342.png"  ""    "Mi2342 Sn2077 Yt2095 Sg2498 Edi2450"    "")
+STAMP_HEADING (TN 10 "X Campeonato del mundo de judo\nBarcelona\n29-12-1977")
+
+
