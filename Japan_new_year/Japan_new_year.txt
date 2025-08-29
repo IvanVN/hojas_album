@@ -179,7 +179,7 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (29 30.5  "imagenes/n6.jpg"  "" "Mi513 Sn522 Yt459 Sg604 N6" "")
+STAMP_ADD_IMG (26 30  "imagenes/n6.jpg"  "" "Mi513 Sn522 Yt459 Sg604 N6" "")
 STAMP_HEADING(HN 12 "Niña y conejo\n01-01-1951")
 
 PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
@@ -207,7 +207,7 @@ ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
 #PAGE_TEXT_CENTRE(HN  1 "")                       # some vertical spacing
 
 ROW_START_FS (HN 6 0.1 6.0)
-STAMP_ADD_IMG (36 30  "imagenes/n7.jpg"  "" "Mi565 Sn551 Yt500 Sg647 N7" "")
+STAMP_ADD_IMG (26 30  "imagenes/n7.jpg"  "" "Mi565 Sn551 Yt500 Sg647 N7" "")
 STAMP_HEADING(HN 12 "Máscara Okina, teatro Noh\n16-01-1952")
 
 #PAGE_TEXT_CENTRE(HN  40 "")                       # some vertical spacing
