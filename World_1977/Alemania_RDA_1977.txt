@@ -355,7 +355,7 @@ STAMP_HEADING (TN 10 "'Cuando los comunistas sueñan'\nWalter Womacka (1925-2010
 PAGE_TEXT_VSPACE (HN 1 "" -12)
 ROW_ALIGN_MIDDLE
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (80.0 56.0 "imagenes/Alemania_RDA/BL48.png" "" "MiBL48 SnB185 YtBF45 SgMSE1965" "")
+STAMP_ADD_IMG (86.0 55.0 "imagenes/Alemania_RDA/BL48.png" "" "MiBL48 SnB185 YtBF45 SgMSE1965" "")
 #STAMP_ADD_IMG (23.0 36.0 "admiral.png"  ""  ""  ""  "text inside \n the box" -4.0 28.0 )
 ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (76.0 111.0  "imagenes/Alemania_RDA/2247KB.png"  ""    "Mi2247KB Sn1838a YtBF43 SgMSE1964a"    "")
@@ -486,5 +486,5 @@ PAGE_TEXT_CENTRE(HN 10 "")                       # some vertical spacing
 PAGE_TEXT_CENTRE (TN 16 "Cuentos de los Hermanos Grimm:\n'Cómo seis se abrieron camino en el mundo'\n(Sechse kommen durch die ganze Welt)")
 #https://en.wikipedia.org/wiki/How_Six_Made_Their_Way_in_the_World
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (116.0 107.0  "imagenes/Alemania_RDA/2281-2286KB.png"  ""    "Mi2281-2286KB Sn1874a Yt1951-1956 SgE1996a"    "")
+STAMP_ADD_IMG (116.0 108.0  "imagenes/Alemania_RDA/2281-2286KB.png"  ""    "Mi2281-2286KB Sn1874a Yt1951-1956 SgE1996a"    "")
 STAMP_HEADING (TN 10 "22-11-1977")
