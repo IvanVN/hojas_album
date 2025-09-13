@@ -1,0 +1,213 @@
+################################################################################
+# AlbumEasy file: Alemania_Berlín_1977.txt
+# Generated:      18:19, lu. sep. 8, 2025
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Alemania (Berlín) 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+#ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+ALBUM_PAGES_HEADER (TB 10 C "Alemania (Berlín) - 1977")
+#ALBUM_PAGES_HEADER (TB 16 R "1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Alemania\n(Berlín Occidental)")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "West-Berlin")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Alemania_Berlin/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (28.0 36.0  "imagenes/Alemania_Berlin/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Alemania_Berlin/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica - Castillos y fortalezas")
+ROW_START_ES (HN 5 0.1)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/532AI.jpg"  ""    "Mi532AI Sn9N391 Yt496 SgB516"    "")
+STAMP_HEADING (TN 10 "Palacio de Glücksburg\nSchleswig-Holstein, s. XVI\n14-04-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/533AI.jpg"  ""    "Mi533AI Sn9N392 Yt497 SgB517"    "")
+STAMP_HEADING (TN 10 "Castillo de Pfaueninsel\nBerlín, s. XVIII\n16-02-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/534AI.jpg"  ""    "Mi534AI Sn9N394 Yt498 SgB518"    "")
+STAMP_HEADING (TN 10 "Castillo de Ludwigstein\nHesse, s. XV\n14-04-1977")
+ROW_START_ES (HN 5 0.1)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/535AI.jpg"  ""    "Mi535AI Sn9N395 Yt499 SgB519"    "")
+STAMP_HEADING (TN 10 "Castillo de Eltz\nRenania-Palatinado, s. XII\n14-04-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/536AI.jpg"  ""    "Mi536AI Sn9N396 Yt499A SgB520"    "")
+STAMP_HEADING (TN 10 "Castillo de Neuschwanstein\nBaviera, s. XIX\n17-05-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/537AI.jpg"  ""    "Mi537AI Sn9N397 Yt500 SgB521"    "")
+STAMP_HEADING (TN 10 "Castillo Marksburg\nRenania-Palatinado, s. XIII\n13-01-1977")
+ROW_START_ES (HN 5 0.1)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/538AI.jpg"  ""    "Mi538AI Sn9N398 Yt500A SgB522"    "")
+STAMP_HEADING (TN 10 "Castillo Mespelbrunn\nBaviera, s. XV\n17-05-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/539AI.jpg"  ""    "Mi539AI Sn9N400 Yt501 SgB523"    "")
+STAMP_HEADING (TN 10 "Palacio Pfaueninsel\nBerlin, s. XVIII\n16-02-1977")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/540AI.jpg"  ""    "Mi540AI Sn9N401 Yt502 SgB524"    "")
+STAMP_HEADING (TN 10 "Castillo de Bürresheim\nRenania-Palatinado, s. XII\n13-01-1977")
+
+#PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Sellos provenientes de carnet" 1)
+PAGE_TEXT_CENTRE (TN 10 "01-06-1977")
+ROW_START_FS (HN 5 0.1 20.0)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/532CI.jpg"  ""    "Mi532CI Yt496b SgB516a"    "")
+STAMP_HEADING (TN 10 "Palacio de Glücksburg")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/534CI.jpg"  ""    "Mi534CI Yt498b SgB518a"    "")
+STAMP_HEADING (TN 10 "Castillo de Ludwigstein")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/536CI.jpg"  ""    "Mi536CI Yt499Ab B520a"    "")
+STAMP_HEADING (TN 10 "Castillo de Neuschwanstein")
+ROW_START_FS (HN 5 0.1 20.0)
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/532DI.jpg"  ""    "Mi532DI"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/534DI.jpg"  ""    "Mi534DI"    "")
+STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_Berlin/536DI.jpg"  ""    "Mi536DI"    "")
+
+# 2nd Page
+
+#PAGE_START_VAR (1.0 10.0)
+PAGE_START
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_Berlin/541.jpg"  ""    "Mi541 Sn9N404 Yt503 SgB525"    "")
+STAMP_HEADING (TN 10 "Eugenie d'Alton\n200 aniversario\nChristian Daniel Rauch (1777-1857)\n13-01-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/543.jpg"  ""    "Mi543 Sn9N406 Yt509 SgB531"    "")
+STAMP_HEADING (TN 10 "\Figura femenina\nCentenario Georg Kolbe (1877-1947)\n14-04-1977")
+
+STAMP_ADD_IMG (28.0 33.0  "imagenes/Alemania_Berlin/542.jpg"  ""    "Mi542 Sn9N405 Yt504 SgB526"    "")
+STAMP_HEADING (TN 10 "Autorretrato\n200 aniversario\nEduard Gaertner (1801-1877)\n16-02-1977")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+
+STAMP_ADD_IMG (33.0 28.0  "imagenes/Alemania_Berlin/548.jpg"  ""    "Mi548 Sn9N407 Yt510 SgB532"    "")
+STAMP_HEADING (TN 10 "17º Congreso de la iglesias evangelistas alemanas\n17-05-1977")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Pro Juventud - Barcos históricos alemanes" 1)
+PAGE_TEXT_CENTRE (TN 10 "14-04-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/544.jpg"  ""    "Mi544 Sn9NB133 Yt505 SgB527"    "")
+STAMP_HEADING (TN 10 "Cog de Bremen (1380)\nVelero grande Hanseático")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/545.jpg"  ""    "Mi545 Sn9NB134 Yt506 SgB528"    "")
+STAMP_HEADING (TN 10 "Helena Sloman (1850)\nPrimer vapor transatlántico alemán")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/546.jpg"  ""    "Mi546 Sn9NB135 Yt507 SgB529"    "")
+STAMP_HEADING (TN 10 "Cap Polonio (1914-1935)\nBarco de pasajeros de lujo")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/547.jpg"  ""    "Mi547 Sn9NB136 Yt508 SgB530"    "")
+STAMP_HEADING (TN 10 "Widar (1971)\nBuque granelero")
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "25 aniversario de la reapertura del Zoo de Berlín" 1)
+PAGE_TEXT_CENTRE (TN 10 "Sellos con estatua de Iguanodon a la entrada del Zoo" 1)
+PAGE_TEXT_CENTRE (TN 10 "16-08-1977")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/552.jpg"  ""    "Mi552 Sn9N411 Yt514 SgB536"    "")
+STAMP_HEADING (TN 10 "Pez ballesta Assasi (Rhinecanthus assasi)")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/553.jpg"  ""    "Mi553 Sn9N412 Yt515 SgB537"    "")
+STAMP_HEADING (TN 10 "Pez espátula americano (Polyodon spathula)")
+
+ROW_START_ES (HN 6 0.1)
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/554.jpg"  ""    "Mi554 Sn9N413 Yt516 SgB538"    "")
+STAMP_HEADING (TN 10 "Tortuga radiada (Geochelone radiata)")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/555.jpg"  ""    "Mi555 Sn9N414 Yt517 SgB539"    "")
+STAMP_HEADING (TN 10 "Iguana cornuda (Cyclura cornuta)")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 14 "Bienestar: Flores silvestres" 1)
+PAGE_TEXT_CENTRE (TN 10 "13-10-1977")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/556.jpg"  ""    "Mi556 Sn9NB137 Yt518 SgB540"    "")
+STAMP_HEADING (TN 10 "Margarita (Leucanthemum vulgare)")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/557.jpg"  ""    "Mi557 Sn9NB138 Yt519 SgB541"    "")
+STAMP_HEADING (TN 10 "Caléndula acuática (Caltha palustris)")
+
+ROW_START_ES (HN 6 0.1)
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/558.jpg"  ""    "Mi558 Sn9NB139 Yt520 SgB542"    "")
+STAMP_HEADING (TN 10 "Esparceta (Onobrychis)")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/559.jpg"  ""    "Mi559 Sn9NB140 Yt521 SgB543"    "")
+STAMP_HEADING (TN 10 "Nomeolvides (Myosotis)")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                      # some vertical spacing
+ROW_START_ES (HN 6 0.1)
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/549.jpg"  ""    "Mi549 Sn9N409 Yt512 SgB533"    "")
+STAMP_HEADING (TN 10 "Feria Internacional de Electrónica\nTeléfonos de 1905 y 1977\n13-07-1977")
+
+STAMP_ADD_IMG (43.0 26.0  "imagenes/Alemania_Berlin/550.jpg"  ""    "Mi550 Sn9N408 Yt511 SgB534"    "")
+STAMP_HEADING (TN 10 "Centenario de la ley de patentes\nAntigua oficina de patentes, Berlin-Kreuzberg\n13-07-1977")
+
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/551.jpg"  ""    "Mi551 Sn9N410 Yt513 SgB535"    "")
+STAMP_HEADING (TN 10 "Exibición de arte europeo\nPintura sin título, George Grosz (1920)\n13-07-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 43.0  "imagenes/Alemania_Berlin/560.jpg"  ""    "Mi560 Yt522"    "")
+
+#ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (70.0 105.0  "imagenes/Alemania_Berlin/BL6.jpg"  ""    "MiBL6 Sn9NB141 YtBF6 SgMSB544"    "")
+STAMP_HEADING (TN 10 "Navidad 1977\nVidriera de María con el niño\nBasílica de San Gereón, Colonia\n10-11-1977" -27)
