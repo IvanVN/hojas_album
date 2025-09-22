@@ -1,0 +1,172 @@
+################################################################################
+# AlbumEasy file: Luxemburgo_1977.txt
+# Generated:      21:29, do. sep. 14, 2025
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Luxemburgo 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+#ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+ALBUM_PAGES_HEADER (TB 10 C "Luxemburgo - 1977")
+#ALBUM_PAGES_HEADER (TB 16 R "1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Gran Ducado de\nLuxemburgo")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Groussherzogtum Lëtzebuerg")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Luxemburgo/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (28.0 36.0  "imagenes/Luxemburgo/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Luxemburgo/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Cultura en Luxemburgo\nVisitantes famosos" 1)
+PAGE_TEXT_CENTRE (TN 10 "14-03-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 40.0  "imagenes/Luxemburgo/941.jpg"  ""    "Mi941 Sn593 Yt891 Sg981"    "")
+STAMP_HEADING (TN 10 "Johann Wolfgang von Goethe (1749-1832)\nPoeta alemán")
+STAMP_ADD_IMG (26.0 40.0  "imagenes/Luxemburgo/942.jpg"  ""    "Mi942 Sn594 Yt892 Sg982"    "")
+STAMP_HEADING (TN 10 "Joseph Mallord William Turner (1775-1851)\nPintor inglés")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 40.0  "imagenes/Luxemburgo/943.jpg"  ""    "Mi943 Sn595 Yt893 Sg983"    "")
+STAMP_HEADING (TN 10 "Victor Hugo (1802-1885)\nEscritor francés")
+STAMP_ADD_IMG (26.0 40.0  "imagenes/Luxemburgo/944.jpg"  ""    "Mi944 Sn596 Yt894 Sg984"    "")
+STAMP_HEADING (TN 10 "Franz Liszt (1811-1886)\nCompositor y pianista Húngaro")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Europa (C.E.P.T.)\nPaisajes" 1)
+PAGE_TEXT_CENTRE (TN 10 "03-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/945.jpg"  ""    "Mi945 Sn597 Yt895 Sg985"    "")
+STAMP_HEADING (TN 10 "Mercado de pescado\nen el cruce de las calzadas romanas")
+# The cradle of old Luxembourg - the fish market on the crossroads of the Roman consular roads.
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/946.jpg"  ""    "Mi946 Sn598 Yt896 Sg986"    "")
+STAMP_HEADING (TN 10 "Puente Adolphe y sede\ndel Banco Europeo de Inversiones")
+# The Grand Duke Adolphe railway bridge, completed in 1903, and the headquarters of the European Investment Bank
+
+# 2nd Page
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Turismo\nLugares de interés" 1)
+PAGE_TEXT_CENTRE (TN 10 "03-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 40.0  "imagenes/Luxemburgo/947.jpg"  ""    "Mi947 Sn599 Yt897 Sg987"    "")
+STAMP_HEADING (TN 10 "Esch-sur-Sûre")
+# Esch-sur-Sûre in the Ardennes, on a hill located in a tight loop of the Sûre; the remains of its castle date from 927.
+STAMP_ADD_IMG (26.0 40.0  "imagenes/Luxemburgo/948.jpg"  ""    "Mi948 Sn600 Yt898 Sg988"    "")
+STAMP_HEADING (TN 10 "Ehnen")
+# Ehnen, located on the Moselle River between Remich and Grevenmacher.
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Aniversarios" 1)
+PAGE_TEXT_CENTRE (TN 10 "03-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/949.jpg"  ""    "Mi949 Sn601 Yt899 Sg989"    "")
+STAMP_HEADING (TN 10 "Fundación de la Congregación de Notre-Dame (1627)\nMarguerite de Busbach")
+# Marguerite de Busbach, supported the formation of the Notre-Dame Congregation.
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/950.jpg"  ""    "Mi950 Sn602 Yt900 Sg990"    "")
+STAMP_HEADING (TN 10 "Muerte de Louis Braile\n(1809-1852)")
+# Louis Braille (1809 - 1852), inventor of the relief alphabet for use by the blind.
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Arquitectura de Luxemburgo - Barroco" 1)
+PAGE_TEXT_CENTRE (TN 14 "Tallas en madera, Iglesia Saint-Jean-Baptiste de Feulen\nJean Georges Scholtus (c. 1690-1754)" 1)
+PAGE_TEXT_CENTRE (TN 10 "15-09-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 40.0  "imagenes/Luxemburgo/952.jpg"  ""    "Mi952 Sn536 Yt903 Sg992"    "")
+STAMP_HEADING (TN 10 "San Gregorio el Grande")
+STAMP_ADD_IMG (33.0 40.0  "imagenes/Luxemburgo/953.jpg"  ""    "Mi953 Sn538 Yt904 Sg993"    "")
+STAMP_HEADING (TN 10 "San Agustín (354-430")
+
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 41.0  "imagenes/Luxemburgo/954.jpg"  ""    "Mi954 Sn604 Yt901 Sg994"    "")
+STAMP_HEADING (TN 10 "Cabeza de Medusa, mosaico romando (Siglo III)\nDiekirch (1950)\n15-09-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+ROW_ALIGN_BOTTOM
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Luxemburgo/955.jpg"  ""    "Mi955 Sn605 Yt902 Sg995"    "")
+STAMP_HEADING (TN 10 "25 aniversario del Festival Internacional de Wiltz\nEscena de 'Orpeus and Eurydice'\n(Christoph W. Gluck, 1717-1787)\n15-09-1977")
+STAMP_ADD_IMG (36.0 26.0  "imagenes/Luxemburgo/956.jpg"  ""    "Mi956 Sn606 Yt906 Sg996"    "")
+STAMP_HEADING (TN 10 "20 aniversario del Tratado de Roma\nMapa de la CEE y moneda con Europa y Zeus\n05-12-1977")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (90.0 60.0  "imagenes/Luxemburgo/BL10.jpg"  ""    "MiBL10 Sn603 YtBF10 SgMS991"    "")
+STAMP_HEADING (TN 10 "125 aniversario de los sellos de Luxemburgo\nWilliam III (1817-1890), Gran Duque de Luxemburgo\n15-09-1977")
+
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "CARITAS" 1)
+PAGE_TEXT_CENTRE (TN 14 "Plantas Protegidas" 1)
+PAGE_TEXT_CENTRE (TN 10 "05-12-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/957.jpg"  ""    "Mi957 SnB313 Yt907 Sg997"    "")
+STAMP_HEADING (TN 10 "Lirio del valle\n(Convallaria majalis)")
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/958.jpg"  ""    "Mi958 SnB314 Yt908 Sg998"    "")
+STAMP_HEADING (TN 10 "Aguileña\n(Aquilegia vulgaris)")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/959.jpg"  ""    "Mi959 SnB315 Yt909 Sg999"    "")
+STAMP_HEADING (TN 10 "Mezereón\n(Daphne mezereum)")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/960.jpg"  ""    "Mi960 SnB316 Yt910 Sg1000"    "")
+STAMP_HEADING (TN 10 "Primeras orquídeas araña\n(Ophrys sphegodes")
+STAMP_ADD_IMG (26.0 36.0  "imagenes/Luxemburgo/961.jpg"  ""    "Mi961 SnB317 Yt911 Sg1001"    "")
+STAMP_HEADING (TN 10 "Orquídea moteada de los pantanos\n(Dactylorhiza maculata)")
