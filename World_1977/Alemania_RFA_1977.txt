@@ -72,7 +72,7 @@ PAGE_START
 #STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
 
 
-PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
 PAGE_TEXT_CENTRE (TN 16 "Serie básica - Castillos y fortalezas")
 ROW_START_ES (HN 6 0.1)
@@ -82,33 +82,39 @@ STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914AIu.png"  ""    "Mi914AIu Sn
 STAMP_HEADING (TN 10 "Castillo de Ludwigstein\nHesse, s. XV\n14-04-1977")
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/915AI.png"  ""    "Mi915AI Sn1235 Yt764 Sg1807"    "")
 STAMP_HEADING (TN 10 "Castillo de Eltz\nRenania-Palatinado, s. XII\n14-04-1977")
+ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916AI.png"  ""    "Mi916AI Sn1236 Yt764A Sg1808"    "")
 STAMP_HEADING (TN 10 "Castillo de Neuschwanstein\nBaviera, s. XIX\n17-05-1977")
-ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/917AI.png"  ""    "Mi917AI Sn1237 Yt765 Sg1809"    "")
 STAMP_HEADING (TN 10 "Castillo Marksburg\nRenania-Palatinado, s. XIII\n13-01-1977")
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/918AI.png"  ""    "Mi918AI Sn1238 Yt765A Sg1810"    "")
 STAMP_HEADING (TN 10 "Castillo Mespelbrunn\nBaviera, s. XV\n17-05-1977")
+ROW_START_ES (HN 6 0.1)
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/919AI.png"  ""    "Mi919AI Sn1240 Yt766 Sg1811"    "")
 STAMP_HEADING (TN 10 "Castillo de Pfaueninsel\nBerlín, s. XVIII\n16-02-1977")
 STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/920AI.png"  ""    "Mi920AI Sn1240A Yt767 Sg1812"    "")
 STAMP_HEADING (TN 10 "Castillo de Bürresheim\nRenania-Palatinado, s. XII\n13-01-1977")
 
-PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
 
-PAGE_TEXT_CENTRE (TN 14 "Sellos provenientes de carnet")
+PAGE_TEXT_CENTRE (TN 14 "Sellos provenientes de carnet" 1)
+PAGE_TEXT_CENTRE (TN 10 "01-06-1977")
 ROW_START_FS (HN 6 0.1 20.0)
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913CIu.png"  ""    "Mi913CIu Sg1805a"    "")
-STAMP_HEADING (TN 10 "Palacio de Glücksburg\n01-06-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914CIu.png"  ""    "Mi914CIu Sg1806a T"    "")
-STAMP_HEADING (TN 10 "Castillo de Ludwigstein\n01-06-1977")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916CI.png"  ""    "Mi916CI Sg1808a T"    "")
-STAMP_HEADING (TN 10 "castillo de Neuschwanstein\n01-06-1977")
+STAMP_ADD_IMG (88.0 52.0  "imagenes/Alemania_RFA/HB26.jpg"  ""    "MiHB26 Sn1231a Sg1805ab"    "")
 
-ROW_START_FS (HN 6 0.1 20.0)
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913DIu.png"  ""    "Mi913DIu Yt762b"    "")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914DIu.png"  ""    "Mi914DIu Yt763b Sg1806a B"    "")
-STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916DI.png"  ""    "Mi916DI Yt764Ab Sg1808a B"    "")
+#PAGE_TEXT_CENTRE (TN 14 "Sellos provenientes de carnet")
+#ROW_START_FS (HN 6 0.1 20.0)
+#STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913CIu.png"  ""    "Mi913CIu Sg1805a"    "")
+#STAMP_HEADING (TN 10 "Palacio de Glücksburg\n01-06-1977")
+#STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914CIu.png"  ""    "Mi914CIu Sg1806a T"    "")
+#STAMP_HEADING (TN 10 "Castillo de Ludwigstein\n01-06-1977")
+#STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916CI.png"  ""    "Mi916CI Sg1808a T"    "")
+#STAMP_HEADING (TN 10 "castillo de Neuschwanstein\n01-06-1977")
+#
+#ROW_START_FS (HN 6 0.1 20.0)
+#STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/913DIu.png"  ""    "Mi913DIu Yt762b"    "")
+#STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/914DIu.png"  ""    "Mi914DIu Yt763b Sg1806a B"    "")
+#STAMP_ADD_IMG (22.0 26.0  "imagenes/Alemania_RFA/916DI.png"  ""    "Mi916DI Yt764Ab Sg1808a B"    "")
 
 
 #PAGE_START_VAR (1.0 10.0)
