@@ -1,0 +1,267 @@
+################################################################################
+# AlbumEasy file: Portugal_1977.txt
+# Generated:      10:15, sa. abr. 4, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Portugal 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+#ALBUM_PAGES_TITLE    (TB 16 "Alemania (RFA) - 1977") #add a title to the top of each page
+ALBUM_PAGES_HEADER (TB 10 C "Portugal - 1977")
+#ALBUM_PAGES_HEADER (TB 16 R "1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Portugal")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "República Portuguesa")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Portugal/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Portugal/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Portugal/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Acceso de Portugal al Consejo de Europa" 1)
+PAGE_TEXT_CENTRE (TN 14 "Mapa de los estados miembros" 1)
+PAGE_TEXT_CENTRE (TN 10 "28-01-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (40.5 24.5  "imagenes/Portugal/1348.jpg"  ""    "Mi1348 Sn1320 Yt1328 Sg1641\n40.5x24.5 1.000.000"    "")
+STAMP_ADD_IMG (40.5 24.5  "imagenes/Portugal/1349.jpg"  ""    "Mi1349 Sn1321 Yt1329 Sg1642\n40.5x24.5 500.000"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día Nacional contra el alcoholismo" 1)
+PAGE_TEXT_CENTRE (TN 14 "Alegorías")
+PAGE_TEXT_CENTRE (TN 10 "04-02-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (31.0 30.0  "imagenes/Portugal/1350.jpg"  ""    "Mi1350 Sn1322 Yt1330 Sg1643\n31x30 5.000.000"    "")
+STAMP_HEADING (TN 10 "Alcoholico 'estrangulado' por la botella")
+STAMP_ADD_IMG (31.0 30.0  "imagenes/Portugal/1351.jpg"  ""    "Mi1351 Sn1323 Yt1331 Sg1644\n31x30 2.000.000"    "")
+STAMP_HEADING (TN 10 "Vidas rotas")
+STAMP_ADD_IMG (31.0 30.0  "imagenes/Portugal/1352.jpg"  ""    "Mi1352 Sn1324 Yt1332 Sg1645\n31x30 500.000"    "")
+STAMP_HEADING (TN 10 "Barras que tapan el sol")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Recursos naturales: bosques" 1)
+PAGE_TEXT_CENTRE (TN 10 "21-03-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1353.jpg"  ""    "Mi1353 Sn1325 Yt1333 Sg1646\n35x26 5.000.000"    "")
+STAMP_HEADING (TN 10 "Extracción de resina")
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1354.jpg"  ""    "Mi1354 Sn1326 Yt1334 Sg1647\n35x26 3.000.000"    "")
+STAMP_HEADING (TN 10 "Obtención del corcho")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1355.jpg"  ""    "Mi1355 Sn1327 Yt1335 Sg1648\n35x26 500.000"    "")
+STAMP_HEADING (TN 10 "Obtención de madera")
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1356.jpg"  ""    "Mi1356 Sn1328 Yt1336 Sg1649\n35x26 300.000"    "")
+STAMP_HEADING (TN 10 "Árboles como cortavientos en la costa")
+
+# 2nd Page
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  2 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Año internacional del reumatismo" 1)
+PAGE_TEXT_CENTRE (TN 14 "Alegorías")
+PAGE_TEXT_CENTRE (TN 10 "13-04-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (37.0 27.5  "imagenes/Portugal/1357.jpg"  ""    "Mi1357 Sn1329 Yt1337 Sg1650\n37x27.5 3.000.000"    "")
+STAMP_HEADING (TN 10 "Sufrimiento")
+STAMP_ADD_IMG (37.0 27.5  "imagenes/Portugal/1358.jpg"  ""    "Mi1358 Sn1330 Yt1338 Sg1651\n37x27.5 500.000"    "")
+STAMP_HEADING (TN 10 "Ejercicio")
+STAMP_ADD_IMG (37.0 27.5  "imagenes/Portugal/1359.jpg"  ""    "Mi1359 Sn1331 Yt1339 Sg1652\n37x27.5 500.000"    "")
+STAMP_HEADING (TN 10 "Ejercicio")
+
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Europa C.E.P.T. 1977" 1)
+PAGE_TEXT_CENTRE (TN 14 "Paisajes" 1)
+PAGE_TEXT_CENTRE (TN 10 "02-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (37.0 32.0  "imagenes/Portugal/1360.jpg"  ""    "Mi1360 Sn1332 Yt1340 Sg1653\n37x32 3.000.000"    "")
+STAMP_HEADING (TN 10 "Llanuras del sur")
+STAMP_ADD_IMG (37.0 32.0  "imagenes/Portugal/1361.jpg"  ""    "Mi1361 Sn1333 Yt1341 Sg1654\n37x32 1.000.000"    "")
+STAMP_HEADING (TN 10 "Serranías del norte")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (148.0 96.0  "imagenes/Portugal/BL20.jpg"  ""    "MiBL20 Sn1333a YtBF20 SgMS1655\n148x96 250.000"    "")
+
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "7º centenario de la muerte del papa Juan XXI" 1)
+# Juan XXI (Lisboa, c. 1215-Viterbo, 20 de mayo de 1277) fué el segundo papa de origen portugués, entre 1276 y 1277.
+# https://es.wikipedia.org/wiki/Juan_XXI
+PAGE_TEXT_CENTRE (TN 10 "20-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (27.0 39.0  "imagenes/Portugal/1362.jpg"  ""    "Mi1362 Sn1334 Yt1342 Sg1656\n27x39 3.000.000"    "")
+STAMP_HEADING (TN 10 "Entronización de Juan XXI")
+STAMP_ADD_IMG (27.0 39.0  "imagenes/Portugal/1363.jpg"  ""    "Mi1363 Sn1335 Yt1343 Sg1657\n27x39 1.000.000"    "")
+STAMP_HEADING (TN 10 "Petrus Hispanus, el médico")
+# Petrus Hispanus fué un famoso médico de la edad media. Su identidad es desconocida, pero algunas teorías lo identifican como Juan XXI.
+# https://es.wikipedia.org/wiki/Petrus_Hispanus
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día de Portugal, de Camões y de las Comunidades Portuguesas" 1)
+# Luis de Camoens es considerado el mayor poeta en lengua portuguesa. El día de su muerte, 10 de junio de 1580, se utiliza como día de Portugal.
+# https://es.wikipedia.org/wiki/Lu%C3%ADs_de_Camoens
+# https://es.wikipedia.org/wiki/D%C3%ADa_de_Portugal
+PAGE_TEXT_CENTRE (TN 10 "08-06-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (39.0 27.0  "imagenes/Portugal/1364.jpg"  ""    "Mi1364 Sn1336 Yt1344 Sg1658\n39x27 3.000.000"    "")
+STAMP_ADD_IMG (39.0 27.0  "imagenes/Portugal/1365.jpg"  ""    "Mi1365 Sn1337 Yt1345 Sg1659\n39x27 1.000.000"    "")
+
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing	
+
+PAGE_TEXT_CENTRE (TN 16 "Recursos naturales: subsuelo" 1)
+PAGE_TEXT_CENTRE (TN 10 "04-10-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1370.jpg"  ""    "Mi1370 Sn1342 Yt1350 Sg1665\n35x26 3.000.000"    "")
+STAMP_HEADING (TN 10 "Piritas")
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1371.jpg"  ""    "Mi1371 Sn1343 Yt1351 Sg1666\n35x26 1.000.000"    "")
+STAMP_HEADING (TN 10 "Mármoles")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1372.jpg"  ""    "Mi1372 Sn1344 Yt1352 Sg1667\n35x26 1.000.000"    "")
+STAMP_HEADING (TN 10 "Mineral de hierro")
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1373.jpg"  ""    "Mi1373 Sn1345 Yt1353 Sg1668\n35x26 500.000"    "")
+STAMP_HEADING (TN 10 "Mineral de uranio")
+
+PAGE_START
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Educación contínua" 1)
+PAGE_TEXT_CENTRE (TN 14 "Alegorías" 1)
+PAGE_TEXT_CENTRE (TN 10 "20-07-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (37.0 32.0  "imagenes/Portugal/1366y.jpg"  ""    "Mi1366y Sn1338 Yt1346 Sg1660\n37x32 3.000.000"    "")
+STAMP_HEADING (TN 10 "Informática")
+# Las tarjetas perforadas fueron el principal método de almacenamiento de información binaria hasta los años 70
+# https://es.wikipedia.org/wiki/Tarjeta_perforada
+STAMP_ADD_IMG (37.0 32.0  "imagenes/Portugal/1367y.jpg"  ""    "Mi1367y Sn1339 Yt1347 Sg1661\n37x32 3.000.000"    "")
+STAMP_HEADING (TN 10 "Música")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (37.0 32.0  "imagenes/Portugal/1368y.jpg"  ""    "Mi1368y Sn1340 Yt1348 Sg1662\n37x32 3.000.000"    "")
+STAMP_HEADING (TN 10 "Mecanización")
+STAMP_ADD_IMG (37.0 32.0  "imagenes/Portugal/1369y.jpg"  ""    "Mi1369y Sn1341 Yt1349 Sg1663\n37x32 3.000.000"    "")
+STAMP_HEADING (TN 10 "Química")
+PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (148.0 96.0  "imagenes/Portugal/BL21.jpg"  ""    "MiBL21 Sn1341a YtBF21 SgMS1664\n148x96 80.000"    "")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing	
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario de la muerte de Alexandre Herculano" 1)
+# Alexandre Herculano (1810-1877) es uno de los más importantes escritores románticos portugueses.
+# https://es.wikipedia.org/wiki/Alexandre_Herculano
+PAGE_TEXT_CENTRE (TN 10 "19-10-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1374.jpg"  ""    "Mi1374 Sn1346 Yt1354 Sg1669\n35x26 3.000.000"    "")
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1375.jpg"  ""    "Mi1375 Sn1347 Yt1355 Sg1670\n35x26 500.000"    "")
+
+
+PAGE_TEXT_CENTRE(HN  2 "")                       # some vertical spacing	
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario del puente ferroviario sobre el Duero" 1)
+# El puente de María Pía, en Oporto, finalizado en 1877, es el primer puente ferroviario en cruzar el río Duero.
+# https://es.wikipedia.org/wiki/Puente_Mar%C3%ADa_P%C3%ADa
+PAGE_TEXT_CENTRE (TN 10 "04-11-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1376.jpg"  ""    "Mi1376 Sn1348 Yt1356 Sg1671\n35x26 3.000.000"    "")
+STAMP_HEADING (TN 10 "Locomotora y carro de bueyes")
+STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1377.jpg"  ""    "Mi1377 Sn1349 Yt1357 Sg1672\n35x26 500.000"    "")
+STAMP_HEADING (TN 10 "Puente María Pía")
+
+#PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing	
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad 1977" 1)
+PAGE_TEXT_CENTRE (TN 14 "Dibujos infantiles" 1)
+PAGE_TEXT_CENTRE (TN 10 "14-12-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1384.jpg"  ""    "Mi1384 Sn1356 Yt1364 Sg1680\n40x29 4.000.000"    "")
+STAMP_HEADING (TN 10 "La adoración\n(Maria do Sameiro A. Santos)")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1385.jpg"  ""    "Mi1385 Sn1357 Yt1365 Sg1681\n40x29 1.000.000"    "")
+STAMP_HEADING (TN 10 "La estrella de Belén\n(Paula Maria L. David)")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 40.0  "imagenes/Portugal/1386.jpg"  ""    "Mi1386 Sn1358 Yt1366 Sg1682\n29x40 1.000.000"    "")
+STAMP_HEADING (TN 10 "La Sagrada Familia\n(Carla Maria M. Cruz)")
+STAMP_ADD_IMG (29.0 40.0  "imagenes/Portugal/1387.jpg"  ""    "Mi1387 Sn1359 Yt1367 Sg1683\n29x40 500.000"    "")
+STAMP_HEADING (TN 10 "Niños siguiendo la estrella\n(Rosa Maria M. Cardoso)")
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing	
+
+PAGE_TEXT_CENTRE (TN 16 "Portucale 77 - 2ª Exhibición Filatélica Temática Internacional" 1)
+PAGE_TEXT_CENTRE (TN 14 "Barcos de la costa portuguesa" 1)
+PAGE_TEXT_CENTRE (TN 10 "04-11-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1378y.jpg"  ""    "Mi1378y Sn1350 Yt1358 Sg1673\n40x29 5.000.000"    "")
+STAMP_HEADING (TN 10 "Poveiro")
+# https://en.wikipedia.org/wiki/Poveiro_(boat)
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1379y.jpg"  ""    "Mi1379y Sn1351 Yt1359 Sg1674\n40x29 2.000.000"    "")
+STAMP_HEADING (TN 10 "Barco do Mar")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1380y.jpg"  ""    "Mi1380y Sn1352 Yt1360 Sg1675\n40x29 5.000.000"    "")
+STAMP_HEADING (TN 10 "Barca de Nazaré")
+# https://findoutnazare.pt/listing/embarcacoes-tradicionais-da-nazare/
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1381y.jpg"  ""    "Mi1381y Sn1353 Yt1361 Sg1676\n40x29 1.000.000"    "")
+STAMP_HEADING (TN 10 "Caique del Algarve")
+# https://canhoeiro.blogspot.com/2010/05/caique-do-algarve.html
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1382y.jpg"  ""    "Mi1382y Sn1354 Yt1362 Sg1677\n40x29 500.000"    "")
+STAMP_HEADING (TN 10 "Barca de Xávega (Algarve)")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1383.jpg"  ""    "Mi1383 Sn1355 Yt1363 Sg1678\n40x29 500.000"    "")
+STAMP_HEADING (TN 10 "Bateira de Buarcos")
+PAGE_TEXT_CENTRE(HN  10 "")
+PAGE_TEXT_CENTRE (TN 10 "09-11-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (147.0 104.0  "imagenes/Portugal/BL22.jpg"  ""    "MiBL22 Sn1355a YtBF22 SgMS1679\n147x104 200.000"    "")
