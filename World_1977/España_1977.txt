@@ -46,10 +46,11 @@ PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
 
 #ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
 ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
 STAMP_ADD_IMG (60.0 36.0  "imagenes/España/bandera.png"  ""    ""    ""  NO_FRAME)
 #STAMP_ADD_BLANK (70 15.0) 
 #STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
-STAMP_ADD_IMG (28.0 36.0  "imagenes/España/escudo.png"  ""    ""    ""  NO_FRAME)
+STAMP_ADD_IMG (60.0 36.0  "imagenes/España/escudo.png"  ""    ""    ""  NO_FRAME)
 #STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
 
 PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
