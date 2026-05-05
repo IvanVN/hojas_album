@@ -1,0 +1,352 @@
+################################################################################
+# AlbumEasy file: España_1960.txt
+# Generated:      19:10, lu. abr. 13, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("España 1960")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "España - 1960") #add a title to the top of each page
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Tauromaquia")
+PAGE_TEXT_CENTRE (TN 10 "29-02-1960\n5.000.000 / Calcografía / 12¾ / Pliego 25")
+#PAGE_TEXT_CENTRE (TN 10 "5.000.000 / Calcografía / 12¾ / Pliego 25")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1254.jpg"  ""    "Mi1151 Sn909 Yt943 Sg1317 Edi1254\n41x26 / 15 Cts"    "")
+STAMP_HEADING (TN 10 "Toro de lidia")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1256.jpg"  ""    "Mi1153 Sn911 Yt945 Sg1319 Edi1256\n26x41 / 25 Cts"    "")
+STAMP_HEADING (TN 10 "Encierro")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1255.jpg"  ""    "Mi1152 Sn910 Yt944 Sg1318 Edi1255\n41x26 / 20 Cts"    "")
+STAMP_HEADING (TN 10 "Toros en el campo")
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1257.jpg"  ""    "Mi1154 Sn912 Yt946 Sg1320 Edi1257\n26x41 / 30 Cts"    "")
+STAMP_HEADING (TN 10 "Salida del toril")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1258.jpg"  ""    "Mi1155 Sn913 Yt947 Sg1321 Edi1258\n26x41 / 50 Cts"    "")
+STAMP_HEADING (TN 10 "Pase de capote: farol")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1259.jpg"  ""    "Mi1156 Sn914 Yt948 Sg1322 Edi1259\n26x41 / 70 Cts"    "")
+STAMP_HEADING (TN 10 "Banderillas")
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1260.jpg"  ""    "Mi1157 Sn915 Yt949 Sg1323 Edi1260\n26x41 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Pase de muleta: derechazo")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1261.jpg"  ""    "Mi1158 Sn916 Yt950 Sg1324 Edi1261\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Pase de muleta: pase por alto")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1262.jpg"  ""    "Mi1159 Sn917 Yt951 Sg1325 Edi1262\n26x41 / 1,40 Pta"    "")
+STAMP_HEADING (TN 10 "Citando al toro")
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN 5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Tauromaquia")
+PAGE_TEXT_CENTRE (TN 10 "29-02-1960\n5.000.000 / Calcografía / 12¾ / Pliego 25")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1263.jpg"  ""    "Mi1160 Sn918 Yt952 Sg1326 Edi1263\n26x41 / 1,50 Pta"    "")
+STAMP_HEADING (TN 10 "Pase de muleta: natural\n")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1264.jpg"  ""    "Mi1161 Sn919 Yt953 Sg1327 Edi1264\n41x26 / 1,80 Pta"    "")
+STAMP_HEADING (TN 10 "Rejoneo")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1265.jpg"  ""    "Mi1162 Sn920 Yt954 Sg1328 Edi1265\n26x41 / 5 Pta"    "")
+STAMP_HEADING (TN 10 "Francisco Montes 'Paquiro'\n(1805-1851)")
+#https://es.wikipedia.org/wiki/Paquiro
+#PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+PAGE_VSPACE (-10.0)
+PAGE_TEXT_CENTRE (TN 10 "Correo Aereo")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1267.jpg"  ""    "Mi1164 SnC160 YtPA279 Sg1330 Edi1267\n41x26 / 50 Cts"    "")
+STAMP_HEADING (TN 10 "Pase de capote: quite de frente")
+PAGE_VSPACE (-30.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1266.jpg"  ""    "Mi1163 SnC159 YtPA278 Sg1329 Edi1266\n26x41 / 25 Cts"    "")
+STAMP_HEADING (TN 10 "Toros en el pueblo")
+STAMP_ADD_BLANK (41.0 26.0)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1268.jpg"  ""    "Mi1165 SnC161 YtPA280 Sg1331 Edi1268\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Brindis")
+PAGE_VSPACE (-30.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1269.jpg"  ""    "Mi1166 SnC162 YtPA281 Sg1332 Edi1269\n41x26 / 5 Pta"    "")
+STAMP_HEADING (TN 10 "La Maestranza (Sevilla)")
+# https://es.wikipedia.org/wiki/Plaza_de_toros_de_Sevilla
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica\nGeneral Francisco Franco")
+PAGE_TEXT_CENTRE (TN 10 "31-03-1960\n6.000.000 / Huecograbado / 12¾ x 13¼ / Pliego 100")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1290.jpg"  ""    "Mi1050b Sn937 Yt971 Sg1227 Edi1290\n26x29 / 1 Pta"    "")
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1291.jpg"  ""    "Mi1053c Sn938 Yt972 Sg1228 Edi1291\n26x29 / 5 Ptas"    "")
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día del sello")
+PAGE_TEXT_CENTRE (TN 16 "Bartolomé Esteban Murillo (1618-1682)\nPintor barroco")
+PAGE_TEXT_CENTRE (TN 10 "24-03-1960\n3.500.000 / Huecograbado / 13¼ / Pliego 100")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1270.jpg"  ""    "Mi1167 Sn921 Yt955 Sg1333 Edi1270\n29x34 / 25 Cts"    "")
+STAMP_HEADING (TN 10 "El buen pastor")
+#https://es.wikipedia.org/wiki/El_Buen_Pastor_(Murillo)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1271.jpg"  ""    "Mi1168 Sn922 Yt956 Sg1334 Edi1271\n29x34 / 40 Cts"    "")
+STAMP_HEADING (TN 10 "Rebeca y Eliezer")
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1272.jpg"  ""    "Mi1169 Sn923 Yt957 Sg1335 Edi1272\n29x34 / 50 Cts"    "")
+STAMP_HEADING (TN 10 "La Virgen del Rosario")
+#ROW_START_ES (HN 6 0.1)
+#STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1273.jpg"  ""    "Mi1170 Sn924 Yt958 Sg1336 Edi1272\n29x34 / 70 Cts"    "")
+#STAMP_HEADING (TN 10 "La Inmaculada Concepción")
+#STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1274.jpg"  ""    "Mi1171 Sn925 Yt959 Sg1337 Edi1274\n29x34 / 80 Cts"    "")
+#STAMP_HEADING (TN 10 "Niño de la concha")
+#STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1276.jpg"  ""    "Mi1173 Sn927 Yt961 Sg1339 Edi1276\n29x34 / 1,5 Ptas"    "")
+#STAMP_HEADING (TN 10 "Sagrada Familia del pajarito")
+# https://es.wikipedia.org/wiki/Sagrada_Familia_del_pajarito
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1274.jpg"  ""    "Mi1171 Sn925 Yt959 Sg1337 Edi1274\n29x34 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Niño de la concha")
+PAGE_VSPACE (-30.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1273.jpg"  ""    "Mi1170 Sn924 Yt958 Sg1336 Edi1272\n29x34 / 70 Cts"    "")
+STAMP_HEADING (TN 10 "La Inmaculada Concepción")
+STAMP_ADD_BLANK (29.0 34.0)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1275.jpg"  ""    "Mi1172 Sn926 Yt960 Sg1338 Edi1275\n29x34 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Autorretrato")
+PAGE_VSPACE (-25.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.0 29.0  "imagenes/1960/1276.jpg"  ""    "Mi1173 Sn927 Yt961 Sg1339 Edi1276\n34x29 / 1,5 Ptas"    "")
+STAMP_HEADING (TN 10 "Sagrada Familia del pajarito")
+# https://es.wikipedia.org/wiki/Sagrada_Familia_del_pajarito
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1277.jpg"  ""    "Mi1174 Sn928 Yt962 Sg1340 Edi1277\n29x34 / 2,5 Ptas"    "")
+STAMP_HEADING (TN 10 "Niños jugando a los dados")
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1278.jpg"  ""    "Mi1175 Sn929 Yt963 Sg1341 Edi1278\n29x34 / 3 Ptas"    "")
+STAMP_HEADING (TN 10 "Niños comiendo de una tartera")
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1960/1279.jpg"  ""    "Mi1176 Sn930 Yt964 Sg1342 Edi1279\n29x34 / 5 Ptas"    "")
+STAMP_HEADING (TN 10 "Las jóvenes fruteras")
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "I Congreso Internacional de Filatelia")
+PAGE_TEXT_CENTRE (TN 10 "27-03-1960\n325.000 / Huecograbado / 12¾ / Pliego 75")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1280.jpg"  ""    "Mi1177 Sn931 Yt965 Sg1343 Edi1280\n26x41 / 70 Cts"    "")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1282.jpg"  ""    "Mi1179 Sn933 Yt967 Sg1345 Edi1282\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Santo Cristo de Lepanto")
+# https://catedralbcn.org/es/culto-y-oracion/santos/el-sant-crist-de-lepant/
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1284.jpg"  ""    "Mi1181 Sn935 Yt969 Sg1347 Edi1284\n26x41 / 5 Ptas"    "")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1281.jpg"  ""    "Mi1178 Sn932 Yt966 Sg1344 Edi1281\n26x41 / 80 Cts"    "")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1283.jpg"  ""    "Mi1180 Sn934 Yt968 Sg1346 Edi1283\n26x41 / 2,5 Ptas"    "")
+STAMP_HEADING (TN 10 "Templo Expiatorio de la Sagrada Familia")
+# https://es.wikipedia.org/wiki/Templo_Expiatorio_de_la_Sagrada_Familia
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1285.jpg"  ""    "Mi1182 Sn936 Yt970 Sg1348 Edi1285\n26x41 / 10 Ptas"    "")
+
+PAGE_TEXT_CENTRE (TN 10 "")
+PAGE_TEXT_CENTRE (TN 10 "Correo Aereo")
+
+#ROW_START_ES (HN 6 0.1)
+#STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1287.jpg"  ""    "Mi1184 SnC164 YtPA283 Sg1350 Edi1287\n41x26 / 5 Ptas"    "")
+#STAMP_HEADING (TN 10 "Cesta punta")
+#PAGE_VSPACE (-20.0)
+#ROW_START_ES (HN 6 0.1)
+#STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1286.jpg"  ""    "Mi1183 SnC163 YtPA282 Sg1349 Edi1286\n41x26 / 1 Pta"    "")
+#STAMP_ADD_BLANK (41.0 26.0)
+#STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1288.jpg"  ""    "Mi1185 SnC165 YtPA284 Sg1351 Edi1288\n41x26 / 6 Ptas"    "")
+#PAGE_VSPACE (-15.0)
+#ROW_START_ES (HN 6 0.1)
+#STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1289.jpg"  ""    "Mi1186 SnC166 YtPA285 Sg1352 Edi1289\n41x26 / 10 Ptas"    "")
+
+PAGE_TEXT_CENTRE (TN 10 "Cesta punta")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1286.jpg"  ""    "Mi1183 SnC163 YtPA282 Sg1349 Edi1286\n41x26 / 1 Pta"    "")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1287.jpg"  ""    "Mi1184 SnC164 YtPA283 Sg1350 Edi1287\n41x26 / 5 Ptas"    "")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1288.jpg"  ""    "Mi1185 SnC165 YtPA284 Sg1351 Edi1288\n41x26 / 6 Ptas"    "")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1289.jpg"  ""    "Mi1186 SnC166 YtPA285 Sg1352 Edi1289\n41x26 / 10 Ptas"    "")
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Canonización del Beato Juan de Rivera\n(1532-1611)")
+#https://es.wikipedia.org/wiki/Juan_de_Ribera
+PAGE_TEXT_CENTRE (TN 10 "16-08-1960\n8.000.000 / Huecograbado / 12¾ x 13¼ / Pliego 100")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1292.jpg"  ""    "Mi1187 Sn939 Yt973 Sg1353 Edi1292\n26x29 / 1 Pta"    "")
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1293.jpg"  ""    "Mi1188 Sn940 Yt974 Sg1354 Edi1293\n26x29 / 2,5 Ptas"    "")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Europa C.E.P.T.")
+PAGE_TEXT_CENTRE (TN 12 "Rueda de 19 radios, símbolo de los 19 miembros del CEPT")
+#https://es.wikipedia.org/wiki/Conferencia_Europea_de_Administraciones_de_Correos_y_Telecomunicaciones
+PAGE_TEXT_CENTRE (TN 10 "19-09-1960\n3.500.000 / Huecograbado / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1294.jpg"  ""    "Mi1189 Sn941 Yt975 Sg1355 Edi1294\n41x26 / 1 Pta"    "")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1295.jpg"  ""    "Mi1190 Sn942 Yt976 Sg1356 Edi1295\n41x26 / 5 Ptas"    "")
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "III Centenario de la muerte de San Vicente de Paúl\n(1581-1660)")
+#https://es.wikipedia.org/wiki/Vicente_de_Pa%C3%BAl
+PAGE_TEXT_CENTRE (TN 10 "27-09-1960\n30.000.000 / Huecograbado / 12¾ x 13¼ / Pliego 100")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1296.jpg"  ""    "Mi1191 Sn943 Yt977 Sg1357 Edi1296\n26x29 / 25 Cts"    "")
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1297.jpg"  ""    "Mi1192 Sn944 Yt978 Sg1358 Edi1297\n26x29 / 1 Pta"    "")
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Forjadores de América")
+PAGE_TEXT_CENTRE (TN 12 "IV Centenario del descubrimiento de la Florida")
+PAGE_TEXT_CENTRE (TN 10 "12-10-1960\n3.500.000 / Huecograbado / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1298.jpg"  ""    "Mi1193 Sn945 Yt979 Sg1359 Edi1298\n26x41 / 25 Cts"    "")
+STAMP_HEADING (TN 10 "Pedro Menéndez de Avilés\n(1519–1574)")
+#https://es.wikipedia.org/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1299.jpg"  ""    "Mi1194 Sn946 Yt980 Sg1360 Edi1299\n26x41 / 70 Cts"    "")
+STAMP_HEADING (TN 10 "Hernando de Soto\n(c.1496–1542)")
+#https://es.wikipedia.org/wiki/Hernando_de_Soto
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1300.jpg"  ""    "Mi1195 Sn947 Yt981 Sg1361 Edi1300\n26x41 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Juan Ponce de León\n(1474-1521)")
+#https://es.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1301.jpg"  ""    "Mi1196 Sn948 Yt982 Sg1362 Edi1301\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Álvar Núñez Cabeza de Vaca\n(c.1489–1558)")
+#https://es.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca
+PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1302.jpg"  ""    "Mi1197 Sn949 Yt983 Sg1363 Edi1302\n26x41 / 2 Ptas"    "")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1303.jpg"  ""    "Mi1198 Sn950 Yt984 Sg1364 Edi1303\n26x41 / 2,5 Ptas"    "")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1304.jpg"  ""    "Mi1199 Sn951 Yt985 Sg1365 Edi1304\n26x41 / 3 Ptas"    "")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1305.jpg"  ""    "Mi1200 Sn952 Yt986 Sg1366 Edi1305\n26x41 / 5 Ptas"    "")
+
+
+PAGE_TEXT_CENTRE(HN  20 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario del nacimiento de Isaac Albéniz\n(1860-1909)")
+PAGE_TEXT_CENTRE (TN 12 "Pianista y compositor")
+PAGE_TEXT_CENTRE (TN 10 "07-11-1960\n30.000.000 / Huecograbado / 12¾ x 13¼ / Pliego 100")
+#https://es.wikipedia.org/wiki/Isaac_Alb%C3%A9niz
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1320.jpg"  ""    "Mi1215 Sn963 Yt997 Sg1381 Edi1320\n26x29 / 25 Cts"    "")
+STAMP_ADD_IMG (26.0 29.0  "imagenes/1960/1321.jpg"  ""    "Mi1216 Sn964 Yt998 Sg1382 Edi1321\n26x29 / 1 Pta"    "")
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+ 
+PAGE_TEXT_CENTRE (TN 16 "Deportes")
+PAGE_TEXT_CENTRE (TN 10 "31-10-1960\n3.500.000 / Huecograbado / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_BLANK (26.0 41.0)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1313.jpg"  ""    "Mi1208 Sn960 Yt994 Sg1374 Edi1313\n41x26 / 2,5 Ptas"    "")
+STAMP_HEADING (TN 10 "Fútbol" 26)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1308.jpg"  ""    "Mi1203 Sn955 Yt989 Sg1369 Edi1308\n41x26 / 70 Cts"    "")
+STAMP_ADD_BLANK (26.0 41.0)
+
+PAGE_VSPACE (-40.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1306.jpg"  ""    "Mi1201 Sn953 Yt987 Sg1367 Edi1306\n26x41 / 25 Cts"    "")
+STAMP_HEADING (TN 10 "Atletismo")
+STAMP_ADD_BLANK (41.0 26.0)
+STAMP_ADD_BLANK (41.0 26.0)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1309.jpg"  ""    "Mi1204 Sn956 Yt990 Sg1370 Edi1309\n26x41 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Gimnasia")
+
+PAGE_VSPACE (-30.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_BLANK (26.0 41.0)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1310.jpg"  ""    "Mi1205 Sn957 Yt991 Sg1371 Edi1310\n41x26 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Hockey sobre patines" 26)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1315.jpg"  ""    "Mi1210 Sn962 Yt996 Sg1376 Edi1315\n41x26 / 5 Ptas"    "")
+STAMP_ADD_BLANK (26.0 41.0)
+
+PAGE_VSPACE (-20.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1311.jpg"  ""    "Mi1206 Sn958 Yt992 Sg1372 Edi1311\n26x41 / 1,5 Ptas"    "")
+STAMP_ADD_BLANK (41.0 26.0)
+STAMP_ADD_BLANK (41.0 26.0)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1314.jpg"  ""    "Mi1209 Sn961 Yt995 Sg1375 Edi1314\n26x41 / 3 Ptas"    "")
+
+PAGE_VSPACE (-45.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_BLANK (26.0 41.0)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1307.jpg"  ""    "Mi1202 Sn954 Yt988 Sg1368 Edi1307\n41x26 / 40 Cts"    "")
+STAMP_HEADING (TN 10 "Ciclismo" 26)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1312.jpg"  ""    "Mi1207 Sn959 Yt993 Sg1373 Edi1312\n41x26 / 2 Ptas"    "")
+STAMP_ADD_BLANK (26.0 41.0)
+
+
+PAGE_TEXT_CENTRE (TN 10 "Correo Aereo")
+ROW_ALIGN_MIDDLE
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1316.jpg"  ""    "Mi1211 SnC167 YtPA286 Sg1377 Edi1316\n41x26 / 1,25 Ptas"    "")
+STAMP_HEADING (TN 10 "Hípica")
+PAGE_VSPACE (-35.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1317.jpg"  ""    "Mi1212 SnC168 YtPA287 Sg1378 Edi1317\n26x41 / 1,5 Ptas"    "")
+STAMP_HEADING (TN 10 "Pelota vasca")
+STAMP_ADD_BLANK (41.0 26.0)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1319.jpg"  ""    "Mi1214 SnC170 YtPA289 Sg1380 Edi1319\n26x41 / 10 Ptas"    "")
+STAMP_HEADING (TN 10 "Pelota vasca")
+PAGE_VSPACE (-30.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_BLANK (26.0 41.0)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1318.jpg"  ""    "Mi1213 SnC169 YtPA288 Sg1379 Edi1318\n41x26 / 6 Ptas"    "")
+STAMP_ADD_BLANK (26.0 41.0)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Monasterio de San Julián de Samos (Lugo)")
+#https://es.wikipedia.org/wiki/Monasterio_de_San_Juli%C3%A1n_(Samos)
+PAGE_TEXT_CENTRE (TN 10 "21-11-1960\n4.000.000 / Calcografía / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1323.jpg"  ""    "Mi1218 Sn966 Yt1000 Sg1384 Edi1323\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Patio")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1960/1322.jpg"  ""    "Mi1217 Sn965 Yt999 Sg1383 Edi1322\n41x26 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Claustro")
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1324.jpg"  ""    "Mi1219 Sn967 Yt1001 Sg1385 Edi1324\n26x41 / 5 Ptas"    "")
+STAMP_HEADING (TN 10 "Fachada principal")
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad")
+PAGE_TEXT_CENTRE (TN 12 "La Adoración de los Reyes Magos\nDiego Velazquez (1619)")
+#https://es.wikipedia.org/wiki/Adoraci%C3%B3n_de_los_Reyes_Magos_(Vel%C3%A1zquez)
+PAGE_TEXT_CENTRE (TN 10 "01-12-1960\n20.000.000 / Huecograbado / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1960/1325.jpg"  ""    "Mi1220 Sn968 Yt1002 Sg1386 Edi1325\n26x41 / 1 Pta"    "")
