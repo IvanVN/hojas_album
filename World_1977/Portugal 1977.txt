@@ -17,7 +17,8 @@ ALBUM_TITLE ("Portugal 1977")
 ALBUM_AUTHOR ("Ivan Villaverde")
 
 ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
-ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
 ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
 #ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
 ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
@@ -155,22 +156,22 @@ PAGE_TEXT_CENTRE (TN 16 "Día de Portugal, de Camões y de las Comunidades Portu
 # https://es.wikipedia.org/wiki/D%C3%ADa_de_Portugal
 PAGE_TEXT_CENTRE (TN 10 "08-06-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (39.0 27.0  "imagenes/Portugal/1364.jpg"  ""    "Mi1364 Sn1336 Yt1344 Sg1658\n39x27 3.000.000"    "")
-STAMP_ADD_IMG (39.0 27.0  "imagenes/Portugal/1365.jpg"  ""    "Mi1365 Sn1337 Yt1345 Sg1659\n39x27 1.000.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1364.jpg"  ""    "Mi1364 Sn1336 Yt1344 Sg1658\n40x29 3.000.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1365.jpg"  ""    "Mi1365 Sn1337 Yt1345 Sg1659\n40x29 1.000.000"    "")
 
 PAGE_TEXT_CENTRE(HN  10 "")                       # some vertical spacing	
 
 PAGE_TEXT_CENTRE (TN 16 "Recursos naturales: subsuelo" 1)
 PAGE_TEXT_CENTRE (TN 10 "04-10-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1370.jpg"  ""    "Mi1370 Sn1342 Yt1350 Sg1665\n35x26 3.000.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1370.jpg"  ""    "Mi1370 Sn1342 Yt1350 Sg1665\n40x29 3.000.000"    "")
 STAMP_HEADING (TN 10 "Piritas")
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1371.jpg"  ""    "Mi1371 Sn1343 Yt1351 Sg1666\n35x26 1.000.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1371.jpg"  ""    "Mi1371 Sn1343 Yt1351 Sg1666\n40x29 1.000.000"    "")
 STAMP_HEADING (TN 10 "Mármoles")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1372.jpg"  ""    "Mi1372 Sn1344 Yt1352 Sg1667\n35x26 1.000.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1372.jpg"  ""    "Mi1372 Sn1344 Yt1352 Sg1667\n40x29 1.000.000"    "")
 STAMP_HEADING (TN 10 "Mineral de hierro")
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1373.jpg"  ""    "Mi1373 Sn1345 Yt1353 Sg1668\n35x26 500.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1373.jpg"  ""    "Mi1373 Sn1345 Yt1353 Sg1668\n40x29 500.000"    "")
 STAMP_HEADING (TN 10 "Mineral de uranio")
 
 PAGE_START
@@ -205,8 +206,8 @@ PAGE_TEXT_CENTRE (TN 16 "Centenario de la muerte de Alexandre Herculano" 1)
 # https://es.wikipedia.org/wiki/Alexandre_Herculano
 PAGE_TEXT_CENTRE (TN 10 "19-10-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1374.jpg"  ""    "Mi1374 Sn1346 Yt1354 Sg1669\n35x26 3.000.000"    "")
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1375.jpg"  ""    "Mi1375 Sn1347 Yt1355 Sg1670\n35x26 500.000"    "")
+STAMP_ADD_IMG (44.0 31.0  "imagenes/Portugal/1374.jpg"  ""    "Mi1374 Sn1346 Yt1354 Sg1669\n44x31 3.000.000"    "")
+STAMP_ADD_IMG (44.0 31.0  "imagenes/Portugal/1375.jpg"  ""    "Mi1375 Sn1347 Yt1355 Sg1670\n44x31 500.000"    "")
 
 
 PAGE_TEXT_CENTRE(HN  2 "")                       # some vertical spacing	
@@ -216,9 +217,9 @@ PAGE_TEXT_CENTRE (TN 16 "Centenario del puente ferroviario sobre el Duero" 1)
 # https://es.wikipedia.org/wiki/Puente_Mar%C3%ADa_P%C3%ADa
 PAGE_TEXT_CENTRE (TN 10 "04-11-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1376.jpg"  ""    "Mi1376 Sn1348 Yt1356 Sg1671\n35x26 3.000.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1376.jpg"  ""    "Mi1376 Sn1348 Yt1356 Sg1671\n40x29 3.000.000"    "")
 STAMP_HEADING (TN 10 "Locomotora y carro de bueyes")
-STAMP_ADD_IMG (35.0 26.0  "imagenes/Portugal/1377.jpg"  ""    "Mi1377 Sn1349 Yt1357 Sg1672\n35x26 500.000"    "")
+STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1377.jpg"  ""    "Mi1377 Sn1349 Yt1357 Sg1672\n40x29 500.000"    "")
 STAMP_HEADING (TN 10 "Puente María Pía")
 
 #PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing	
@@ -227,14 +228,17 @@ PAGE_TEXT_CENTRE (TN 16 "Navidad 1977" 1)
 PAGE_TEXT_CENTRE (TN 14 "Dibujos infantiles" 1)
 PAGE_TEXT_CENTRE (TN 10 "14-12-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1384.jpg"  ""    "Mi1384 Sn1356 Yt1364 Sg1680\n40x29 4.000.000"    "")
+STAMP_ADD_IMG (44.0 33.0  "imagenes/Portugal/1384.jpg"  ""    "Mi1384 Sn1356 Yt1364 Sg1680\n44x33 4.000.000"    "")
 STAMP_HEADING (TN 10 "La adoración\n(Maria do Sameiro A. Santos)")
-STAMP_ADD_IMG (40.0 29.0  "imagenes/Portugal/1385.jpg"  ""    "Mi1385 Sn1357 Yt1365 Sg1681\n40x29 1.000.000"    "")
-STAMP_HEADING (TN 10 "La estrella de Belén\n(Paula Maria L. David)")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (29.0 40.0  "imagenes/Portugal/1386.jpg"  ""    "Mi1386 Sn1358 Yt1366 Sg1682\n29x40 1.000.000"    "")
+STAMP_ADD_IMG (44.0 33.0  "imagenes/Portugal/1385.jpg"  ""    "Mi1385 Sn1357 Yt1365 Sg1681\n44x33 1.000.000"    "")
+STAMP_HEADING (TN 10 "La estrella de Belén\n(Paula Maria L. David)")
+PAGE_VSPACE (-90.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33.0 44.0  "imagenes/Portugal/1386.jpg"  ""    "Mi1386 Sn1358 Yt1366 Sg1682\n33x44 1.000.000"    "")
 STAMP_HEADING (TN 10 "La Sagrada Familia\n(Carla Maria M. Cruz)")
-STAMP_ADD_IMG (29.0 40.0  "imagenes/Portugal/1387.jpg"  ""    "Mi1387 Sn1359 Yt1367 Sg1683\n29x40 500.000"    "")
+STAMP_ADD_BLANK (44.0 33.0)
+STAMP_ADD_IMG (33.0 44.0  "imagenes/Portugal/1387.jpg"  ""    "Mi1387 Sn1359 Yt1367 Sg1683\n33x44 500.000"    "")
 STAMP_HEADING (TN 10 "Niños siguiendo la estrella\n(Rosa Maria M. Cardoso)")
 
 PAGE_START
@@ -264,4 +268,4 @@ STAMP_HEADING (TN 10 "Bateira de Buarcos")
 PAGE_TEXT_CENTRE(HN  10 "")
 PAGE_TEXT_CENTRE (TN 10 "09-11-1977")
 ROW_START_ES (HN 6 0.1)
-STAMP_ADD_IMG (147.0 104.0  "imagenes/Portugal/BL22.jpg"  ""    "MiBL22 Sn1355a YtBF22 SgMS1679\n147x104 200.000"    "")
+STAMP_ADD_IMG (148.0 105.0  "imagenes/Portugal/BL22.jpg"  ""    "MiBL22 Sn1355a YtBF22 SgMS1679\n148x105 200.000"    "")
