@@ -1,0 +1,129 @@
+################################################################################
+# AlbumEasy file: España_1959.txt
+# Generated:      22:04, mie. abr. 29, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("España 1959")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "España - 1959") #add a title to the top of each page
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Día del sello")
+PAGE_TEXT_CENTRE (TN 16 "Diego Velázquez (1599-1660)\nPintor barroco")
+#https://es.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
+PAGE_TEXT_CENTRE (TN 10 "24-03-1959\n3.000.000 / Huecograbado / 13¼ / Pliego 100")
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.0 29.0  "imagenes/1959/1238.jpg"  ""    "Mi1135 Sn893 Yt927 Sg1301 Edi1238\n34x29 / 15 Cts"    "")
+STAMP_HEADING (TN 10 "Los borrachos\n(El triunfo de Baco)")
+#https://es.wikipedia.org/wiki/El_triunfo_de_Baco_(Vel%C3%A1zquez)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1239.jpg"  ""    "Mi1136 Sn894 Yt928 Sg1302 Edi1239\n29x34 / 40 Cts"    "")
+STAMP_HEADING (TN 10 "Las hilanderas\n(La fábula de Aracne)")
+#https://es.wikipedia.org/wiki/La_f%C3%A1bula_de_Aracne
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1240.jpg"  ""    "Mi1137 Sn895 Yt929 Sg1303 Edi1240\n29x34 / 50 Cts"    "")
+STAMP_HEADING (TN 10 "Las lanzas\n(La rendición de Breda)")
+#https://es.wikipedia.org/wiki/La_rendici%C3%B3n_de_Breda
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1241.jpg"  ""    "Mi1138 Sn896 Yt930 Sg1304 Edi1241\n29x34 / 60 Cts"    "")
+STAMP_HEADING (TN 10 "Las meninas\n(La familia de Felipe IV)")
+#https://es.wikipedia.org/wiki/Las_meninas
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1242.jpg"  ""    "Mi1139 Sn897 Yt931 Sg1305 Edi1242\n29x34 / 70 Cts"    "")
+STAMP_HEADING (TN 10 "\nEl príncipe Baltasar Carlos a caballo")
+#https://es.wikipedia.org/wiki/El_pr%C3%ADncipe_Baltasar_Carlos_a_caballo
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1243.jpg"  ""    "Mi1140 Sn898 Yt932 Sg1306 Edi1243\n29x34 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Autorretrato\n(detalle de Las meninas)")
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1244.jpg"  ""    "Mi1141 Sn899 Yt933 Sg1307 Edi1244\n29x34 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "\nCoronación de la Virgen")
+#https://es.wikipedia.org/wiki/Coronaci%C3%B3n_de_la_Virgen_(Vel%C3%A1zquez)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1245.jpg"  ""    "Mi1142 Sn900 Yt934 Sg1308 Edi1245\n29x34 / 1,80 Ptas"    "")
+STAMP_HEADING (TN 10 "Esopo")
+#https://es.wikipedia.org/wiki/Esopo_(Vel%C3%A1zquez)
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1246.jpg"  ""    "Mi1143 Sn901 Yt935 Sg1309 Edi1246\n29x34 / 2 Ptas"    "")
+STAMP_HEADING (TN 10 "La fragua de Vulcano")
+#https://es.wikipedia.org/wiki/La_fragua_de_Vulcano
+STAMP_ADD_IMG (29.0 34.0  "imagenes/1959/1247.jpg"  ""    "Mi1144 Sn902 Yt936 Sg1310 Edi1247\n29x34 / 3 Ptas"    "")
+STAMP_HEADING (TN 10 "Menipo")
+#https://es.wikipedia.org/wiki/Menipo_(Vel%C3%A1zquez)
+
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Inauguración del Monasterio de la Sta. Cruz del Valle de los Caídos")
+#https://es.wikipedia.org/wiki/Valle_de_los_Ca%C3%ADdos
+PAGE_TEXT_CENTRE (TN 10 "01-04-1959\n6.000.000 / Huecograbado / 13¼ / Pliego 100")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_DIAMOND (48.0 48.0  "" ""    "Mi1145 Sn903 Yt937 Sg1311 Edi1248\n34x34 / 80 Cts"    "")
+PAGE_VSPACE (-61.5)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (48.0 48.0  "imagenes/1959/1248.jpg"  ""    ""    "" NO_FRAME)
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_COLUMN_START (55 5.0 1.0 0.0 5.0)
+PAGE_TEXT_CENTRE (TN 16 "III centenario de la Paz de los Pirineos")
+#https://es.wikipedia.org/wiki/Tratado_de_los_Pirineos
+PAGE_TEXT_CENTRE (TN 10 "24-10-1959\n5.000.000 / Huecograbado / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1959/1249.jpg"  ""    "Mi1146 Sn904 Yt938 Sg1312 Edi1249\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "La entrevista de Luís XIV y Felipe IV en la isla de los Faisanes\nTapiz de Charles Le Brun sobre pintura de Jacques Laumosnier (1660)")
+#https://es.wikipedia.org/wiki/La_entrevista_de_Luis_XIV_y_Felipe_IV_en_la_isla_de_los_Faisanes
+
+#PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad")
+PAGE_TEXT_CENTRE (TN 10 "10-12-1959\n15.000.000 / Huecograbado / 12¾ / Pliego 75")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (26.0 41.0  "imagenes/1959/1253.jpg"  ""    "Mi1150 Sn908 Yt942 Sg1316 Edi1253\n26x41 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "La Sagrada Familia con San Juan Bautista niño\nFrancisco de Goya (1746-1828)")
+#https://es.wikipedia.org/wiki/La_Sagrada_Familia_(Goya)
+#https://es.wikipedia.org/wiki/Francisco_de_Goya
+
+PAGE_COLUMN_STOP
+
+PAGE_TEXT_CENTRE(HN  5 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Real Monasterio de Santa María de Guadalupe")
+#https://es.wikipedia.org/wiki/Real_Monasterio_de_Santa_Mar%C3%ADa_de_Guadalupe
+PAGE_TEXT_CENTRE (TN 12 "50 aniversario de la encomendación a la Orden Franciscana")
+PAGE_TEXT_CENTRE (TN 10 "16-11-1959\n4.000.000 / Calcografía / 12¾ / Pliego 50")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1959/1250.jpg"  ""    "Mi1147 Sn905 Yt939 Sg1313 Edi1250\n41x26 / 15 Cts"    "")
+STAMP_HEADING (TN 10 "Claustro")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1959/1251.jpg"  ""    "Mi1148 Sn906 Yt940 Sg1314 Edi1251\n41x26 / 80 Cts"    "")
+STAMP_HEADING (TN 10 "Vista general")
+STAMP_ADD_IMG (41.0 26.0  "imagenes/1959/1252.jpg"  ""    "Mi1149 Sn907 Yt941 Sg1315 Edi1252\n41x26 / 1 Pta"    "")
+STAMP_HEADING (TN 10 "Fachada")
+
