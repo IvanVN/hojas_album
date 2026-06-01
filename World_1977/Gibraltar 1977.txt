@@ -1,0 +1,191 @@
+################################################################################
+# AlbumEasy file: Gibraltar_1977.txt
+# Generated:      19:23, ju. may. 14, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Gibraltar 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "Gibraltar - 1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Gibraltar")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "British Overseas Territory of Gibraltar")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Gibraltar/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Gibraltar/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Gibraltar/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_VSPACE (20.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "25º aniversario del reinado de Isabel II")
+PAGE_TEXT_CENTRE (TN 14 "Armas reales y escudo de Gibraltar")
+PAGE_TEXT_CENTRE (TN 10 "07-02-1977\nLitografía offset / 13¼")
+PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (32.2 48.8  "imagenes/Gibraltar/346A.jpg"  ""    "Mi346A Sn338 Yt346 Sg371\n32,2x48,8 / 6 Peniques"    "")
+STAMP_ADD_IMG (32.2 48.8  "imagenes/Gibraltar/347A.jpg"  ""    "Mi347A Sn339 Yt347 Sg372\n32,2x48,8 / 1 Libra"    "")
+PAGE_VSPACE (15.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (126.5 115.5  "imagenes/Gibraltar/BL3.jpg"  ""    "MiBL3 Sn339a YtBF3 SgMS373\n126,5x115,5 / 1,06 Libras"    "")
+
+
+PAGE_START
+
+PAGE_VSPACE (2.5)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica")
+PAGE_TEXT_CENTRE (TN 10 "01-04-1977\nLitografía offset / 14¼")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/348I.jpg"  ""    "Mi348I Sn340 Yt348 Sg374\n31X38,3 / 0,5 Penique"    "")
+STAMP_HEADING (TN 10 "\nOrchis tridentata")
+#https://es.wikipedia.org/wiki/Orchis_tridentata
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/349I.jpg"  ""    "Mi349I Sn341 Yt349 Sg375\n38,3x31 / 1 Penique"    "")
+STAMP_HEADING (TN 10 "Salmonete de roca\n(Mullus surmuletus)")
+#https://es.wikipedia.org/wiki/Mullus_surmuletus
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/350I.jpg"  ""    "Mi350I Sn342 Yt350 Sg376\n38,3x31 / 2 Peniques"    "")
+STAMP_HEADING (TN 10 "Hormiguera de lunares\n(Phengaris arion)")
+#https://es.wikipedia.org/wiki/Phengaris_arion
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/351I.jpg"  ""    "Mi351I Sn343 Yt351 Sg377\n31X38,3 / 2,5 Peniques"    "")
+STAMP_HEADING (TN 10 "Curruca cabecinegra\n(Sylvia melanocephala)")
+#https://es.wikipedia.org/wiki/Sylvia_melanocephala
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/352I.jpg"  ""    "Mi352I Sn344 Yt352 Sg378\n31X38,3 / 3 Peniques"    "")
+STAMP_HEADING (TN 10 "Esquila portuguesa\n(Scilla peruviana)")
+#https://es.wikipedia.org/wiki/Scilla_peruviana
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/353I.jpg"  ""    "Mi353I Sn345 Yt353 Sg379\n38,3x31 / 4 Peniques"    "")
+STAMP_HEADING (TN 10 "Lábrido gris\n(Symphodus cinereus)")
+#https://en.wikipedia.org/wiki/Grey_wrasse
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/354I.jpg"  ""    "Mi354I Sn346 Yt354 Sg380\n38,3x31 / 5 Peniques"    "")
+STAMP_HEADING (TN 10 "Almirante rojo\n(Vanessa atalanta)")
+#https://es.wikipedia.org/wiki/Vanessa_atalanta
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/355I.jpg"  ""    "Mi355I Sn347 Yt355 Sg381\n31X38,3 / 6 Peniques"    "")
+STAMP_HEADING (TN 10 "Milano negro\n(Milvus migrans)")
+#https://es.wikipedia.org/wiki/Milvus_migrans
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/356I.jpg"  ""    "Mi356I Sn348 Yt356 Sg382\n31X38,3 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "Carolina de jardín\n(Coronilla valentina)")
+#https://en.wikipedia.org/wiki/Coronilla_valentina
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/357I.jpg"  ""    "Mi357I Sn349 Yt357 Sg383\n38,3x31 / 10 Peniques"    "")
+STAMP_HEADING (TN 10 "Gallo de San Pedro\n(Zeus faber)")
+#https://es.wikipedia.org/wiki/Zeus_faber
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/358I.jpg"  ""    "Mi358I Sn350 Yt358 Sg384\n38,3x31 / 12 Peniques"    "")
+STAMP_HEADING (TN 10 "\nColias croceus")
+#https://es.wikipedia.org/wiki/Colias_croceus
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/359I.jpg"  ""    "Mi359I Sn351 Yt359 Sg385\n31X38,3 / 20 Peniques"    "")
+STAMP_HEADING (TN 10 "Gaviota de Audouin\n(Ichthyaetus audouinii)")
+#https://es.wikipedia.org/wiki/Ichthyaetus_audouinii
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/360I.jpg"  ""    "Mi360I Sn352 Yt360 Sg386\n31X38,3 / 25 Peniques"    "")
+STAMP_HEADING (TN 10 "Patita de burro\n(Iris sisyrinchium)")
+#https://herbariovirtualbanyeres.blogspot.com/2012/03/iris-sisyrinchium-patita-de-burro-lliri.html
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/361I.jpg"  ""    "Mi361I Sn353 Yt361 Sg387\n38,3x31 / 50 Peniques"    "")
+STAMP_HEADING (TN 10 "Pez espada\n(Xiphias gladius)")
+#https://es.wikipedia.org/wiki/Xiphias_gladius
+STAMP_ADD_IMG (38.3 31.0  "imagenes/Gibraltar/362I.jpg"  ""    "Mi362I Sn354 Yt362 Sg388\n38,3x31 / 1 Libra"    "")
+STAMP_HEADING (TN 10 "Macaón\n(Papilio machaon)")
+#https://es.wikipedia.org/wiki/Papilio_machaon
+STAMP_ADD_IMG (31.0 38.3  "imagenes/Gibraltar/363I.jpg"  ""    "Mi360I Sn355 Yt363 Sg389\n31X38,3 / 2 Libras"    "")
+STAMP_HEADING (TN 10 "Abubilla\n(Upupa epops)")
+#https://es.wikipedia.org/wiki/Upupa_epops
+
+PAGE_START
+
+PAGE_VSPACE (5)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Exposición filatelica Amphilex'77 (Amsterdam)")
+#https://nl.wikipedia.org/wiki/Amphilex
+PAGE_TEXT_CENTRE (TN 14 "Sellos gibraltareños de 1966, 1970 y 1973")
+PAGE_TEXT_CENTRE (TN 10 "27-05-1977\nLitografía offset / 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (32.2 48.8  "imagenes/Gibraltar/365.jpg"  ""    "Mi365 Sn357 Yt365 Sg391\n32,2x48,8 / 12 Peniques"    "")
+STAMP_HEADING (TN 10 "Punta Europa\nextremo meridional de Gibraltar")
+#https://es.wikipedia.org/wiki/Punta_Europa
+#https://colnect.com/es/stamps/stamp/284-Europa_Point-Europa_Point-Gibraltar
+STAMP_ADD_IMG (48.8 32.2  "imagenes/Gibraltar/364.jpg"  ""    "Mi364 Sn356 Yt364 Sg390\n48,8x32,2 / 6 Peniques"    "")
+STAMP_HEADING (TN 10 "Nuestra Señora de Europa\npatrona de Gibraltar")
+#https://en.wikipedia.org/wiki/Our_Lady_of_Europe
+#https://colnect.com/es/stamps/stamp/218-Statue_Our_Lady_of_Europa-Centenary_of_Re-enthronement_of_Our_Lady_of_Europa-Gibraltar
+STAMP_ADD_IMG (32.2 48.8  "imagenes/Gibraltar/366.jpg"  ""    "Mi366 Sn358 Yt366 Sg392\n32,2x48,8 / 25 Peniques"    "")
+STAMP_HEADING (TN 10 "\nEntrada de R.U. en la C.E.E.")
+#https://en.wikipedia.org/wiki/Accession_of_the_United_Kingdom_to_the_European_Communities
+#https://colnect.com/es/stamps/stamp/358-Flags_of_the_EEC_Members_and_the_EEC_Emblem_red_border-Entry_of_Great_Britain_to_the_European_Economic_Community-Gibraltar
+
+PAGE_VSPACE (5)
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad")
+PAGE_TEXT_CENTRE (TN 14 "IV Centenario de Pedro Pablo Rubens (1577-1640)\nPintor barroco flamenco")
+#https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens
+PAGE_TEXT_CENTRE (TN 10 "02-11-1977\nLitografía offset / 13¾ x 14¼")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (27.9 42.4  "imagenes/Gibraltar/367.jpg"  ""    "Mi367 Sn359 Yt367 Sg393\n27,9x42,4 / 3 Peniques"    "")
+STAMP_HEADING (TN 10 "La anunciación\n(1609)")
+#https://en.wikipedia.org/wiki/Annunciation_(Rubens)
+STAMP_ADD_IMG (27.9 42.4  "imagenes/Gibraltar/368.jpg"  ""    "Mi368 Sn360 Yt368 Sg394\n27,9x42,4 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "La Adoración de los Magos\n(1624)")
+#https://es.wikipedia.org/wiki/La_Adoraci%C3%B3n_de_los_Magos_(Rubens,_Amberes)
+STAMP_ADD_IMG (27.9 42.4  "imagenes/Gibraltar/370.jpg"  ""    "Mi370 Sn362 Yt370 Sg396\n27,9x42,4 / 15 Peniques"    "")
+STAMP_HEADING (TN 10 "La Sagrada Familia bajo el manzano\n(1630-40)")
+#https://artistasycuadros.com/peter-paul-rubens/la-sagrada-familia-bajo-el-manzano/
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (42.4 27.9  "imagenes/Gibraltar/369.jpg"  ""    "Mi369 Sn361 Yt369 Sg395\n42,4x27,9 / 12 Peniques"    "")
+STAMP_HEADING (TN 10 "Adoración de los Reyes Magos\n(1617-18)")
+#https://es.wikipedia.org/wiki/Adoraci%C3%B3n_de_los_Reyes_Magos_(Rubens,_Lyon)
+
+
+PAGE_START
+
+PAGE_VSPACE (5)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad")
+PAGE_TEXT_CENTRE (TN 14 "IV Centenario de Pedro Pablo Rubens (1577-1640)\nPintor barroco flamenco")
+#https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens
+PAGE_TEXT_CENTRE (TN 10 "02-11-1977\nLitografía offset / 13¾ x 14¼")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (116.0 210.0  "imagenes/Gibraltar/BL4.jpg"  ""    "MiBL4 Sn362a YtBF4 SgMS397\n116x210 / 39 Peniques"    "")
