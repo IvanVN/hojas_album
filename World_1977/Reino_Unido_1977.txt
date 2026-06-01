@@ -1,0 +1,276 @@
+################################################################################
+# AlbumEasy file: Reino_Unido_1977.txt
+# Generated:      17:44, vi. may. 22, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Reino Unido 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "Reino Unido - 1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Reino Unido")
+PAGE_TEXT_CENTRE (TN 35 "de Gran Bretaña e Irlanda del Norte")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "United Kingdom of Great Britain and Northern Ireland")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
+STAMP_ADD_IMG (60.0 36.0  "imagenes/RU/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (60.0 36.0  "imagenes/RU/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/RU/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_VSPACE (5.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Deportes de raqueta")
+PAGE_TEXT_CENTRE (TN 10 "12-01-1977\nFotograbado / 14¾ x 14¼")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/727.jpg"  ""    "Mi727 Sn802 Yt817 Sg1022\n41x30 / 8½ Peniques"    "")
+STAMP_HEADING (TN 10 "Tenis sobre hierba")
+#https://es.wikipedia.org/wiki/Tenis
+STAMP_ADD_IMG (41 30  "imagenes/RU/728.jpg"  ""    "Mi728 Sn803 Yt818 Sg1023\n41x30 / 10 Peniques"    "")
+STAMP_HEADING (TN 10 "Tenis de mesa")
+#https://es.wikipedia.org/wiki/Tenis_de_mesa
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/729.jpg"  ""    "Mi729 Sn804 Yt819 Sg1024\n41x30 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "Squash")
+#https://es.wikipedia.org/wiki/Squash
+STAMP_ADD_IMG (41 30  "imagenes/RU/730.jpg"  ""    "Mi730 Sn805 Yt820 Sg1025\n41x30 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "Squash")
+
+PAGE_VSPACE (5.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica")
+PAGE_TEXT_CENTRE (TN 14 "Reina Isabel II - serie Machin")
+#https://es.wikipedia.org/wiki/Machin_(filatelia)
+PAGE_TEXT_CENTRE (TN 10 "Fotograbado / 15 x 14")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (21 24  "imagenes/RU/658.13.1.jpg"  ""    "Mi658.13.1 Yt733c SgX873a\n21x24 / 6½ Peniques"    "")
+STAMP_HEADING (TN 10 "26-01-1977")
+#STAMP_ADD_IMG (21 24  "imagenes/RU/658.13.2.jpg"  ""    "Mi658.13.2 Yt733b SgX873\n21x24 / 6½ Peniques"    "")
+#STAMP_HEADING (TN 10 "26-01-1977")
+STAMP_ADD_IMG (21 24  "imagenes/RU/667.13.1.jpg"  ""    "Mi667.13.1 Yt734c SgX876a\n21x24 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "26-01-1977")
+#STAMP_ADD_IMG (21 24  "imagenes/RU/667.13.4.jpg"  ""    "Mi667.13.4 Yt734b SgX876\n21x24 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "13-06-1977")
+#STAMP_ADD_IMG (21 24  "imagenes/RU/667.14.1.jpg"  ""    "Mi667.14.1 Yt734a SgX875\n21x24 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "13-06-1977")
+STAMP_ADD_IMG (21 24  "imagenes/RU/731y.jpg"  ""    "Mi731y SnMH159 Yt821 SgX921\n21x24 / 50 Peniques"    "")
+STAMP_HEADING (TN 10 "02-02-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 41  "imagenes/RU/732.jpg"  ""    "Mi732 SnMH169 Yt822 Sg1026\n30x41 / 1 Libra esterlina"    "")
+STAMP_HEADING (TN 10 "02-02-1977")
+STAMP_ADD_IMG (30 41  "imagenes/RU/733.jpg"  ""    "Mi733 SnMH175 Yt823 Sg1027\n30x41 / 2 Libras esterlinas"    "")
+STAMP_HEADING (TN 10 "02-02-1977")
+STAMP_ADD_IMG (30 41  "imagenes/RU/734.jpg"  ""    "Mi734 SnMH176 Yt824 Sg1028\n30x41 / 5 Libras esterlinas"    "")
+STAMP_HEADING (TN 10 "02-02-1977")
+
+
+PAGE_START
+
+PAGE_VSPACE (2.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario del Real Instituto de Química")
+PAGE_TEXT_CENTRE (TN 14 "Premios Nobel")
+PAGE_TEXT_CENTRE (TN 10 "02-03-1977\nFotograbado / 14¾ x 14¼")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/735.jpg"  ""    "Mi735 Sn806 Yt825 Sg1029\n41x30 / 8½ Peniques"    "")
+STAMP_HEADING (TN 10 "Esteroides: Análisis conformacional\nDerek Barton, 1969")
+#https://es.wikipedia.org/wiki/Derek_Barton
+#https://es.wikipedia.org/wiki/Fisicoqu%C3%ADmica_org%C3%A1nica#An%C3%A1lisis_conformacional
+STAMP_ADD_IMG (41 30  "imagenes/RU/736.jpg"  ""    "Mi736 Sn807 Yt826 Sg1030\n41x30 / 10 Peniques"    "")
+STAMP_HEADING (TN 10 "Vitamina C: Síntesis\nWalter Norman Haworth, 1937")
+#https://es.wikipedia.org/wiki/Walter_Norman_Haworth
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/737.jpg"  ""    "Mi737 Sn808 Yt827 Sg1031\n41x30 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "Almidón: Cromatografía\nArcher Martin y Richard Synge, 1952")
+#https://en.wikipedia.org/wiki/Archer_Martin
+#https://en.wikipedia.org/wiki/Richard_Laurence_Millington_Synge
+#https://es.wikipedia.org/wiki/Cromatograf%C3%ADa
+STAMP_ADD_IMG (41 30  "imagenes/RU/738.jpg"  ""    "Mi738 Sn809 Yt828 Sg1032\n41x30 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "Sal: Cristalografía de rayos X\nWilliam Henry Bragg y William Lawrence Bragg, 1915")
+#https://es.wikipedia.org/wiki/William_Henry_Bragg
+#https://es.wikipedia.org/wiki/William_Lawrence_Bragg
+#https://es.wikipedia.org/wiki/Cristalograf%C3%ADa_de_rayos_X
+
+PAGE_VSPACE (2.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Jubileo de plata de la Reina Isabel II")
+PAGE_TEXT_CENTRE (TN 14 "Monograma ER (Elisabeth Regina)")
+PAGE_TEXT_CENTRE (TN 10 "Fotograbado / 14¾ x 14¼")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/739.jpg"  ""    "Mi739 Sn810 Yt829 Sg1033\n41x30 / 8½ Peniques"    "")
+STAMP_HEADING (TN 10 "11-05-1977")
+STAMP_ADD_IMG (41 30  "imagenes/RU/740.jpg"  ""    "Mi740 Sn811 Yt829A Sg1034\n41x30 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "15-06-1977")
+STAMP_ADD_IMG (41 30  "imagenes/RU/741.jpg"  ""    "Mi741 Sn812 Yt830 Sg1035\n41x30 / 10 Peniques"    "")
+STAMP_HEADING (TN 10 "11-05-1977")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/742.jpg"  ""    "Mi742 Sn813 Yt831 Sg1036\n41x30 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "11-05-1977")
+STAMP_ADD_IMG (41 30  "imagenes/RU/743.jpg"  ""    "Mi743 Sn814 Yt832 Sg1037\n41x30 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "11-05-1977")
+
+
+
+PAGE_START
+
+PAGE_VSPACE (10.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Reunión de Jefes de Gobierno de la Mancomunidad de Naciones\nCHOGM'77\nLondres, del 8 al 15 de junio de 1977")
+#https://es.wikipedia.org/wiki/Reuni%C3%B3n_de_Jefes_de_Gobierno_de_la_Mancomunidad_de_Naciones
+PAGE_TEXT_CENTRE (TN 10 "08-06-1977\nFotograbado / 14¼ x 14¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 41  "imagenes/RU/744.jpg"  ""    "Mi744 Sn815 Yt833 Sg1038\n30x41 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 " Peter Murdoch, 'Gathering of Nations'")
+
+PAGE_VSPACE (10.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Fauna británica")
+PAGE_TEXT_CENTRE (TN 10 "05-11-1977\nFotograbado / 14¼ x 14¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 41  "imagenes/RU/745.jpg"  ""    "Mi745 Sn816 Yt835 Sg1039\n30x41 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "Erizo común\n(Erinaceus europaeus)")
+# https://es.wikipedia.org/wiki/Erinaceus_europaeus
+STAMP_ADD_IMG (30 41  "imagenes/RU/746.jpg"  ""    "Mi746 Sn817 Yt836 Sg1040\n30x41 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "Liebre de El Cabo\n(Lepus capensis)")
+# https://es.wikipedia.org/wiki/Lepus_capensis
+STAMP_ADD_IMG (30 41  "imagenes/RU/747.jpg"  ""    "Mi747 Sn818 Yt837 Sg1041\n30x41 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "Ardilla roja\n(Sciurus vulgaris)")
+# https://es.wikipedia.org/wiki/Sciurus_vulgaris
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 41  "imagenes/RU/748.jpg"  ""    "Mi748 Sn819 Yt838 Sg1042\n30x41 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 "Nutria europea de río\n(Lutra lutra)")
+#https://es.wikipedia.org/wiki/Lutra_lutra
+STAMP_ADD_IMG (30 41  "imagenes/RU/749.jpg"  ""    "Mi749 Sn820 Yt839 Sg1043\n30x41 / 9 Peniques"    "")
+STAMP_HEADING (TN 10 " Tejón europeo\n(Meles meles)")
+#https://es.wikipedia.org/wiki/Meles_meles
+
+#STAMP_ADD_IMG (149 41  "imagenes/RU/745-749.jpg"  ""    "Mi745-749 Sn820a Yt835-839 Sg1039a\n149x41 / 9 Peniques"    "")
+
+PAGE_START
+
+PAGE_VSPACE (5.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad 1977")
+PAGE_TEXT_CENTRE (TN 14 "The Twelve Days of Christmas\n(Villancico tradicional)")
+# https://es.wikipedia.org/wiki/The_Twelve_Days_of_Christmas
+PAGE_TEXT_CENTRE (TN 10 "23-11-1977\nFotograbado / 14¾ x 14¼")
+#PAGE_VSPACE (5.0)
+PAGE_TEXT_CENTRE (TN 12 "On the first day of Christmas my true love sent to me...")
+PAGE_TEXT_CENTRE (TI 12 "En el primer día de Navidad, mi amor verdadero me envió...")
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+PAGE_TEXT_RIGHT(TN 12 "A partridge in a pear tree\n"\
+			"Two turtle doves\n"\
+			"Three French hens\n"\
+			"Four calling birds\n"\
+			"Five gold rings\n"\
+			"Six geese a-laying")
+PAGE_COLUMN_NEXT
+PAGE_TEXT(TI 12 "Una perdiz en un peral\n"\
+			"Dos tórtolas\n"\
+			"Tres gallinas francesas\n"\
+			"Cuatro pájaros piando\n"\
+			"Cinco anillos de oro\n"\
+			"Seis ocas empollando") 
+PAGE_COLUMN_STOP
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/750.jpg"  ""    "Mi750 Sn821 Yt840 Sg1044\n41x30 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "A partridge in a pear tree / Una perdiz en un peral\nTwo turtle doves / Dos tórtolas\nThree French hens / Tres gallinas francesas")
+STAMP_ADD_IMG (41 30  "imagenes/RU/751.jpg"  ""    "Mi751 Sn822 Yt841 Sg1045\n41x30 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "Four calling birds / Cuatro pájaros piando\nFive gold rings / Cinco anillos de oro\nSix geese a-laying / Seis ocas empollando")
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+PAGE_TEXT_RIGHT(TN 12 "Seven swans a-swimming\n"\
+			"Eight maids a-milking\n"\
+			"Nine drummers drumming\n"\
+			"Ten pipers piping\n"\
+			"Eleven ladies dancing\n"\
+			"Twelve lords a-leaping")
+PAGE_COLUMN_NEXT
+PAGE_TEXT(TI 12 "Siete cisnes nadando\n"\
+			"Ocho sirvientas ordeñando\n"\
+			"Nueve tamborreros tocando el tambor\n"\
+			"Diez gaiteros tocando la gaita\n"\
+			"Once damas danzando\n"\
+			"Doce señores saltando") 
+PAGE_COLUMN_STOP
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/752.jpg"  ""    "Mi752 Sn823 Yt842 Sg1046\n41x30 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "Seven swans a-swimming / Siete cisnes nadando\nEight maids a-milking / Ocho sirvientas ordeñando")
+STAMP_ADD_IMG (41 30  "imagenes/RU/753.jpg"  ""    "Mi753 Sn824 Yt843 Sg1047\n41x30 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "Nine drummers drumming / Nueve tamborreros tocando\nTen pipers piping / Diez gaiteros tocando")
+STAMP_ADD_IMG (41 30  "imagenes/RU/754.jpg"  ""    "Mi754 Sn825 Yt844 Sg1048\n41x30 / 7 Peniques"    "")
+#STAMP_HEADING (TN 10 "Eleven ladies dancing / Once damas danzando\nTwelve lords a-leaping / Doce señores saltando")
+
+PAGE_VSPACE (10.0)                       # some vertical spacing
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+PAGE_TEXT_RIGHT(TN 12 "A partridge in a pear tree")
+PAGE_COLUMN_NEXT
+PAGE_TEXT(TI 12 "Una perdiz en un peral") 
+PAGE_COLUMN_STOP
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (41 30  "imagenes/RU/755.jpg"  ""    "Mi755 Sn826 Yt845 Sg1049\n41x30 / 9 Peniques"    "")
+#STAMP_HEADING (TN 10 "Una perdiz en un peral")
+
+#PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+#PAGE_TEXT(TN 12 "On the first day of Christmas my true love sent to me\nA partridge in a pear tree")
+#PAGE_TEXT(TN 12 "On the second day of Christmas my true love sent to me\nTwo turtle doves,\nAnd a partridge in a pear tree.")
+#PAGE_TEXT(TN 12 "On the third day of Christmas my true love sent to me\nThree French hens,\nTwo turtle doves,\nAnd a partridge in a pear tree.")
+#PAGE_COLUMN_NEXT
+#PAGE_TEXT(TN 12 "Y continúa siguiendo el mismo esquema:")
+#PAGE_TEXT(TN 12 "Four calling birds\nFive gold rings\nSix geese a-laying\nSeven swans a-swimming\nEight maids a-milking\nNine drummers drumming\nTen pipers piping\nEleven ladies dancing\nTwelve lords a-leaping") 
+#PAGE_COLUMN_STOP
