@@ -64,7 +64,7 @@ PAGE_START
 
 PAGE_VSPACE (20.0)                       # some vertical spacing
 
-PAGE_TEXT_CENTRE (TN 16 "25º aniversario del reinado de Isabel II")
+PAGE_TEXT_CENTRE (TN 16 "Jubileo de plata del ascenso al trono de la Reina Isabel II")
 PAGE_TEXT_CENTRE (TN 14 "Armas reales y escudo de Gibraltar")
 PAGE_TEXT_CENTRE (TN 10 "07-02-1977\nLitografía offset / 13¼")
 PAGE_VSPACE (5.0)

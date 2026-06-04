@@ -141,7 +141,7 @@ STAMP_HEADING (TN 10 "Sal: Cristalografía de rayos X\nWilliam Henry Bragg y Wil
 
 PAGE_VSPACE (2.0)                       # some vertical spacing
 
-PAGE_TEXT_CENTRE (TN 16 "Jubileo de plata de la Reina Isabel II")
+PAGE_TEXT_CENTRE (TN 16 "Jubileo de plata del ascenso al trono de la Reina Isabel II")
 PAGE_TEXT_CENTRE (TN 14 "Monograma ER (Elisabeth Regina)")
 PAGE_TEXT_CENTRE (TN 10 "Fotograbado / 14¾ x 14¼")
 #PAGE_VSPACE (5.0)
