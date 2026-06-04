@@ -1,0 +1,158 @@
+################################################################################
+# AlbumEasy file: Guernsey_1977.txt
+# Generated:      20:51, lu. jun. 01, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Guernsey 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "Guernsey - 1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Bailía de Guernsey")
+PAGE_TEXT_CENTRE (TN 35 "Dependencia de la Corona británica")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Bailiwick of Guernsey")
+PAGE_TEXT_CENTRE (TI 25 "Crown Dependency of the United Kingdom")
+
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Guernsey/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Guernsey/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Guernsey/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_VSPACE (15.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Jubileo de plata del ascenso al trono de la Reina Isabel II")
+PAGE_TEXT_CENTRE (TN 10 "08/02/1977\nFotograbado / 11¾ x 11½")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.3 48.7  "imagenes/Guernsey/145.jpg"  ""    "Mi145 Sn145 Yt140 Sg149\n29.3x48.7 / 7 Peniques"    "")
+STAMP_ADD_IMG (29.3 48.7  "imagenes/Guernsey/146.jpg"  ""    "Mi146 Sn146 Yt141 Sg150\n29.3x48.7 / 35 Peniques"    "")
+
+PAGE_VSPACE (15.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Monumentos prehistóricos")
+PAGE_TEXT_CENTRE (TN 10 "02-08-1977\nFotograbado / 11¾ x 11½ / 11½ x 11¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (48.7 29.3  "imagenes/Guernsey/150.jpg"  ""    "Mi150 Sn150 Yt145 Sg154\n48.7x29.3 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "Tumba\nDolmen Le Trepied (Le Catioroc)")
+# http://www.megalithicguernsey.co.uk/le_trepied_dolmen/
+PAGE_VSPACE (-35.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.3 48.7  "imagenes/Guernsey/149.jpg"  ""    "Mi149 Sn149 Yt144 Sg153\n29.3x48.7 / 5 Peniques"    "")
+STAMP_HEADING (TN 10 "Menhir\nEstatua (Castel)")
+# http://www.megalithicguernsey.co.uk/castel-church-statue-menhir/
+STAMP_ADD_BLANK (48.7 29.3)
+STAMP_ADD_IMG (29.3 48.7  "imagenes/Guernsey/152.jpg"  ""    "Mi152 Sn152 Yt147 Sg156\n29.3x48.7 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "Menhir\nLa Gran’mère du Chimquière (St. Martin)")
+# https://en.wikipedia.org/wiki/La_Gran'_M%C3%A8re_de_Chimquiere
+# http://www.megalithicguernsey.co.uk/la-granmere-du-chimquiere/
+PAGE_VSPACE (-35.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (48.7 29.3  "imagenes/Guernsey/151.jpg"  ""    "Mi151 Sn151 Yt146 Sg155\n48.7x29.3 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "Cista\nRoc à L’Epine (Tourgis)")
+#https://www.visitguernsey.com/experiences/activities/roc-a-l-epine/
+# https://es.wikipedia.org/wiki/Cista
+
+
+PAGE_START
+
+PAGE_VSPACE (10.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Europa C.E.P.T. 1977")
+PAGE_TEXT_CENTRE (TN 14 "Paisajes: Valle de Talbot")
+PAGE_TEXT_CENTRE (TN 10 "17-05-1977\nFotograbado / 11½ x 11¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (48.7 29.3  "imagenes/Guernsey/147.jpg"  ""    "Mi147 Sn147 Yt142 Sg151\n48.7x29.3 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "Bosques")
+STAMP_ADD_IMG (48.7 29.3  "imagenes/Guernsey/148.jpg"  ""    "Mi148 Sn148 Yt143 Sg152\n48.7x29.3 / 25 Peniques"    "")
+STAMP_HEADING (TN 10 "Pastos")
+
+PAGE_VSPACE (10.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad	")
+PAGE_TEXT_CENTRE (TN 14 "Centenario de St. John Ambulance")
+# https://en.wikipedia.org/wiki/St_John_Ambulance
+PAGE_TEXT_CENTRE (TN 10 "25-10-1977\nFotograbado / 11½ x 11¾ / 11¾ x 11½")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (48.7 29.3  "imagenes/Guernsey/153.jpg"  ""    "Mi153 Sn153 Yt148 Sg157\n48.7x29.3 / 5 Peniques"    "")
+STAMP_HEADING (TN 10 "\nServicio voluntario")
+STAMP_ADD_IMG (48.7 29.3  "imagenes/Guernsey/154.jpg"  ""    "Mi154 Sn154 Yt149 Sg158\n48.7x29.3 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "Unidad móvil de radar y coordinación de rescate\n(Land-Rover Series IIA)")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (29.3 48.7  "imagenes/Guernsey/155.jpg"  ""    "Mi155 Sn155 Yt150 Sg159\n29.3x48.7 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "Rescate marítimo\n(lancha Flying Christie II)")
+# https://guernseypress.com/news/2021/04/15/flying-christine-ii-faces-the-scrapheap-if-not-removed-from-castle-emplacement/
+STAMP_ADD_IMG (29.3 48.7  "imagenes/Guernsey/156.jpg"  ""    "Mi156 Sn156 Yt151 Sg160\n29.3x48.7 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "\nRescate en acantilados")
+
+
+PAGE_START
+
+PAGE_VSPACE (20.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Portes debidos")
+PAGE_TEXT_CENTRE (TN 14 "Saint Peter Port, capital de Guernsey")
+PAGE_TEXT_CENTRE (TN 10 "02-08-1977\nFotograbado / 13¼ x 13")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P18.jpg"  ""    "MiP18 SnJ18 YtT18 SgD18\n36.5x26.5 / ½ Penique"    "")
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P19.jpg"  ""    "MiP19 SnJ19 YtT19 SgD19\n36.5x26.5 / 1 Penique"    "")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P20.jpg"  ""    "MiP20 SnJ20 YtT20 SgD20\n36.5x26.5 / 2 Peniques"    "")
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P21.jpg"  ""    "MiP21 SnJ21 YtT21 SgD21\n36.5x26.5 / 3 Peniques"    "")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P22.jpg"  ""    "MiP22 SnJ22 YtT22 SgD22\n36.5x26.5 / 4 Peniques"    "")
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P23.jpg"  ""    "MiP23 SnJ23 YtT23 SgD23\n36.5x26.5 / 5 Peniques"    "")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P24.jpg"  ""    "MiP24 SnJ24 YtT24 SgD24\n36.5x26.5 / 6 Peniques"    "")
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P25.jpg"  ""    "MiP25 SnJ25 YtT25 SgD25\n36.5x26.5 / 8 Peniques"    "")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P26.jpg"  ""    "MiP26 SnJ26 YtT26 SgD26\n36.5x26.5 / 10 Peniques"    "")
+STAMP_ADD_IMG (36.5 26.5  "imagenes/Guernsey/P27.jpg"  ""    "MiP27 SnJ27 YtT27 SgD27\n36.5x26.5 / 15 Peniques"    "")
+
+
