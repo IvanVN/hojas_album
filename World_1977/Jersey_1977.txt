@@ -1,0 +1,148 @@
+################################################################################
+# AlbumEasy file: Jersey_1977.txt
+# Generated:      20:31, sa. jun. 06, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Jersey 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "Jersey - 1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "Bailía de Jersey")
+PAGE_TEXT_CENTRE (TN 35 "Dependencia de la Corona británica")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Bailiwick of Jersey")
+PAGE_TEXT_CENTRE (TI 25 "Crown Dependency of the United Kingdom")
+
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Jersey/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Jersey/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Jersey/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_VSPACE (20.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Jubileo de plata del ascenso al trono de la Reina Isabel II")
+PAGE_TEXT_CENTRE (TN 10 "07/02/1977\nFotograbado / 11½ x 11¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (34.8 41.5  "imagenes/Jersey/157.jpg"  ""    "Mi157 Sn168 Yt151 Sg168\n34.8x41.5 / 5 Peniques"    "")
+STAMP_HEADING (TN 10 "Coronación, 1953\n(Fotografía de Cecil Beaton)")
+STAMP_ADD_IMG (34.8 41.5  "imagenes/Jersey/158.jpg"  ""    "Mi158 Sn169 Yt152 Sg169\n34.8x41.5 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "\nVisita a Jersey, 1957")
+STAMP_ADD_IMG (34.8 41.5  "imagenes/Jersey/159.jpg"  ""    "Mi159 Sn170 Yt153 Sg170\n34.8x41.5 / 25 Peniques"    "")
+STAMP_HEADING (TN 10 "Retrato, 1976\n(Fotografía de Peter Grugeon)")
+
+PAGE_VSPACE (15.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario de la reforma monetaria de Jersey")
+PAGE_TEXT_CENTRE (TN 10 "25/03/1977\nLitografía offset / 14")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (42.7 28.6  "imagenes/Jersey/160.jpg"  ""    "Mi160 Sn171 Yt154 Sg171\n42.7x28.6 / 5 Peniques"    "")
+STAMP_HEADING (TN 10 "Anverso de 1/13 de Chelín (1871)\nReverso de 1/12 de Chelín (1877)")
+STAMP_ADD_IMG (42.7 28.6  "imagenes/Jersey/161.jpg"  ""    "Mi161 Sn172 Yt155 Sg172\n42.7x28.6 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "\nAnverso y reverso de 1/12 de Chelín (1949)")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (42.7 28.6  "imagenes/Jersey/162.jpg"  ""    "Mi162 Sn173 Yt156 Sg173\n42.7x28.6 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "Anverso y reverso de una Corona de plata (1966)")
+STAMP_ADD_IMG (42.7 28.6  "imagenes/Jersey/163.jpg"  ""    "Mi163 Sn174 Yt157 Sg174\n42.7x28.6 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "Anverso y reverso de 2 Libras (1972)")
+
+PAGE_START
+
+PAGE_VSPACE (15.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario de St. John Ambulance")
+# https://en.wikipedia.org/wiki/St_John_Ambulance
+PAGE_TEXT_CENTRE (TN 10 "24/06/1977\nLitografía offset / 14 x 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (47.3 29.3  "imagenes/Jersey/164.jpg"  ""    "Mi164 Sn175 Yt158 Sg175\n47.3x29.3 / 5 Peniques"    "")
+STAMP_HEADING (TN 10 "Sir William Weston\nÚltimo Prior de los Caballeros Hospitalarios\nCarraca Santa Anna (1530)")
+# https://en.wikipedia.org/wiki/William_Weston_(prior)
+# https://es.wikipedia.org/wiki/Santa_Anna_(1522)
+STAMP_ADD_IMG (47.3 29.3  "imagenes/Jersey/165.jpg"  ""    "Mi165 Sn176 Yt159 Sg176\n47.3x29.3 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "Sir William Drogo\nGran Prior de la Orden de San Juan\nAmbulancia tirada por caballos (1877)")
+# https://en.wikipedia.org/wiki/William_Montagu%2C_7th_Duke_of_Manchester
+# https://en.wikipedia.org/wiki/Order_of_Saint_John_(chartered_1888)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (47.3 29.3  "imagenes/Jersey/166.jpg"  ""    "Mi166 Sn177 Yt160 Sg177\n47.3x29.3 / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "S.A.R. el principe Arthur, duque de Connaught\nGran Prior de la Orden de San Juan\nPrimeras ambulancias motorizadas (1917)")
+# https://en.wikipedia.org/wiki/Prince_Arthur,_Duke_of_Connaught_and_Strathearn
+STAMP_ADD_IMG (47.3 29.3  "imagenes/Jersey/167.jpg"  ""    "Mi167 Sn178 Yt161 Sg178\n47.3x29.3 / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "S.A.R. el príncipe Ricardo, duque de Gloucester\nGran Prior de la Orden de San Juan\nServicio médico (1977)")
+# https://es.wikipedia.org/wiki/Ricardo_de_Gloucester
+
+PAGE_VSPACE (15.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica")
+PAGE_TEXT_CENTRE (TN 14 "Reina Isabel II")
+PAGE_TEXT_CENTRE (TN 10 "16/11/1977\nFotograbado / 12")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30.3 45.3  "imagenes/Jersey/172.jpg"  ""    "Mi172 Sn155 Yt166 Sg155\n30.3x45.3 / 2 Libras"    "")
+
+PAGE_START
+
+PAGE_VSPACE (15.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "125 aniversario del Victoria College de Jersey")
+# https://en.wikipedia.org/wiki/Victoria_College%2C_Jersey
+PAGE_TEXT_CENTRE (TN 10 "29/09/1977\nLitografía offset / 14½ x 14¼")
+PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (44.7 28.2  "imagenes/Jersey/168.jpg"  ""    "Mi168 Sn179 Yt162 Sg179\n44.7x28.2 / 7 Peniques"    "")
+STAMP_HEADING (TN 10 "Llegada de la reina Victoria y el príncipe Albert a la isla, 1846")
+STAMP_ADD_IMG (44.7 28.2  "imagenes/Jersey/169.jpg"  ""    "Mi169 Sn180 Yt163 Sg180\n44.7x28.2 / 10½ Peniques"    "")
+STAMP_HEADING (TN 10 "Victoria College, 1852")
+PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28.3 44.7   "imagenes/Jersey/170.jpg"  ""    "Mi170 Sn181 Yt164 Sg181\n28.3x44.7  / 11 Peniques"    "")
+STAMP_HEADING (TN 10 "Estatua de Sir Galahad, 1924")
+# https://es.wikipedia.org/wiki/Galahad
+STAMP_ADD_IMG (28.3 44.7   "imagenes/Jersey/171.jpg"  ""    "Mi171 Sn182 Yt165 Sg182\n28.3x44.7  / 13 Peniques"    "")
+STAMP_HEADING (TN 10 "Salón universitario, 1977")
