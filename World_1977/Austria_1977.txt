@@ -1,0 +1,316 @@
+################################################################################
+# AlbumEasy file: Austria_1977.txt
+# Generated:      10:19, do. jun. 07, 2026
+# ------------------------------------------------------------------------------
+#
+# Author: Ivan Villaverde
+# License: CC Attribution-NonCommercial 4.0 International
+#
+################################################################################
+
+
+# ------------------------------------------------------------------------------
+# Setup page elements that are common to all pages in this album.
+# ------------------------------------------------------------------------------
+
+ALBUM_TITLE ("Austria 1977")
+ALBUM_AUTHOR ("Ivan Villaverde")
+
+ALBUM_PAGES_SIZE     (210.0 297.0)         #Set the album page size to A4
+#ALBUM_PAGES_MARGINS  (15.0 15.0 15.0 15.0) #left, right, top and bottom page margins
+ALBUM_PAGES_MARGINS  (10.0 10.0 10.0 10.0) #left, right, top and bottom page margins
+ALBUM_PAGES_BORDER   (0.1 0.5 0.1 1.0)     #triple line border around the page
+#ALBUM_PAGES_DECORATIVE_BORDER("Classic.txt")
+ALBUM_PAGES_SPACING  (1.0 4.0)             #set horizontal & vertical spacing for elements on a page
+                                       
+ALBUM_PAGES_HEADER (TB 10 C "Austria - 1977")
+ALBUM_PAGES_FOOTER_NUMBER (TB 10 C 1 "" " de $PAGES$")
+
+ROW_ALIGN_MIDDLE
+
+STAMP_BOXES_SIZE_ADJUST(4.0)
+ALBUM_STAMP_IMG_SETTING (4.0 4.0 false)
+
+PAGE_START
+
+PAGE_TEXT_CENTRE(HN  30 "")                       # some vertical spacing
+PAGE_TEXT_CENTRE (TN 40 "República de Austria")
+PAGE_TEXT_CENTRE (TN 30 "1977")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TI 30 "Republik Österreich")
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+#ALBUM_STAMP_IMG_SETTING (0 0 false)      # images will be drawn with no space between the frame and the image
+ROW_START_FS (HN 6 0.1 6.0)
+ALBUM_STAMP_IMG_ASPECT_RATIO (true) 
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Austria/bandera.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (70 15.0) 
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+STAMP_ADD_IMG (60.0 36.0  "imagenes/Austria/escudo.png"  ""    ""    ""  NO_FRAME)
+#STAMP_ADD_BLANK (4 15.0) # Empty space to center coat of arms to match banner width
+
+PAGE_TEXT_CENTRE(HN  15 "")                       # some vertical spacing
+
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (100.0 100.0  "imagenes/Austria/mapa.png"  ""    ""    ""  NO_FRAME)
+
+
+PAGE_START
+
+# First page heading
+
+PAGE_VSPACE (3.0)                       # some vertical spacing
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_TEXT_CENTRE (TN 16 "250 aniversario del nacimiento de\nNikolaus Joseph von Jacquin (1727-1817)\nBotánico")
+# https://es.wikipedia.org/wiki/Nikolaus_Joseph_von_Jacquin
+PAGE_TEXT_CENTRE (TN 10 "16/02/1977\nRebaje / 14½ x 13¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 39  "imagenes/Austria/1540.jpg"  ""    "Mi1540 Sn1051 Yt1369 Sg1777\n30x39 / 4 Chelines"    "")
+#STAMP_HEADING (TN 10 "Coronación, 1953\n(Fotografía de Cecil Beaton)")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "600 aniversario del nacimiento de\nOswald von Wolkenstein (1377-1445)\nPoeta y compositor")
+# https://es.wikipedia.org/wiki/Oswald_von_Wolkenstein
+PAGE_TEXT_CENTRE (TN 10 "16/02/1977\nFotograbado y Rebaje / 14")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35 35  "imagenes/Austria/1541.jpg"  ""    "Mi1541 Sn1052 Yt1370 Sg1778\n35x35 / 3 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_VSPACE (3.0)                       # some vertical spacing
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_VSPACE (10.0)
+PAGE_TEXT_CENTRE (TN 16 "Campeonato del mundo de balonmano, Grupo B")
+# https://es.wikipedia.org/wiki/Oswald_von_Wolkenstein
+PAGE_TEXT_CENTRE (TN 10 "25/02/1977\nFotograbado / 13¾ x 14½")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (39 30  "imagenes/Austria/1542.jpg"  ""    "Mi1542 Sn1053 Yt1371 Sg1779\n39x30 / 1.5 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario del nacimiento de\nAlfred Kubin (1877-1959)\nPintor y artista gráfico")
+# https://es.wikipedia.org/wiki/Alfred_Kubin
+PAGE_TEXT_CENTRE (TN 10 "12/04/1977\nRebaje / 14½ x 13¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 39  "imagenes/Austria/1543.jpg"  ""    "Mi1543 Sn1054 Yt1372 Sg1780\n30x39 / 6 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_VSPACE (3.0)                       # some vertical spacing
+
+PAGE_TEXT_CENTRE (TN 16 "Catedral de San Esteban (Stephansdom), Viena")
+# https://es.wikipedia.org/wiki/Catedral_de_San_Esteban_(Viena)
+PAGE_TEXT_CENTRE (TN 10 "22/04/1977\nRebaje / 13¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35 45  "imagenes/Austria/1544.jpg"  ""    "Mi1544 Sn1055 Yt1373 Sg1781\n35x45 / 2.5 Chelines"    "")
+STAMP_HEADING (TN 10 "Pináculos y tracería, torre principal")
+STAMP_ADD_IMG (35 45  "imagenes/Austria/1545.jpg"  ""    "Mi1545 Sn1056 Yt1374 Sg1782\n35x45 / 3 Chelines"    "")
+STAMP_HEADING (TN 10 "Torre románica y frontón de Federico")
+STAMP_ADD_IMG (35 45  "imagenes/Austria/1546.jpg"  ""    "Mi1546 Sn1057 Yt1375 Sg1783\n35x45 / 3 Chelines"    "")
+STAMP_HEADING (TN 10 "Interior de la nave")
+
+
+PAGE_START
+
+PAGE_VSPACE (10.0)
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_VSPACE (6.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Centenario del nacimiento de\nFritz von Herzmanovsky-Orlando (1877-1954)\nEscritor y dibujante")
+# https://es.wikipedia.org/wiki/Fritz_von_Herzmanovsky-Orlando
+PAGE_TEXT_CENTRE (TN 10 "29/04/1977\nFotograbado y Rebaje / 13¾ x 14½")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (39 30  "imagenes/Austria/1547.jpg"  ""    "Mi1547 Sn1058 Yt1376 Sg1784\n39x30 / 6 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "20 años del Organismo Internacional de Energía Atómica (IAEA)")
+PAGE_TEXT_CENTRE (TN 14 "Logo de la IAEA")
+# https://es.wikipedia.org/wiki/Organismo_Internacional_de_Energ%C3%ADa_At%C3%B3mica
+PAGE_TEXT_CENTRE (TN 10 "02/05/1977\nFotograbado / 14")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 35  "imagenes/Austria/1548.jpg"  ""    "Mi1548 Sn1059 Yt1377 Sg1785\n30x35 / 3 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_VSPACE (10.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Serie básica")
+PAGE_TEXT_CENTRE (TN 14 "La hermosa Austria")
+PAGE_TEXT_CENTRE (TN 10 "Fotograbado y Rebaje / 13¾ x 14")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28 33  "imagenes/Austria/1549.jpg"  ""    "Mi1549 Sn968 Yt1378 Sg1684a\n28x33 / 6.5 Chelines"    "")
+STAMP_HEADING (TN 10 "12/05/1977\nVillach-Perau\n(Kärnten)")
+# https://de.wikipedia.org/wiki/Perau_(Villach)
+STAMP_ADD_IMG (28 33  "imagenes/Austria/1550.jpg"  ""    "Mi1550 Sn970 Yt1379 Sg1685a\n28x33 / 7.5 Chelines"    "")
+STAMP_HEADING (TN 10 "03/06/1977\nFortaleza de Hohensalzburg\n(Salzburgo)")
+# https://es.wikipedia.org/wiki/Fortaleza_de_Hohensalzburg
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (28 33  "imagenes/Austria/1551.jpg"  ""    "Mi1551 Sn974 Yt1380 Sg1688a\n28x33 / 16 Chelines"    "")
+STAMP_HEADING (TN 10 "10/10/1977\nMuseo al aire libre de Bad Tatzmannsdorf\n(Burgenland)")
+# https://de.wikipedia.org/wiki/Freilichtmuseum_Bad_Tatzmannsdorf
+STAMP_ADD_IMG (28 33  "imagenes/Austria/1565.jpg"  ""    "Mi1565 Sn975 Yt1381 Sg1688d\n28x33 / 20 Chelines"    "")
+STAMP_HEADING (TN 10 "07/12/1977\nCascadas de Myrafälle\nMuggendorf (Baja Austria)")
+# https://es.wikipedia.org/wiki/Myraf%C3%A4lle
+
+PAGE_START
+
+PAGE_VSPACE (2.0)
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_TEXT_CENTRE (TN 16 "350 aniversario de Schwanenstadt, Alta Austria")
+# https://es.wikipedia.org/wiki/Schwanenstadt
+PAGE_TEXT_CENTRE (TN 10 "10/06/1977\nFotograbado / 14½ x 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 39  "imagenes/Austria/1552.jpg"  ""    "Mi1552 Sn1060 Yt1382 Sg1786\n30x39 / 3 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "Europa C.E.P.T. 1977")
+PAGE_TEXT_CENTRE (TN 14 "Paisajes: Lago Atter")
+# https://es.wikipedia.org/wiki/Lago_Atter
+PAGE_TEXT_CENTRE (TN 10 "10/06/1977\nRebaje / 14")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (50 32  "imagenes/Austria/1553.jpg"  ""    "Mi1553 Sn1061 Yt1383 Sg1787\n50x32 / 6 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_VSPACE (2.0)
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_VSPACE (20.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Campeonato mundial de descenso de aguas bravas")
+# https://es.wikipedia.org/wiki/Descenso_de_aguas_bravas
+PAGE_TEXT_CENTRE (TN 10 "15/07/1977\nFotograbado / 13¾ x 14¼")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (39 30  "imagenes/Austria/1555.jpg"  ""    "Mi1555 Sn1063 Yt1385 Sg1789\n39x30 / 4 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "50 años de la Fundación Samaritana de los Trabajadores")
+# https://en.wikipedia.org/wiki/Arbeiter-Samariter-Bund_Deutschland (Alemania)
+PAGE_TEXT_CENTRE (TN 14 "El Buen Samaritano, por David Teniers el Joven (1610-1690) sobre obra de Francesco Bassano (1549-1592)")
+# https://es.wikipedia.org/wiki/David_Teniers_el_Joven
+# https://es.wikipedia.org/wiki/Francesco_Bassano_el_Joven
+PAGE_TEXT_CENTRE (TN 10 "16/09/1977\nFotograbado y rebaje / 13¾ x 14½")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (39 30  "imagenes/Austria/1556.jpg"  ""    "Mi1556 Sn1064 Yt1386 Sg1790\n39x30 / 1.5 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_VSPACE (2.0)
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_VSPACE (2.0)
+
+PAGE_TEXT_CENTRE (TN 16 "5º simposio internacional de la Sociedad Internacional Coronelli para el estudio de los globos terráqueos")
+# https://en.wikipedia.org/wiki/International_Coronelli_Society_for_the_Study_of_Globes
+PAGE_TEXT_CENTRE (TN 14 "Globo terráqueo por Vincenzo Coronelli")
+# https://en.wikipedia.org/wiki/Vincenzo_Coronelli
+PAGE_TEXT_CENTRE (TN 10 "29/06/1977\nFotograbado y rebaje / 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (35 35  "imagenes/Austria/1554.jpg"  ""    "Mi1554 Sn1062 Yt1384 Sg1788\n35x35 / 3 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "XVII Conferencia de la EUCEPA, Viena")
+PAGE_TEXT_CENTRE (TN 14 "Comité Europeo de Enlace para la Industria de la Pasta y el Papel\nEscudo del gremio de papeleros")
+# https://www.eucepa.eu/
+PAGE_TEXT_CENTRE (TN 10 "10/10/1977\nFotograbado y rebaje / 14½ x 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 39  "imagenes/Austria/1557.jpg"  ""    "Mi1557 Sn1065 Yt1387 Sg1791\n30x39 / 3 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_START
+
+PAGE_VSPACE (5.0)
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_VSPACE (11.0)
+
+PAGE_TEXT_CENTRE (TN 16 "A las víctimas de la lucha por la libertad de Austria")
+# Triangulo rojo: el distintivo que los nazis obligaban a llevar a los presos políticos en los campos de concentración.
+# 369: semanas entre el Anschluss en 1938 y la liberación de Austria por los aliados en 1945
+# el conjunto triángulo rojo + 369 se convirtió en un símbolo conmemorativo de la resistencia política austríaca y de las víctimas del nazismo
+# https://kz-verband-wien.at/ueber-uns/verbandsabzeichen/
+PAGE_TEXT_CENTRE (TN 10 "03/11/1977\nFotograbado y Rebaje / 14¼")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33 40  "imagenes/Austria/1558.jpg"  ""    "Mi1558 Sn1066 Yt1388 Sg1792\n33x40 / 2.5 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "Navidad")
+PAGE_TEXT_CENTRE (TN 12 "Nuestra Señora de la Misericordia\ntalla en madera (c. 1470)\nIglesia de la Peregrinación, Mariastein (Tirol)")
+PAGE_TEXT_CENTRE (TN 10 "25/11/1977\nFotograbado y Rebaje / 14½ x 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 39  "imagenes/Austria/1562.jpg"  ""    "Mi1562 Sn1070 Yt1393 Sg1796\n30x39 / 3 Chelines"    "")
+
+PAGE_COLUMN_STOP
+
+PAGE_VSPACE (5.0)
+
+PAGE_TEXT_CENTRE (TN 16 "140 aniversario de los ferrocarriles austriacos")
+PAGE_TEXT_CENTRE (TN 10 "17/11/1977\nFotograbado y Rebaje / 13¾")
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43 27  "imagenes/Austria/1559.jpg"  ""    "Mi1559 Sn1067 Yt1389 Sg1793\n43x27 / 1.5 Chelines"    "")
+STAMP_HEADING(TN 10 "Primera locomotora en Austria\nKFNB Austria (1837)")
+# https://en.wikipedia.org/wiki/KFNB_%E2%80%93_Austria_and_Moravia
+STAMP_ADD_IMG (43 27  "imagenes/Austria/1560.jpg"  ""    "Mi1560 Sn1068 Yt1390 Sg1794\n43x27 / 2.5 Chelines"    "")
+STAMP_HEADING(TN 10 "\nBBÖ clase 214 (1937)")
+# https://en.wikipedia.org/wiki/BB%C3%96_214
+#ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (43 27  "imagenes/Austria/1561.jpg"  ""    "Mi1561 Sn1069 Yt1391 Sg1795\n43x27 / 3 Chelines"    "")
+STAMP_HEADING(TN 10 "\nÖBB clase 1044 (1976)")
+# https://en.wikipedia.org/wiki/%C3%96BB_Class_1044
+
+
+PAGE_VSPACE (5.0)
+
+PAGE_COLUMN_START(50 5.0 5.0 5.0 5.0)
+
+PAGE_VSPACE (7.0)
+
+PAGE_TEXT_CENTRE (TN 16 "Día del sello")
+PAGE_TEXT_CENTRE (TN 12 "Dr. Emanuel Herrmann (1839-1902)\nInventor de la postal")
+# https://en.wikipedia.org/wiki/Emanuel_Herrmann
+PAGE_TEXT_CENTRE (TN 10 "02/12/1977\nFotograbado y Rebaje / 14½ x 13¾")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (30 39  "imagenes/Austria/1563.jpg"  ""    "Mi1563 SnB341 Yt1392 Sg1798\n30x39 / 6+2 Chelines"    "")
+
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (TN 16 "Arte moderno")
+PAGE_TEXT_CENTRE (TN 12 "Das Donaumädchen\n(La muchacha del Danubio)\nWolfgang Hutter (1928-2014)")
+# https://en.wikipedia.org/wiki/Wolfgang_Hutter
+PAGE_TEXT_CENTRE (TN 10 "02/12/1977\nFotograbado y Rebaje / 13¾ x 14")
+#PAGE_VSPACE (5.0)
+ROW_START_ES (HN 6 0.1)
+STAMP_ADD_IMG (33 43  "imagenes/Austria/1564.jpg"  ""    "Mi1564 Sn1071 Yt1394 Sg1797\n33x43 / 6 Chelines"    "")
+
+PAGE_COLUMN_STOP
